@@ -1,6 +1,17 @@
 # Ordinals Collections
 #### A place for creators &amp; builders to organize ordinal collections!
 
+## Contributing
+**Artists**
+
+Format your collection data using the format below to be listed on all platforms using the standard!
+
+**Developers**
+
+1. Add to the registry by creating a pull request including new collections that follow the standard
+2. Use the registry to include all ordinal collections!
+
+
 ## File Structure
 ```
  .
