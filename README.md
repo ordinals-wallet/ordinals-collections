@@ -13,24 +13,66 @@
 ## Collection Metadata `meta.json`
 ```
 {
-  "name": "Ord Bulls",
-  "inscription_icon": "0ce2c125c4141f25aa70e698a6409ea5fd9caaf93fe7a90e635e20a4111d9865i0",
-  "description": "100 total supply",
-  "discord_link": "https://discord.gg/ordinalswallet",
-  "twitter_link": "https://twitter.com/OrdBulls",
-  "slug": "ord-bulls",
-  "highest": 123545,
-  "lowest": 91377
+  "name": "",                    # inscription name
+  "slug": "",                    # directory name
+  "inscription_icon": "",        # collection cover inscription id
+  "description": "",             # collection description
+  "twitter_link": "",            # official twitter
+  "discord_link": "",            # official discord
+  "website_link": ""             # official website
 }
 ```
+
 ## Inscription Data `inscriptions.json`
 ```
 [
   {
-    "id": "c152e499847d5fce644f2f6b4ca650093df21f5544507ef652c83c49f60a7c4ai0",
-    "meta": {
-      "name": "AURORA"
+    "id": "",                    # inscription id
+    "meta": { 
+      "name": ""                 # inscription name
     }
-  }
+  },
+  ...
 ]
 ```
+
+## Expanding Inscription Data
+Collections can be organized using `status` and `rank`
+```
+[
+  {
+    "id": "",
+    "meta": {
+      "name": "",
+      "status": "",               # inscription theme
+      "rank":                     # inscription rarity rank
+    }
+  },
+  ...
+]
+```
+Artists can assign unqiue traits to ordinals with `attributes`
+```
+[
+  {
+    "id": "",
+    "meta": {
+      "status": "",
+      "rank": ,
+      "name": ""
+      "attributes": [
+        {
+          "trait_type": "",        # trait category
+          "value": "",             # trait value
+          "status": "",            # trait theme
+          "percent": ""            # percent of inscriptions in collection with trait
+        },
+        ...
+      ]
+    }
+  },
+  ...
+]
+```
+
+
