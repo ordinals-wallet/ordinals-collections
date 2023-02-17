@@ -25,8 +25,9 @@ Format your collection data using the `inscription.json` and `meta.json` format 
 ```
 {
   "name": "",                    # inscription name
-  "slug": "",                    # directory name
   "inscription_icon": "",        # collection cover inscription id
+  "supply": "",                  # total supply
+  "slug": "",                    # directory name
   "description": "",             # collection description
   "twitter_link": "",            # official twitter
   "discord_link": "",            # official discord
