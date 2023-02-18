@@ -7,7 +7,7 @@
 Collection creators can format their collection data using the `inscription.json` and `meta.json` format below to be listed on all platforms using the standard! 
 
 ***Steps***
-1. Create your meta.json and inscriptions.json files in the format provided below
+1. Create your `inscription.json` and `meta.json` files in the format provided below
 2. Add to the registry by creating a pull request including new collections that follow the standard
 2. Websites can use the registry to include the ordinal collections provided on their websites!
 
