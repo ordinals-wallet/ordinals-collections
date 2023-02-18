@@ -8,10 +8,10 @@ Collection creators can format their collection data using the `inscription.json
 
 All you need to do is create a list of all inscriptions in the format provided below.
 
-***Developers***
-
-1. Add to the registry by creating a pull request including new collections that follow the standard
-2. Use the registry to include all ordinal collections on your site!
+***Steps***
+1. Create your meta.json and inscriptions.json files in the format provided below
+2. Add to the registry by creating a pull request including new collections that follow the standard
+2. Websites can use the registry to include the ordinal collections provided on their websites!
 
 
 ## File Structure
