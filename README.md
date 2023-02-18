@@ -89,7 +89,9 @@ Artists can assign unqiue traits to ordinals with `attributes`
 
 
 
-***Here is an example of a completed collection inscription***
+
+
+##Here is an example of a completed collection inscription
 
 Your meta.json file will look like this:
 ```
