@@ -93,7 +93,16 @@ Artists can assign unqiue traits to ordinals with `attributes`
 
 Your meta.json file will look like this:
 ```
-{"name": "Planetary Ordinals", "inscription_icon": "98da33abe2045ec1421fcf1bc376dea5beb17ded15aa70ca5da490f50d95a6d9i0", "supply": "69", "slug": "planetary-ordinals", "description": "", "twitter_link": "https://twitter.com/ordinalswallet", "discord_link": "https://discord.com/invite/ordinalswallet", "website_link": ""}
+{
+  "name": "Planetary Ordinals",
+  "inscription_icon": "98da33abe2045ec1421fcf1bc376dea5beb17ded15aa70ca5da490f50d95a6d9i0",
+  "supply": "69",
+  "slug": "planetary-ordinals",
+  "description": "",
+  "twitter_link": "https://twitter.com/ordinalswallet",
+  "discord_link": "https://discord.com/invite/ordinalswallet",
+  "website_link": ""
+}
 ```
 
 Your inscriptions.json file will look like this:
