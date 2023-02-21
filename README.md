@@ -16,9 +16,10 @@ Collection creators can format their collection data using the `inscription.json
 ```
  .
  ├── ...
- └── collection-name            
-     ├── inscriptions.json      
-     └── meta.json              
+ └── collections            
+     └── [collection-name]      
+          ├── inscriptions.json 
+          └── meta.json              
 ```
 
 ## Collection Metadata `meta.json`
