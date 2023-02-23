@@ -58,6 +58,9 @@ def test_meta():
                 assert y[0].startswith('https://') or y[0].startswith('http://'), 'link must start with https://'
 
         assert (len(meta.get('inscription_icon')) == 66), 'Invalid inscription Id'
+        assert meta.get('slug').lower() == meta.get('slug'), 'Slug must be lowercase'
+        assert len(meta.get('name')) < 23, 'Name is too long'
+        assert meta.get('slug') == x, 'Slug does not match directory name'
 
 def test_inscriptions():
     current_collections = os.listdir(COLLECTIONS)
