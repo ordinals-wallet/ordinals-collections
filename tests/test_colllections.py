@@ -17,6 +17,7 @@ def test_home_structure():
         "collections",
         ".circleci",
         "notebooks",
+        "scripts"
     ]
     current_directories = os.listdir()
     correct_directories = [x in expected_directories for x in current_directories]
@@ -50,10 +51,16 @@ def test_meta():
 
         set(meta.keys()) == set(expected_meta.keys()) , 'Invalid meta data keys'
 
-        for y in meta.values():
-          assert isinstance(y, str) , 'Invalid data type, use a string'
+        for y in zip(meta.values(), meta.keys()):
+          assert isinstance(y[0], str) , 'Invalid data type, use a string'
+          if y[1].endswith('link'):
+            if y[0]:
+                assert y[0].startswith('https://') or y[0].startswith('http://'), 'link must start with https://'
 
-          assert (len(meta.get('inscription_icon')) == 66), 'Invalid inscription Id'
+        assert (len(meta.get('inscription_icon')) == 66), 'Invalid inscription Id'
+        assert meta.get('slug').lower() == meta.get('slug'), 'Slug must be lowercase'
+        assert len(meta.get('name')) < 23, 'Name is too long'
+        assert meta.get('slug') == x, 'Slug does not match directory name'
 
 def test_inscriptions():
     current_collections = os.listdir(COLLECTIONS)
