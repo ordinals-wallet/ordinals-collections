@@ -1,10 +1,10 @@
 {
-  "name": "Ordinal FLARES", # inscription name
-  "inscription_icon": "304abef21655ba54d49482a73ff2d47a34ebe0a085dfbf648792099ce9a5fe1ci0", # collection cover inscription id
-  "supply": "134", # total supply
-  "slug": "ordinal-flares", # directory name
-  "description": "Ordinal FLARES consists of 134 algorithmically generated art pieces of the sky made with python, math, and a little randomness. They are inscribed on Bitcoin with inscription IDs 7951-9911. There is no other utility. Just beautiful art.",             # collection description
-  "twitter_link": "https://twitter.com/ordinalflares", # official twitter
-  "discord_link": "discord.gg/mbSDZ2vwF5", # official discord
-  "website_link": "" # official website
+  "name": "Ordinal FLARES",
+  "inscription_icon": "304abef21655ba54d49482a73ff2d47a34ebe0a085dfbf648792099ce9a5fe1ci0",
+  "supply": "134",
+  "slug": "ordinal-flares",
+  "description": "Ordinal FLARES consists of 134 algorithmically generated art pieces of the sky made with python, math, and a little randomness. They are inscribed on Bitcoin with inscription IDs 7951-9911. There is no other utility. Just beautiful art.",
+  "twitter_link": "https://twitter.com/ordinalflares",
+  "discord_link": "discord.gg/mbSDZ2vwF5",
+  "website_link": ""
 }
