@@ -72,3 +72,20 @@ def test_inscriptions():
         for y in insciptions:
           assert len(y.get('id')) == 66
           assert isinstance(y.get('meta').get('name'), str)
+
+def test_uniqueness():
+    input_collections = os.listdir(COLLECTIONS)
+    print('\n\n')
+
+    # add new collections
+    all_inscription_ids = []
+    for collection in input_collections:
+      with open("{}/{}/inscriptions.json".format(COLLECTIONS, collection), "r") as file:
+        inscriptions = json.load(file)
+      inscription_ids = []
+      for x in inscriptions:
+        inscription_ids.append(x.get('id'))
+      all_inscription_ids = all_inscription_ids + inscription_ids
+      duplicates = len(all_inscription_ids) - len(set(all_inscription_ids))
+      assert duplicates == 0
+      
