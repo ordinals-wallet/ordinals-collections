@@ -1,0 +1,23 @@
+{
+  "name": "ordinals-collections",
+  "version": "1.0.0",
+  "description": "## Getting Started ***Artists***",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwapLabsInc/ordinals-collections.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwapLabsInc/ordinals-collections/issues"
+  },
+  "homepage": "https://github.com/SwapLabsInc/ordinals-collections#readme"
+}

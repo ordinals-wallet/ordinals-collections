@@ -8,6 +8,7 @@ def test_home_structure():
     expected_directories = [
         "LICENSE",
         "requirements.txt",
+        "package.json",
         ".pytest_cache",
         "tests",
         "README.md",
@@ -15,6 +16,7 @@ def test_home_structure():
         ".gitignore",
         ".git",
         "collections",
+        "transform",
         ".circleci",
         "notebooks",
         "scripts"
@@ -88,4 +90,3 @@ def test_uniqueness():
       all_inscription_ids = all_inscription_ids + inscription_ids
       duplicates = len(all_inscription_ids) - len(set(all_inscription_ids))
       assert duplicates == 0
-      
