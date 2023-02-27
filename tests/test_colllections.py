@@ -49,7 +49,7 @@ def test_meta():
         with open("{}/{}/meta.json".format(COLLECTIONS, x), "r") as file:
             meta = json.load(file)
 
-        set(meta.keys()) == set(expected_meta.keys()) , 'Invalid meta data keys'
+        assert set(meta.keys()) == set(expected_meta.keys()) , 'Invalid meta data keys'
 
         for y in zip(meta.values(), meta.keys()):
           assert isinstance(y[0], str) , 'Invalid data type, use a string'
@@ -60,6 +60,7 @@ def test_meta():
         assert (len(meta.get('inscription_icon')) == 66), 'Invalid inscription Id'
         assert meta.get('slug').lower() == meta.get('slug'), 'Slug must be lowercase'
         assert len(meta.get('name')) < 23, 'Name is too long'
+        assert len(meta.get('slug')) < 21, 'Slug is too long'
         assert meta.get('slug') == x, 'Slug does not match directory name'
 
 def test_inscriptions():
