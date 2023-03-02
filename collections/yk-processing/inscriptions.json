@@ -1,0 +1,25 @@
+[
+  {
+    "id": "0bed5f14424368c631dde1202d0307e5fac1f92618263b49a11d53a3e88829b7i0",                    # inscription id
+    "meta": {
+      "name": "碑文／はじめまして"                 # inscription name
+      "number" : "#1"
+    }
+  },
+
+  {
+    "id": "092c06981d8b763448d82995c520a49ac60d078f14721fe88de1a4a37b4ff106i0",                    # inscription id
+    "meta": {
+      "name": "stars"                 # inscription name
+      "number" : "#2"
+    }
+  },
+
+  {
+    "id": "9d8fa8074e9830fd45cc8b9bc6723052f4f656e75224617940a8fc922d83cc9bi0",                    # inscription id
+    "meta": {
+      "name": "dance"                 # inscription name
+      "number" : "#3"
+    }
+  }
+]
