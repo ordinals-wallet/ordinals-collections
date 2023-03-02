@@ -1,0 +1,10 @@
+{
+  "name": "YK Processing",                    # inscription name
+  "inscription_icon": "9d8fa8074e9830fd45cc8b9bc6723052f4f656e75224617940a8fc922d83cc9bi0",        # collection cover inscription id
+  "supply": "30",                  # total supply
+  "slug": "yk-processing",                    # directory name
+  "description": "100 artworks drawn with p5.js by yokodori",             # collection description
+  "twitter_link": "https://twitter.com/yokodori",            # official twitter
+  "discord_link": "",            # official discord
+  "website_link": ""             # official website
+}
