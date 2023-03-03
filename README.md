@@ -1,28 +1,32 @@
 # Ordinals Collections Standards
+
 #### A place for creators &amp; builders to organize ordinal collections!
 
 ## Getting Started
-***Artists***
 
-Collection creators can format their collection data using the `inscription.json` and `meta.json` format below to be listed on all platforms using the standard! 
+**_Artists_**
 
-***Steps***
-1. Create your `inscription.json` and `meta.json` files in the format provided below
+Collection creators can format their collection data using the `inscriptions.json` and `meta.json` format below to be listed on all platforms using the standard!
+
+**_Steps_**
+
+1. Create your `inscriptions.json` and `meta.json` files in the format provided below
 2. Add to the registry by creating a pull request including new collections that follow the standard
-2. Websites can use the registry to include the ordinal collections provided on their websites!
-
+3. Websites can use the registry to include the ordinal collections provided on their websites!
 
 ## File Structure
+
 ```
  .
  ├── ...
- └── collections            
-     └── [collection-name]      
-          ├── inscriptions.json 
-          └── meta.json              
+ └── collections
+     └── [collection-name]
+          ├── inscriptions.json
+          └── meta.json
 ```
 
 ## Collection Metadata `meta.json`
+
 ```
 {
   "name": "",                    # inscription name
@@ -37,11 +41,12 @@ Collection creators can format their collection data using the `inscription.json
 ```
 
 ## Inscription Data `inscriptions.json`
+
 ```
 [
   {
     "id": "",                    # inscription id
-    "meta": { 
+    "meta": {
       "name": ""                 # inscription name
     }
   },
@@ -50,7 +55,9 @@ Collection creators can format their collection data using the `inscription.json
 ```
 
 ## Expanding Inscription Data
+
 Collections can be organized using `status` and `rank`
+
 ```
 [
   {
@@ -64,7 +71,9 @@ Collections can be organized using `status` and `rank`
   ...
 ]
 ```
+
 Artists can assign unqiue traits to ordinals with `attributes`
+
 ```
 [
   {
@@ -88,13 +97,10 @@ Artists can assign unqiue traits to ordinals with `attributes`
 ]
 ```
 
-
-
-
-
 ## Here is an example of a completed collection inscription
 
 Your meta.json file will look like this:
+
 ```
 {
   "name": "Planetary Ordinals",
@@ -109,6 +115,7 @@ Your meta.json file will look like this:
 ```
 
 Your inscriptions.json file will look like this:
+
 ```
 [
   {
