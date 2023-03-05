@@ -14,13 +14,27 @@ let toTransform = [
     },
     inscriptions: JSON.parse(fs.readFileSync('./ordmojis.json')),
     method: 'ordmojis'
+  },
+  {
+    meta: {
+      name: "Litecoin Punks",
+      inscription_icon: "60f137a86bcc10bb55d45ceff8a10405a0c1da778c5de3b8a3c010464e6b8b5ai0",
+      supply: "100",
+      slug: "litecoin-punks",
+      description: "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+      twitter_link: "https://twitter.com/LitecoinPunks",
+      discord_link: "https://discord.gg/litecoinpunks",
+      website_link: ""
+    },
+    inscriptions: JSON.parse(fs.readFileSync('./litecoin-punks.json')),
+    method: 'litecoin-punks'
   }
 ]
 
 let transformMethods = {
-  ordmojis: (inscriptions) => {
+  ordmojis: (collection) => {
     let transformed = [];
-    let lowest = inscriptions.lowestEmojis;
+    let lowest = collection.inscriptions.lowestEmojis;
     for(let ordmoji of Object.keys(lowest)) {
       let info = lowest[ordmoji];
       transformed.push({
@@ -30,6 +44,22 @@ let transformMethods = {
           name: `Ordmoji - ${ordmoji}`
         }
       });
+    }
+    return transformed;
+  },
+  ['litecoin-punks']: (collection) => {
+    let transformed = [];
+    let inscriptions = collection.inscriptions;
+    let i = 1;
+    for(let [number, inscription] of Object.entries(inscriptions)) {
+      transformed.push({
+        id: inscription,
+        number: `${number}`,
+        meta: {
+          name: `Litecoin Punk #${i}`
+        }
+      });
+      i++;
     }
     return transformed;
   }
@@ -42,7 +72,7 @@ for(let collection of toTransform) {
   fs.writeFileSync(dir+"/meta.json", JSON.stringify(meta));
 
   let method = transformMethods[collection.method];
-  let transformed = method(collection.inscriptions);
+  let transformed = method(collection);
 
   fs.writeFileSync(dir+"/inscriptions.json", JSON.stringify(transformed));
 }
