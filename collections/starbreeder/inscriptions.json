@@ -5,12 +5,12 @@
     "meta": {
       "name": "STARBREEDER #001",
       "status": "neutron star",
-	"star": "pulsar 3C 58",
+	    "star": "pulsar 3C 58",
       "attributes": [
         {
           "trait_type": "star type",
           "value": "neutron star 1",
-        },
+                },
  {
           "trait_type": "background",
           "value": "spaceship 1",
@@ -18,11 +18,10 @@
         {
           "trait_type": "object",
           "value": "",
-        }
+        },
  {
           "trait_type": "face",
-          "value": "male dark",
-        },
+          "value": "male dark",        },
  {
           "trait_type": "fuser",
           "value": "",
@@ -57,7 +56,7 @@
         {
           "trait_type": "object",
           "value": "planet 3",
-        }
+        },
  {
           "trait_type": "face",
           "value": "alien 1",
@@ -99,7 +98,7 @@
         {
           "trait_type": "object",
           "value": "",
-        }
+        },
  {
           "trait_type": "face",
           "value": "male white",
@@ -142,7 +141,7 @@
         {
           "trait_type": "object",
           "value": "",
-        }
+        },
  {
           "trait_type": "face",
           "value": "female asian",
@@ -185,7 +184,7 @@
         {
           "trait_type": "object",
           "value": "earth 1",
-        }
+        },
  {
           "trait_type": "face",
           "value": "male asian",
@@ -231,7 +230,7 @@
         {
           "trait_type": "object",
           "value": "",
-        }
+        },
  {
           "trait_type": "face",
           "value": "asian white",
@@ -276,7 +275,7 @@
         {
           "trait_type": "object",
           "value": "",
-        }
+        },
  {
           "trait_type": "face",
           "value": "asian white",
@@ -322,7 +321,7 @@
         {
           "trait_type": "object",
           "value": "",
-        }
+        },
  {
           "trait_type": "face",
           "value": "robot 1",
