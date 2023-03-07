@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/SwapLabsInc/ordinals-collections/issues"
   },
-  "homepage": "https://github.com/SwapLabsInc/ordinals-collections#readme"
+  "homepage": "https://github.com/SwapLabsInc/ordinals-collections#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
