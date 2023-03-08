@@ -5,9 +5,11 @@
     "meta": {
       "name": "STARBREEDER #001",
       "status": "neutron star",
-	"star": "pulsar 3C 58",
       "attributes": [
         {
+          "trait_type": "star",
+          "value": "pulsar 3C 58"
+        },{
           "trait_type": "star type",
           "value": "neutron star 1"
         },
@@ -44,9 +46,11 @@
     "meta": {
       "name": "STARBREEDER #002",
       "status": "protostar",
-	"star": "CARMA-7",
       "attributes": [
-        {
+         {
+          "trait_type": "star",
+          "value": "CARMA-7"
+        },{
           "trait_type": "star type",
           "value": "protostar 1"
         },
@@ -86,9 +90,11 @@
     "meta": {
       "name": "STARBREEDER #003",
       "status": "yellow dwarf",
-	"star": "72 Herculis",
       "attributes": [
         {
+          "trait_type": "star",
+          "value": "72 Herculis"
+        }, {
           "trait_type": "star type",
           "value": "yellow dwarf 1"
         },
@@ -129,9 +135,11 @@
     "meta": {
       "name": "STARBREEDER #004",
       "status": "blue giant",
-	"star": "Bellatrix",
       "attributes": [
-        {
+       {
+          "trait_type": "star",
+          "value": "Bellatrix"
+        },  {
           "trait_type": "star type",
           "value": "blue giant 1"
         },
@@ -172,9 +180,11 @@
     "meta": {
       "name": "STARBREEDER #005",
       "status": "supernova",
-	"star": "Faint II-P",
       "attributes": [
-        {
+      {
+          "trait_type": "star",
+          "value": "Faint II-P"
+        },  {
           "trait_type": "star type",
           "value": "supernova 1"
         },
@@ -220,7 +230,10 @@
       "status": "black hole",
 	"star": "Messier 51",
       "attributes": [
-        {
+         {
+          "trait_type": "star",
+          "value": "Messier 51"
+        },{
           "trait_type": "star type",
           "value": "black hole 1"
         },
@@ -266,6 +279,9 @@
 	"star": "Sirius B",
       "attributes": [
         {
+          "trait_type": "star",
+          "value": "Sirius B"
+        },{
           "trait_type": "star type",
           "value": "white dwarf 1"
         },
@@ -312,8 +328,11 @@
 	"star": "Stephenson 2 DFK 1",
       "attributes": [
         {
+          "trait_type": "star",
+          "value": "Stephenson 2 DFK 1"
+        },{
           "trait_type": "star type",
-          "value": "red supergiant 1z"
+          "value": "red supergiant 1"
         },
  {
           "trait_type": "background",
