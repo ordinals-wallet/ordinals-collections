@@ -42,6 +42,20 @@ let toTransform = [
     },
     inscriptions: JSON.parse(fs.readFileSync('./sub10k.json')),
     method: 'sub10k'
+  },
+  {
+    meta: {
+      name: "Chainspace",
+      inscription_icon: "a6e1a0f1dea5ac2f1eb366db2d037bdcfcbd6adfc88f91456656ae7848b049c0i0",
+      supply: "800",
+      slug: "chainspace",
+      description: "Chainspace is a BTC-native infinite art machine — a fully on-chain, stateless web app that transforms the viewer into generative art. In Chainspace, you are the art.",
+      twitter_link: "https://twitter.com/chainspace",
+      discord_link: "https://discord.gg/chainspace",
+      website_link: "https://chainspace.app"
+    },
+    inscriptions: fs.readFileSync('./chainspace.csv', 'utf8'),
+    method: 'chainspace'
   }
 ]
 
@@ -79,6 +93,24 @@ let transformMethods = {
   },
   ['sub10k']: (collection) => {
     return collection.inscriptions;
+  },
+  ['chainspace']: (collection) => {
+    let csv = collection.inscriptions+"}";
+    let rows = csv.split("\n");
+    let transformed = [];
+    for(let row of rows) {
+      row = row.replace(/\"\"/g, '"').slice(0,-1);
+      let cells = row.split(",");
+      cells = cells.map((cell) => cell.slice(1,-1));
+      let inscriptionId = cells[0];
+      cells.splice(5,4);
+      let meta = JSON.parse(cells.slice(1).join(","));
+      transformed.push({
+        id: inscriptionId,
+        meta: meta
+      });
+    };
+    return transformed;
   }
 };
 
