@@ -7,6 +7,13 @@
         }
     },
     {
+        "id": "a784577558278ecb436636b9eb080c5f60b0a63ffa4bf7cbb903a1d1d1a35dddi0",
+        "meta": {
+            "name": "003 Venusaur",
+            "status": "Founders Edition, Rare"
+        }
+    },
+    {
         "id": "684af677296cce25c1a26ed4dccf1284ce442c7fbd2b5bfdfe5386ae24d36ba2i0",
         "meta": {
             "name": "004 Charmander",
@@ -77,6 +84,13 @@
         }
     },
     {
+        "id": "774d046ea2c90458c19b10a9d3a9b92602043fa515b5de65b0c26563d355b2e3i0",
+        "meta": {
+            "name": "034 Nidoking",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
         "id": "b8906278304bcaa8b7da133761f0369a3b22dcab3e9ebd6d9201364c9cc3b7c7i0",
         "meta": {
             "name": "042 Golbat",
@@ -127,6 +141,13 @@
         }
     },
     {
+        "id": "9d6d555034978de6996f2cfec394783baac088746ab2621f425022a2c6080ae6i0",
+        "meta": {
+            "name": "077 Ponyta",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
         "id": "f5b0533fd7983b58e0c903d2af08537e4bf404bce0ba5bba20f8e2b743c6fc36i0",
         "meta": {
             "name": "078 Rapidash",
@@ -152,6 +173,20 @@
         "id": "2971faec673d911005b014df9118ebeb375ac20e285e80b412a5fb690344519ei0",
         "meta": {
             "name": "094 Gengar",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "118af4a9f3e3daad08da2dd1d23872a4d4cc0c4545d583a9ded949dfb58cf17ei0",
+        "meta": {
+            "name": "106 Hitmonlee",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "c3a9bc3902a91da72aa5753bea5c20121b26ecdd681e1873f988cde4ab82d756i0",
+        "meta": {
+            "name": "110 Weezing",
             "status": "Founders Edition, exclusive"
         }
     },
@@ -268,6 +303,83 @@
         }
     },
     {
+        "id": "03fd72d67473fd3d1ce86af4038f996e5e7147fc6e0eb6321b34245348caec73i0",
+        "meta": {
+            "name": "152 Chikorita",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "d71e671d8a2ccf801e805580dab6a3700859200673052a91329b9b2cb7fe9994i0",
+        "meta": {
+            "name": "153 Bayleef",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "7fd3a3f95e0220122ecc6a1dff3e3d07abc1571e7d5e17d2014f179c336de2ai0",
+        "meta": {
+            "name": "154 Meganium",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "aa1d3b3b79ccc24fd53653f50c7dc1f609aa4b5627463553564476183166cd51i0",
+        "meta": {
+            "name": "155 Cyndaquil",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "47cd6ffd95e85d9aee5d123a92f702b4b92094d039f9dd8a3337e767076e1703i0",
+        "meta": {
+            "name": "156 Quilava",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "d2964ea437b0ec7a0d9736469feecfb91ff5f24bf32ae4a72544de08daef296i0",
+        "meta": {
+            "name": "157 Typhlosion",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "82d34d33ef770fcb9e1ccaf42993b0d6e269087b6aa8abe640c9ac1613bf1c97i0",
+        "meta": {
+            "name": "158 Totodile",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "82d34d33ef770fcb9e1ccaf42993b0d6e269087b6aa8abe640c9ac1613bf1c97i0",
+        "meta": {
+            "name": "159 Croconaw",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "82d34d33ef770fcb9e1ccaf42993b0d6e269087b6aa8abe640c9ac1613bf1c97i0",
+        "meta": {
+            "name": "160 Feraligatr",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "d2fbcf557fb003eaa003bffd16698878709ec7cbd703bdba70c8d7b1ed686871i0",
+        "meta": {
+            "name": "164 Noctowl",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "d074c645987bb5c82104f224b768786fd2932c2c969217c8f15a0939911112f6i0",
+        "meta": {
+            "name": "172 Pichu",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
         "id": "a40752501b55f9342cc7bf326842816d2a98266e2fe8a55a816515efcac75b4ei0",
         "meta": {
             "name": "196 Espeon",
@@ -278,6 +390,13 @@
         "id": "fde8b783f83c887543483fab67034f71b013ac1c8a54bfd134968d69054c1083i0",
         "meta": {
             "name": "201 Unown",
+            "status": "Founders Edition, Rare"
+        }
+    },
+    {
+        "id": "c3162a17fe5ffeff53eaa72a6a9352d0137ed5e4df8d536a9dca1bb45a6267a7i0",
+        "meta": {
+            "name": "202 Wobbuffet",
             "status": "Founders Edition, Rare"
         }
     },
