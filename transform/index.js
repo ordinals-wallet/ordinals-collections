@@ -101,7 +101,10 @@ let transformMethods = {
     for(let row of rows) {
       row = row.replace(/\"\"/g, '"').slice(0,-1);
       let cells = row.split(",");
-      cells = cells.map((cell) => cell.slice(1,-1));
+      cells = cells.map((cell, i) => {
+        if(i == 0) return cell;
+        return cell.slice(1,-1);
+      });
       let inscriptionId = cells[0];
       cells.splice(5,4);
       let meta = JSON.parse(cells.slice(1).join(","));
