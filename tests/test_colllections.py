@@ -34,13 +34,13 @@ def test_collections_structure():
 
 def test_meta():
     expected_meta = {
-        "name": "Based Apes",
-        "inscription_icon": "159f5b1437375424ba798c92f10670f19baf3e5d10be3bf5fbd4d4a50cf642ddi0",
-        "supply": "100",
-        "slug": "based-apes",
-        "description": "",
-        "twitter_link": "https://twitter.com/BasedApes",
-        "discord_link": "https://discord.com/invite/ordinalswallet",
+        "name": "Heavenly Gates",
+        "inscription_icon": "1ae8091279018006cd62c7ad880a6fab305daff5df2f112a0bf379c32eec5115i0",
+        "supply": "77",
+        "slug": "heavenly-gates",
+        "description": "A collection of 77 AI generated Heavenly Gates.  Each gate has the power to grant its holder access to all future collections created by Heavenly Ordinals.",
+        "twitter_link": "https://twitter.com/HeavenlyOrds",
+        "discord_link": "",
         "website_link": "",
     }
     current_collections = os.listdir(COLLECTIONS)
