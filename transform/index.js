@@ -1,4 +1,5 @@
 import fs from 'fs';
+import fetch from 'node-fetch';
 
 let toTransform = [
   {
@@ -50,12 +51,25 @@ let toTransform = [
       supply: "800",
       slug: "chainspace",
       description: "Chainspace is a BTC-native infinite art machine — a fully on-chain, stateless web app that transforms the viewer into generative art. In Chainspace, you are the art.",
-      twitter_link: "https://twitter.com/chainspace",
+      twitter_link: "https://twitter.com/chainspaceapp",
       discord_link: "https://discord.gg/chainspace",
       website_link: "https://chainspace.app"
     },
     inscriptions: fs.readFileSync('./chainspace.csv', 'utf8'),
     method: 'chainspace'
+  },
+  {
+    meta: {
+      name: "Twelvefold",
+      inscription_icon: "e0b63360759c7e208b5e201156008fa1ef0199b404363bfafe46e8933d079efci0",
+      supply: "300",
+      slug: "twelvefold",
+      description: "TwelveFold by Yuga Labs is a limited edition collection of 300 generative pieces, inscribed on satoshis on the Bitcoin blockchain.",
+      twitter_link: "https://twitter.com/yugalabs",
+      website_link: "https://twelvefold.io"
+    },
+    inscriptions: fs.readFileSync('./twelvefold.html', 'utf8'),
+    method: 'twelvefold'
   }
 ]
 
@@ -94,6 +108,30 @@ let transformMethods = {
   ['sub10k']: (collection) => {
     return collection.inscriptions;
   },
+  ['twelvefold']: async (collection) => {
+    let regex = /tx\/([a-zA-Z0-9]{64})/g
+    let matches = collection.inscriptions.matchAll(regex);
+    let transformed = [];
+
+    let numberRegex = /<h1>Inscription ([0-9]+)/g
+
+    for (const match of matches) {
+      let inscriptionHash = match[1]+'i0';
+      let html = await fetch('https://ordinals.com/inscription/'+inscriptionHash).then(res => res.text());
+      let numberMatches = html.matchAll(numberRegex);
+      let numberMatch = numberMatches.next()['value']?.[1];
+      if(!numberMatch) continue;
+      console.log(numberMatch);
+      transformed.push({
+        id: inscriptionHash,
+        meta: {
+          name: `Inscription #${numberMatch}`
+        }
+      });
+    }
+
+    return transformed;
+  },
   ['chainspace']: (collection) => {
     let csv = collection.inscriptions+"}";
     let rows = csv.split("\n");
@@ -117,14 +155,16 @@ let transformMethods = {
   }
 };
 
-for(let collection of toTransform) {
-  let meta = collection.meta;
-  let dir = '../collections/'+meta.slug;
-  if(!fs.existsSync(dir)) fs.mkdirSync(dir);
-  fs.writeFileSync(dir+"/meta.json", JSON.stringify(meta));
+(async () => {
+  for(let collection of toTransform) {
+    let meta = collection.meta;
+    let dir = '../collections/'+meta.slug;
+    if(!fs.existsSync(dir)) fs.mkdirSync(dir);
+    fs.writeFileSync(dir+"/meta.json", JSON.stringify(meta));
 
-  let method = transformMethods[collection.method];
-  let transformed = method(collection);
+    let method = transformMethods[collection.method];
+    let transformed = await method(collection);
 
-  fs.writeFileSync(dir+"/inscriptions.json", JSON.stringify(transformed));
-}
+    fs.writeFileSync(dir+"/inscriptions.json", JSON.stringify(transformed));
+  }
+})();
