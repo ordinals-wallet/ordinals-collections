@@ -115,16 +115,20 @@ let transformMethods = {
 
     let numberRegex = /<h1>Inscription ([0-9]+)/g
     let toSkip = [
-      '7cf53a334f0bef4fb372a81fe65b063311553f9a7d4261c6787d3399ac79b4fdi0'
+      '7cf53a334f0bef4fb372a81fe65b063311553f9a7d4261c6787d3399ac79b4fdi0',
+      '50e74f16f8f4f18c29e572ed466dde40a0878f30db6745467841e73b2f96ab34i0'
     ];
+
+    let included = [];
 
     for (const match of matches) {
       let inscriptionHash = match[1]+'i0';
-      if(toSkip.includes(inscriptionHash)) continue;
+      if(toSkip.includes(inscriptionHash) || included.includes(inscriptionHash)) continue;
       let html = await fetch('https://ordinals.com/inscription/'+inscriptionHash).then(res => res.text());
       let numberMatches = html.matchAll(numberRegex);
       let numberMatch = numberMatches.next()['value']?.[1];
       if(!numberMatch) continue;
+      included.push(inscriptionHash);
       console.log(numberMatch);
       transformed.push({
         id: inscriptionHash,
@@ -134,6 +138,7 @@ let transformMethods = {
       });
     }
 
+    console.log(transformed.length);
     return transformed;
   },
   ['chainspace']: (collection) => {
