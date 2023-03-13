@@ -25,3 +25,4 @@ workflows:
   validate-collection:
     jobs:
       - validate
+      
