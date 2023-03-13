@@ -123,6 +123,7 @@ let transformMethods = {
 
     for (const match of matches) {
       let inscriptionHash = match[1]+'i0';
+      console.log(inscriptionHash);
       if(toSkip.includes(inscriptionHash) || included.includes(inscriptionHash)) continue;
       let html = await fetch('https://ordinals.com/inscription/'+inscriptionHash).then(res => res.text());
       let numberMatches = html.matchAll(numberRegex);
