@@ -114,9 +114,13 @@ let transformMethods = {
     let transformed = [];
 
     let numberRegex = /<h1>Inscription ([0-9]+)/g
+    let toSkip = [
+      '7cf53a334f0bef4fb372a81fe65b063311553f9a7d4261c6787d3399ac79b4fdi0'
+    ];
 
     for (const match of matches) {
       let inscriptionHash = match[1]+'i0';
+      if(toSkip.includes(inscriptionHash)) continue;
       let html = await fetch('https://ordinals.com/inscription/'+inscriptionHash).then(res => res.text());
       let numberMatches = html.matchAll(numberRegex);
       let numberMatch = numberMatches.next()['value']?.[1];
