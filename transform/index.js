@@ -68,7 +68,7 @@ let toTransform = [
       twitter_link: "https://twitter.com/yugalabs",
       website_link: "https://twelvefold.io"
     },
-    inscriptions: fs.readFileSync('./twelvefold.html', 'utf8'),
+    inscriptions: await fetch('https://turbo.ordinalswallet.com/wallet/bc1pshdmgmkt6pgw56mz94h5y2at4ryuug0ehpz8vg3lnf90xxkr356sjcazc7/inscriptions').then(res => res.json()),
     method: 'twelvefold'
   }
 ]
@@ -109,11 +109,8 @@ let transformMethods = {
     return collection.inscriptions;
   },
   ['twelvefold']: async (collection) => {
-    let regex = /tx\/([a-zA-Z0-9]{64})/g
-    let matches = collection.inscriptions.matchAll(regex);
     let transformed = [];
 
-    let numberRegex = /<h1>Inscription ([0-9]+)/g
     let toSkip = [
       '7cf53a334f0bef4fb372a81fe65b063311553f9a7d4261c6787d3399ac79b4fdi0',
       '50e74f16f8f4f18c29e572ed466dde40a0878f30db6745467841e73b2f96ab34i0',
@@ -123,19 +120,19 @@ let transformMethods = {
       '7d1a9be4e4129b2663f99f7f6ff4cb185601ec32c040666b01ab0119f875fcbei0',
       '3fbaee7a19170d64aa72108e7159af5a3ba97f6926674ed7b21de203c14011c1i0',
       'edbbbac920a2b54866d0ec40f1e5d58a98acab736a50f1ac6aa1f3b1a9e55f8ei0',
-      'f723c9c13a213b77ff72df832a7f6dd6dee42222673e744ab592debd3ddcaea5i0'
+      'f723c9c13a213b77ff72df832a7f6dd6dee42222673e744ab592debd3ddcaea5i0',
+      '684e880def0563d002182361686bc7f33fc07ba833082ca1c8b1c552b27d63f1i0',
+      'b03009572b1632c0da785fa4550c06767a4da7a0d41ed5c0f5f040043fb6d53ai0',
+      '689ea60e481bac430ca57391517a7e21aaf9eb9bbb60b576b3656dc8d8acdb0fi0'
     ];
 
-    let included = [];
+    let included  = [];
 
-    for (const match of matches) {
-      let inscriptionHash = match[1]+'i0';
+    for (const item of collection.inscriptions.reverse()) {
+      let inscriptionHash = item.id;
       console.log(inscriptionHash);
-      if(toSkip.includes(inscriptionHash) || included.includes(inscriptionHash)) continue;
-      let html = await fetch('https://ordinals.com/inscription/'+inscriptionHash).then(res => res.text());
-      let numberMatches = html.matchAll(numberRegex);
-      let numberMatch = numberMatches.next()['value']?.[1];
-      if(!numberMatch) continue;
+      if(toSkip.includes(inscriptionHash) || included.includes(inscriptionHash) || !inscriptionHash) continue;
+      let numberMatch = item.num;
       included.push(inscriptionHash);
       console.log(numberMatch);
       transformed.push({
