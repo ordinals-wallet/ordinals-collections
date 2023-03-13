@@ -122,7 +122,8 @@ let transformMethods = {
       '474b8abbc9779f3a77654501873900ed14bf62360fa0fc8d325714c7c4e891bdi0',
       '7d1a9be4e4129b2663f99f7f6ff4cb185601ec32c040666b01ab0119f875fcbei0',
       '3fbaee7a19170d64aa72108e7159af5a3ba97f6926674ed7b21de203c14011c1i0',
-      'edbbbac920a2b54866d0ec40f1e5d58a98acab736a50f1ac6aa1f3b1a9e55f8ei0'
+      'edbbbac920a2b54866d0ec40f1e5d58a98acab736a50f1ac6aa1f3b1a9e55f8ei0',
+      'f723c9c13a213b77ff72df832a7f6dd6dee42222673e744ab592debd3ddcaea5i0'
     ];
 
     let included = [];
