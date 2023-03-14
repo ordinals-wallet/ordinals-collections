@@ -7,6 +7,13 @@
         }
     },
     {
+        "id": "702f81c74b05b6dfa30a167ad405cc1b611182f74323ec2bd2446db5442f5e7di0",
+        "meta": {
+            "name": "002 Ivysaur",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
         "id": "a784577558278ecb436636b9eb080c5f60b0a63ffa4bf7cbb903a1d1d1a35dddi0",
         "meta": {
             "name": "003 Venusaur",
@@ -23,7 +30,7 @@
     {
         "id": "fc31e5304c7e79ba6d1e90aa176469119547a2c04559518bd292aa01acdb83b3i0",
         "meta": {
-            "name": "004 Charmeleon",
+            "name": "005 Charmeleon",
             "status": "Founders Edition, Exclusive"
         }
     },
@@ -70,6 +77,27 @@
         }
     },
     {
+        "id": "2955f5de9dc28e79ee6da84dd420c0bfdd8cd11dd46946a1aade3c16dd64061di0",
+        "meta": {
+            "name": "018 Pidgeot",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "f2615652e7fef3b85558968d6d508e47a67c87f31d2ae456f8b6e7cb8b2e0869i0",
+        "meta": {
+            "name": "021 Spearow",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "61bdbe509baa2a8e45f9214d162532c86fd7d09e1dbb49f6dce14b52a7aef19ei0",
+        "meta": {
+            "name": "023 Ekans",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
         "id": "1e7c99ec9fbca0a8a9fe9058ee3093aeedd1d194db3f44947209d409799021cfi0",
         "meta": {
             "name": "025 Pikachu",
@@ -84,10 +112,66 @@
         }
     },
     {
+        "id": "f8694824fd59a41d8aed8643b2642332abdac1ae44b1b24da3864c7e67caea93i0",
+        "meta": {
+            "name": "029 Nidoran f",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "6eef557a34f60ff900d0243184506065e886a18f8f84da2f479864dbb7639913i0",
+        "meta": {
+            "name": "031 Nidoqueen",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "7e3e9a162822d30a5bcac801650b8c638a17c0facfb851a3408f49f547b9ba54i0",
+        "meta": {
+            "name": "032 Nidoran m",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
         "id": "774d046ea2c90458c19b10a9d3a9b92602043fa515b5de65b0c26563d355b2e3i0",
         "meta": {
             "name": "034 Nidoking",
             "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "e925c112d1753b62092921dad50b6af71a3a49d60c3d6975df94194216bd1465i0",
+        "meta": {
+            "name": "035 Clefairy",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "6515c08d9dc5c9ab182e6f9fb3be8e8f93cebf97451ccc84cda37c963ef22b78i0",
+        "meta": {
+            "name": "036 Clefable",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "dc42049a1b836978abc86347eff093156ff5d1659d48475918bea36d477e63cai0",
+        "meta": {
+            "name": "037 Vulpix",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "7ec48b6a192fa179d09abc09c613d4889dc825b48e036800238c2c28596320cbi0",
+        "meta": {
+            "name": "038 Ninetales",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "0031c117493d545249935cdcc7c10b2d6b35c44f39cbb729f6921093401e2d82i0",
+        "meta": {
+            "name": "039 Jigglypuff",
+            "status": "Founders Edition, exclusive"
         }
     },
     {
@@ -102,6 +186,41 @@
         "meta": {
             "name": "043 Oddish",
             "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "c62eed200f6d232ba4a10bb904bc3c3e4e7e162c90f9ebbed31bea95b53eb8f2i0",
+        "meta": {
+            "name": "051 Dugtrio",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "ec2a05218dec420fea6923568ec389787a2e2184db1400ac72604057b2b4a5b9i0",
+        "meta": {
+            "name": "052 Meowth",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "8b1b22f779cc3ff4fe9dfb46a606e9d2ef43b9f9db3fb08d67db318e287bc013i0",
+        "meta": {
+            "name": "053 Persian",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "2f9a1d842113133bf71277209181bcb189e74adbbdc9af90141cf1d91b843757i0",
+        "meta": {
+            "name": "055 Golduck",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "7ab3985eebd4a5dcb3b498a658cbcbf8e962f496fa6012cb0c95566115219c56i0",
+        "meta": {
+            "name": "056 Mankey",
+            "status": "Founders Edition, exclusive"
         }
     },
     {
@@ -125,6 +244,20 @@
             "status": "Founders Edition, Exclusive"
         }
     },
+    {
+        "id": "dbd4f4d8c9cba63efd26eb51584155a0c054d6541da6dd2f9c112d2ed1f43ab5i0",
+        "meta": {
+            "name": "060 Poliwag",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "6819b96bef745fc607f2b7a7a5daf6bee282c463babeb1d33532622cef0d5eeei0",
+        "meta": {
+            "name": "061 Poliwhirl",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
 	{
         "id": "77e5d0a28a0efd2947e7dd2ae2ff18bb4a927046d61ef0933ecffb0fb4a00b53i0",
         "meta": {
@@ -132,10 +265,66 @@
             "status": "Founders Edition, Exclusive"
         }
     },
+	{
+        "id": "c506ef5b796aa451d68dc3b740d7a5773781535a669084a9077484f88a9fbe55i0",
+        "meta": {
+            "name": "063 Abra",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+	{
+        "id": "e3112afa1e7fd98c234f3f5e07878c41f2c438b3a00fcb1ce9aca2d8afcf9f7di0",
+        "meta": {
+            "name": "064 Kadabra",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
     {
         "id": "9cfdf4accd59e88e002d68fc9f7fdcd542f233bbefdf756d4681e563ceac680ai0",
         "meta": {
             "name": "065 Alakazam",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "6db3573a96b8ed5a0691841bc60ad3f89c9e1ddd5f544dda629e00110638ba27i0",
+        "meta": {
+            "name": "066 Machop",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "9effb2d61d8817ae3f0e1d42e72eca6ce349b7dbc2152164052633f3393315b9i0",
+        "meta": {
+            "name": "067 Machoke",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "96afc6b21059ba759c6b0002039c957fe0d6c0673e4a939ee6931cb8cb7f436ci0",
+        "meta": {
+            "name": "068 Machamp",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "53c1378256c339ff6ac6e4833d366a151be7990c18c90547796e140a95ca2c2ai0",
+        "meta": {
+            "name": "070 Weepinbell",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "226d81944db40558c30162de48fa40824dd5e5ede69cb41e8e02a425e8e9c967i0",
+        "meta": {
+            "name": "073 Tentacruel",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "a6bb708ffbd0ba3362b45b90c8a4ec4f097963b56c44571725c77865193c0b04i0",
+        "meta": {
+            "name": "076 Golem",
             "status": "Founders Edition, Exclusive"
         }
     },
@@ -154,9 +343,23 @@
         }
     },
     {
+        "id": "8e1820e378b0875224f905811abb2e3bc37e3dd092eb37877951572d769872a8i0",
+        "meta": {
+            "name": "079 Slowpoke",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
         "id": "b1e720116f264e5aa41a69e1f1053317d4fa63adc741dc7a87b2f698d1355f27i0",
         "meta": {
             "name": "080 Slowbro",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "061ffa623ca92cef259daea0f388e2702fb7bc98e73dd9501f6e18f931fd7508i0",
+        "meta": {
+            "name": "081 Magnemite",
             "status": "Founders Edition, exclusive"
         }
     },
@@ -168,9 +371,86 @@
         }
     },
     {
+        "id": "c737fedb2a12061fc6bc60ecaa57e72e3ba43a73f343855339eebc53ca2636ddi0",
+        "meta": {
+            "name": "085 Dodrio ",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "639e529543aa3400ac8e9246460517248f73ecd4694dcaf081ca134874c4c72fi0",
+        "meta": {
+            "name": "088 Grimer",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "d0d6962df9d9431b606de8ffa138ccb3b42285f9bb9482917663fd8525f6226di0",
+        "meta": {
+            "name": "089 Muk",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "29a305c406136636caad6bae8f126e99b26de09961148288f6cc4799e114e3f2i0",
+        "meta": {
+            "name": "090 Shellder",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "179caadbeff5aa68c2ce6f63b21d69703cd6d7a1d58e826f07b73b20f126dbd0i0",
+        "meta": {
+            "name": "092 Gastly",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "2d7fcebb3973ef38829325850800b749407cb97f37bf7b8a225e92a5a4f37003i0",
+        "meta": {
+            "name": "093 Haunter",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
         "id": "2971faec673d911005b014df9118ebeb375ac20e285e80b412a5fb690344519ei0",
         "meta": {
             "name": "094 Gengar",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "2f498a3d6dd618319262a6184611b80db869893ebbb4ddd801cf5ff85efe2b8di0",
+        "meta": {
+            "name": "095 Onix",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "bc66d9be9f5d238ee90f248b6e23cbaeada0d32c4c55d86135df538de740729fi0",
+        "meta": {
+            "name": "101 Electrode",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "5003bfd8da1010e40e4899add93ded21330af999c352dde458b8d5df482b3d2ai0",
+        "meta": {
+            "name": "102 Exeggcute",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "37b27776bac66eb19aab021ed28872d7fe78dd4595f78eaf50087bcbcc5f4116i0",
+        "meta": {
+            "name": "103 Exeggutor",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "09138d92b058088e54e7a4ac30a527a83af236ea7e4757a579efb046c654dfd4i0",
+        "meta": {
+            "name": "105 Marowak",
             "status": "Founders Edition, exclusive"
         }
     },
@@ -182,6 +462,13 @@
         }
     },
     {
+        "id": "308f494e9665a9a607ad0e00e7d50ac543043dc3a2d375d899a01a8f0f20d6dai0",
+        "meta": {
+            "name": "109 Koffing",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
         "id": "c3a9bc3902a91da72aa5753bea5c20121b26ecdd681e1873f988cde4ab82d756i0",
         "meta": {
             "name": "110 Weezing",
@@ -189,9 +476,16 @@
         }
     },
     {
-        "id": "308f494e9665a9a607ad0e00e7d50ac543043dc3a2d375d899a01a8f0f20d6dai0",
+        "id": "525c8adc17a750740575729c5cad0520e675cdd75b364480f790fedc10eb7e9ei0",
         "meta": {
-            "name": "109 Koffing",
+            "name": "115 Kangaskhan",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "09c036d61366a503c255828a73c30466f20827e067e6fb58b26652812fc0fa4ci0",
+        "meta": {
+            "name": "116 Horsea",
             "status": "Founders Edition, exclusive"
         }
     },
@@ -212,7 +506,7 @@
     {
         "id": "42ec7dc23556712749cb710805f6e5878c58d442c52c8a4fee1c55b191d7a8d8i0",
         "meta": {
-            "name": "120 Starmie",
+            "name": "121 Starmie",
             "status": "Founders Edition, exclusive"
         }
     },
@@ -220,6 +514,27 @@
         "id": "bcf63a446b2b3423a074ac46fa7ff246d678cc2b0894ca13b15befa116a23303i0",
         "meta": {
             "name": "122 Mr. Mime",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "229fa8482b5b59fec8b0deee1db6cfc7552526a00f2a3adedbfebae623a30494i0",
+        "meta": {
+            "name": "124 Jynx",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "949c61729121e256ad9ec244a451d50ec988035bbe3d59ba553a0db12af26c9ci0",
+        "meta": {
+            "name": "126 Magmar",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "919415df0814f091092cf5f7b61d2ddcfdb93357127f43ccd1ec387e7ec66ef3i0",
+        "meta": {
+            "name": "130 Gyarados",
             "status": "Founders Edition, exclusive"
         }
     },
@@ -233,7 +548,21 @@
     {
         "id": "ff736159267fb32c18397e78223af00319bde1727949ae31716343ab036af40ci0",
         "meta": {
-            "name": "133 Ditto",
+            "name": "132 Ditto",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "9abc7a0025faddee0fcb53ac479bd0385b49bfee2d70a9e8348c385251e841d6i0",
+        "meta": {
+            "name": "133 Eevee",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "39266167f615fb3541a52c903b00526dd04298670197315965a4495c0bbc3fcai0",
+        "meta": {
+            "name": "134 Vaporeon",
             "status": "Founders Edition, exclusive"
         }
     },
@@ -245,9 +574,37 @@
         }
     },
     {
+        "id": "cc0b4439add53262371127f7a672383e81979cea38c2f78acda2b16649ecd697i0",
+        "meta": {
+            "name": "136 Flareon",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
         "id": "0eb5e784e64f234fd47fe733ebd20dc2de28829a050c8ca414f82a916426baadi0",
         "meta": {
             "name": "138 Omanyte",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "e86532165a8dbed5d5077c9441b8612df670da7c956a8c8de1f54f451a609971i0",
+        "meta": {
+            "name": "139 Omastar",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "d8c9c2c81987df65c730d0dc2046d70d9dea260ac77f15252bd051b820e83575i0",
+        "meta": {
+            "name": "140 Kabuto",
+            "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "ff321c6d2c988dca7f991238b9e52a6ecff85224c3e4af9c07d29cd877f4d5e4i0",
+        "meta": {
+            "name": "142 Aerodactyl",
             "status": "Founders Edition, Exclusive"
         }
     },
@@ -276,6 +633,13 @@
         "id": "282c71dfe75288e84223cca082fbc879dcd027335133ff4b7d51cfff060595afi0",
         "meta": {
             "name": "146 Moltres",
+            "status": "Founders Edition, Legendary"
+        }
+    },
+    {
+        "id": "7f5e13ce24e7d4d07010e16dfd7932fb8e698c75c0ca1da9928f1a4a1604a22ei0",
+        "meta": {
+            "name": "148 Dragonair",
             "status": "Founders Edition, Legendary"
         }
     },
@@ -364,10 +728,38 @@
         }
     },
     {
+        "id": "9a9b428b8b88d3b8ae7871e5c7b7353c357cdfe9e8aaeae28395e2d38ba32d70i0",
+        "meta": {
+            "name": "161 Sentret",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "8124d590c32d6801cd5bcb94f7a5b75b536e96bca73b256fa2e584cc0e0f30d0i0",
+        "meta": {
+            "name": "162",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "18eec30c6f675e8fcc2ac585ee90561893d717aafb46e156b660a484317945aci0",
+        "meta": {
+            "name": "163 Hoothoot",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
         "id": "d2fbcf557fb003eaa003bffd16698878709ec7cbd703bdba70c8d7b1ed686871i0",
         "meta": {
             "name": "164 Noctowl",
             "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "dbac23931570d8782dbef17a71f1a9a34b0753af0b87a03d8cd977db7a2741f1i0",
+        "meta": {
+            "name": "168 Ariados",
+            "status": "Founders Edition, exclusive"
         }
     },
     {
@@ -378,10 +770,80 @@
         }
     },
     {
+        "id": "252ed74692e6c2b9f23411af693b94321f4db925cbc999e16ec20b0a48b9c2b8i0",
+        "meta": {
+            "name": "174 Igglybuff",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "c6223406f581409639e5128a714bec2612e408275cc245509fbfdd27a63857cci0",
+        "meta": {
+            "name": "175 Togepi",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "f96169d83d3f432dc7571aa482f1d11383af5de7a75025ebfcc8bd012779efdei0",
+        "meta": {
+            "name": "176 Togetic",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "c3162a17fe5ffeff53eaa72a6a9352d0137ed5e4df8d536a9dca1bb45a6267a7i0",
+        "meta": {
+            "name": "178 Xatu",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "b1957af646944ff320bf3b78506e73958638339f50b16b79347487f6561ddbcdi0",
+        "meta": {
+            "name": "183 Marill",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "588416b5576b2d6c35995bbadec91f7b41211563fef61fd24081136dc96df548i0",
+        "meta": {
+            "name": "185 Sudowoodo",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "6fbdf19661d24317fcc5741efe7886c136e769c8947e815e1965b2d1cece75d4i0",
+        "meta": {
+            "name": "194 Wooper",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
         "id": "a40752501b55f9342cc7bf326842816d2a98266e2fe8a55a816515efcac75b4ei0",
         "meta": {
             "name": "196 Espeon",
             "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "f059c8a01a42e7366f75887f9e6c9a6c7465ac13aab234022180c62945de8680i0",
+        "meta": {
+            "name": "197 Umbreon",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "42e187a9a32dd6aba5371c528e4b45cb8c96df7540cc74b9ee4e3011db93fe4ci0",
+        "meta": {
+            "name": "199 Slowking",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "00fd93008384e488dd2a991533c8d39f2f1cd9fc1fe8302e5b4c4c10f56aa338i0",
+        "meta": {
+            "name": "200 Misdreavus",
+            "status": "Founders Edition, exclusive"
         }
     },
     {
@@ -399,10 +861,52 @@
         }
     },
     {
+        "id": "1e8f439474b058b07487d9d7a1c1a331d096a80abe59846003a6603cc6702546i0",
+        "meta": {
+            "name": "203 Girafarig",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "6f83e488c478d44b4b9688f806c370451190911663e960f0dc27047c2300922di0",
+        "meta": {
+            "name": "208 Steelix",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "75a18cd5d97a090c66a13fd6e4960fdc2e8dcc233076974d8d64acf848d52264i0",
+        "meta": {
+            "name": "209 Snubbull",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
         "id": "02e88a5bd0b73fb90435faa3e3b75cb4d2a1f13d2cf07f221d5fe99fbb4f5ea8i0",
         "meta": {
             "name": "212 Scizor",
             "status": "Founders Edition, Exclusive"
+        }
+    },
+    {
+        "id": "bb3e751325220ac2dc74da0965d5ec6ed63e2fb573b1a5526b0c7da28c3f93fai0",
+        "meta": {
+            "name": "217 Ursaring",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "9fcdce705f38d996244ff64365f97bb6e2ebf388012f61ed4028f24b8ccb35b8i0",
+        "meta": {
+            "name": "225 Delibird",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "16decfe688ee00c6a2b608a3dbf4ea265f9b1ea75f4466e843ca4df1a6210604i0",
+        "meta": {
+            "name": "228 Houndour",
+            "status": "Founders Edition, exclusive"
         }
     },
     {
@@ -413,10 +917,52 @@
         }
     },
     {
+        "id": "2990cfcf19daeb03b0c8898208fd4f76a1315df85abb3e6d5957958ac5d628c4i0",
+        "meta": {
+            "name": "230 Kingdra",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "8097957ef7efdac5123dcfebaa13c5140ea2e067c837dbe72197122bc217388fi0",
+        "meta": {
+            "name": "233 Porygon2",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "e616f765ea008fd780c4d9cae9c1e6abcf08a7a818cb12e27c95986a21d0ddf1i0",
+        "meta": {
+            "name": "234 Stantler",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
         "id": "df88f3db70ad7360645cd64288c7e02336aba603fc3969e6598b20c0939493ddi0",
         "meta": {
             "name": "235 Smeargle",
             "status": "Founders Edition,Rare"
+        }
+    },
+    {
+        "id": "e29dd1970458d938b63e12c26791292ca3ff55eb09f4ea75107bc54494bf9e99i0",
+        "meta": {
+            "name": "236 Tyrogue",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "1fdfca7b5b4f371ea9c09cc4fb04f2ccbb9f5b1ed129d2a271814ee3ec69667fi0",
+        "meta": {
+            "name": "241 Miltank",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "f19660fa6d2a4966b9d9f792789b50773d512640d2c54e5d73520d301af7d60ei0",
+        "meta": {
+            "name": "242 Blissey",
+            "status": "Founders Edition, exclusive"
         }
     },
     {
@@ -438,6 +984,20 @@
         "meta": {
             "name": "245 Suicune",
             "status": "Founders Edition, Legendary"
+        }
+    },
+    {
+        "id": "e03a22aad97da5dca13d2ae2f52f938be177af830b7f81e41e12e649aba458d3i0",
+        "meta": {
+            "name": "246 Larvitar",
+            "status": "Founders Edition, exclusive"
+        }
+    },
+    {
+        "id": "cdb7e2738f46a2a55f539d2381ed6265f084d6dd825d5c763d5a72594e2594f9i0",
+        "meta": {
+            "name": "247 Pupitar",
+            "status": "Founders Edition, exclusive"
         }
     },
     {
