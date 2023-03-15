@@ -1,7 +1,7 @@
 import os
 import json
 
-COLLECTIONS = "../collections"
+COLLECTIONS = "./collections"
 
 
 def test_home_structure():
@@ -81,26 +81,12 @@ def test_uniqueness():
     # add new collections
     all_inscription_ids = []
     for collection in input_collections:
-      with open("{}/{}/inscriptions.json".format(COLLECTIONS, collection), "r", encoding='utf-8') as file:
+      with open("{}/{}/inscriptions.json".format(COLLECTIONS, collection), "r") as file:
         inscriptions = json.load(file)
       inscription_ids = []
       for x in inscriptions:
         inscription_ids.append(x.get('id'))
       all_inscription_ids = all_inscription_ids + inscription_ids
       duplicates = len(all_inscription_ids) - len(set(all_inscription_ids))
-      if duplicates != 0:
-
-          # duplicates = list(set([x for x in all_inscription_ids if all_inscription_ids.count(x) > 1]))
-          if collection == "ordinal-mini-doges":
-              unique_items = set()
-              duplicates = set()
-
-              for item in all_inscription_ids:
-                  if item in unique_items:
-                      duplicates.add(item)
-                  else:
-                      unique_items.add(item)
-              breakpoint()
-          print(f'bad collection ! {collection}')
-          assert 1 == 1
-      pass
+      assert duplicates == 0
+      
