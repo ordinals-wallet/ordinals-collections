@@ -33,7 +33,8 @@ const allowList = [
   'cyber-ordinals',
   'ordinal-shards',
   'ordinal-birds',
-  'megapunks'
+  'megapunks',
+  'twelvefold'
 ];
 
 async function promiseAllInBatches(task, items, batchSize) {
