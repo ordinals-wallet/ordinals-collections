@@ -4,3 +4,5 @@ env/*
 tests/__pycache__/*
 scripts/*
 .DS_Store
+collections/bitcoin-pfp/inscriptions.json
+collections/bitcoin-pfp/meta.json
