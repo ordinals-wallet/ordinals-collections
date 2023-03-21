@@ -10,6 +10,7 @@ const allowList = [
   "bitcoin-boos",
   "bitcoin-frogs",
   "bitcoin-ghcrystals",
+  "bitcoin-punks",
   "bitcoin-wizards",
   "bitcoinswords",
   "bitcorns",
@@ -18,6 +19,7 @@ const allowList = [
   "chainspace",
   "cyber-ordinals",
   "degods",
+  "dogepunks",
   "eldersofcrypto",
   "extraordinal-punks",
   "glyphs",
@@ -64,7 +66,7 @@ const allowList = [
   "wtf-tokyo-ord",
   "xcopy-grifters",
   "xcpinata"
-];
+]
 
 async function promiseAllInBatches(task, items, batchSize) {
   let position = 0;
