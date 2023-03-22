@@ -7,6 +7,7 @@ const allowList = [
   "banksy-star-set1",
   "bbgc",
   "benjamins-cartel-btc",
+  "bitcoinapes",
   "bitcoin-boos",
   "bitcoin-frogs",
   "bitcoin-ghcrystals",
@@ -81,7 +82,7 @@ async function promiseAllInBatches(task, items, batchSize) {
   return results;
 }
 
-(async () => {
+export const addInscriptionNumbers = async () => {
   for(let collection of allowList) {
     console.log(collection);
     let filePath = `../collections/${collection}/inscriptions.json`;
@@ -99,10 +100,10 @@ async function promiseAllInBatches(task, items, batchSize) {
         failed = true;
         if(attempts > 0) return task(inscription, attempts-1);
       }
-      if(!failed) inscription['number'] = json.num;
+      if(!failed) inscription['number'] = json.num?.toString();
       return inscription;
     };
     let transformedInscriptions = await promiseAllInBatches(task, inscriptions, 500);
     fs.writeFileSync(filePath, JSON.stringify(transformedInscriptions, null, 2));
   }
-})();
+};

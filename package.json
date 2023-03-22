@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/SwapLabsInc/ordinals-collections#readme",
   "dependencies": {
+    "api": "^5.0.8",
     "node-fetch": "^3.3.0"
   }
 }

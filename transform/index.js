@@ -1,5 +1,14 @@
 import fs from 'fs';
 import fetch from 'node-fetch';
+import api from 'api';
+import { addInscriptionNumbers } from './numbers.js';
+
+const sdk = api('@reservoirprotocol/v2.0#9dy1olfh4mtzp');
+sdk.auth('demo-api-key');
+
+const delay = ms => {
+  return new Promise(res => setTimeout(res, ms))
+}
 
 let toTransform = [
   {
@@ -70,6 +79,20 @@ let toTransform = [
     },
     inscriptions: await fetch('https://turbo.ordinalswallet.com/wallet/bc1pshdmgmkt6pgw56mz94h5y2at4ryuug0ehpz8vg3lnf90xxkr356sjcazc7/inscriptions').then(res => res.json()),
     method: 'twelvefold'
+  },
+  {
+    meta: {
+      name: 'Bitcoin Apes',
+      inscription_icon: 'db1593d1991ae3a28a6b6cf25d418f08ac74700971253bdf4312009ca76b3ed7i0',
+      supply: '10000',
+      slug: 'bitcoinapes',
+      description: 'Bitcoin Apes are byte-perfect inscriptions of the original Bored Ape Yacht Club to the Bitcoin blockchain using Ordinals',
+      twitter_link: 'https://twitter.com/BitcoinApes_',
+      discord_link: 'https://discord.gg/bitcoin-apes',
+      website_link: 'https://bitcoinapes.com/'
+    },
+    inscriptions: {},
+    method: 'bitcoinapes'
   }
 ]
 
@@ -109,6 +132,8 @@ let transformMethods = {
     return collection.inscriptions;
   },
   ['twelvefold']: async (collection) => {
+    return;
+
     let transformed = [];
 
     let toSkip = [
@@ -166,11 +191,70 @@ let transformMethods = {
       });
     };
     return transformed;
+  },
+  ['bitcoinapes']: async (collection) => {
+    let transformed = [];
+    let dir = '../collections/'+collection.meta.slug;
+    let attributes = {};
+
+    if(!fs.existsSync(dir+'/attributes.json')) {
+      let continuation;
+      let first = true;
+
+      while(continuation || first) {
+        let response = await sdk.getTokensV5({
+          collection: '0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d',
+          includeAttributes: 'true',
+          accept: '*/*',
+          limit: 100,
+          continuation: continuation
+        });
+
+        for(let tokenItem of response.data.tokens) {
+          let tokenAttributes = [];
+          for(let attribute of tokenItem.token.attributes) {
+            tokenAttributes.push({
+              trait_type: attribute.key,
+              value: attribute.value
+            });
+          }
+          attributes[tokenItem.token.tokenId] = tokenAttributes;
+        }
+
+        continuation = response.data.continuation;
+        first = false;
+        console.log(Object.keys(attributes).length);
+        await delay(100);
+      }
+
+      fs.writeFileSync(dir+'/attributes.json', JSON.stringify(attributes));
+    } else {
+      attributes = JSON.parse(fs.readFileSync(dir+'/attributes.json'));
+    }
+
+    let response = await fetch('https://ordinals.hasura.app/api/rest/bitcoinapes_inscription_provenance').then(res => res.json());
+    let provenance = response['provenance'];
+
+    for(let inscription of provenance) {
+      let itemAttributes = attributes[inscription['token_id'].toString()];
+      if(inscription['inscriptions'].length == 0) continue;
+
+      transformed.push({
+        id: inscription['inscriptions'][0]['inscription']['id'],
+        meta: {
+          name: "Ape #"+inscription['token_id'],
+          attributes: itemAttributes
+        }
+      });
+    }
+
+    return transformed;
   }
 };
 
 (async () => {
   for(let collection of toTransform) {
+    console.log("Transforming "+collection.meta.slug);
     let meta = collection.meta;
     let dir = '../collections/'+meta.slug;
     if(!fs.existsSync(dir)) fs.mkdirSync(dir);
@@ -179,6 +263,8 @@ let transformMethods = {
     let method = transformMethods[collection.method];
     let transformed = await method(collection);
 
-    fs.writeFileSync(dir+"/inscriptions.json", JSON.stringify(transformed));
+    if(transformed) fs.writeFileSync(dir+"/inscriptions.json", JSON.stringify(transformed));
   }
+
+  await addInscriptionNumbers();
 })();
