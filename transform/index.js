@@ -86,7 +86,7 @@ let toTransform = [
       inscription_icon: 'db1593d1991ae3a28a6b6cf25d418f08ac74700971253bdf4312009ca76b3ed7i0',
       supply: '10000',
       slug: 'bitcoinapes',
-      description: 'Bitcoin Apes are byte-perfect inscriptions of the original Bored Ape Yacht Club to the Bitcoin blockchain using Ordinals',
+      description: 'BITCOIN APES are byte-perfect inscriptions of the original Bored Ape Yacht Club to the Bitcoin blockchain using Ordinals. They are fully on-chain, Bitcoin native, and completely decentralized digital artifacts.',
       twitter_link: 'https://twitter.com/BitcoinApes_',
       discord_link: 'https://discord.gg/bitcoin-apes',
       website_link: 'https://bitcoinapes.com/'
@@ -258,12 +258,12 @@ let transformMethods = {
     let meta = collection.meta;
     let dir = '../collections/'+meta.slug;
     if(!fs.existsSync(dir)) fs.mkdirSync(dir);
-    fs.writeFileSync(dir+"/meta.json", JSON.stringify(meta));
+    fs.writeFileSync(dir+"/meta.json", JSON.stringify(meta, undefined, 2));
 
     let method = transformMethods[collection.method];
     let transformed = await method(collection);
 
-    if(transformed) fs.writeFileSync(dir+"/inscriptions.json", JSON.stringify(transformed));
+    if(transformed) fs.writeFileSync(dir+"/inscriptions.json", JSON.stringify(transformed, undefined, 2));
   }
 
   await addInscriptionNumbers();
