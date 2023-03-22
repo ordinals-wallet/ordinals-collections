@@ -1,134 +1,734 @@
 [
-  {
-    "id": "11dba87aa063284eceed571a5fd3acabe21fe419f06874c7773774c3a725a600i0",
-    "meta": {
-      "name": "Ordinal Frog #1",
-      "attributes": [
-        {
-          "trait_type": "Eyewear",
-          "value": "Specs"
-        },
-        {
-          "trait_type": "Eyes",
-          "value": "Dollars"
-        },
-        {
-          "trait_type": "Clothing",
-          "value": "BTC Hoodie"
-        },
-        {
-          "trait_type": "Body",
-          "value": "Orange"
-        },
-        {
-          "trait_type": "Background",
-          "value": "Blue#5"
+    {
+      "id": "11dba87aa063284eceed571a5fd3acabe21fe419f06874c7773774c3a725a600i0",
+      "meta": {
+        "name": "Ordinal Frog #1",
+        "attributes": [
+            {
+              "trait_type": "Eyewear",
+              "value": "Specs"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Dollars"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "BTC Hoodie"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Orange"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Blue#5"
+            }
+          ]
+      }
+    },
+    {
+        "id": "cf35cd663b84d5c522af941dd5e6163d030d39838345e330eb473b87a1ade600i0",
+        "meta": {
+          "name": "Ordinal Frog #2",
+          "attributes": [
+            {
+              "trait_type": "Eyewear",
+              "value": "Specs"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Mohawk"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Dollars"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Red"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Red#15"
+            }
+          ]
         }
-      ]
-    }
-  },
-  {
-    "id": "cf35cd663b84d5c522af941dd5e6163d030d39838345e330eb473b87a1ade600i0",
-    "meta": {
-      "name": "Ordinal Frog #2",
-      "attributes": [
-        {
-          "trait_type": "Eyewear",
-          "value": "Specs"
-        },
-        {
-          "trait_type": "Head",
-          "value": "Mohawk"
-        },
-        {
-          "trait_type": "Eyes",
-          "value": "Dollars"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Smile"
-        },
-        {
-          "trait_type": "Body",
-          "value": "Red"
-        },
-        {
-          "trait_type": "Background",
-          "value": "Red#15"
+    },
+    {
+        "id": "08e59cb09450ef5e701fbb8bc6868c10eb534d51c93d352a95091eaa1a1fc101i0",
+        "meta": {
+          "name": "Ordinal Frog #3",
+          "attributes": [
+            {
+              "trait_type": "Eyewear",
+              "value": "Visor"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Halo"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Happy"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Laser"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "Cybersuit"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Black"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Btc Background#50"
+            }
+          ]
         }
-      ]
-    }
-  },
-  {
-    "id": "08e59cb09450ef5e701fbb8bc6868c10eb534d51c93d352a95091eaa1a1fc101i0",
-    "meta": {
-      "name": "\"Ordinal Frog #3",
-      "attributes": [
-        {
-          "trait_type": "Eyewear",
-          "value": "Visor"
-        },
-        {
-          "trait_type": "Head",
-          "value": "Halo"
-        },
-        {
-          "trait_type": "Eyes",
-          "value": "Happy"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Laser"
-        },
-        {
-          "trait_type": "Clothing",
-          "value": "Cybersuit"
-        },
-        {
-          "trait_type": "Body",
-          "value": "Black"
-        },
-        {
-          "trait_type": "Background",
-          "value": "Btc Background#50"
+    },
+    {
+        "id": "b80e7a4716c4689540f651883e8ec5c937ea98d0aeb544fc2938a428bca9d104i0",
+        "meta": {
+          "name": "Ordinal Frog #4",
+          "attributes": [
+            {
+              "trait_type": "Eyewear",
+              "value": "Specs"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Btc Machine"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Happy"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Tongue"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "Suit"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Purple"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Red#15"
+            }
+          ]
         }
-      ]
-    }
-  },
-  {
-    "id": "b80e7a4716c4689540f651883e8ec5c937ea98d0aeb544fc2938a428bca9d104i0",
-    "meta": {
-      "name": "Ordinal Frog #4",
-      "attributes": [
-        {
-          "trait_type": "Eyewear",
-          "value": "Specs"
-        },
-        {
-          "trait_type": "Head",
-          "value": "Btc Machine"
-        },
-        {
-          "trait_type": "Eyes",
-          "value": "Happy"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Tongue"
-        },
-        {
-          "trait_type": "Clothing",
-          "value": "Suit"
-        },
-        {
-          "trait_type": "Body",
-          "value": "Purple"
-        },
-        {
-          "trait_type": "Background",
-          "value": "Red#15"
+    },
+    {
+        "id": "5f4c83fad9de403a6d65a6b24b7be1949ffad3b899f300ff662203792f3b8d08i0",
+        "meta": {
+          "name": "Ordinal Frog #5",
+          "attributes": [
+            {
+              "trait_type": "Eyes",
+              "value": "Regular"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "Suit"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Green"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Btc Background#50"
+            }
+          ]
         }
-      ]
+    },
+    {
+        "id": "d37be1ded1f376bfa81b4fa2e711e40f2e0b413d3499d412730304714ee4a009i0",
+        "meta": {
+          "name": "Ordinal Frog #6",
+          "attributes": [
+            {
+              "trait_type": "Eyewear",
+              "value": "Small Specs"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Halo"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Happy"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Tongue"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Green"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Yellow#5"
+            }
+          ]
+        }
+    },
+    {
+        "id": "45aa21e901fda7b5efae3e1be7e1ad808e07483ee7b6add877834233f349500bi0",
+        "meta": {
+          "name": "Ordinal Frog #7",
+          "attributes": [
+            {
+              "trait_type": "Eyes",
+              "value": "Cosmic"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "BTC Hoodie"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Green"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Btc Background#50"
+            }
+          ]
+        }
+    },
+    {
+        "id": "69e1a12c23233d51e5a9ce294d20bd881e5f0d5b22d2b2d5eb7d257d76f2bb0bi0",
+        "meta": {
+          "name": "Ordinal Frog #8",
+          "attributes": [
+            {
+              "trait_type": "Eyes",
+              "value": "Cosmic"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "BTC Hoodie"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Green"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Btc Background#50"
+            }
+          ]
+        }
+    },
+    {
+        "id": "69e1a12c23233d51e5a9ce294d20bd881e5f0d5b22d2b2d5eb7d257d76f2bb0bi0",
+        "meta": {
+          "name": "Ordinal Frog #8",
+          "attributes": [
+            {
+              "trait_type": "Eyes",
+              "value": "Cosmic"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "BTC Hoodie"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Green"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Btc Background#50"
+            }
+          ]
+        }
+    },
+    {
+        "id": "24d2044440a453e8d24e6d08c532df207c70c7f4c47d6a7b61adca539f871f0ei0",
+        "meta": {
+          "name": "Ordinal Frog #9",
+          "attributes": [
+            {
+              "trait_type": "Eyewear",
+              "value": "Small Specs"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Empty Eyes"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Laser"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "Suit"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Black"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Red#15"
+            }
+          ]
+        }
+    },
+    {
+        "id": "4acbd9935bc3738169d573bc928d8e490b82b00319b1342b6f1348453722340fi0",
+        "meta": {
+          "name": "Ordinal Frog #10",
+          "attributes": [
+            {
+              "trait_type": "Eyewear",
+              "value": "Specs"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Btc Machine"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Happy"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Tongue"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "Suit"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Purple"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Red#15"
+            }
+          ]
+        }
+    },
+    {
+        "id": "25fd22740d3b3d3917598320c6f42e6f4279ba5cb1cf9a64005bf842bde92b12i0",
+        "meta": {
+          "name": "Ordinal Frog #11",
+          "attributes": [
+            {
+              "trait_type": "Eyes",
+              "value": "Happy"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Green"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Yellow#5"
+            }
+          ]
+        }
+    },
+    {
+        "id": "ce41016e33f11fba813a5c9ae07842f4fd37c36a40a30a6231404409d3e1b916i0",
+        "meta": {
+          "name": "Ordinal Frog #12",
+          "attributes": [
+            {
+              "trait_type": "Eyewear",
+              "value": "Small Specs"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Happy"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "Suit"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Red"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Blue#5"
+            }
+          ]
+        }
+    },
+    {
+        "id": "d004943d57da17b8db31cedfcd7daf76db38e2b048d5feaec3706f495761c818i0",
+        "meta": {
+          "name": "Ordinal Frog #13",
+          "attributes": [
+            {
+              "trait_type": "Eyes",
+              "value": "Dollars"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Tongue"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Red"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Yellow#5"
+            }
+          ]
+        }
+    },
+    {
+        "id": "ca514da2d4e9e809b1e9515af61d9cd411f9feccc4f49f0e47e8b9570d7c3619i0",
+        "meta": {
+          "name": "Ordinal Frog #14",
+          "attributes": [
+            {
+              "trait_type": "Eyewear",
+              "value": "Small Specs"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Btc Machine"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Regular"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Red"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Purple#10"
+            }
+          ]
+        }
+    },
+    {
+        "id": "84f013a56dae6c5942dfaeb37075160229452c8f50c9021283873a2b8a20a81bi0",
+        "meta": {
+          "name": "Ordinal Frog #15",
+          "attributes": [
+            {
+              "trait_type": "Eyewear",
+              "value": "Eyepatch"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Halo"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Happy"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Purple"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Blue#5"
+            }
+          ]
+        }
+    },
+    {
+        "id": "92a6e3bc276e04df5c07691a154c5d6c4b1c5dc7d321788fe27d71cdc2f5c41bi0",
+        "meta": {
+          "name": "Ordinal Frog #16",
+          "attributes": [
+            {
+              "trait_type": "Eyewear",
+              "value": "Specs"
+            },
+            {
+              "trait_type": "Head",
+              "value": "Btc Pack"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Cosmic"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Rainbow Puke"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "Suit"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Green"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Btc Background#50"
+            }
+          ]
+        }
+    },
+    {
+        "id": "9a647516d2269977939228d8f4b47bf30b0a2d7de563334162f99ca9b729d81bi0",
+        "meta": {
+          "name": "Ordinal Frog #17",
+          "attributes": [
+            {
+              "trait_type": "Eyewear",
+              "value": "Small Specs"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Happy"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "Suit"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Blue"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Purple#10"
+            }
+          ]
+        }
+    },
+    {
+        "id": "fa69f75a7c08c769d9c8f3c07b0fdf172f9474d087b8f2209a90cc9a518abd21i0",
+        "meta": {
+          "name": "Ordinal Frog #18",
+          "attributes": [
+            {
+              "trait_type": "Head",
+              "value": "Halo"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Happy"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Purple"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Red#15"
+            }
+          ]
+        }
+    },
+    {
+        "id": "03815132cacbd3e79e7f0240b453a30a556c2486751ce2186e7c104597681625i0",
+        "meta": {
+          "name": "Ordinal Frog #19",
+          "attributes": [
+            {
+              "trait_type": "Eyes",
+              "value": "Happy"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "Suit"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Blue"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Yellow#5"
+            }
+          ]
+        }
+    },
+    {
+        "id": "0eda030a30b21a5e4c0fa5888929ce155ee84b0cf38f33d59a2974a0d2a24736i0",
+        "meta": {
+          "name": "Ordinal Frog #20",
+          "attributes": [
+            {
+              "trait_type": "Eyewear",
+              "value": "Specs"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Empty Eyes"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "BTC Hoodie"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Orange"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Yellow#5"
+            }
+          ]
+        }
+    },
+    {
+        "id": "a68d41e78ae48844b9321116e588881efb07cb103ff7711f7554b024307d4f36i0",
+        "meta": {
+          "name": "Ordinal Frog #21",
+          "attributes": [
+            {
+              "trait_type": "Eyes",
+              "value": "Happy"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "BTC Hoodie"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Red"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Purple#10"
+            }
+          ]
+        }
+    },
+    {
+        "id": "51a08f97a4bc5be615ea6f891b7f1be1094d475cd0ab0a366109ee7bced6cd36i0",
+        "meta": {
+          "name": "Ordinal Frog #22",
+          "attributes": [
+            {
+              "trait_type": "Head",
+              "value": "Mohawk"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Btc Eyes"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "Suit"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Blue"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Blue#5"
+            }
+          ]
+        }
+    },
+    {
+        "id": "be7ddfd63cf6865f88ac5a9a94cc3e9740ecbb00cf74212b49bc275f47f7b23ai0",
+        "meta": {
+          "name": "Ordinal Frog #23",
+          "attributes": [
+            {
+              "trait_type": "Head",
+              "value": "Btc Machine"
+            },
+            {
+              "trait_type": "Eyes",
+              "value": "Regular"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Red"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Red#15"
+            }
+          ]
+        }
+    },
+    {
+        "id": "7e0856db5d66951d503caf7a6943cf705735cc8eddda518be5c0796c1ec5bd3di0",
+        "meta": {
+          "name": "Ordinal Frog #24",
+          "attributes": [
+            {
+              "trait_type": "Eyes",
+              "value": "Empty Eyes"
+            },
+            {
+              "trait_type": "Mouth",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "Clothing",
+              "value": "BTC Hoodie"
+            },
+            {
+              "trait_type": "Body",
+              "value": "Orange"
+            },
+            {
+              "trait_type": "Background",
+              "value": "Purple#10"
+            }
+          ]
+        }
     }
-  }
-]
+  ]
