@@ -213,6 +213,7 @@ let transformMethods = {
         for(let tokenItem of response.data.tokens) {
           let tokenAttributes = [];
           for(let attribute of tokenItem.token.attributes) {
+            if(attribute.key == 'ApeCoin Staked') continue;
             tokenAttributes.push({
               trait_type: attribute.key,
               value: attribute.value
@@ -242,7 +243,7 @@ let transformMethods = {
       transformed.push({
         id: inscription['inscriptions'][0]['inscription']['id'],
         meta: {
-          name: "Ape #"+inscription['token_id'],
+          name: "Bitcoin Ape #"+inscription['token_id'],
           attributes: itemAttributes
         }
       });
