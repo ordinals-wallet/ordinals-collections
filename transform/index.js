@@ -10,6 +10,11 @@ const delay = ms => {
   return new Promise(res => setTimeout(res, ms))
 }
 
+const getDirectories = source =>
+  fs.readdirSync(source, { withFileTypes: true })
+    .filter(dirent => dirent.isDirectory())
+    .map(dirent => dirent.name)
+
 let toTransform = [
   {
     meta: {
@@ -129,6 +134,8 @@ let transformMethods = {
     return transformed;
   },
   ['sub10k']: (collection) => {
+    return;
+
     return collection.inscriptions;
   },
   ['twelvefold']: async (collection) => {
@@ -253,6 +260,10 @@ let transformMethods = {
   }
 };
 
+let listCollections = () => {
+  fs.writeFileSync('../collections.json', JSON.stringify(getDirectories('../collections/')));
+};
+
 (async () => {
   for(let collection of toTransform) {
     console.log("Transforming "+collection.meta.slug);
@@ -268,4 +279,6 @@ let transformMethods = {
   }
 
   await addInscriptionNumbers();
+
+  await listCollections();
 })();
