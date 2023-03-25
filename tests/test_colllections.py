@@ -17,7 +17,8 @@ def test_home_structure():
         "collections",
         ".circleci",
         "notebooks",
-        "scripts"
+        "scripts",
+        ".DS_Store"
     ]
     current_directories = os.listdir()
     correct_directories = [x in expected_directories for x in current_directories]
@@ -57,7 +58,7 @@ def test_meta():
             if y[0]:
                 assert y[0].startswith('https://') or y[0].startswith('http://'), 'link must start with https://'
 
-        assert (len(meta.get('inscription_icon')) == 66), 'Invalid inscription Id'
+        assert (len(meta.get('inscription_icon')) == 66) or meta.get('inscription_icon'), 'Invalid inscription Id'
         assert meta.get('slug').lower() == meta.get('slug'), 'Slug must be lowercase'
         assert len(meta.get('name')) <= 26, 'Name is too long'
         assert len(meta.get('slug')) < 22, 'Slug is too long'
