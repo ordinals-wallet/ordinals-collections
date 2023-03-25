@@ -2852,7 +2852,7 @@
     }
   },
   {
-    "id": "51bff274913fd162df0db64fa98d67c86a5b47dc6f75487660aa4ab1314f3a9ai0",
+    "id": "5ef9990bf245142eda34806609cc391e130be8dc24ff4754ec1a8aed768c472di0",
     "meta": {
       "name": "Degen Krew #106",
       "attributes": [
@@ -2907,6 +2907,30 @@
         {
           "trait_type": "Clothing",
           "value": "Gray Tracksuit"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8b5d7bc2dc252714dceecaff6e1204b1d3086d444bd2a07b03fbbb4a5159524ai0",
+    "meta": {
+      "name": "Degen Krew #108",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Gray"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Black"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Tooth"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Biker"
         }
       ]
     }
