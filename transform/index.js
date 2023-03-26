@@ -98,6 +98,20 @@ let toTransform = [
     },
     inscriptions: {},
     method: 'bitcoinapes'
+  },
+  {
+    meta: {
+      name: "BTC Moonbirds",
+      inscription_icon: "7759178ad2ffd189642f94e6753fa036f5e2bcf9a866516f08368e56ba230225i0",
+      supply: "10000",
+      slug: "bitcoin-moonbirds",
+      description: "Bitcoin Moonbirds are byte-perfect inscriptions of the original Moonbirds 42 x 42 pixel art to the Bitcoin blockchain using Ordinals. They are fully on-chain, Bitcoin native, and completely decentralized digital artifacts.",
+      twitter_link: "https://twitter.com/btcmoonbirds_",
+      discord_link: "https://discord.gg/bitcoinmoonbirds",
+      website_link: "https://btcmoonbirds.com/"
+    },
+    inscriptions: JSON.parse(fs.readFileSync('../collections/bitcoin-moonbirds/inscriptions.json')),
+    method: 'bitcoin-moonbirds'
   }
 ]
 
@@ -200,6 +214,7 @@ let transformMethods = {
     return transformed;
   },
   ['bitcoinapes']: async (collection) => {
+    return;
     let transformed = [];
     let dir = '../collections/'+collection.meta.slug;
     let attributes = {};
@@ -257,6 +272,15 @@ let transformMethods = {
     }
 
     return transformed;
+  },
+  ['bitcoin-moonbirds']: async (collection) => {
+    let transformed = [];
+    let i = 0;
+    for(let inscription of collection.inscriptions) {
+      transformed.push(Object.assign(inscription, { meta: { name: 'Bitcoin Moonbirds #'+i, attributes: inscription.meta.attributes } }));
+      i++;
+    }
+    return transformed;
   }
 };
 
@@ -270,7 +294,7 @@ let listCollections = () => {
     let meta = collection.meta;
     let dir = '../collections/'+meta.slug;
     if(!fs.existsSync(dir)) fs.mkdirSync(dir);
-    fs.writeFileSync(dir+"/meta.json", JSON.stringify(meta, undefined, 2));
+    if(meta) fs.writeFileSync(dir+"/meta.json", JSON.stringify(meta, undefined, 2));
 
     let method = transformMethods[collection.method];
     let transformed = await method(collection);
