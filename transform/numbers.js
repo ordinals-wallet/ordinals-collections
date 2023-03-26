@@ -25,7 +25,7 @@ export const addInscriptionNumbers = async () => {
     console.log(collection);
     let filePath = `../collections/${collection}/inscriptions.json`;
     let inscriptions = JSON.parse(fs.readFileSync(path.resolve(__dirname, filePath)));
-    let task = async (inscription, attempts=5) => {
+    let task = async (inscription, attempts=3) => {
       if(inscription?.['number']) {
         inscription['number'] = inscription['number'].toString();
         return inscription;

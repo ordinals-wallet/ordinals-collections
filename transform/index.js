@@ -286,7 +286,7 @@ let transformMethods = {
 };
 
 let listCollections = () => {
-  fs.writeFileSync(path.resolve(__dirname, '../collections.json'), JSON.stringify(path.resolve(__dirname, getDirectories('../collections/')), undefined, 2));
+  fs.writeFileSync(path.resolve(__dirname, '../collections.json'), JSON.stringify(getDirectories('../collections/'), undefined, 2));
 };
 
 let enabled = [];
