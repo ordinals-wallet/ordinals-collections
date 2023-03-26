@@ -1,6 +1,12 @@
 import fs from 'fs';
 import fetch from 'node-fetch';
 import api from 'api';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
 import { addInscriptionNumbers } from './numbers.js';
 
 const sdk = api('@reservoirprotocol/v2.0#9dy1olfh4mtzp');
@@ -10,8 +16,8 @@ const delay = ms => {
   return new Promise(res => setTimeout(res, ms))
 }
 
-const getDirectories = source =>
-  fs.readdirSync(source, { withFileTypes: true })
+export const getDirectories = source =>
+  fs.readdirSync(path.resolve(__dirname, source), { withFileTypes: true })
     .filter(dirent => dirent.isDirectory())
     .map(dirent => dirent.name)
 
@@ -27,7 +33,7 @@ let toTransform = [
       discord_link: '',
       website_link: 'https://ordmojis.com/'
     },
-    inscriptions: JSON.parse(fs.readFileSync('./ordmojis.json')),
+    inscriptions: JSON.parse(fs.readFileSync(path.resolve(__dirname, './ordmojis.json'))),
     method: 'ordmojis'
   },
   {
@@ -41,7 +47,7 @@ let toTransform = [
       discord_link: "https://discord.gg/litecoinpunks",
       website_link: ""
     },
-    inscriptions: JSON.parse(fs.readFileSync('./litecoin-punks.json')),
+    inscriptions: JSON.parse(fs.readFileSync(path.resolve(__dirname, './litecoin-punks.json'))),
     method: 'litecoin-punks'
   },
   {
@@ -55,7 +61,7 @@ let toTransform = [
       discord_link: "https://discord.gg/sub10k",
       website_link: ""
     },
-    inscriptions: JSON.parse(fs.readFileSync('./sub10k.json')),
+    inscriptions: JSON.parse(fs.readFileSync(path.resolve(__dirname, './sub10k.json'))),
     method: 'sub10k'
   },
   {
@@ -69,7 +75,7 @@ let toTransform = [
       discord_link: "https://discord.gg/chainspace",
       website_link: "https://chainspace.app"
     },
-    inscriptions: fs.readFileSync('./chainspace.csv', 'utf8'),
+    inscriptions: fs.readFileSync(path.resolve(__dirname, './chainspace.csv'), 'utf8'),
     method: 'chainspace'
   },
   {
@@ -110,7 +116,7 @@ let toTransform = [
       discord_link: "https://discord.gg/bitcoinmoonbirds",
       website_link: "https://btcmoonbirds.com/"
     },
-    inscriptions: JSON.parse(fs.readFileSync('../collections/bitcoin-moonbirds/inscriptions.json')),
+    inscriptions: JSON.parse(fs.readFileSync(path.resolve(__dirname, '../collections/bitcoin-moonbirds/inscriptions.json'))),
     method: 'bitcoin-moonbirds'
   }
 ]
@@ -285,7 +291,7 @@ let transformMethods = {
 };
 
 let listCollections = () => {
-  fs.writeFileSync('../collections.json', JSON.stringify(getDirectories('../collections/'), undefined, 2));
+  fs.writeFileSync(path.resolve(__dirname, '../collections.json'), JSON.stringify(path.resolve(__dirname, getDirectories('../collections/')), undefined, 2));
 };
 
 (async () => {
@@ -293,16 +299,15 @@ let listCollections = () => {
     console.log("Transforming "+collection.meta.slug);
     let meta = collection.meta;
     let dir = '../collections/'+meta.slug;
-    if(!fs.existsSync(dir)) fs.mkdirSync(dir);
-    if(meta) fs.writeFileSync(dir+"/meta.json", JSON.stringify(meta, undefined, 2));
+    if(!fs.existsSync(path.resolve(__dirname, dir))) fs.mkdirSync(path.resolve(__dirname, dir));
+    if(meta) fs.writeFileSync(path.resolve(__dirname, dir+"/meta.json"), JSON.stringify(meta, undefined, 2));
 
     let method = transformMethods[collection.method];
     let transformed = await method(collection);
 
-    if(transformed) fs.writeFileSync(dir+"/inscriptions.json", JSON.stringify(transformed, undefined, 2));
+    if(transformed) fs.writeFileSync(path.resolve(__dirname, dir+"/inscriptions.json"), JSON.stringify(transformed, undefined, 2));
   }
 
   await addInscriptionNumbers();
-
   await listCollections();
 })();
