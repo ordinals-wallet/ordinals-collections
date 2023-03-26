@@ -21,7 +21,7 @@ Collection creators can format their collection data using the `inscriptions.jso
  .
  ├── ...
  └── collections
-     └── [collection-Pepe Mona Lisa]
+     └── [collection-name]
           ├── inscriptions.json
           └── meta.json
 ```
@@ -30,11 +30,11 @@ Collection creators can format their collection data using the `inscriptions.jso
 
 ```
 {
-  "name": "Pepe Mona Lisa",                    # inscription name
-  "inscription_icon": "bd81e7ad7699852a59b20054bb0ddf56d97fa0174595cc2c4c68b0400acff188i0",        # collection cover inscription id
-  "supply": "1",                  # total supply
-  "slug": "pepe-mona-lisa",                    # directory name
-  "description": "A meme to recognise this renaissance like moment in history, the discovery of Ordinals. Also paying homage to Pepe and Bitcoin.\n1/1 3d Model of Pepe Mona Lisa.\nThis inscription is one of the first of 30 models currently inscribed on the Bitcoin blockchain.",             # collection description
+  "name": "",                    # inscription name
+  "inscription_icon": "",        # collection cover inscription id
+  "supply": "",                  # total supply
+  "slug": "",                    # directory name
+  "description": "",             # collection description
   "twitter_link": "",            # official twitter
   "discord_link": "",            # official discord
   "website_link": ""             # official website
@@ -46,9 +46,9 @@ Collection creators can format their collection data using the `inscriptions.jso
 ```
 [
   {
-    "id": "bd81e7ad7699852a59b20054bb0ddf56d97fa0174595cc2c4c68b0400acff188i0",                    # inscription id
+    "id": "",                    # inscription id
     "meta": {
-      "name": "Pepe Mona Lisa"                 # inscription name
+      "name": ""                 # inscription name
     }
   },
   ...
