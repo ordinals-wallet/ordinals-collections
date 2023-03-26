@@ -154,13 +154,9 @@ let transformMethods = {
     return transformed;
   },
   ['sub10k']: (collection) => {
-    return;
-
     return collection.inscriptions;
   },
   ['twelvefold']: async (collection) => {
-    return;
-
     let transformed = [];
 
     let toSkip = [
@@ -220,7 +216,6 @@ let transformMethods = {
     return transformed;
   },
   ['bitcoinapes']: async (collection) => {
-    return;
     let transformed = [];
     let dir = '../collections/'+collection.meta.slug;
     let attributes = {};
@@ -294,8 +289,11 @@ let listCollections = () => {
   fs.writeFileSync(path.resolve(__dirname, '../collections.json'), JSON.stringify(path.resolve(__dirname, getDirectories('../collections/')), undefined, 2));
 };
 
+let enabled = [];
+
 (async () => {
   for(let collection of toTransform) {
+    if(!enabled.includes(collection.meta.slug)) continue;
     console.log("Transforming "+collection.meta.slug);
     let meta = collection.meta;
     let dir = '../collections/'+meta.slug;

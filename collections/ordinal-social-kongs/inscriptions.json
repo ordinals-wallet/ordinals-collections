@@ -1,75 +1,76 @@
 [
   {
     "id": "ab0995a63c3993a5c6c3ca99eceaf6aa52376feecb6ec37ad2260a590f8d6c03i0",
-      "meta": {
+    "meta": {
       "name": "Ordinal Social Kong #1",
       "status": "Uncommon",
       "rank": 28,
       "attributes": [
-          {
-            "trait_type": "background",
-            "value": "new emerald",
-            "status": "Common",
-            "percent": "46.66%"
-          },
-          {
-            "trait_type": "body",
-            "value": "light",
-            "status": "Uncommon",
-            "percent": "23.33%"
-          },
-          {
-            "trait_type": "clothes",
-            "value": "golden suit",
-            "status": "Common",
-            "percent": "31.6%"
-          },
-          {
-            "trait_type": "mouth",
-            "value": "pacifier",
-            "status": "Rare",
-            "percent": "6.66%"
-          },
-          {
-            "trait_type": "eyes",
-            "value": "gazing",
-            "status": "Common",
-              "percent": "33.33%"
-          },
-          {
-            "trait_type": "ear",
-            "value": "ear ring",
-            "status": "Common",
-            "percent": "93.33%"
-          },
-          {
-            "trait_type": "glasses",
-            "value": "Invisible glasses",
-            "status": "Common",
-            "percent": "73.33%"
-          },
-          {
-            "trait_type": "head",
-            "value": "crown",
-            "status": "Uncommon",
-            "percent": "11.66%"
-          },
-          {
-            "trait_type": "extra",
-            "value": "invisible hammer",
-            "status": "Common",
-            "percent": "56.66%"
-          }
-        ]
-      }
+        {
+          "trait_type": "background",
+          "value": "new emerald",
+          "status": "Common",
+          "percent": "46.66%"
+        },
+        {
+          "trait_type": "body",
+          "value": "light",
+          "status": "Uncommon",
+          "percent": "23.33%"
+        },
+        {
+          "trait_type": "clothes",
+          "value": "golden suit",
+          "status": "Common",
+          "percent": "31.6%"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "pacifier",
+          "status": "Rare",
+          "percent": "6.66%"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "gazing",
+          "status": "Common",
+          "percent": "33.33%"
+        },
+        {
+          "trait_type": "ear",
+          "value": "ear ring",
+          "status": "Common",
+          "percent": "93.33%"
+        },
+        {
+          "trait_type": "glasses",
+          "value": "Invisible glasses",
+          "status": "Common",
+          "percent": "73.33%"
+        },
+        {
+          "trait_type": "head",
+          "value": "crown",
+          "status": "Uncommon",
+          "percent": "11.66%"
+        },
+        {
+          "trait_type": "extra",
+          "value": "invisible hammer",
+          "status": "Common",
+          "percent": "56.66%"
+        }
+      ]
+    },
+    "number": "145092"
   },
   {
     "id": "584b48ba94d656bc81a19eab4ccc688ff32ec14137dc70a4dac1449f09219f03i0",
     "meta": {
-    "name": "Ordinal Social Kong #2",
-    "status": "Common",
-    "rank": 50,
-    "attributes": [
+      "name": "Ordinal Social Kong #2",
+      "status": "Common",
+      "rank": 50,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new orange",
@@ -125,15 +126,16 @@
           "percent": "56.66%"
         }
       ]
-    }
+    },
+    "number": "145093"
   },
   {
     "id": "85070a3c73b38cd314d322d12f07218508280b7813aef2a4b27fc8c33867200ai0",
     "meta": {
-    "name": "Ordinal Social Kong #3",
-    "status": "Common",
-    "rank": 59,
-    "attributes": [
+      "name": "Ordinal Social Kong #3",
+      "status": "Common",
+      "rank": 59,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -156,7 +158,7 @@
           "status": "Common",
           "percent": "41.6%"
         },
-              {
+        {
           "trait_type": "eyes",
           "value": "gazing",
           "status": "Common",
@@ -187,11 +189,12 @@
           "percent": "56.66%"
         }
       ]
-    }
+    },
+    "number": "144663"
   },
   {
-      "id": "93c32671cddc421bbb5dcc5a449fea884d73bf36aa847d9d50423a11455ce915i0",
-      "meta": {
+    "id": "93c32671cddc421bbb5dcc5a449fea884d73bf36aa847d9d50423a11455ce915i0",
+    "meta": {
       "name": "Ordinal Social Kong #4",
       "status": "Common",
       "rank": 60,
@@ -224,19 +227,19 @@
           "trait_type": "eyes",
           "value": "gazing",
           "status": "Common",
-            "percent": "32.20%"
+          "percent": "32.20%"
         },
         {
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
           "value": "invisible glasses",
           "status": "Common",
-            "percent": "72.88%"
+          "percent": "72.88%"
         },
         {
           "trait_type": "head",
@@ -251,11 +254,12 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "144848"
   },
   {
-      "id": "44e3e04f826302ed9d43257ff1824f71de5bd39d1802ced42baa456cccf7a216i0",
-      "meta": {
+    "id": "44e3e04f826302ed9d43257ff1824f71de5bd39d1802ced42baa456cccf7a216i0",
+    "meta": {
       "name": "Ordinal Social Kong #5",
       "status": "Uncommon",
       "rank": 10,
@@ -294,7 +298,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -315,16 +319,17 @@
           "percent": "3.33%"
         }
       ]
-    }
+    },
+    "number": "144456"
   },
   {
     "id": "7d1c8caf03840ea395642238ed136562306b325933ee42ceacc41de138ff7c19i0",
     "meta": {
-    "name": "Ordinal Social Kong #6",
-    "status": "Uncommon",
-    "rank": 15,
-    "attributes": [
-         {
+      "name": "Ordinal Social Kong #6",
+      "status": "Uncommon",
+      "rank": 15,
+      "attributes": [
+        {
           "trait_type": "background",
           "value": "gold",
           "status": "Rare",
@@ -358,13 +363,13 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
           "value": "invisible glasses",
           "status": "Common",
-            "percent": "72.88%"
+          "percent": "72.88%"
         },
         {
           "trait_type": "head",
@@ -379,15 +384,16 @@
           "percent": "3.33%"
         }
       ]
-    }
+    },
+    "number": "140679"
   },
   {
     "id": "0a382f26a138c9083b0b861eb7619a55eb8a16771b3052a244f03bb4846c272bi0",
     "meta": {
-    "name": "Ordinal Social Kong #7",
-    "status": "Uncommon",
-    "rank": 8,
-    "attributes": [
+      "name": "Ordinal Social Kong #7",
+      "status": "Uncommon",
+      "rank": 8,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "purple",
@@ -443,15 +449,16 @@
           "percent": "6.66%"
         }
       ]
-    }
+    },
+    "number": "144416"
   },
   {
     "id": "ed5d3bb5b97fe3b89bdf62f8d8a15210d81428b9cbd489e3406b94ffc111d139i0",
     "meta": {
-    "name": "Ordinal Social Kong #8",
-    "status": "Rare",
-    "rank": 5,
-    "attributes": [
+      "name": "Ordinal Social Kong #8",
+      "status": "Rare",
+      "rank": 5,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new orange",
@@ -469,7 +476,7 @@
           "value": "golden armor",
           "status": "Uncommon",
           "percent": "16.66%"
-        },      
+        },
         {
           "trait_type": "mouth",
           "value": "speechless",
@@ -486,7 +493,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -507,15 +514,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "150590"
   },
   {
     "id": "c9712bc4e056b5ff4f83ebf0e78cf7b6450115c2bb753b164de1b757b124d739i0",
     "meta": {
-    "name": "Ordinal Social Kong #9",
-    "status": "Uncommon",
-    "rank": 27,
-    "attributes": [
+      "name": "Ordinal Social Kong #9",
+      "status": "Uncommon",
+      "rank": 27,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -571,15 +579,16 @@
           "percent": "10%"
         }
       ]
-    }
+    },
+    "number": "144478"
   },
   {
     "id": "bb69d47f83ca25245161e6ec7a7633735b1b6593f1b1b769df5fd9dee88b873ei0",
     "meta": {
-    "name": "Ordinal Social Kong #10",
-    "status": "Uncommon",
-    "rank": 37,
-    "attributes": [
+      "name": "Ordinal Social Kong #10",
+      "status": "Uncommon",
+      "rank": 37,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -614,13 +623,13 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
           "value": "invisible glasses",
           "status": "Common",
-            "percent": "72.88%"
+          "percent": "72.88%"
         },
         {
           "trait_type": "head",
@@ -635,15 +644,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "142067"
   },
   {
     "id": "177685de86807b0ad8d1fc9f22616ac979c926950e53cb606a0f38c48bb7b93fi0",
     "meta": {
-    "name": "Ordinal Social Kong #11",
-    "status": "Common",
-    "rank": 45,
-    "attributes": [
+      "name": "Ordinal Social Kong #11",
+      "status": "Common",
+      "rank": 45,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "purple",
@@ -661,7 +671,7 @@
           "value": "golden armor",
           "status": "Uncommon",
           "percent": "16.66%"
-        },      
+        },
         {
           "trait_type": "mouth",
           "value": "party horn",
@@ -672,19 +682,19 @@
           "trait_type": "eyes",
           "value": "gazing",
           "status": "Common",
-            "percent": "32.20%"
+          "percent": "32.20%"
         },
         {
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
           "value": "invisible glasses",
           "status": "Common",
-            "percent": "72.88%"
+          "percent": "72.88%"
         },
         {
           "trait_type": "head",
@@ -699,15 +709,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "150959"
   },
   {
     "id": "27b86027e6b8b5f01ff3220a59752844d2f0cdd7455396bc8a5b458c0d0f0140i0",
     "meta": {
-    "name": "Ordinal Social Kong #12",
-    "status": "Common",
-    "rank": 49,
-    "attributes": [
+      "name": "Ordinal Social Kong #12",
+      "status": "Common",
+      "rank": 49,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -763,15 +774,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "150473"
   },
   {
     "id": "165c8a6e789613723008b28f500cc6e09ea90f9ba811b92365fbdd6ade776540i0",
     "meta": {
-    "name": "Ordinal Social Kong #13",
-    "status": "Common",
-    "rank": 41,
-    "attributes": [
+      "name": "Ordinal Social Kong #13",
+      "status": "Common",
+      "rank": 41,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -827,15 +839,16 @@
           "percent": "10%"
         }
       ]
-    }
+    },
+    "number": "144494"
   },
   {
     "id": "6fce30141ad7d16280deaebd6ff486d777978f5b79db382f24e5635d298fe046i0",
     "meta": {
-    "name": "Ordinal Social Kong #14",
-    "status": "Uncommon",
-    "rank": 12,
-    "attributes": [
+      "name": "Ordinal Social Kong #14",
+      "status": "Uncommon",
+      "rank": 12,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new orange",
@@ -846,14 +859,14 @@
           "trait_type": "body",
           "value": "light",
           "status": "Uncommon",
-            "percent": "23.33%"
+          "percent": "23.33%"
         },
         {
           "trait_type": "clothes",
           "value": "golden armor",
           "status": "Uncommon",
           "percent": "16.66%"
-        },      
+        },
         {
           "trait_type": "mouth",
           "value": "lightbulb",
@@ -864,13 +877,13 @@
           "trait_type": "eyes",
           "value": "gazing",
           "status": "Common",
-            "percent": "32.20%"
+          "percent": "32.20%"
         },
         {
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -891,15 +904,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "139658"
   },
   {
     "id": "b696db6df0108c007194b25cb7e50d705e6bc33dc6117dea7a47f2944b361948i0",
     "meta": {
-    "name": "Ordinal Social Kong #15",
-    "status": "Uncommon",
-    "rank": 19,
-    "attributes": [
+      "name": "Ordinal Social Kong #15",
+      "status": "Uncommon",
+      "rank": 19,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -934,13 +948,13 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
           "value": "invisible glasses",
           "status": "Common",
-            "percent": "72.88%"
+          "percent": "72.88%"
         },
         {
           "trait_type": "head",
@@ -955,15 +969,16 @@
           "percent": "5%"
         }
       ]
-    }
+    },
+    "number": "150761"
   },
   {
     "id": "6b982126aded6a82afb771a99cc81f21c9cd60303f49d7cfafb5a5efd7e2f84fi0",
     "meta": {
-    "name": "Ordinal Social Kong #16",
-    "status": "Common",
-    "rank": 39,
-    "attributes": [
+      "name": "Ordinal Social Kong #16",
+      "status": "Common",
+      "rank": 39,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -980,7 +995,7 @@
           "trait_type": "clothes",
           "value": "tarzan",
           "status": "epic",
-            "percent": "3.33%"
+          "percent": "3.33%"
         },
         {
           "trait_type": "mouth",
@@ -998,13 +1013,13 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
           "value": "invisible glasses",
           "status": "Common",
-            "percent": "72.88%"
+          "percent": "72.88%"
         },
         {
           "trait_type": "head",
@@ -1019,15 +1034,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "140819"
   },
   {
     "id": "99bd55c73532a7c513dc99036d54e5570567b9a1cd879b2c004e344fbee16051i0",
     "meta": {
-    "name": "Ordinal Social Kong #17",
-    "status": "Uncommon",
-    "rank": 22,
-    "attributes": [
+      "name": "Ordinal Social Kong #17",
+      "status": "Uncommon",
+      "rank": 22,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -1040,7 +1056,7 @@
           "status": "Uncommon",
           "percent": "23.72%"
         },
-              {
+        {
           "trait_type": "clothes",
           "value": "golden vest2",
           "status": "Common",
@@ -1062,13 +1078,13 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
           "value": "invisible glasses",
           "status": "Common",
-            "percent": "72.88%"
+          "percent": "72.88%"
         },
         {
           "trait_type": "head",
@@ -1083,15 +1099,16 @@
           "percent": "6.66%"
         }
       ]
-    }
+    },
+    "number": "150826"
   },
   {
     "id": "24092ae53f9a64acc6643f676b64c53d06583327fd46b6d399b74c7a3b52dc51i0",
     "meta": {
-    "name": "Ordinal Social Kong #18",
-    "status": "Common",
-    "rank": 55,
-    "attributes": [
+      "name": "Ordinal Social Kong #18",
+      "status": "Common",
+      "rank": 55,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "purple",
@@ -1120,19 +1137,19 @@
           "trait_type": "eyes",
           "value": "gazing",
           "status": "Common",
-            "percent": "32.20%"
+          "percent": "32.20%"
         },
         {
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
           "value": "invisible glasses",
           "status": "Common",
-            "percent": "72.88%"
+          "percent": "72.88%"
         },
         {
           "trait_type": "head",
@@ -1147,15 +1164,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "144480"
   },
   {
     "id": "ebee547b284079b92176a5f1983d8ef0d4f2f4f8b891ab01badc936332d4a05ai0",
     "meta": {
-    "name": "Ordinal Social Kong #19",
-    "status": "Uncommon",
-    "rank": 32,
-    "attributes": [
+      "name": "Ordinal Social Kong #19",
+      "status": "Uncommon",
+      "rank": 32,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new orange",
@@ -1173,7 +1191,7 @@
           "value": "golden armor",
           "status": "Uncommon",
           "percent": "16.66%"
-        },      
+        },
         {
           "trait_type": "mouth",
           "value": "speechless",
@@ -1184,19 +1202,19 @@
           "trait_type": "eyes",
           "value": "gazing",
           "status": "Common",
-            "percent": "32.20%"
+          "percent": "32.20%"
         },
         {
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
           "value": "invisible glasses",
           "status": "Common",
-            "percent": "72.88%"
+          "percent": "72.88%"
         },
         {
           "trait_type": "head",
@@ -1211,15 +1229,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "150762"
   },
   {
     "id": "478f7155ca636d291219cc0afd27bf724da40dd5b281e6a7c9a13d9b4bb82263i0",
     "meta": {
-    "name": "Ordinal Social Kong #20",
-    "status": "Common",
-    "rank": 42,
-    "attributes": [
+      "name": "Ordinal Social Kong #20",
+      "status": "Common",
+      "rank": 42,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "purple",
@@ -1230,7 +1249,7 @@
           "trait_type": "body",
           "value": "light",
           "status": "Uncommon",
-            "percent": "23.33%"
+          "percent": "23.33%"
         },
         {
           "trait_type": "clothes",
@@ -1248,19 +1267,19 @@
           "trait_type": "eyes",
           "value": "gazing",
           "status": "Common",
-            "percent": "32.20%"
+          "percent": "32.20%"
         },
         {
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
           "value": "invisible glasses",
           "status": "Common",
-            "percent": "72.88%"
+          "percent": "72.88%"
         },
         {
           "trait_type": "head",
@@ -1275,15 +1294,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "142079"
   },
   {
     "id": "93fa97ce97c07023b89f66eae051aeaa0e5634b5ebe90af3c9884bbab8239b67i0",
     "meta": {
-    "name": "Ordinal Social Kong #21",
-    "status": "Common",
-    "rank": 57,
-    "attributes": [
+      "name": "Ordinal Social Kong #21",
+      "status": "Common",
+      "rank": 57,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -1312,19 +1332,19 @@
           "trait_type": "eyes",
           "value": "gazing",
           "status": "Common",
-            "percent": "32.20%"
+          "percent": "32.20%"
         },
         {
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
           "value": "invisible glasses",
           "status": "Common",
-            "percent": "72.88%"
+          "percent": "72.88%"
         },
         {
           "trait_type": "head",
@@ -1339,15 +1359,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "150960"
   },
   {
     "id": "787b6ab88cbaf598e3a17bb7e7f812ca55c73657c2c09b641e7840d217516c6bi0",
     "meta": {
-    "name": "Ordinal Social Kong #22",
-    "status": "Common",
-    "rank": 43,
-    "attributes": [
+      "name": "Ordinal Social Kong #22",
+      "status": "Common",
+      "rank": 43,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -1403,15 +1424,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "144584"
   },
   {
     "id": "bf0afdb8efaea43de33abdc21d7fa34f20176952ffb603c5065bd3473805d86bi0",
     "meta": {
-    "name": "Ordinal Social Kong #23",
-    "status": "Common",
-    "rank": 46,
-    "attributes": [
+      "name": "Ordinal Social Kong #23",
+      "status": "Common",
+      "rank": 46,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "purple",
@@ -1440,19 +1462,19 @@
           "trait_type": "eyes",
           "value": "gazing",
           "status": "Common",
-            "percent": "32.20%"
+          "percent": "32.20%"
         },
         {
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
           "value": "invisible glasses",
           "status": "Common",
-            "percent": "72.88%"
+          "percent": "72.88%"
         },
         {
           "trait_type": "head",
@@ -1467,15 +1489,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "152674"
   },
   {
     "id": "defa224f77bb0da677a4ef1bc7de983243e9201e48a7a3b921a534625895576di0",
     "meta": {
-    "name": "Ordinal Social Kong #24",
-    "status": "Uncommon",
-    "rank": 29,
-    "attributes": [
+      "name": "Ordinal Social Kong #24",
+      "status": "Uncommon",
+      "rank": 29,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new orange",
@@ -1510,13 +1533,13 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
           "value": "invisible glasses",
           "status": "Common",
-            "percent": "72.88%"
+          "percent": "72.88%"
         },
         {
           "trait_type": "head",
@@ -1531,17 +1554,18 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "145660"
   },
   {
     "id": "262b1e35e912fac05ab63e11bc4bf292033d96febdd32bb693f30f3cce57cf6ei0",
     "meta": {
-    "name": "Ordinal Social Kong #25",
-    "status": "Uncommon",
-    "rank": 31,
-    "attributes": [
+      "name": "Ordinal Social Kong #25",
+      "status": "Uncommon",
+      "rank": 31,
+      "attributes": [
         {
-         "trait_type": "background",
+          "trait_type": "background",
           "value": "new emerald",
           "status": "Common",
           "percent": "46.6%"
@@ -1550,7 +1574,7 @@
           "trait_type": "body",
           "value": "light",
           "status": "Uncommon",
-            "percent": "23.33%"
+          "percent": "23.33%"
         },
         {
           "trait_type": "clothes",
@@ -1574,7 +1598,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -1595,15 +1619,16 @@
           "percent": "1.66%"
         }
       ]
-    }
+    },
+    "number": "139513"
   },
   {
     "id": "890990c9fc37ecf0d67229c8bc6f499d6955cf46e32346b23e4f09418840b470i0",
     "meta": {
-    "name": "Ordinal Social Kong #26",
-    "status": "Uncommon",
-    "rank": 9,
-    "attributes": [
+      "name": "Ordinal Social Kong #26",
+      "status": "Uncommon",
+      "rank": 9,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -1638,7 +1663,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -1659,15 +1684,16 @@
           "percent": "10%"
         }
       ]
-    }
+    },
+    "number": "150591"
   },
   {
     "id": "0283d725985666ca5a81f7e2e4c003f93b7369e7ce74c6edee97a2d29f4f7571i0",
     "meta": {
-    "name": "Ordinal Social Kong #27",
-    "status": "Uncommon",
-    "rank": 38,
-    "attributes": [
+      "name": "Ordinal Social Kong #27",
+      "status": "Uncommon",
+      "rank": 38,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -1723,15 +1749,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "152862"
   },
   {
     "id": "1e208322a4239568ef5831a37d3b1b7c6faebbf091778dbe5aca7f244d066272i0",
     "meta": {
-    "name": "Ordinal Social Kong #28",
-    "status": "Uncommon",
-    "rank": 20,
-    "attributes": [
+      "name": "Ordinal Social Kong #28",
+      "status": "Uncommon",
+      "rank": 20,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new orange",
@@ -1742,7 +1769,7 @@
           "trait_type": "body",
           "value": "light",
           "status": "Uncommon",
-            "percent": "23.33%"
+          "percent": "23.33%"
         },
         {
           "trait_type": "clothes",
@@ -1760,19 +1787,19 @@
           "trait_type": "eyes",
           "value": "gazing",
           "status": "Common",
-            "percent": "32.20%"
+          "percent": "32.20%"
         },
         {
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
           "value": "invisible glasses",
           "status": "Common",
-            "percent": "72.88%"
+          "percent": "72.88%"
         },
         {
           "trait_type": "head",
@@ -1787,15 +1814,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "150881"
   },
   {
     "id": "b1800326076805bf63ef5e47ebd125a6f78513222fd8ee29ed9d175c83f06375i0",
     "meta": {
-    "name": "Ordinal Social Kong #29",
-    "status": "Common",
-    "rank": 44,
-    "attributes": [
+      "name": "Ordinal Social Kong #29",
+      "status": "Common",
+      "rank": 44,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -1824,19 +1852,19 @@
           "trait_type": "eyes",
           "value": "gazing",
           "status": "Common",
-            "percent": "32.20%"
+          "percent": "32.20%"
         },
         {
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
           "value": "invisible glasses",
           "status": "Common",
-            "percent": "72.88%"
+          "percent": "72.88%"
         },
         {
           "trait_type": "head",
@@ -1851,29 +1879,28 @@
           "percent": "6.66%"
         }
       ]
-    }
+    },
+    "number": "145189"
   },
   {
     "id": "95d527e8463865b333f3e835c11c3ab0c4cd471882fbb581ece21914b1bb7475i0",
     "meta": {
-    "name": "Ordinal Social Kong #30",
-    "status": "Rare",
-    "rank": 6,
-    "attributes": [
+      "name": "Ordinal Social Kong #30",
+      "status": "Rare",
+      "rank": 6,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "gold",
           "status": "Rare",
           "percent": "8.33%"
         },
-
         {
           "trait_type": "body",
           "value": "dark",
           "status": "Common",
           "percent": "66.66%"
         },
-
         {
           "trait_type": "clothes",
           "value": "golden suit",
@@ -1896,7 +1923,7 @@
           "trait_type": "ear",
           "value": "standard ear",
           "status": "Epic",
-            "percent": "8.33%"
+          "percent": "8.33%"
         },
         {
           "trait_type": "glasses",
@@ -1917,15 +1944,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "150882"
   },
   {
     "id": "697e3f64e811a70a9c2a4e26228eb89b55363c693a5aaaa7c1e71b99d4c0d878i0",
     "meta": {
-    "name": "Ordinal Social Kong #31",
-    "status": "Common",
-    "rank": 54,
-    "attributes": [
+      "name": "Ordinal Social Kong #31",
+      "status": "Common",
+      "rank": 54,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "purple",
@@ -1960,7 +1988,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -1981,15 +2009,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "152874"
   },
   {
     "id": "312d23db6edb8bfabda658cc0cb8c4ad4caee173eab6ebd83a150e70564da67bi0",
     "meta": {
-    "name": "Ordinal Social Kong #32",
-    "status": "Common",
-    "rank": 58,
-    "attributes": [
+      "name": "Ordinal Social Kong #32",
+      "status": "Common",
+      "rank": 58,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -2002,13 +2031,13 @@
           "status": "Common",
           "percent": "66.66%"
         },
-
         {
           "trait_type": "clothes",
           "value": "golden armor",
           "status": "Uncommon",
           "percent": "16.66%"
-        },      {
+        },
+        {
           "trait_type": "mouth",
           "value": "standard mouth",
           "status": "Common",
@@ -2024,7 +2053,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -2045,15 +2074,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "150792"
   },
   {
     "id": "c237da28e4aa5b8ea01678b6df3a50194d67649843c02c1ca94527e49273e87ei0",
     "meta": {
-    "name": "Ordinal Social Kong #33",
-    "status": "Legendary",
-    "rank": 1,
-    "attributes": [
+      "name": "Ordinal Social Kong #33",
+      "status": "Legendary",
+      "rank": 1,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "gold 2",
@@ -2109,34 +2139,33 @@
           "percent": "3.33%"
         }
       ]
-    }
+    },
+    "number": "156474"
   },
   {
     "id": "7030eeb5e2c13d2c9ecd250fa9d25e49ef54a6064932f99d47195ad5c086777fi0",
     "meta": {
-    "name": "Ordinal Social Kong #34",
-    "status": "Common",
-    "rank": 51,
-    "attributes": [
-              {
+      "name": "Ordinal Social Kong #34",
+      "status": "Common",
+      "rank": 51,
+      "attributes": [
+        {
           "trait_type": "background",
           "value": "gold",
           "status": "Rare",
           "percent": "8.33%"
         },
-
         {
           "trait_type": "body",
           "value": "dark",
           "status": "Common",
           "percent": "66.66%"
         },
-
         {
           "trait_type": "clothes",
           "value": "golden suit",
           "status": "Common",
-            "percent": "31.6%"
+          "percent": "31.6%"
         },
         {
           "trait_type": "mouth",
@@ -2154,7 +2183,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -2175,15 +2204,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "150793"
   },
   {
     "id": "e6684e5171b261c01fdd2f06e200bb936f0b0a04df9e55773d87915fd8c35d85i0",
     "meta": {
-    "name": "Ordinal Social Kong #35",
-    "status": "Common",
-    "rank": 40,
-    "attributes": [
+      "name": "Ordinal Social Kong #35",
+      "status": "Common",
+      "rank": 40,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "purple",
@@ -2201,7 +2231,8 @@
           "value": "golden armor",
           "status": "Uncommon",
           "percent": "16.66%"
-        },      {
+        },
+        {
           "trait_type": "mouth",
           "value": "cigar",
           "status": "Uncommon",
@@ -2217,7 +2248,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -2238,15 +2269,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "144990"
   },
   {
     "id": "895da4fb28f7e2ce5598ee38ede91005d951e99a4720cafc21b3b5b2ff37d686i0",
     "meta": {
-    "name": "Ordinal Social Kong #36",
-    "status": "Uncommon",
-    "rank": 34,
-    "attributes": [
+      "name": "Ordinal Social Kong #36",
+      "status": "Uncommon",
+      "rank": 34,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -2263,7 +2295,7 @@
           "trait_type": "clothes",
           "value": "golden suit",
           "status": "Common",
-            "percent": "31.6%"
+          "percent": "31.6%"
         },
         {
           "trait_type": "mouth",
@@ -2281,7 +2313,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -2302,17 +2334,18 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "140820"
   },
   {
     "id": "9dbce0f376e8c0283d8a19c24ff69d1bb0050fb7503b75f89628d9eb7681fe8bi0",
     "meta": {
-    "name": "Ordinal Social Kong #37",
-    "status": "Uncommon",
-    "rank": 17,
-    "attributes": [
+      "name": "Ordinal Social Kong #37",
+      "status": "Uncommon",
+      "rank": 17,
+      "attributes": [
         {
-         "trait_type": "background",
+          "trait_type": "background",
           "value": "new emerald",
           "status": "Common",
           "percent": "46.6%"
@@ -2321,7 +2354,7 @@
           "trait_type": "body",
           "value": "light",
           "status": "Uncommon",
-            "percent": "23.33%"
+          "percent": "23.33%"
         },
         {
           "trait_type": "clothes",
@@ -2345,7 +2378,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -2366,17 +2399,18 @@
           "percent": "1.66%"
         }
       ]
-    }
+    },
+    "number": "139691"
   },
   {
     "id": "8865420be03f0e5fcfae2c22fdf420fb997e96aabb781f66aa0bc3a31fb9e48ei0",
     "meta": {
-    "name": "Ordinal Social Kong #38",
-    "status": "Common",
-    "rank": 47,
-    "attributes": [
+      "name": "Ordinal Social Kong #38",
+      "status": "Common",
+      "rank": 47,
+      "attributes": [
         {
-         "trait_type": "background",
+          "trait_type": "background",
           "value": "new emerald",
           "status": "Common",
           "percent": "46.6%"
@@ -2409,7 +2443,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -2430,29 +2464,29 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "139692"
   },
   {
     "id": "21ba59a4d2e397f552363637fddf8f22ec769b791fc01f380adfa0d264c77a90i0",
     "meta": {
-    "name": "Ordinal Social Kong #39",
-    "status": "Uncommon",
-    "rank": 24,
-    "attributes": [
+      "name": "Ordinal Social Kong #39",
+      "status": "Uncommon",
+      "rank": 24,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new orange",
           "status": "Common",
           "percent": "25.4%"
         },
-
         {
           "trait_type": "body",
           "value": "light",
           "status": "Uncommon",
-            "percent": "23.33%"
+          "percent": "23.33%"
         },
-              {
+        {
           "trait_type": "clothes",
           "value": "golden vest2",
           "status": "Common",
@@ -2495,16 +2529,17 @@
           "percent": "6.66%"
         }
       ]
-    }
+    },
+    "number": "150828"
   },
   {
     "id": "a219ad577e96cba7965643109eb87e8a66547cc55a2cbabf1ec80f410ee87a97i0",
     "meta": {
-    "name": "Ordinal Social Kong #40",
-    "status": "Epic",
-    "rank": 2,
-    "attributes": [
-         {
+      "name": "Ordinal Social Kong #40",
+      "status": "Epic",
+      "rank": 2,
+      "attributes": [
+        {
           "trait_type": "background",
           "value": "gold",
           "status": "Rare",
@@ -2559,15 +2594,16 @@
           "percent": "3.33%"
         }
       ]
-    }
+    },
+    "number": "150883"
   },
   {
     "id": "44b737b758cf3ddd2796fb1aa2d26474abe9057e2755cfe4b15052c18b6a739ci0",
     "meta": {
-    "name": "Ordinal Social Kong #41",
-    "status": "Common",
-    "rank": 52,
-    "attributes": [
+      "name": "Ordinal Social Kong #41",
+      "status": "Common",
+      "rank": 52,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new orange",
@@ -2623,15 +2659,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "150694"
   },
   {
     "id": "e1696a50013d6abbcc7ce6c398c1971ce6040365125837407ed2c006b5eaa29fi0",
     "meta": {
-    "name": "Ordinal Social Kong #42",
-    "status": "Uncommon",
-    "rank": 18,
-    "attributes": [
+      "name": "Ordinal Social Kong #42",
+      "status": "Uncommon",
+      "rank": 18,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "purple",
@@ -2642,7 +2679,7 @@
           "trait_type": "body",
           "value": "light",
           "status": "Uncommon",
-            "percent": "23.33%"
+          "percent": "23.33%"
         },
         {
           "trait_type": "clothes",
@@ -2666,7 +2703,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -2687,17 +2724,18 @@
           "percent": "5%"
         }
       ]
-    }
+    },
+    "number": "139580"
   },
   {
     "id": "5bc2a9ed80d2ea0c24cabdaa6e88140f1f671c09a888313d140ef1f9973dd4a0i0",
     "meta": {
-    "name": "Ordinal Social Kong #43",
-    "status": "Common",
-    "rank": 53,
-    "attributes": [
+      "name": "Ordinal Social Kong #43",
+      "status": "Common",
+      "rank": 53,
+      "attributes": [
         {
-         "trait_type": "background",
+          "trait_type": "background",
           "value": "new emerald",
           "status": "Common",
           "percent": "46.6%"
@@ -2730,7 +2768,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -2751,15 +2789,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "153036"
   },
   {
     "id": "fd805a8988a7c6bdc6e8e7945f04b9aa316d8f775592fcbe4ab09797386ec3a6i0",
     "meta": {
-    "name": "Ordinal Social Kong #44",
-    "status": "Uncommon",
-    "rank": 35,
-    "attributes": [
+      "name": "Ordinal Social Kong #44",
+      "status": "Uncommon",
+      "rank": 35,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new orange",
@@ -2815,15 +2854,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "144820"
   },
   {
     "id": "efc3231475555f449c20541b477e4b2e29dacba3f9466505bbb0809a83cba5adi0",
     "meta": {
-    "name": "Ordinal Social Kong #45",
-    "status": "Uncommon",
-    "rank": 30,
-    "attributes": [
+      "name": "Ordinal Social Kong #45",
+      "status": "Uncommon",
+      "rank": 30,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new orange",
@@ -2879,15 +2919,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "150509"
   },
   {
     "id": "08ab395317cce42afdbe181e97ef5aab2146382d4609407d750d1bebbec135b0i0",
     "meta": {
-    "name": "Ordinal Social Kong #46",
-    "status": "Uncommon",
-    "rank": 36,
-    "attributes": [
+      "name": "Ordinal Social Kong #46",
+      "status": "Uncommon",
+      "rank": 36,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -2905,7 +2946,7 @@
           "value": "golden armor",
           "status": "Uncommon",
           "percent": "16.66%"
-        },      
+        },
         {
           "trait_type": "mouth",
           "value": "standard mouth",
@@ -2922,7 +2963,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -2943,15 +2984,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "142088"
   },
   {
     "id": "5885945f2a4f433318074066118fce1303f7cbd4f51f91829e99d34e99fb0eb3i0",
     "meta": {
-    "name": "Ordinal Social Kong #47",
-    "status": "Uncommon",
-    "rank": 25,
-    "attributes": [
+      "name": "Ordinal Social Kong #47",
+      "status": "Uncommon",
+      "rank": 25,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new orange",
@@ -2986,7 +3028,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -3007,15 +3049,16 @@
           "percent": "5%"
         }
       ]
-    }
+    },
+    "number": "140686"
   },
   {
     "id": "261cd79a027fd305e2d9467125d26f9217d0fe200d934b05da095bc4c5a384b5i0",
     "meta": {
-    "name": "Ordinal Social Kong #48",
-    "status": "Uncommon",
-    "rank": 11,
-    "attributes": [
+      "name": "Ordinal Social Kong #48",
+      "status": "Uncommon",
+      "rank": 11,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -3026,7 +3069,7 @@
           "trait_type": "body",
           "value": "light",
           "status": "Uncommon",
-            "percent": "23.33%"
+          "percent": "23.33%"
         },
         {
           "trait_type": "clothes",
@@ -3050,7 +3093,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -3071,15 +3114,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "142091"
   },
   {
     "id": "a909e3808b792141e7a5ce43de83556ae4ff4773c9105c5bc6857909ad8798c2i0",
     "meta": {
-    "name": "Ordinal Social Kong #49",
-    "status": "Common",
-    "rank": 48,
-    "attributes": [
+      "name": "Ordinal Social Kong #49",
+      "status": "Common",
+      "rank": 48,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -3096,7 +3140,7 @@
           "trait_type": "clothes",
           "value": "golden suit",
           "status": "Common",
-            "percent": "31.6%"
+          "percent": "31.6%"
         },
         {
           "trait_type": "mouth",
@@ -3114,7 +3158,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -3135,34 +3179,35 @@
           "percent": "10%"
         }
       ]
-    }
+    },
+    "number": "139807"
   },
   {
     "id": "3134e46d4fac098d42c76412c4f5a8b34dc2aa662303212a62c8528e9d768ec5i0",
     "meta": {
-    "name": "Ordinal Social Kong #50",
-    "status": "Uncommon",
-    "rank": 14,
-    "attributes": [
-         {
+      "name": "Ordinal Social Kong #50",
+      "status": "Uncommon",
+      "rank": 14,
+      "attributes": [
+        {
           "trait_type": "background",
           "value": "gold",
           "status": "Rare",
           "percent": "8.33%"
         },
-
         {
           "trait_type": "body",
           "value": "light",
           "status": "Uncommon",
-            "percent": "23.33%"
+          "percent": "23.33%"
         },
         {
           "trait_type": "clothes",
           "value": "golden armor",
           "status": "Uncommon",
           "percent": "16.66%"
-        },      {
+        },
+        {
           "trait_type": "mouth",
           "value": "standard mouth",
           "status": "Common",
@@ -3178,7 +3223,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -3199,15 +3244,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "147498"
   },
   {
     "id": "26f1050685080d784c5d3878e0ea18a9eff1301b89811b673c498771401d48c6i0",
     "meta": {
-    "name": "Ordinal Social Kong #51",
-    "status": "Uncommon",
-    "rank": 16,
-    "attributes": [
+      "name": "Ordinal Social Kong #51",
+      "status": "Uncommon",
+      "rank": 16,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new orange",
@@ -3220,7 +3266,6 @@
           "status": "Common",
           "percent": "66.66%"
         },
-
         {
           "trait_type": "clothes",
           "value": "golden suit",
@@ -3264,15 +3309,16 @@
           "percent": "5%"
         }
       ]
-    }
+    },
+    "number": "144602"
   },
   {
     "id": "141063ddcd10e2de89953d676325e98cdf3229dfe376e7dd8d07e555738ea6c8i0",
     "meta": {
-    "name": "Ordinal Social Kong #52",
-    "status": "Rare",
-    "rank": 7,
-    "attributes": [
+      "name": "Ordinal Social Kong #52",
+      "status": "Rare",
+      "rank": 7,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new orange",
@@ -3328,15 +3374,16 @@
           "percent": "10%"
         }
       ]
-    }
+    },
+    "number": "147503"
   },
   {
     "id": "8dab5a3d82374e6aa3d2a004825d7f3a323b6f16696e8908433d611aa8a8aacei0",
     "meta": {
-    "name": "Ordinal Social Kong #53",
-    "status": "Uncommon",
-    "rank": 26,
-    "attributes": [
+      "name": "Ordinal Social Kong #53",
+      "status": "Uncommon",
+      "rank": 26,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new orange",
@@ -3371,7 +3418,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -3392,33 +3439,33 @@
           "percent": "10%"
         }
       ]
-    }
+    },
+    "number": "150961"
   },
   {
     "id": "fef4177d6316dc365ccc380454cf0cb56ccd79f35031e1ae3921e35ac17738d0i0",
     "meta": {
-    "name": "Ordinal Social Kong #54",
-    "status": "Uncommon",
-    "rank": 23,
-    "attributes": [
+      "name": "Ordinal Social Kong #54",
+      "status": "Uncommon",
+      "rank": 23,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "purple",
           "status": "UnCommon",
           "percent": "15%"
         },
-
         {
           "trait_type": "body",
           "value": "light",
           "status": "Uncommon",
-            "percent": "23.33%"
+          "percent": "23.33%"
         },
         {
           "trait_type": "clothes",
           "value": "golden suit",
           "status": "Common",
-            "percent": "31.6%"
+          "percent": "31.6%"
         },
         {
           "trait_type": "mouth",
@@ -3436,7 +3483,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -3457,15 +3504,16 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "150962"
   },
   {
     "id": "b7dc3aade0f2f7fb1af04a2f2d65f7ed5c089b43f1d63cbdc12485d4828304dbi0",
     "meta": {
-    "name": "Ordinal Social Kong #55",
-    "status": "Uncommon",
-    "rank": 33,
-    "attributes": [
+      "name": "Ordinal Social Kong #55",
+      "status": "Uncommon",
+      "rank": 33,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -3500,7 +3548,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -3521,15 +3569,16 @@
           "percent": "5%"
         }
       ]
-    }
+    },
+    "number": "150439"
   },
   {
     "id": "553f246bd46f1adf238b025b04a9c76b3e65feb30a8d3c3ac6fcb566ed261de0i0",
     "meta": {
-    "name": "Ordinal Social Kong #56",
-    "status": "Epic",
-    "rank": 4,
-    "attributes": [
+      "name": "Ordinal Social Kong #56",
+      "status": "Epic",
+      "rank": 4,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "gold 2",
@@ -3585,15 +3634,16 @@
           "percent": "1.66%"
         }
       ]
-    }
+    },
+    "number": "156475"
   },
   {
     "id": "db4846cf5d4dbf945b5bc7e8dd2f4b9c3b17371f3edef053d06c0324247254e2i0",
     "meta": {
-    "name": "Ordinal Social Kong #57",
-    "status": "Uncommon",
-    "rank": 21,
-    "attributes": [
+      "name": "Ordinal Social Kong #57",
+      "status": "Uncommon",
+      "rank": 21,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new orange",
@@ -3649,17 +3699,18 @@
           "percent": "5%"
         }
       ]
-    }
+    },
+    "number": "153572"
   },
   {
     "id": "8c00b157470a87fc4e60bcd6d5112be8ac6e92676c4927f8c39b967b8b7231e5i0",
     "meta": {
-    "name": "Ordinal Social Kong #58",
-    "status": "Uncommon",
-    "rank": 13,
-    "attributes": [
+      "name": "Ordinal Social Kong #58",
+      "status": "Uncommon",
+      "rank": 13,
+      "attributes": [
         {
-         "trait_type": "background",
+          "trait_type": "background",
           "value": "new emerald",
           "status": "Common",
           "percent": "46.6%"
@@ -3674,7 +3725,7 @@
           "trait_type": "clothes",
           "value": "golden suit",
           "status": "Common",
-            "percent": "31.6%"
+          "percent": "31.6%"
         },
         {
           "trait_type": "mouth",
@@ -3692,7 +3743,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -3713,30 +3764,29 @@
           "percent": "3.33%"
         }
       ]
-    }
+    },
+    "number": "139581"
   },
   {
     "id": "e2fd86974fc37685862c36958ff505a2810e1994de4395d37df6f8c85715f4f2i0",
     "meta": {
-    "name": "Ordinal Social Kong #59",
-    "status": "Epic",
-    "rank": 3,
-    "attributes": [
+      "name": "Ordinal Social Kong #59",
+      "status": "Epic",
+      "rank": 3,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "gold 2",
           "status": "Epic",
           "percent": "5%"
         },
-
         {
           "trait_type": "body",
           "value": "leopard",
           "status": "Rare",
           "percent": "10%"
         },
-
-              {
+        {
           "trait_type": "clothes",
           "value": "golden armor",
           "status": "Uncommon",
@@ -3779,15 +3829,16 @@
           "percent": "3.33%"
         }
       ]
-    }
+    },
+    "number": "156425"
   },
   {
     "id": "047b787f92113eb126d413ab83a9bb69050a03981089348cb145cecdbf1ceffai0",
     "meta": {
-    "name": "Ordinal Social Kong #60",
-    "status": "Common",
-    "rank": 56,
-    "attributes": [
+      "name": "Ordinal Social Kong #60",
+      "status": "Common",
+      "rank": 56,
+      "attributes": [
         {
           "trait_type": "background",
           "value": "new emerald",
@@ -3804,7 +3855,7 @@
           "trait_type": "clothes",
           "value": "golden suit",
           "status": "Common",
-            "percent": "31.6%"
+          "percent": "31.6%"
         },
         {
           "trait_type": "mouth",
@@ -3822,7 +3873,7 @@
           "trait_type": "ear",
           "value": "ear ring",
           "status": "Common",
-            "percent": "93.33%"
+          "percent": "93.33%"
         },
         {
           "trait_type": "glasses",
@@ -3843,6 +3894,7 @@
           "percent": "58.33%"
         }
       ]
-    }
+    },
+    "number": "157173"
   }
 ]

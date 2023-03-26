@@ -41,7 +41,7 @@ export const addInscriptionNumbers = async () => {
       if(!failed) inscription['number'] = json.num?.toString();
       return inscription;
     };
-    let transformedInscriptions = await promiseAllInBatches(task, inscriptions, 500);
+    let transformedInscriptions = await promiseAllInBatches(task, inscriptions, 1000);
     fs.writeFileSync(path.resolve(__dirname, filePath), JSON.stringify(transformedInscriptions, null, 2));
   }
 };
