@@ -11,6 +11,7 @@ const allowList = [
   "bitcoin-boos",
   "bitcoin-frogs",
   "bitcoin-ghcrystals",
+  "bitcoin-moonbirds",
   "bitcoin-punks",
   "bitcoin-wizards",
   "bitcoinswords",
