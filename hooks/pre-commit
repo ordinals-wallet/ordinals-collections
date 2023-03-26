@@ -1,0 +1,5 @@
+#!/bin/sh
+echo
+python3 tests/test_colllections.py || exit 1
+touch .commit
+exit

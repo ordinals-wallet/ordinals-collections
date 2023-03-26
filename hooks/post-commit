@@ -1,0 +1,10 @@
+#!/bin/sh
+echo
+if [ -e .commit ]
+    then
+    rm .commit
+    node transform
+    git add collections/
+    git commit --amend -C HEAD --no-verify
+fi
+exit
