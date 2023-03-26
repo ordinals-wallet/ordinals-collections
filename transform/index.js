@@ -261,7 +261,7 @@ let transformMethods = {
 };
 
 let listCollections = () => {
-  fs.writeFileSync('../collections.json', JSON.stringify(getDirectories('../collections/')));
+  fs.writeFileSync('../collections.json', JSON.stringify(getDirectories('../collections/'), undefined, 2));
 };
 
 (async () => {
