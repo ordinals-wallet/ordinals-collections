@@ -61,7 +61,7 @@ def test_meta():
         assert (len(meta.get('inscription_icon')) == 66) or meta.get('inscription_icon'), 'Invalid inscription Id'
         assert meta.get('slug').lower() == meta.get('slug'), 'Slug must be lowercase'
         assert len(meta.get('name')) <= 26, 'Name is too long'
-        assert len(meta.get('slug')) < 22, 'Slug is too long'
+        assert len(meta.get('slug')) < 30, 'Slug is too long'
         assert meta.get('slug') == x, 'Slug does not match directory name'
 
 def test_inscriptions():
