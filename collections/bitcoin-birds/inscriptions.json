@@ -2600,44 +2600,6 @@
     }
   },
   {
-    "id": "e0013eeb36356ee220fac803a0ceac78a71f3327ebbb0242bde5433b9841f11ei0",
-    "meta": {
-      "name": "Bitcoinbirds #4",
-      "attributes": [
-        { "trait_type": "Headwear", "value": "Backwards Hat" },
-        { "trait_type": "Eyes", "value": "Relaxed Yellow" },
-        { "trait_type": "Beak", "value": "Small Orange" },
-        { "trait_type": "Body", "value": "Crescent Black" },
-        { "trait_type": "Background", "value": "Btc Orange" }
-      ]
-    }
-  },
-  {
-    "id": "e0013eeb36356ee220fac803a0ceac78a71f3327ebbb0242bde5433b9841f11ei0",
-    "meta": {
-      "name": "Bitcoinbirds #40",
-      "attributes": [
-        { "trait_type": "Headwear", "value": "Wizard's Hat" },
-        { "trait_type": "Eyes", "value": "Discerning Red" },
-        { "trait_type": "Beak", "value": "Long Ruby" },
-        { "trait_type": "Body", "value": "Tabby White" },
-        { "trait_type": "Background", "value": "Btc Orange" }
-      ]
-    }
-  },
-  {
-    "id": "e0013eeb36356ee220fac803a0ceac78a71f3327ebbb0242bde5433b9841f11ei0",
-    "meta": {
-      "name": "Bitcoinbirds #5",
-      "attributes": [
-        { "trait_type": "Eyes", "value": "Angry Skeleton" },
-        { "trait_type": "Beak", "value": "Small Gray" },
-        { "trait_type": "Body", "value": "Tabby Purple" },
-        { "trait_type": "Background", "value": "Btc Orange" }
-      ]
-    }
-  },
-  {
     "id": "73ff376a9f11ba2129ef086210c6f0760bdf26b8f2c592dc8e19e59a53327ea8i0",
     "meta": {
       "name": "Bitcoinbirds #4647",
@@ -2702,34 +2664,6 @@
         { "trait_type": "Eyes", "value": "Angry Robot" },
         { "trait_type": "Beak", "value": "Short Robot" },
         { "trait_type": "Body", "value": "Tabby Green" },
-        { "trait_type": "Background", "value": "Btc Orange" }
-      ]
-    }
-  },
-  {
-    "id": "e0013eeb36356ee220fac803a0ceac78a71f3327ebbb0242bde5433b9841f11ei0",
-    "meta": {
-      "name": "Bitcoinbirds #2",
-      "attributes": [
-        { "trait_type": "Headwear", "value": "Tiny Crown" },
-        { "trait_type": "Outerwear", "value": "Diamond Necklace" },
-        { "trait_type": "Eyewear", "value": "Monocle (jade)" },
-        { "trait_type": "Eyes", "value": "Side Eye Red" },
-        { "trait_type": "Beak", "value": "Short Orange" },
-        { "trait_type": "Body", "value": "Tabby White" },
-        { "trait_type": "Background", "value": "Btc Orange" }
-      ]
-    }
-  },
-  {
-    "id": "e0013eeb36356ee220fac803a0ceac78a71f3327ebbb0242bde5433b9841f11ei0",
-    "meta": {
-      "name": "Bitcoinbirds #23",
-      "attributes": [
-        { "trait_type": "Headwear", "value": "Flower" },
-        { "trait_type": "Eyes", "value": "Side Eye Red" },
-        { "trait_type": "Beak", "value": "Long Golden" },
-        { "trait_type": "Body", "value": "Stark Red" },
         { "trait_type": "Background", "value": "Btc Orange" }
       ]
     }
@@ -5008,23 +4942,6 @@
         { "trait_type": "Eyes", "value": "Open Jade" },
         { "trait_type": "Beak", "value": "Long Orange" },
         { "trait_type": "Body", "value": "Professor White" },
-        { "trait_type": "Background", "value": "Btc Orange" }
-      ]
-    }
-  },
-  {
-    "id": "e0013eeb36356ee220fac803a0ceac78a71f3327ebbb0242bde5433b9841f11ei0",
-    "meta": {
-      "name": "Bitcoinbirds #14",
-      "attributes": [
-        {
-          "trait_type": "Headwear",
-          "value": "Dancing Flame (enlightened Variant)"
-        },
-        { "trait_type": "Eyewear", "value": "Big Tech" },
-        { "trait_type": "Eyes", "value": "Glitch 3" },
-        { "trait_type": "Beak", "value": "Short Skeleton" },
-        { "trait_type": "Body", "value": "Jade Legendary Crescent" },
         { "trait_type": "Background", "value": "Btc Orange" }
       ]
     }
