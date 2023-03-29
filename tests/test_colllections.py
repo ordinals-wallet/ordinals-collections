@@ -66,19 +66,18 @@ def test_meta():
 
 def test_inscriptions():
     current_collections = os.listdir(COLLECTIONS)
-
     for x in current_collections:
         with open("{}/{}/inscriptions.json".format(COLLECTIONS, x), "r") as file:
-            insciptions = json.load(file)
-
-        for y in insciptions:
+            inscriptions = json.load(file)
+        for y in inscriptions:
           assert y.get('id')
           assert y.get('meta')
           assert y.get('attributes') is None, 'Attributes belong in meta object'
-          if y.get('attributes'):
-             for a in y.get('attributes'):
-                assert a.get('trait_type'), 'Attribute must have trait type'
-                assert a.get('value'), 'Attribute must have trait value'
+          if y.get('meta').get('attributes'):
+             for a in y.get('meta').get('attributes'):
+               if x not in ['ordinal-gen1-pokemon', 'bitcoin-jpgs']:
+                assert 'trait_type' in a, 'Attribute must have trait type'
+                assert 'value' in a, 'Attribute must have trait value'
           assert len(y.get('id')) == 66
           assert isinstance(y.get('meta').get('name'), str)
          
