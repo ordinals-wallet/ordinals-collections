@@ -74,11 +74,11 @@ def test_inscriptions():
         for y in insciptions:
           assert y.get('id')
           assert y.get('meta')
-        #   assert y.get('attributes') is None
-        #   if y.get('attributes'):
-        #      for a in y.get('attributes'):
-        #         assert a.get('trait_type')
-        #         assert a.get('value')
+          assert y.get('attributes') is None, 'Attributes belong in meta object'
+          if y.get('attributes'):
+             for a in y.get('attributes'):
+                assert a.get('trait_type'), 'Attribute must have trait type'
+                assert a.get('value'), 'Attribute must have trait value'
           assert len(y.get('id')) == 66
           assert isinstance(y.get('meta').get('name'), str)
          
