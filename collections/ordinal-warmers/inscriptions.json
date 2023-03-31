@@ -37,14 +37,14 @@
           "percent": "100.00%"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
+          "trait_type": "Heat production",
+          "value": "0 kWh",
           "status": "Common",
           "percent": "100.00%"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
+          "trait_type": "CO2 savings",
+          "value": "0 gCO2eq",
           "status": "Common",
           "percent": "100.00%"
         }
