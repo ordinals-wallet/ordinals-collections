@@ -8,45 +8,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "diamond",
-          "status": "Exotic",
-          "percent": "5.60%"
+          "value": "diamond"
         },
         {
           "trait_type": "Background",
-          "value": "wood",
-          "status": "Rare",
-          "percent": "21.50%"
+          "value": "wood"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
           "trait_type": "Heat production",
-          "value": "0 kWh",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "0 kWh"
         },
         {
           "trait_type": "CO2 savings",
-          "value": "0 gCO2eq",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -60,45 +54,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "diamond",
-          "status": "Exotic",
-          "percent": "5.60%"
+          "value": "diamond"
         },
         {
           "trait_type": "Background",
-          "value": "colors",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "colors"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -112,45 +100,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "colors",
-          "status": "Legendary",
-          "percent": "7.89%"
+          "value": "colors"
         },
         {
           "trait_type": "Background",
-          "value": "wood",
-          "status": "Rare",
-          "percent": "21.50%"
+          "value": "wood"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -164,45 +146,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "colors",
-          "status": "Legendary",
-          "percent": "7.89%"
+          "value": "colors"
         },
         {
           "trait_type": "Background",
-          "value": "water",
-          "status": "Epic",
-          "percent": "10.53%"
+          "value": "water"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -216,45 +192,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "colors",
-          "status": "Legendary",
-          "percent": "7.89%"
+          "value": "colors"
         },
         {
           "trait_type": "Background",
-          "value": "gold",
-          "status": "Legendary",
-          "percent": "7.89%"
+          "value": "gold"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -268,45 +238,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "carbon",
-          "status": "Epic",
-          "percent": "10.53%"
+          "value": "carbon"
         },
         {
           "trait_type": "Background",
-          "value": "gold",
-          "status": "Legendary",
-          "percent": "7.89%"
+          "value": "gold"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -320,45 +284,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "carbon",
-          "status": "Epic",
-          "percent": "10.53%"
+          "value": "carbon"
         },
         {
           "trait_type": "Background",
-          "value": "wood",
-          "status": "Rare",
-          "percent": "21.05%"
+          "value": "wood"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -372,45 +330,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "carbon",
-          "status": "Epic",
-          "percent": "10.53%"
+          "value": "carbon"
         },
         {
           "trait_type": "Background",
-          "value": "colors",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "colors"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -424,45 +376,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "carbon",
-          "status": "Epic",
-          "percent": "10.53%"
+          "value": "carbon"
         },
         {
           "trait_type": "Background",
-          "value": "water",
-          "status": "Epic",
-          "percent": "10.53%"
+          "value": "water"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -476,45 +422,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "gold",
-          "status": "Rare",
-          "percent": "15.79%"
+          "value": "gold"
         },
         {
           "trait_type": "Background",
-          "value": "water",
-          "status": "Epic",
-          "percent": "10.53%"
+          "value": "water"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -528,45 +468,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "gold",
-          "status": "Rare",
-          "percent": "15.79%"
+          "value": "gold"
         },
         {
           "trait_type": "Background",
-          "value": "gold",
-          "status": "Legendary",
-          "percent": "7.89%"
+          "value": "gold"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -580,45 +514,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "gold",
-          "status": "Rare",
-          "percent": "15.79%"
+          "value": "gold"
         },
         {
           "trait_type": "Background",
-          "value": "black",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "black"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -632,45 +560,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "gold",
-          "status": "Rare",
-          "percent": "15.79%"
+          "value": "gold"
         },
         {
           "trait_type": "Background",
-          "value": "wood",
-          "status": "Rare",
-          "percent": "21.05%"
+          "value": "wood"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -684,45 +606,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "gold",
-          "status": "Rare",
-          "percent": "15.79%"
+          "value": "gold"
         },
         {
           "trait_type": "Background",
-          "value": "wood",
-          "status": "Rare",
-          "percent": "21.05%"
+          "value": "wood"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -736,45 +652,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "gold",
-          "status": "Rare",
-          "percent": "15.79%"
+          "value": "gold"
         },
         {
           "trait_type": "Background",
-          "value": "colors",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "colors"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -788,45 +698,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "silver",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "silver"
         },
         {
           "trait_type": "Background",
-          "value": "water",
-          "status": "Epic",
-          "percent": "10.53%"
+          "value": "water"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -840,45 +744,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "silver",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "silver"
         },
         {
           "trait_type": "Background",
-          "value": "wood",
-          "status": "Rare",
-          "percent": "21.05%"
+          "value": "wood"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -892,45 +790,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "silver",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "silver"
         },
         {
           "trait_type": "Background",
-          "value": "colors",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "colors"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -944,45 +836,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "silver",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "silver"
         },
         {
           "trait_type": "Background",
-          "value": "colors",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "colors"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -996,45 +882,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "silver",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "silver"
         },
         {
           "trait_type": "Background",
-          "value": "colors",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "colors"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1048,45 +928,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "silver",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "silver"
         },
         {
           "trait_type": "Background",
-          "value": "black",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "black"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1100,45 +974,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "silver",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "silver"
         },
         {
           "trait_type": "Background",
-          "value": "black",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "black"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1152,45 +1020,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "silver",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "silver"
         },
         {
           "trait_type": "Background",
-          "value": "black",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "black"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1204,45 +1066,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "silver",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "silver"
         },
         {
           "trait_type": "Background",
-          "value": "black",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "black"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1256,45 +1112,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "silver",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "silver"
         },
         {
           "trait_type": "Background",
-          "value": "black",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "black"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1308,45 +1158,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "copper",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "copper"
         },
         {
           "trait_type": "Background",
-          "value": "wood",
-          "status": "Rare",
-          "percent": "21.05%"
+          "value": "wood"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1360,45 +1204,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "copper",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "copper"
         },
         {
           "trait_type": "Background",
-          "value": "wood",
-          "status": "Rare",
-          "percent": "21.05%"
+          "value": "wood"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1412,45 +1250,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "copper",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "copper"
         },
         {
           "trait_type": "Background",
-          "value": "colors",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "colors"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1464,45 +1296,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "copper",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "copper"
         },
         {
           "trait_type": "Background",
-          "value": "colors",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "colors"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1516,45 +1342,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "copper",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "copper"
         },
         {
           "trait_type": "Background",
-          "value": "colors",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "colors"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1568,45 +1388,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "copper",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "copper"
         },
         {
           "trait_type": "Background",
-          "value": "colors",
-          "status": "Uncommon",
-          "percent": "26.32%"
+          "value": "colors"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1620,45 +1434,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "copper",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "copper"
         },
         {
           "trait_type": "Background",
-          "value": "black",
-          "status": "Common",
-          "percent": "26.32%"
+          "value": "black"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1672,45 +1480,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "copper",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "copper"
         },
         {
           "trait_type": "Background",
-          "value": "black",
-          "status": "Common",
-          "percent": "26.32%"
+          "value": "black"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1724,45 +1526,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "copper",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "copper"
         },
         {
           "trait_type": "Background",
-          "value": "black",
-          "status": "Common",
-          "percent": "26.32%"
+          "value": "black"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1776,45 +1572,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "copper",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "copper"
         },
         {
           "trait_type": "Background",
-          "value": "black",
-          "status": "Common",
-          "percent": "26.32%"
+          "value": "black"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1828,45 +1618,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "copper",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "copper"
         },
         {
           "trait_type": "Background",
-          "value": "black",
-          "status": "Common",
-          "percent": "26.32%"
+          "value": "black"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1880,45 +1664,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "copper",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "copper"
         },
         {
           "trait_type": "Background",
-          "value": "black",
-          "status": "Common",
-          "percent": "26.32%"
+          "value": "black"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
@@ -1932,45 +1710,39 @@
       "attributes": [
         {
           "trait_type": "Skin",
-          "value": "copper",
-          "status": "Common",
-          "percent": "34.21%"
+          "value": "copper"
         },
         {
           "trait_type": "Background",
-          "value": "black",
-          "status": "Common",
-          "percent": "26.32%"
+          "value": "black"
         },
         {
           "trait_type": "Vintage",
-          "value": "PreHeat",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "PreHeat"
         },
         {
           "trait_type": "Hashrate",
-          "value": "10 THs",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "10 THs"
+        },
+        {
+          "trait_type": "Rewards counter",
+          "value": "0"
         },
         {
           "trait_type": "Location",
-          "value": "social housings",
-          "status": "Common",
-          "percent": "100.00%"
+          "value": "social housings"
         },
         {
-          "trait_type": "Heat counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "Heat production",
+          "value": "0 kWh"
         },
         {
-          "trait_type": "CO2 counter",
-          "value": "0",
-          "status": "Common",
-          "percent": "100.00%"
+          "trait_type": "CO2 savings",
+          "value": "0 g CO2eq"
+        },
+        {
+          "trait_type": "Status",
+          "value": "Idle"
         }
       ]
     }
