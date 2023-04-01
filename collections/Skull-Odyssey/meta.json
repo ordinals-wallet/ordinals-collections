@@ -1,9 +1,9 @@
 {
-  "name": "",                    # inscription name
-  "inscription_icon": "",        # collection cover inscription id
-  "supply": "",                  # total supply
+  "name": "Skull Odyssey",                    # inscription name
+  "inscription_icon": "e517e1b0e7350ecd7af6b69c379fc65670c5ac313e14b8dcc7ef62fe5362f105i0",        # collection cover inscription id
+  "supply": "10",                  # total supply
   "slug": "skull-odyssey",                    # directory name
-  "description": "",             # collection description
+  "description": "Works on the theme of skulls",             # collection description
   "twitter_link": "",            # official twitter
   "discord_link": "",            # official discord
   "website_link": ""             # official website
