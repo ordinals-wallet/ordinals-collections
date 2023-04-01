@@ -1,0 +1,656 @@
+[
+  {
+    "id": "9f384cd31f7999329c287c739503af4127949ee7f5fb2c961c6c052845fb8cddi0",
+    "meta": {
+      "name": "Afrikaans"
+    }
+  },
+  {
+    "id": "e7f64c2def02caedf84eb20de9973d2e0490f6b617d1a6dc6887266465b9395fi0",
+    "meta": {
+      "name": "Albanian"
+    }
+  },
+  {
+    "id": "5209b3fc71d39a80c688f75e53df4f103964b950720c6c2fc5b9be14102d9debi0",
+    "meta": {
+      "name": "Amharic"
+    }
+  },
+  {
+    "id": "b94048e6b35f4a2ec2e6139e05f9e7f108e5fc9ad86eed06bbfee68fe286d1a5i0",
+    "meta": {
+      "name": "Arabic"
+    }
+  },
+  {
+    "id": "ca1a6f56ae8f69fa967e087fd61d8185e0021537e1dd7773889b2e5df34afa08i0",
+    "meta": {
+      "name": "Armenian"
+    }
+  },
+  {
+    "id": "045645a3fe345d78be553f1939665a01de1bcfaf1c66cb6bd02df91e0a079259i0",
+    "meta": {
+      "name": "Azerbaijani"
+    }
+  },
+  {
+    "id": "5c6b69a8677eca70f6611461fe7403eba2bda6f547fe227e812882b050d4a524i0",
+    "meta": {
+      "name": "Basque"
+    }
+  },
+  {
+    "id": "39baf0c37da5f17a6107a41d52dff0e5c8778f657869964353d7db732f3a3a4ai0",
+    "meta": {
+      "name": "Belarusian"
+    }
+  },
+  {
+    "id": "5623be96315354937f2452447281a2510ac8659709003d33875eaf4e56fc34a8i0",
+    "meta": {
+      "name": "Bengali"
+    }
+  },
+  {
+    "id": "1be2eb976544372694e30f470d96ec09b7883025e56107af0b34896c4576f6c5i0",
+    "meta": {
+      "name": "Bosnian"
+    }
+  },
+  {
+    "id": "c39aa2d98c0025e429c628825d018686d9d489d43a5e1d0945554c0f60c19c8di0",
+    "meta": {
+      "name": "Bulgarian"
+    }
+  },
+  {
+    "id": "ccae21271570af4da76f026f248f224c4c0a9d9ed5898fd38a4d4650250cca4bi0",
+    "meta": {
+      "name": "Catalan"
+    }
+  },
+  {
+    "id": "3fbef21e277ebe1bfd433777c0fafbe182379a19a10d53b0d9c867a2feb039a0i0",
+    "meta": {
+      "name": "Cebuano"
+    }
+  },
+  {
+    "id": "222c0d9c86485c06cfb81e63eb0ad8dd8540ceb94dffd8e18e6d4716dec4e4d7i0",
+    "meta": {
+      "name": "Chichewa"
+    }
+  },
+  {
+    "id": "27633c31cdea8485d4abe6afcf5dd3bbd67b94e8ac4f40b35cb0421a53aeacb3i0",
+    "meta": {
+      "name": "Chinese Simplified"
+    }
+  },
+  {
+    "id": "bdcc7a3257e6fa454bb3c3904f62631a5f746c96c27e17bc85ee9b090d65b29ei0",
+    "meta": {
+      "name": "Chinese Traditional"
+    }
+  },
+  {
+    "id": "21256fd51910fc2da3a35461b5d22d2f857e4522c91beae3b9a917130a810d00i0",
+    "meta": {
+      "name": "Corsican"
+    }
+  },
+  {
+    "id": "a27460d54fb94438dfc35acac7b02c5196ca6b0204cd76b80dba1d3e2f3b590di0",
+    "meta": {
+      "name": "Croatian"
+    }
+  },
+  {
+    "id": "1bb05bca63994d2154c311574d126946abab33b20cc516cd371ffde388dd70c8i0",
+    "meta": {
+      "name": "Czech"
+    }
+  },
+  {
+    "id": "adcf43bf16896a71e529f3662bab174d51f836fa9f167c9e58e3a349103b10c6i0",
+    "meta": {
+      "name": "Danish"
+    }
+  },
+  {
+    "id": "d0ef29ee7d11398e89ebd242a999ad4c21f595083e4bb38b4f902c472603d6abi0",
+    "meta": {
+      "name": "Dutch"
+    }
+  },
+  {
+    "id": "4b780ce035ac5982cfb2f508319de4d35385efedaa5c26ad162a66c9e0a7e400i0",
+    "meta": {
+      "name": "English"
+    }
+  },
+  {
+    "id": "7642982cdc6376481982ea34b24768368f2f2278fb4167786aeb012e8217570fi0",
+    "meta": {
+      "name": "Esperanto"
+    }
+  },
+  {
+    "id": "95c4c9135fb9402bcec4bad800398d3e82de8b1b4216cb3b84a5462aa0c9c91ai0",
+    "meta": {
+      "name": "Estonian"
+    }
+  },
+  {
+    "id": "fa4ef244049b39288452c687db8de1ef17cf33b44bb7492deb6704d966cc6019i0",
+    "meta": {
+      "name": "Filipino"
+    }
+  },
+  {
+    "id": "9b2eca67e40ff526b8a5b5ecd438020da20dc9b17651bad6d649a4bcaabfe71ei0",
+    "meta": {
+      "name": "Finnish"
+    }
+  },
+  {
+    "id": "6db3f61dcbc815e2da4f3e6552eaf010733cf0649e9d63ec4677288d7b1c23b7i0",
+    "meta": {
+      "name": "French"
+    }
+  },
+  {
+    "id": "c8054d8c6d927d61a66b433317e558dbbdf6d7e147abbb6a026f9dfae2e1a547i0",
+    "meta": {
+      "name": "Frisian"
+    }
+  },
+  {
+    "id": "bb596e9ac6a0687bd2caf90c12293dfb0835a5ef9e10e46e27e4d292cb01d20ci0",
+    "meta": {
+      "name": "Galician"
+    }
+  },
+  {
+    "id": "8f3dc0d20ada53f9bed1072507ff7ac4de7980615cdf132e085949e4c9a6346fi0",
+    "meta": {
+      "name": "Georgian"
+    }
+  },
+  {
+    "id": "a03c0261c22f83353d7b181c7e4b64d214d5da0993047dc5480944bdb20912d6i0",
+    "meta": {
+      "name": "German"
+    }
+  },
+  {
+    "id": "53433bde110e2427596e2ad2fedb2eb09e7734c314d947be4c2f45f63bc5a823i0",
+    "meta": {
+      "name": "Greek"
+    }
+  },
+  {
+    "id": "2a73a711396d24a49806a2273c2d5609a6332c0bdc579f6d63cab83060712efdi0",
+    "meta": {
+      "name": "Gujarati"
+    }
+  },
+  {
+    "id": "ddbc32c15938a2d6d93cddaa1da0c6c490d5b289d23ad88c82a57003950bf9eei0",
+    "meta": {
+      "name": "Haitian Creole"
+    }
+  },
+  {
+    "id": "28bbbaceec19815ff4bc8a5178bd3b68c60da98f20490bd822b9b5781c37d519i0",
+    "meta": {
+      "name": "Hausa"
+    }
+  },
+  {
+    "id": "3a26c615324ca0af55f0d3a5a7e30aa301afb6dd3b63c3a74e79d4f820276b5di0",
+    "meta": {
+      "name": "Hawaiian"
+    }
+  },
+  {
+    "id": "2c0ea8c686edd6ecc10df487f32df6a7c8311267e9611370fb8033c25534a34di0",
+    "meta": {
+      "name": "Hebrew"
+    }
+  },
+  {
+    "id": "5d78255d901a1f19c3a7623f6f96a06f535415933a2515bf81bf3337cceebcc2i0",
+    "meta": {
+      "name": "Hindi"
+    }
+  },
+  {
+    "id": "54b1a8a914d25be2d8645d9a798d29e7c7850857af07540c1ffd33fecc8e060ai0",
+    "meta": {
+      "name": "Hmong"
+    }
+  },
+  {
+    "id": "cf5029675470a6a1dd91e6db379dc54597f45605c05ae440407c65ffc365ce34i0",
+    "meta": {
+      "name": "Hungarian"
+    }
+  },
+  {
+    "id": "eab392ae20e9cd4a30c282da083f6d1cf4b64e64f80f3a77aa5140d3468a1ddai0",
+    "meta": {
+      "name": "Icelandic"
+    }
+  },
+  {
+    "id": "32f6ecef023824b6c09f75013448f968f40fd9b1994b22c9aa750d36273eecbai0",
+    "meta": {
+      "name": "Igbo"
+    }
+  },
+  {
+    "id": "ff566f478cbb2eba58abb7f8aae531ed6f341cde799de7059c97282bf24f1ac6i0",
+    "meta": {
+      "name": "Indonesian"
+    }
+  },
+  {
+    "id": "d07b19a3785c6672658cfac13661d8eaf99afaab1ae8c3424286d5d3d571b063i0",
+    "meta": {
+      "name": "Irish"
+    }
+  },
+  {
+    "id": "3fc4bc38cd4031451c64fd1c034e232505d82d888228af240ead2bb3e10b14f6i0",
+    "meta": {
+      "name": "Italian"
+    }
+  },
+  {
+    "id": "3216316e19ccb7e1c737564e0aa68e71a13ad38b68d57513de42d06ec5c9e428i0",
+    "meta": {
+      "name": "Japanese"
+    }
+  },
+  {
+    "id": "38be1cb8fec4c88ca80b2466d2148e669c0f45097e515aa89c71b8503869b745i0",
+    "meta": {
+      "name": "Javanese"
+    }
+  },
+  {
+    "id": "1154c635a5184047b7a22941d755aaf70eb22b6396e72dc328cb8a4b3e3c2274i0",
+    "meta": {
+      "name": "Kannada"
+    }
+  },
+  {
+    "id": "2d230a9f2a88bd310cc3dcb21bf34f1d35fb687cb94cdee1adf6a78f27fd2544i0",
+    "meta": {
+      "name": "Kazakh"
+    }
+  },
+  {
+    "id": "9dbafd1e908f3da6aac57adf9aec6c2b4f45a8b484fb8e636c10a72674eed29ei0",
+    "meta": {
+      "name": "Khmer"
+    }
+  },
+  {
+    "id": "4003519318c940d9744db31ded4163994bbb0df442de35e4fac880ed76f72bf4i0",
+    "meta": {
+      "name": "Kinyarwanda"
+    }
+  },
+  {
+    "id": "4ec784cf82f042158a523233169ee0d07d6c5125ecde2ba2da1dec3831fede7ai0",
+    "meta": {
+      "name": "Korean"
+    }
+  },
+  {
+    "id": "247dde62468f79ae5bc124a01c9bf9afef706640818ea8ebca018b59a5f1bb85i0",
+    "meta": {
+      "name": "Kurdish (Kurmanji)"
+    }
+  },
+  {
+    "id": "dfae20ff8229755676a4718fbf6d080081204b8409c9e7af95faac8ea47a581fi0",
+    "meta": {
+      "name": "Kyrgyz"
+    }
+  },
+  {
+    "id": "08b13fd27c49548a598b389b1a37bf864b798f3d7427493d8781ac640038b936i0",
+    "meta": {
+      "name": "Lao"
+    }
+  },
+  {
+    "id": "a58531d52c73cd5b6316461da658f69e3d9956426a16e7c9b7300a6a5fdaf4c8i0",
+    "meta": {
+      "name": "Latin"
+    }
+  },
+  {
+    "id": "d631a120fb39045fc34db496616d99e66d0919279e1f0a7fb108ba4584867d9ci0",
+    "meta": {
+      "name": "Latvian"
+    }
+  },
+  {
+    "id": "d90d243b30a3a195d02ba89e9719dda6ffdde54d80ee4dec7dfd7d3ba0d3df5di0",
+    "meta": {
+      "name": "Lithuanian"
+    }
+  },
+  {
+    "id": "ab5dc462958ff6842ca8174cb5d56395dc4e4cf1d24a075ecd5e6135c6fe2abai0",
+    "meta": {
+      "name": "Luxembourgish"
+    }
+  },
+  {
+    "id": "a65f352ed12e793844a66b0a25446ef9109dfd0e7cb41d1dc3f4f6a5377777aei0",
+    "meta": {
+      "name": "Macedonian"
+    }
+  },
+  {
+    "id": "37cf37b138322161f81640b3fc0307140c7e5411b5e342321602cd7210a77707i0",
+    "meta": {
+      "name": "Malagasy"
+    }
+  },
+  {
+    "id": "cd44d5f0bd5abcfa5d3143153e567bd6e7c7eb2af55ccb955a2f52cfdf7845cci0",
+    "meta": {
+      "name": "Malay"
+    }
+  },
+  {
+    "id": "11dcd735e341b2553d184760bc94bc7658553b8706971b82d9a63a206dd44c5ei0",
+    "meta": {
+      "name": "Malayalam"
+    }
+  },
+  {
+    "id": "cdc702f19afd6685fbb0441481267d91b1f80b92a7df355f9fc9deac69c28dadi0",
+    "meta": {
+      "name": "Maltese"
+    }
+  },
+  {
+    "id": "d9b73d689cba9e375efca3d08c13cd3b88170588dbab6f0d525a56a426c8d549i0",
+    "meta": {
+      "name": "Maori"
+    }
+  },
+  {
+    "id": "24e899c701941fd27395b5fa99c7ef87a9b853981e00638763c2d942c8f1dfc7i0",
+    "meta": {
+      "name": "Marathi"
+    }
+  },
+  {
+    "id": "92bcbb5054b3a62dd8748ad84b58fb5980b02a6f55f07efcb74d975b08af07e2i0",
+    "meta": {
+      "name": "Mongolian"
+    }
+  },
+  {
+    "id": "2f701d3bee4d2ddf81008231591ef81b44f51ed98e33cf35322056ae0d06cf48i0",
+    "meta": {
+      "name": "Myanmar (Burmese)"
+    }
+  },
+  {
+    "id": "8af0a044b4831bc481184452fca3e20c58ac1fe391f797c8890114b5292f94f2i0",
+    "meta": {
+      "name": "Nepali"
+    }
+  },
+  {
+    "id": "e17a2f22fbabc57202407b5a51a3402979eb97ae13991121f1a0f039dc12b5e7i0",
+    "meta": {
+      "name": "Norwegian"
+    }
+  },
+  {
+    "id": "9ea2a8e89258ed6a37a9943036b23025eafc457211474708ebbb019d919982e9i0",
+    "meta": {
+      "name": "Odia"
+    }
+  },
+  {
+    "id": "4b726ea5a283b341b4c2c9e4a6139638c09662711a6ab3a1580cbf5b11d4618ai0",
+    "meta": {
+      "name": "Pashto"
+    }
+  },
+  {
+    "id": "66ddfb8344b07c2946e75842c2c0c4aa8905b8b1c1e08414bc3ce72ff79d7138i0",
+    "meta": {
+      "name": "Persian"
+    }
+  },
+  {
+    "id": "d33c5d15dd93fe192fca6d59c0893a2416e2cc62f2177548d4f842e749162bfdi0",
+    "meta": {
+      "name": "Polish"
+    }
+  },
+  {
+    "id": "128a8330ad92335b557a87956688e01f8b24367126054e212ca05da7e2f3da10i0",
+    "meta": {
+      "name": "Portuguese"
+    }
+  },
+  {
+    "id": "dea6c7f0895a2742be89fc83adb1aaa1e2dfceecb1afc09742b3730d2a3cd499i0",
+    "meta": {
+      "name": "Punjabi"
+    }
+  },
+  {
+    "id": "dda7c8ccf80426f337e8c95f4a0c6f562904edbbaa163a1bf8dab65da8ae3098i0",
+    "meta": {
+      "name": "Romanian"
+    }
+  },
+  {
+    "id": "7bd060fa2fc1830e3254b34da9adcb5a9185c0b48f44f2adaa140d06a5be85c3i0",
+    "meta": {
+      "name": "Russian"
+    }
+  },
+  {
+    "id": "3f5882e8a37e3e111970e8b1f395430e20f534c34abe6cf79062725785756a20i0",
+    "meta": {
+      "name": "Samoan"
+    }
+  },
+  {
+    "id": "5f737ba83a10d508b773111e93a8eecb70ed79f769dce7b409898bac499cc389i0",
+    "meta": {
+      "name": "Scots Gaelic"
+    }
+  },
+  {
+    "id": "39ad0ccda343f3d36233dc755e25512936e425eaf8ab2fbaf60b766cafbed234i0",
+    "meta": {
+      "name": "Serbian"
+    }
+  },
+  {
+    "id": "a8365ecc76c8c6714bdeeff9ecaa5ded849fa766b79807b6fb8f6caa35ff1c19i0",
+    "meta": {
+      "name": "Sesotho"
+    }
+  },
+  {
+    "id": "f997451d7d4b2bca97750030bc814c9cb8885f8d31d3f535d4c6bdbb57485599i0",
+    "meta": {
+      "name": "Shona"
+    }
+  },
+  {
+    "id": "1671e5bebf757b4c4dde75273965bf8c49eafad3c5bf90530070bd12c28215dai0",
+    "meta": {
+      "name": "Sindhi"
+    }
+  },
+  {
+    "id": "55a8a954a4dc3ac8b2b466b5564c88cb6fecb0c2f917368600de8d879a1bc604i0",
+    "meta": {
+      "name": "Sinhala"
+    }
+  },
+  {
+    "id": "f2d431589bcf210a9e5bc6af5f2547a8a14b90432de3ead59a9fcfed37bd067ci0",
+    "meta": {
+      "name": "Slovak"
+    }
+  },
+  {
+    "id": "14180952cf7deb8afc1248f3eca312fe2b23ff1ab7afe97f8158a6f85b9f6d47i0",
+    "meta": {
+      "name": "Slovenian"
+    }
+  },
+  {
+    "id": "dcc6727d971b896c354563f76c74a8fe17099da1f4e48076d14d9542502f5af9i0",
+    "meta": {
+      "name": "Somali"
+    }
+  },
+  {
+    "id": "349243528c4bf05745f3e84bf0fa0172f0d2d46d830b35a3de6a4e775e4808fai0",
+    "meta": {
+      "name": "Spanish"
+    }
+  },
+  {
+    "id": "6554c2d5de4d85c842ed29abd42d5b56666bc6034217aa83c62d844b0e052c51i0",
+    "meta": {
+      "name": "Sundanese"
+    }
+  },
+  {
+    "id": "5951de2c687ad624c16e0e13a85a8aa7f3687459e44b58d1ef22db770228c11di0",
+    "meta": {
+      "name": "Swahili"
+    }
+  },
+  {
+    "id": "37167c10816559ce7f34974d424cbddf5f5f45cea6c81b5702995cdb63cb7e25i0",
+    "meta": {
+      "name": "Swedish"
+    }
+  },
+  {
+    "id": "3f278d06f50e97ad61cceade11c7e01dd541f667e01928cbba88c3b7123e7804i0",
+    "meta": {
+      "name": "Tajik"
+    }
+  },
+  {
+    "id": "90ceb552a83e62fbed15ed95edc013e8c64411a3a819ce126c68d8b646f64c99i0",
+    "meta": {
+      "name": "Tamil"
+    }
+  },
+  {
+    "id": "e8e3a18cce07e5db695a0cc3af965b9e3b29957e267d2c1a49ac7f23298d59adi0",
+    "meta": {
+      "name": "Tatar"
+    }
+  },
+  {
+    "id": "efbe736916541cd6b33c4838ede859e1f7347a56ddc60890457e4b353aa60359i0",
+    "meta": {
+      "name": "Telugu"
+    }
+  },
+  {
+    "id": "b1a1e9d50f2e86c676e4353612e435e6d8232b3e2914c7a9888277cf07cd24b0i0",
+    "meta": {
+      "name": "Thai"
+    }
+  },
+  {
+    "id": "22102d8e42610d4f3c76bdf7a7fa4c1a157288804dd26ce9a5e0dd602948c9e0i0",
+    "meta": {
+      "name": "Turkish"
+    }
+  },
+  {
+    "id": "ee82239cfc232b45692e80d5ddf69b179a227e0fd3171faf6f6e187499087ca0i0",
+    "meta": {
+      "name": "Turkmen"
+    }
+  },
+  {
+    "id": "96fd74f98d6617bd79a6f9e6a873e955aa5e56bb23f9ac0c744826947bd40127i0",
+    "meta": {
+      "name": "Ukrainian"
+    }
+  },
+  {
+    "id": "5cbdb413836b7d4e53b610f639142dde1bf309d7232843f1a8b0d9ea2ff159dbi0",
+    "meta": {
+      "name": "Urdu"
+    }
+  },
+  {
+    "id": "a8c670cfa9ce8ccdf1c54e9d1b07810a18d367f2b85210f44b1205ad20f05f84i0",
+    "meta": {
+      "name": "Uyghur"
+    }
+  },
+  {
+    "id": "78bf226668bcfb6cf47a60ec94d42939e57a53202194b377cf83b9827fe7c95fi0",
+    "meta": {
+      "name": "Uzbek"
+    }
+  },
+  {
+    "id": "08d814de15d4c54482a3951e19a115f4f3e42e2e9744f2b4abdf20d13cde7680i0",
+    "meta": {
+      "name": "Vietnamese"
+    }
+  },
+  {
+    "id": "2a18df156a7f14a207ab749b057cf495bbb22550b1c7d8e0b8f2342dfe3db73di0",
+    "meta": {
+      "name": "Welsh"
+    }
+  },
+  {
+    "id": "f6764fdee07f8e7d29f61640b6a93ec05df69cfce1c4f9e90caad59e1c682d4bi0",
+    "meta": {
+      "name": "Xhosa"
+    }
+  },
+  {
+    "id": "13e3046a5535dcceab1e6d08ca9202913f50bd56d85cf079546882eab0b0c4d1i0",
+    "meta": {
+      "name": "Yiddish"
+    }
+  },
+  {
+    "id": "9fe9606c2df2b71958f409f2f2d92fc0f93e37eb541ab0371573a4c7a7013853i0",
+    "meta": {
+      "name": "Yoruba"
+    }
+  },
+  {
+    "id": "49f7434316e7e3b214c96d43d60d7f6eb3ff8a6256787b61c687765a547edf19i0",
+    "meta": {
+      "name": "Zulu"
+    }
+  }
+]
