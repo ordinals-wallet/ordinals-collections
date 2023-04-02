@@ -3,140 +3,1049 @@
     "id": "45e026d1a5777ab101e78842a32386ad8efea395c813b08c1c95242a77319b1di0",
     "meta": {
       "name": "Ordinal Stone #1",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Crystal"
+        }
+      ]
     }
   },
   {
     "id": "2d65655d89f70834e019c8495778b7fb9929f8badf7870be985016f0901d8ac7i0",
     "meta": {
       "name": "Ordinal Stone #2",
-      "attributes": []
-    }
+      "attributes": [ 
+      {
+        "trait_type": "Rarity",
+        "value": "Common",
+        "percent": "80%"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Sky Blue"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Twin Crystals"
+      }
+    ]
+  }  
   },
   {
     "id": "4f13f4257ec6c7351672475330a20ff3a671831a1f37b368f099648bc21c9b06i0",
     "meta": {
       "name": "Ordinal Stone #3",
-      "attributes": []
+      "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common",
+        "percent": "80%"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Sky Blue"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Twin Plates"
+      }
+    ]
     }
   },
   {
     "id": "3ab29b2023fc9259509d2b17bffc829ea864517671bedd1b12cd6f2c48632b30i0",
     "meta": {
       "name": "Ordinal Stone #4",
-      "attributes": []
+      "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common",
+        "percent": "80%"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Sky Blue"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Needle"
+      }
+    ]
     }
   },
   {
     "id": "663baa8af64a3d6e7a41044e06fbde60f417eb7972e5f46b1154e10c3685ed3ai0",
     "meta": {
       "name": "Ordinal Stone #5",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Tryangle"
+        }
+      ]
     }
   },
   {
     "id": "925af2820872d0af2bb8d71cb6398678ad3f73fa37c53904e0e86e5a148a1548i0",
     "meta": {
       "name": "Ordinal Stone #6",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Mica-bearing Columnar"
+        }
+      ]
     }
   },
   {
     "id": "31a567b4c9dcef928198ef2289c83dc9f3940a47bcdd19512b001a7ee5a5294fi0",
     "meta": {
       "name": "Ordinal Stone #7",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Cyclic Twin"
+        }
+      ]
     }
   },
   {
     "id": "dc5044d56401b1b45b6e9be4f663c1d1607decc63930740fb388827059944d4fi0",
     "meta": {
       "name": "Ordinal Stone #8",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Lozenge"
+        }
+      ]
     }
   },
   {
     "id": "44afe38c84cc9d3f09151b6d7f9744e2a1f7f81683460a79f2db6bb6f62b0e82i0",
     "meta": {
       "name": "Ordinal Stone #9",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Plate"
+        }
+      ]
     }
   },
   {
     "id": "420e7f2d8ec8e3de156d81625e56174c17314fe8fcaf055e3658c049c538ac85i0",
     "meta": {
       "name": "Ordinal Stone #10",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Coral"
+        }
+      ]
     }
   },
   {
     "id": "4f311780ceaa528d276c55f2ede99068332fd9567cc4c791deb466aee452e988i0",
     "meta": {
       "name": "Ordinal Stone #11",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Quartz-bearing Columnar"
+        }
+      ]
     }
   },
   {
     "id": "e55fe3bc48f0a796ba91d3dd5a06c11ae7a27fb02b24382b38dade2e860868a2i0",
     "meta": {
       "name": "Ordinal Stone #12",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Star Cabochon"
+        }
+      ]
     }
   },
   {
     "id": "b26da51f26dc30bbe0938efac583ba53767cfb3f83f3dd530e1f45e2a82029aai0",
     "meta": {
       "name": "Ordinal Stone #13",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Columnar"
+        }
+      ]
     }
   },
   {
     "id": "51c182b7506cd7caa0e093b308b5ee16cca47218db0ea76843b64c72c297f2abi0",
     "meta": {
       "name": "Ordinal Stone #14",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Triplet Plates"
+        }
+      ]
     }
   },
   {
     "id": "52491806b5e4f6d548648873472ab075b92aa2902ed64ed5549b7198290910b9i0",
     "meta": {
       "name": "Ordinal Stone #15",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Star Cross"
+        }
+      ]
     }
   },
   {
     "id": "6acd323edb0f5f349aac384a0f5692fc5cdcfe6c1f05f72543589ac5d56565bbi0",
     "meta": {
       "name": "Ordinal Stone #16",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Trapiche"
+        }
+      ]
     }
   },
   {
     "id": "273048a4ee2fa386ee8600beaa350aa5bb9ae15155b3c5fb1418dee4af12cde8i0",
     "meta": {
       "name": "Ordinal Stone #17",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Multi Crystals"
+        }
+      ]
     }
   },
   {
     "id": "407cc27882308489dcc7ce6ebf311a07d55b7839ea42dd62cc09986e0d0027f5i0",
     "meta": {
       "name": "Ordinal Stone #18",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Calcite"
+        }
+      ]
     }
   },
   {
     "id": "13019a9e348e777c4d64dcbf38f81ec0aeececbd671ab72c457015b00d4da1fci0",
     "meta": {
       "name": "Ordinal Stone #19",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Triplet Crystals"
+        }
+      ]
     }
   },
   {
     "id": "e8e6f96ed1cc275a0033d4d68596ec63a45dcacfc0989761d15b92556677e0ffi0",
     "meta": {
       "name": "Ordinal Stone #20",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Calcite Clastar"
+        }
+      ]
+    }
+  },
+  {
+    "id": "75eeb96fcfaecd39be73c4d2c3453f6003378ead239688f5a0d62fd7bf46b9bdi0",
+    "meta": {
+      "name": "Ordinal Stone #21",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Crystal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "92064a0666d1e59ea52c230d16febbc8927898f7c811437d51ab2a1bf16e2cf7i0",
+    "meta": {
+      "name": "Ordinal Stone #22",
+      "attributes": [ 
+      {
+        "trait_type": "Rarity",
+        "value": "Common",
+        "percent": "80%"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Sunset"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Twin Crystals"
+      }
+    ]
+  }  
+  },
+  {
+    "id": "2f65eb94da314da97e0868801fbbcf39bb7f067f9bc074817808d4ff6bc70d12i0",
+    "meta": {
+      "name": "Ordinal Stone #23",
+      "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common",
+        "percent": "80%"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Sunset"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Twin Plates"
+      }]
+    }
+  },
+  {
+    "id": "8fd790b026eb72eaf2ea795b4e59fb9331490de3633ec129535770d7bdf1a9a8i0",
+    "meta": {
+      "name": "Ordinal Stone #24",
+      "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common",
+        "percent": "80%"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Sunset"
+      },
+      {
+        "trait_type": "Shape",
+        "value": "Needle"
+      }
+    ]
+    }
+  },
+  {
+    "id": "395e1792e3d44823456e438953dcc6fd5d4eda973dc3e89e4b072305f0ef9128i0",
+    "meta": {
+      "name": "Ordinal Stone #25",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Tryangle"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ba8faf9c7315b4a8e097befb58f4b45aa39d38bfaf8189ddfa8f105d25fd46ebi0",
+    "meta": {
+      "name": "Ordinal Stone #26",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Mica-bearing Columnar"
+        }
+      ]
+    }
+  },
+  {
+    "id": "06dcbb32064f91e3a3e26eeeb86fb3d307648346c4309ac4ccb5bcb5f7bd6abbi0",
+    "meta": {
+      "name": "Ordinal Stone #27",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Cyclic Twin"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3d269f1ab86d189d23afbcd2ec95d98c29f402034347a776c03eb1508f94c279i0",
+    "meta": {
+      "name": "Ordinal Stone #28",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Lozenge"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eb6fca5a42e1fe39785970689836cbb19e4690b9e17c5d3154439a3230171365i0",
+    "meta": {
+      "name": "Ordinal Stone #29",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Plate"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bccbc10628ab395923d62d37a20dfaea231f7ec66b06d2ef3309f0768c41641ci0",
+    "meta": {
+      "name": "Ordinal Stone #30",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Coral"
+        }
+      ]
+    }
+  },
+  {
+    "id": "39a6d556723b91c786a221d46f0016735e960e1e63fb52b2ed09222f6b3e8c49i0",
+    "meta": {
+      "name": "Ordinal Stone #31",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Quartz-bearing Columnar"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8ebb2492edb6238d225f376b08c4f02e6b1691c19263098c773da4427623240ei0",
+    "meta": {
+      "name": "Ordinal Stone #32",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Star Cabochon"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4b296e36b308cd77409c279110cc7bac24abd878d68bec91d946074d332a309bi0",
+    "meta": {
+      "name": "Ordinal Stone #33",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Columnar"
+        }
+      ]
+    }
+  },
+  {
+    "id": "26a99f2c91e1913dce2e560d0eb7f2da9974a4671bc7c2f5d0ce424c809329dai0",
+    "meta": {
+      "name": "Ordinal Stone #34",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Triplet Plates"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9cbeb3bb8a4c5e69481c0f28ebb7306b80f62bd3156aeab0f341c29289bc1a4bi0",
+    "meta": {
+      "name": "Ordinal Stone #35",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Star Cross"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ab79d82136bb814866fa151b323b9872eaf3febaacd8fcf59af2ed2d2b769b35i0",
+    "meta": {
+      "name": "Ordinal Stone #36",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Trapiche"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dcdbb101542070fadf368fd4830cb0e68ef76c0bec95aa1c600e3cd758d77752i0",
+    "meta": {
+      "name": "Ordinal Stone #37",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Multi Crystals"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ccce75242f45423ca6259b5bd4af85e2cb341b239bd9020ff9a9354bd19a6272i0",
+    "meta": {
+      "name": "Ordinal Stone #38",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Calcite"
+        }
+      ]
+    }
+  },
+  {
+    "id": "580045b418ce02c7326da570c73b8a259a29a0d9ff9391a143dcf9af39ef9c5di0",
+    "meta": {
+      "name": "Ordinal Stone #39",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Triplet Crystals"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9b732466229934afa4803a6983e1670544b865949883ed190ead0913c0c22729i0",
+    "meta": {
+      "name": "Ordinal Stone #40",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common",
+          "percent": "80%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Calcite Clastar"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e4fb1a5a2d03928c4d4a94c8a6270cd5596e8cd8fc7e2b4d3180f034a4ef8443i0",
+    "meta": {
+      "name": "Ordinal Stone #41",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon",
+          "percent": "14%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sapphire"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Star Cabochon"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d6ac4fd67f3c2dc9b43f616be61f128ec5222ff98c3446d9fc87c54288a9b1b3i0",
+    "meta": {
+      "name": "Ordinal Stone #42",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon",
+          "percent": "14%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sapphire"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Tryangle"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f7cf9ac1367a4794944cace3e19451a4a284182d65d178690597105d42d88d2bi0",
+    "meta": {
+      "name": "Ordinal Stone #43",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon",
+          "percent": "14%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Ruby"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Calcite"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3a9b3379ec48d38c3b47f7de377aaf45d064ea1e41881937034d023d1605fd75i0",
+    "meta": {
+      "name": "Ordinal Stone #44",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon",
+          "percent": "14%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Ruby"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Twin Crystals"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a8a64218647edfd9c5819c825e924b079877db42cd58104d3fca85ede53b8ba8i0",
+    "meta": {
+      "name": "Ordinal Stone #45",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon",
+          "percent": "14%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Opal"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Triplet Crystals"
+        }
+      ]
+    }
+  },
+  {
+    "id": "74b92ada3c4983bd7ec5ad3f16c3e13648f62ccead850d58c4633f717e866ac5i0",
+    "meta": {
+      "name": "Ordinal Stone #46",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon",
+          "percent": "14%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Opal"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Plate"
+        }
+      ]
+    }
+  },
+  {
+    "id": "adb4de3a5153910971c4bb9ce8392bbf5054418e6c0aa900ecc7d9eb3fe37cfdi0",
+    "meta": {
+      "name": "Ordinal Stone #47",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon",
+          "percent": "14%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Opal"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Lozenge"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5d92703691bff7e54e0c3a6d1f4277ec8ebd61f95db51fb6dea4aa98418e2ea1i0",
+    "meta": {
+      "name": "Ordinal Stone #48",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Silver",
+          "percent": "4%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Cyclic Twin With Silver"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a1e4505884186c4e0cabc699629f22229225e5a45593923b5714612cea41aeaai0",
+    "meta": {
+      "name": "Ordinal Stone #49",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Silver",
+          "percent": "4%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sunset"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Twin Plates With Silver"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f7ef193fd62ad11f4ef18bcd890c42002f1c0ff593267ece7a5086a5de403ebfi0",
+    "meta": {
+      "name": "Ordinal Stone #50",
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Gold",
+          "percent": "2%"
+        },
+        {
+          "trait_type": "Color",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Shape",
+          "value": "Crystal With Gold"
+        }
+      ]
     }
   }
 ]
