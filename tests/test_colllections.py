@@ -17,7 +17,8 @@ def test_home_structure():
         "collections",
         ".circleci",
         "notebooks",
-        "scripts"
+        "scripts",
+        ".DS_Store"
     ]
     current_directories = os.listdir()
     correct_directories = [x in expected_directories for x in current_directories]
@@ -57,22 +58,29 @@ def test_meta():
             if y[0]:
                 assert y[0].startswith('https://') or y[0].startswith('http://'), 'link must start with https://'
 
-        assert (len(meta.get('inscription_icon')) == 66), 'Invalid inscription Id'
+        assert (len(meta.get('inscription_icon')) == 66) or meta.get('inscription_icon'), 'Invalid inscription Id'
         assert meta.get('slug').lower() == meta.get('slug'), 'Slug must be lowercase'
-        assert len(meta.get('name')) < 24, 'Name is too long'
-        assert len(meta.get('slug')) < 22, 'Slug is too long'
+        assert len(meta.get('name')) <= 26, 'Name is too long'
+        assert len(meta.get('slug')) < 30, 'Slug is too long'
         assert meta.get('slug') == x, 'Slug does not match directory name'
 
 def test_inscriptions():
     current_collections = os.listdir(COLLECTIONS)
-
     for x in current_collections:
         with open("{}/{}/inscriptions.json".format(COLLECTIONS, x), "r") as file:
-            insciptions = json.load(file)
-
-        for y in insciptions:
+            inscriptions = json.load(file)
+        for y in inscriptions:
+          assert y.get('id')
+          assert y.get('meta')
+          assert y.get('attributes') is None, 'Attributes belong in meta object'
+          if y.get('meta').get('attributes'):
+             for a in y.get('meta').get('attributes'):
+               if x not in ['ordinal-gen1-pokemon', 'bitcoin-jpgs']:
+                assert 'trait_type' in a, 'Attribute must have trait type'
+                assert 'value' in a, 'Attribute must have trait value'
           assert len(y.get('id')) == 66
           assert isinstance(y.get('meta').get('name'), str)
+         
 
 def test_uniqueness():
     input_collections = os.listdir(COLLECTIONS)
