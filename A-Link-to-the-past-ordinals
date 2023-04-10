@@ -1,0 +1,180 @@
+{
+  "name": "Link To The Past Ordinals",
+  "slug": "a-link-to-the-past-ordinals",
+  "supply": "6",
+  "description": "A small personal collection of 5 Pixel Links which combine to create the 6 piece the gif animation.  ",
+  "twitter_link": "https://twitter.com/A_MALE_K",
+  "discord_link": "https://discord.gg/VGEdPN2H",
+  "website_link": "",
+  "inscription_icon": "Link"
+}
+[
+  {
+    "id": "1053920",
+    "meta": {
+      "name": "Link phase 1",
+      "attributes": [
+        {
+          "trait_type": "Sword pointing",
+          "value": "60"
+        },
+        {
+          "trait_type": "Shield guarded",
+          "value": "60"
+        },
+        {
+          "trait_type": "knees bent",
+          "value": "40"
+        },
+        {
+          "trait_type": "Hair down",
+          "value": "20"
+        },
+        {
+          "trait_type": "Hat mid",
+          "value": "40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1053919",
+    "meta": {
+      "name": "Link phase 2",
+      "attributes": [
+        {
+          "trait_type": "Sword down",
+          "value": "30"
+        },
+        {
+          "trait_type": "Shield up",
+          "value": "40"
+        },
+        {
+          "trait_type": "Knees flexed",
+          "value": "60"
+        },
+        {
+          "trait_type": "Hair down",
+          "value": "20"
+        },
+        {
+          "trait_type": "Hat mid",
+          "value": "30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1053917",
+    "meta": {
+      "name": "Link phase 3",
+      "attributes": [
+        {
+          "trait_type": "Sword forward",
+          "value": "40"
+        },
+        {
+          "trait_type": "Shield up",
+          "value": "40"
+        },
+        {
+          "trait_type": "Knees straight ",
+          "value": "20"
+        },
+        {
+          "trait_type": "Hair down",
+          "value": "20"
+        },
+        {
+          "trait_type": "Hat down",
+          "value": "20"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1053912",
+    "meta": {
+      "name": "Link Phase 5",
+      "attributes": [
+        {
+          "trait_type": "Sword swinging down",
+          "value": "50"
+        },
+        {
+          "trait_type": "Shield guarded",
+          "value": "50"
+        },
+        {
+          "trait_type": "knees running",
+          "value": "30"
+        },
+        {
+          "trait_type": "Hat up",
+          "value": "40"
+        },
+        {
+          "trait_type": "hair up",
+          "value": "40"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1051030",
+    "meta": {
+      "name": "Link To The Past Gif",
+      "attributes": [
+        {
+          "trait_type": "Sword swinging ",
+          "value": "100"
+        },
+        {
+          "trait_type": "Sheild in motion",
+          "value": "100"
+        },
+        {
+          "trait_type": "Knees animated",
+          "value": "100"
+        },
+        {
+          "trait_type": "Hair swaying ",
+          "value": "100"
+        },
+        {
+          "trait_type": "hat wiggling",
+          "value": "100"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1053913",
+    "meta": {
+      "name": "Link Phase 4",
+      "attributes": [
+        {
+          "trait_type": "Sword Swinging",
+          "value": "70"
+        },
+        {
+          "trait_type": "Shield open",
+          "value": "10"
+        },
+        {
+          "trait_type": "Knees in air",
+          "value": "50"
+        },
+        {
+          "trait_type": "Hair up",
+          "value": "40"
+        },
+        {
+          "trait_type": "Hat up",
+          "value": "40"
+        }
+      ]
+    }
+  }
+]
