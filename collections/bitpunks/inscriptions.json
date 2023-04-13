@@ -332,6 +332,30 @@
     }
   },
   {
+    "id": "0a87d8f97deb854e86d1980aa21eb3c0f2d86c05323096f2e317f4a2ab1248efi0",
+    "meta": {
+      "name": "BitPunk #83",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Front Beard"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Clown Eyes Green"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Hoodie"
+        }
+      ]
+    }
+  },
+  {
     "id": "a486b1ed67693c16dbbeffaad600ab5c4bf1e83d139a2eef36f4aaac145deb2fi0",
     "meta": {
       "name": "BitPunk #84",
@@ -612,6 +636,26 @@
     }
   },
   {
+    "id": "1a251ef58dd305a8a2323252c315f4f8d070305433865cc9eb89d87dc5e6ab38i0",
+    "meta": {
+      "name": "BitPunk #164",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Chinstrap"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Eye Patch"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Knitted Cap"
+        }
+      ]
+    }
+  },
+  {
     "id": "24c24ed2c520d7e5a27be55252596da612014fbafb6d53ab15194e27591cb711i0",
     "meta": {
       "name": "BitPunk #169",
@@ -887,6 +931,22 @@
         {
           "trait_type": "Hair",
           "value": "Beanie"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3480af4b3ce3a2c562fbc1fd32694195b970dda26ca5e13743fe0d5b6a689f12i0",
+    "meta": {
+      "name": "BitPunk #229",
+      "attributes": [
+        {
+          "trait_type": "Emotion",
+          "value": "Smile"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Eye Patch"
         }
       ]
     }
@@ -1232,6 +1292,30 @@
     }
   },
   {
+    "id": "fce9dad3c5cc4850f3c1fcb4b3bdd2a5109c11179ee2f1ebeef00c93e5225c73i0",
+    "meta": {
+      "name": "BitPunk #319",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Emotion",
+          "value": "Frown"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Regular Shades"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Wild Hair"
+        }
+      ]
+    }
+  },
+  {
     "id": "473e60bccf1ac8784d11340573025a74a7e419ea9133578acadb793443549e2bi0",
     "meta": {
       "name": "BitPunk #321",
@@ -1335,6 +1419,30 @@
         {
           "trait_type": "Neck",
           "value": "Silver Chain"
+        }
+      ]
+    }
+  },
+  {
+    "id": "77a95b4f57975dc27e7aea8b70d01ef1c633392693b1fdc5e60b50f815a0a837i0",
+    "meta": {
+      "name": "BitPunk #344",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Classic Shades"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Mohawk Thin"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cigarette"
         }
       ]
     }
@@ -1876,6 +1984,26 @@
     }
   },
   {
+    "id": "8d4dc0275d8c0bccf4e2bc436748e9aac3de3678e557f40cccba4178bb03c90fi0",
+    "meta": {
+      "name": "BitPunk #454",
+      "attributes": [
+        {
+          "trait_type": "Eyes",
+          "value": "Classic Shades"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Tassle Hat"
+        },
+        {
+          "trait_type": "Lips",
+          "value": "Black Lipstick"
+        }
+      ]
+    }
+  },
+  {
     "id": "408d0bf8509132978522355ebd3454408c500d49a0e46f5721ed16863542bba6i0",
     "meta": {
       "name": "BitPunk #459",
@@ -1927,6 +2055,22 @@
         {
           "trait_type": "Hair",
           "value": "Wild Hair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "78b4ab71b9e284b00cb5e8992a140e1ff16bd822ca00b0f57ae56a1a411f3392i0",
+    "meta": {
+      "name": "BitPunk #464",
+      "attributes": [
+        {
+          "trait_type": "Hair",
+          "value": "Mohawk"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"
         }
       ]
     }
@@ -2175,6 +2319,26 @@
         {
           "trait_type": "Hair",
           "value": "Headband"
+        }
+      ]
+    }
+  },
+  {
+    "id": "937077dd52dc96a67d559d94f4144803249887e2fa055d9df5a6f4ae8f7a4c32i0",
+    "meta": {
+      "name": "BitPunk #514",
+      "attributes": [
+        {
+          "trait_type": "Eyes",
+          "value": "Nerd Glasses"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Red Mohawk"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Vape"
         }
       ]
     }
@@ -3272,6 +3436,26 @@
     }
   },
   {
+    "id": "2bf87a1be2e883a0a1cbb360ed42a6b6fb413547886eea0c79a2c7a68043f03bi0",
+    "meta": {
+      "name": "BitPunk #790",
+      "attributes": [
+        {
+          "trait_type": "Eyes",
+          "value": "Nerd Glasses"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Mohawk"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cigarette"
+        }
+      ]
+    }
+  },
+  {
     "id": "2a603ab4a438fdf0953875bb4a8b54a18b56ab896fc089ecd35bd1020420c263i0",
     "meta": {
       "name": "BitPunk #791",
@@ -4227,6 +4411,30 @@
         {
           "trait_type": "Mouth",
           "value": "Pipe"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b14f9714b1454ed52559cd4cc959d56a0e51a3c3472d4f25fdac346e9ec5790ai0",
+    "meta": {
+      "name": "BitPunk #1053",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Chinstrap"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Horned Rim Glasses"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Knitted Cap"
         }
       ]
     }
@@ -5211,6 +5419,26 @@
         {
           "trait_type": "Eyes",
           "value": "Clown Eyes Green"
+        }
+      ]
+    }
+  },
+  {
+    "id": "81358d36637c42c2e40571bb7efa361af1ad50541762b81b2dacf2df02274e76i0",
+    "meta": {
+      "name": "BitPunk #1317",
+      "attributes": [
+        {
+          "trait_type": "Eyes",
+          "value": "Regular Shades"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Bandana"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Vape"
         }
       ]
     }
@@ -7020,6 +7248,30 @@
     }
   },
   {
+    "id": "9f8d349d17f2e4e680985158963247a1f304d11e059abab6e5695bc90b6b89dfi0",
+    "meta": {
+      "name": "BitPunk #1876",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Horned Rim Glasses"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Tiara"
+        },
+        {
+          "trait_type": "Lips",
+          "value": "Black Lipstick"
+        }
+      ]
+    }
+  },
+  {
     "id": "e6b1765156aa3bacda51a1308f4356feea6ce881c90c650cce05d97eb7061cb3i0",
     "meta": {
       "name": "BitPunk #1885",
@@ -7439,6 +7691,26 @@
         {
           "trait_type": "Mouth",
           "value": "Cigarette"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8637f9eb1fb31ad9cbe74ae3f95634e09351897767ad338a1bc14ca5baa1c32bi0",
+    "meta": {
+      "name": "BitPunk #2027",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Eye Mask"
+        },
+        {
+          "trait_type": "Lips",
+          "value": "Purple Lipstick"
         }
       ]
     }
@@ -8284,6 +8556,26 @@
     }
   },
   {
+    "id": "375528eb7753f76974b81e3f7a8f47dfe51d5aba6d62b01ee32e142159a2853ai0",
+    "meta": {
+      "name": "BitPunk #2327",
+      "attributes": [
+        {
+          "trait_type": "Emotion",
+          "value": "Smile"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "VR"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Messy Hair"
+        }
+      ]
+    }
+  },
+  {
     "id": "c1f9d037734f97bc8f609bbc2f394edc8ed7d9a6e467e357417518000f69c4eei0",
     "meta": {
       "name": "BitPunk #2330",
@@ -8363,6 +8655,22 @@
         {
           "trait_type": "Mouth",
           "value": "Vape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9bb341376d15a7eccab53174f94b3ea274871132c9abebd27dda3e19d94f36c9i0",
+    "meta": {
+      "name": "BitPunk #2352",
+      "attributes": [
+        {
+          "trait_type": "Eyes",
+          "value": "Big Shades"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Orange Side"
         }
       ]
     }
@@ -8672,6 +8980,26 @@
     }
   },
   {
+    "id": "2bd12bc19bac19f19306f9cd5057b04002f4e788c30676f453d092d06b6d6c46i0",
+    "meta": {
+      "name": "BitPunk #2415",
+      "attributes": [
+        {
+          "trait_type": "Eyes",
+          "value": "Regular Shades"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Pipe"
+        }
+      ]
+    }
+  },
+  {
     "id": "b66a77fb2bc12cc8103774ec54b81867829e13e97d3a0c0b60824f095e308dc8i0",
     "meta": {
       "name": "BitPunk #2426",
@@ -8955,6 +9283,50 @@
         {
           "trait_type": "Hair",
           "value": "Frumpy Hair"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Vape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dcda5c21bd50c4d9f857def54ff97fd249837dc67b579512e3992adbe8145673i0",
+    "meta": {
+      "name": "BitPunk #2481",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Headband"
+        },
+        {
+          "trait_type": "Teeth",
+          "value": "Buck Teeth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0d2ad077afae72845fcdb72e9780a691c19f7a934965089026ba5966fc14078ei0",
+    "meta": {
+      "name": "BitPunk #2483",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Shadow Beard"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Nerd Glasses"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Fedora"
         },
         {
           "trait_type": "Mouth",
@@ -9475,6 +9847,26 @@
         {
           "trait_type": "Hair",
           "value": "Messy Hair"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3b9386ee9bc04af507142efd4d340a76d93bd2ba1aac2663e8bf3cfa8d60a6c6i0",
+    "meta": {
+      "name": "BitPunk #2615",
+      "attributes": [
+        {
+          "trait_type": "Eyes",
+          "value": "3D Glasses"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Bandana"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Silver Chain"
         }
       ]
     }
@@ -10656,6 +11048,26 @@
     }
   },
   {
+    "id": "b2e69110045c234ee920522fe993bde7f8db39aa4d66ce2abaf9826c111b5aeci0",
+    "meta": {
+      "name": "BitPunk #2954",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Welding Goggles"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Orange Side"
+        }
+      ]
+    }
+  },
+  {
     "id": "37428caf65004510d9cb7e24e2aeb63e15e8addc4bd67a5df22c43fcbbd5d4e3i0",
     "meta": {
       "name": "BitPunk #2965",
@@ -10743,6 +11155,30 @@
         {
           "trait_type": "Mouth",
           "value": "Cigarette"
+        }
+      ]
+    }
+  },
+  {
+    "id": "288590a4ab87feddbf671e1c5ec7e4a4be080e07b5864f29d9d01bdd4e82d061i0",
+    "meta": {
+      "name": "BitPunk #2980",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "3D Glasses"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Mole"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Messy Hair"
         }
       ]
     }
@@ -14004,6 +14440,26 @@
     }
   },
   {
+    "id": "eec505925e1f9a25dc28e94a33f4304c462aee91f703e2267c0fba017b964612i0",
+    "meta": {
+      "name": "BitPunk #3945",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Blue Eye Shadow"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Wild Blonde"
+        }
+      ]
+    }
+  },
+  {
     "id": "5acbe7895820f170ad4843d90dcc2bb2b86703a7375a90242e29fbf6fd96c9e0i0",
     "meta": {
       "name": "BitPunk #3949",
@@ -15704,6 +16160,26 @@
     }
   },
   {
+    "id": "ac3b581fd7a4d15421caf44248cbd8afeff77f1bc0ec3fc49d862e8b6897dcf2i0",
+    "meta": {
+      "name": "BitPunk #4501",
+      "attributes": [
+        {
+          "trait_type": "Eyes",
+          "value": "Eye Patch"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Cowboy Hat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cigarette"
+        }
+      ]
+    }
+  },
+  {
     "id": "c58c4217b823bd151f67a431aadbf550349424eea5a07adcb3d88d6ae0780544i0",
     "meta": {
       "name": "BitPunk #4511",
@@ -16238,6 +16714,26 @@
         {
           "trait_type": "Lips",
           "value": "Hot Lipstick"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9b1371b93a5849b3984f2a59107bc9f2c0b9509ac815f10c427ef337d56d921ci0",
+    "meta": {
+      "name": "BitPunk #4663",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Straight Hair"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cigarette"
         }
       ]
     }
@@ -19435,6 +19931,30 @@
     }
   },
   {
+    "id": "5597ce91263d3f3351cf4dcca211df01a08d8d55a3e88a70cc84044d3a91b245i0",
+    "meta": {
+      "name": "BitPunk #5549",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Emotion",
+          "value": "Smile"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Small Shades"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Hoodie"
+        }
+      ]
+    }
+  },
+  {
     "id": "ea2228d6af510f13989ba35833cdc4d22c8c22a5fa07628a7eec73df35bed1aai0",
     "meta": {
       "name": "BitPunk #5553",
@@ -19574,6 +20094,30 @@
         {
           "trait_type": "Nose",
           "value": "Clown Nose"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a31e08d3b010b1face1415faedfcd9848321ac73c1986dc0586751bbfb741c72i0",
+    "meta": {
+      "name": "BitPunk #5592",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Nerd Glasses"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Pipe"
         }
       ]
     }
@@ -20423,6 +20967,26 @@
     }
   },
   {
+    "id": "62eb871d1a9724caae25c9e63b80c25eee720ec57c4d09bb2e950d01f4d1720bi0",
+    "meta": {
+      "name": "BitPunk #5825",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Mustache"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "VR"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Hoodie"
+        }
+      ]
+    }
+  },
+  {
     "id": "e77185a6b34acbcfe4c56e38f4d40c2c7930f982b79feba78adb8d14ee74bcfbi0",
     "meta": {
       "name": "BitPunk #5827",
@@ -21163,6 +21727,22 @@
     }
   },
   {
+    "id": "f8b5e2fe48d8f01e3970834ea11e1d08378b56c42f820cb5fbeb95c2884c214di0",
+    "meta": {
+      "name": "BitPunk #5991",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Big Beard"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Classic Shades"
+        }
+      ]
+    }
+  },
+  {
     "id": "33ed01e1c2ec885eea21dcb2ccf1a9574977aea71f8de48901896a5d6fadc695i0",
     "meta": {
       "name": "BitPunk #5998",
@@ -21815,6 +22395,26 @@
     }
   },
   {
+    "id": "7ce8cccc05fbe97803df057d0b32bf99ed3ae8b460ba92dafb3f7e11bdd39397i0",
+    "meta": {
+      "name": "BitPunk #6166",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Mustache"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "3D Glasses"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Wild Hair"
+        }
+      ]
+    }
+  },
+  {
     "id": "e253841307ff5fa96d41ce8758322c95f1d9412e7e59af4d99d8b86430d75b85i0",
     "meta": {
       "name": "BitPunk #6176",
@@ -22299,6 +22899,26 @@
     }
   },
   {
+    "id": "f8e238b459208f75bc17615209c5ef140bf175f4b2c068c44475712c6a1d4246i0",
+    "meta": {
+      "name": "BitPunk #6262",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Regular Shades"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"
+        }
+      ]
+    }
+  },
+  {
     "id": "7cf2c4dd344437dffb33518795daafd48937da49dd227d3abe0e07b90f35f11ei0",
     "meta": {
       "name": "BitPunk #6264",
@@ -22430,6 +23050,30 @@
         {
           "trait_type": "Teeth",
           "value": "Buck Teeth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6ba5b73c7d91c552a4ee5a2a6f3625a751ef214e99bdc978fb2fd7f5cb8fb34ai0",
+    "meta": {
+      "name": "BitPunk #6313",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Normal Beard Black"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Regular Shades"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Messy Hair"
         }
       ]
     }
@@ -23610,6 +24254,26 @@
         {
           "trait_type": "Neck",
           "value": "Gold Chain"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3c88c82870e99039db6b997c9f2d34a3dc3a9941cf5557d5b9a0e7506153ed99i0",
+    "meta": {
+      "name": "BitPunk #6643",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Big Beard"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Mohawk Dark"
         }
       ]
     }
@@ -25027,6 +25691,30 @@
     }
   },
   {
+    "id": "5d87a88b7a25b8a01e7051be2d74e3f486832858857a163e898a60f410c39421i0",
+    "meta": {
+      "name": "BitPunk #7021",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Normal Beard"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Eye Patch"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Mohawk"
+        }
+      ]
+    }
+  },
+  {
     "id": "bb0c50a583e1f1661854721bb15d919e59860ab94de1e1a37ae856cb039dd8dai0",
     "meta": {
       "name": "BitPunk #7024",
@@ -25263,6 +25951,26 @@
     }
   },
   {
+    "id": "f167d0932129e6dab6e8e0e3fbb16d37714d46c64e2e5f97289b35561d90f52ai0",
+    "meta": {
+      "name": "BitPunk #7076",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Normal Beard Black"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Classic Shades"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Cap Forward"
+        }
+      ]
+    }
+  },
+  {
     "id": "63efac4e64416262fafe18a2f64738a56dcb69a6091c77a26a2397f05d7e454di0",
     "meta": {
       "name": "BitPunk #7082",
@@ -25426,6 +26134,30 @@
         {
           "trait_type": "Hair",
           "value": "Hoodie"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7ae908bc768d4d0906592b4915360b4e76c962341959272342b903716d81b767i0",
+    "meta": {
+      "name": "BitPunk #7128",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Emotion",
+          "value": "Smile"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Eye Mask"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Stringy Hair"
         }
       ]
     }
@@ -25627,6 +26359,26 @@
     }
   },
   {
+    "id": "be446bc5297cd3b2e7563ef71f09d138a337ec845dee25cebc198ab3914ce11ci0",
+    "meta": {
+      "name": "BitPunk #7221",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Goat"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Horned Rim Glasses"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Hoodie"
+        }
+      ]
+    }
+  },
+  {
     "id": "c6a1d536cbd7b43acf471168a25b73ca8e179cbc85eeaf06dd96bdd7281f76efi0",
     "meta": {
       "name": "BitPunk #7223",
@@ -25678,6 +26430,34 @@
         {
           "trait_type": "Mouth",
           "value": "Medical Mask"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d436ddcf39259ada0cbcaa066656c6b97859ad74da1d1e33d7149ecf5dead8a9i0",
+    "meta": {
+      "name": "BitPunk #7237",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Regular Shades"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Purple Hair"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Vape"
+        },
+        {
+          "trait_type": "Nose",
+          "value": "Clown Nose"
         }
       ]
     }
@@ -27303,6 +28083,30 @@
     }
   },
   {
+    "id": "d2660f6cc8f59ea7516036d184770bae5986bdc74e515c21db34cdf4139cd232i0",
+    "meta": {
+      "name": "BitPunk #7790",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Eye Patch"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Knitted Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cigarette"
+        }
+      ]
+    }
+  },
+  {
     "id": "24487bd5cd254ca66509db94f1ef4c9f801c9ba84f1ae0a001107e7bff5927e5i0",
     "meta": {
       "name": "BitPunk #7791",
@@ -27567,6 +28371,26 @@
     }
   },
   {
+    "id": "d52f661c594b5d1966fbee80a3c47f212e7520fc2bcf5550e092837625daed15i0",
+    "meta": {
+      "name": "BitPunk #7854",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Normal Beard Black"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Mole"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Bandana"
+        }
+      ]
+    }
+  },
+  {
     "id": "4e421e759e2d322f9b6b5b4f4ebd5e329514e5c83d7c5a445642340ca3ddedbbi0",
     "meta": {
       "name": "BitPunk #7856",
@@ -27771,6 +28595,26 @@
     }
   },
   {
+    "id": "7c15aab4203610e67db1a2e8dab3cf49c5aa484b56f727f8f9a2e2bbae569c00i0",
+    "meta": {
+      "name": "BitPunk #7942",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Front Beard"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "VR"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Hoodie"
+        }
+      ]
+    }
+  },
+  {
     "id": "651581685b53418d380a25b6847971d2dedb1739999cc112364323ba16b09521i0",
     "meta": {
       "name": "BitPunk #7943",
@@ -27806,6 +28650,26 @@
         {
           "trait_type": "Face",
           "value": "Spots"
+        }
+      ]
+    }
+  },
+  {
+    "id": "863cfa7ad40e80e4cd1bb49a85d5664046abd140a7eef875d905accdd27e9a05i0",
+    "meta": {
+      "name": "BitPunk #7967",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "VR"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Red Mohawk"
         }
       ]
     }
@@ -30087,6 +30951,22 @@
     }
   },
   {
+    "id": "1f57685f3cc99f07c48234aa150a7adccd925ed0700c33742320dcccf7e1d218i0",
+    "meta": {
+      "name": "BitPunk #8561",
+      "attributes": [
+        {
+          "trait_type": "Eyes",
+          "value": "Eye Patch"
+        },
+        {
+          "trait_type": "Lips",
+          "value": "Black Lipstick"
+        }
+      ]
+    }
+  },
+  {
     "id": "689555837c7936d9e905fed93caeb8772831e4548ce49abec53bf255170156c3i0",
     "meta": {
       "name": "BitPunk #8562",
@@ -30323,6 +31203,30 @@
     }
   },
   {
+    "id": "eae6154a4bd21357bb2af0ce6bd69068794482a2284e08508b4e17ae0f3bd6c5i0",
+    "meta": {
+      "name": "BitPunk #8627",
+      "attributes": [
+        {
+          "trait_type": "Eyes",
+          "value": "3D Glasses"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Half Shaved"
+        },
+        {
+          "trait_type": "Lips",
+          "value": "Black Lipstick"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Medical Mask"
+        }
+      ]
+    }
+  },
+  {
     "id": "4f62893386dd7d66b7e5ef510f473f2cb01159eacb00cc9f704f9b64ae5d81afi0",
     "meta": {
       "name": "BitPunk #8629",
@@ -30394,6 +31298,30 @@
         {
           "trait_type": "Mouth",
           "value": "Vape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "02923ba5b5008f7f4949fedb32d9a51f37cb538dbd3fa5fb93b8256a856fce11i0",
+    "meta": {
+      "name": "BitPunk #8653",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Normal Beard Black"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "VR"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Mohawk Thin"
         }
       ]
     }
@@ -31615,6 +32543,26 @@
     }
   },
   {
+    "id": "46c95d93c756f62d2187845c1d8b82476368fd246ec2bdfb7374c1fdb98cd3c1i0",
+    "meta": {
+      "name": "BitPunk #8969",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Front Beard Dark"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "3D Glasses"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Frumpy Hair"
+        }
+      ]
+    }
+  },
+  {
     "id": "b73375bac71b086f00e4248433505ad121b3ae26cc469bf3a07ce213c9cba845i0",
     "meta": {
       "name": "BitPunk #8970",
@@ -32255,6 +33203,26 @@
     }
   },
   {
+    "id": "6584fc3136cb370bbba885adb0bc9561879c9eb0f84986bced064c4bd83b9b92i0",
+    "meta": {
+      "name": "BitPunk #9164",
+      "attributes": [
+        {
+          "trait_type": "Emotion",
+          "value": "Frown"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Eye Mask"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Mohawk"
+        }
+      ]
+    }
+  },
+  {
     "id": "ff7bbd596c548b526a79327acb88c37efdf8b7bc86c02f7335cfd32d57526733i0",
     "meta": {
       "name": "BitPunk #9171",
@@ -32278,6 +33246,26 @@
         {
           "trait_type": "Mouth",
           "value": "Cigarette"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bfca6f7dce7cdf316c97eed7650f1bd409a00077dcc5e57ae4ffcc9309bb7a7fi0",
+    "meta": {
+      "name": "BitPunk #9174",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Normal Beard Black"
+        },
+        {
+          "trait_type": "Face",
+          "value": "Mole"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Fedora"
         }
       ]
     }
@@ -32578,6 +33566,26 @@
         {
           "trait_type": "Hair",
           "value": "Hoodie"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e8fee80c2e1a9140be71e5c9df49428246f8dba98ae8058ee123b2af06e533c3i0",
+    "meta": {
+      "name": "BitPunk #9256",
+      "attributes": [
+        {
+          "trait_type": "Eyes",
+          "value": "VR"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Fedora"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cigarette"
         }
       ]
     }
@@ -33815,6 +34823,30 @@
     }
   },
   {
+    "id": "bf0bb5b94a9203d91f8746d214a9c93ef699d46c5b1db7a9463f81deaefdeb7ei0",
+    "meta": {
+      "name": "BitPunk #9631",
+      "attributes": [
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Nerd Glasses"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Knitted Cap"
+        },
+        {
+          "trait_type": "Lips",
+          "value": "Hot Lipstick"
+        }
+      ]
+    }
+  },
+  {
     "id": "afac137377b2ac4cd010eabf4d549be42aff0eedd57aba61b583146810c7ddc0i0",
     "meta": {
       "name": "BitPunk #9632",
@@ -34106,6 +35138,26 @@
         {
           "trait_type": "Mouth",
           "value": "Vape"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2747fba4a3168e9585f3170d435fbbc74f4040370f8c74b346d3da277f1c3a92i0",
+    "meta": {
+      "name": "BitPunk #9738",
+      "attributes": [
+        {
+          "trait_type": "Beard",
+          "value": "Shadow Beard"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Nerd Glasses"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Shaved Head"
         }
       ]
     }
