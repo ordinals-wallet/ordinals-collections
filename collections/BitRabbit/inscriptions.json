@@ -1,32 +1,33 @@
 [
-  {
-    "id": "fe5b655f11b11e96b14d75e12ae62c2a2a8592d914f4c2c2300cbea405c1ae81i0",
-    "meta": {
-      "name": "BitRabbit #1",
-      "status": "Rare",
-      "rank": 8,
-      "attributes": [
-        {
-          "trait_type": "background",
-          "value": "light blue background"
-        },
-        {
-          "trait_type": "Body",
-          "value": "gray rabbit"
-        },
-        {
-          "trait_type": "clothing",
-          "value": "melo clothing"
-        },
-        {
-          "trait_type": "Eye",
-          "value": "blue eyes"
-        },
-        {
-          "trait_type": "crown",
-          "value": "british crown"
-        }
-      ]
+    {
+      "id": "dfee6538f03662013e95b7e88f504e453bfcbfa3326c694a7b4c7e9bec6ec10ai0",
+      "meta": {
+        "name": "Gōrdinālis #1",
+        "status": "Godly",
+        "rank": 1,
+        "attributes": [
+          {
+            "trait_type": "background",
+            "value": "light blue background"
+          },
+          {
+            "trait_type": "Body",
+            "value": "gray rabbit"
+          },
+          {
+            "trait_type": "clothing",
+            "value": "melo clothing"
+          },
+          {
+            "trait_type": "Eye",
+            "value": "blue eyes"
+          },
+          {
+            "trait_type": "crown",
+            "value": "british crown"
+          }
+        ]
+      }
     }
-  },
 ]
+  
