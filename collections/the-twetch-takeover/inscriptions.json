@@ -10,7 +10,7 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@25",
 	  "status": "Legend",
-	  "percent": "15.38%"
+	  "percent": "14.28%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -45,7 +45,7 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@25",
 	  "status": "Legend",
-	  "percent": "15.38%"
+	  "percent": "14.28%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -79,7 +79,7 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@42124",
 	  "status": "Legend",
-	  "percent": ".077%"
+	  "percent": "7.14%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -110,10 +110,10 @@
       "name": "The Twetch Takeover 4",
       "attributes": [
 	{
-	  "trait_type": "Inscribed by",
+	  "trait_type": "Inscribed By",
 	  "value": "@26850",
 	  "status": "Legend",
-	  "percent": ".077%"
+	  "percent": "7.14%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -144,10 +144,10 @@
       "name": "The Twetch Takeover 5",
       "attributes": [
 	{
-	  "trait_type": "Inscribed by",
+	  "trait_type": "Inscribed By",
 	  "value": "@40753",
 	  "status": "Legend",
-	  "percent": ".077%"
+	  "percent": "7.14%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -178,10 +178,10 @@
       "name": "The Twetch Takeover 6",
       "attributes": [
 	{
-	  "trait_type": "Inscribed by",
+	  "trait_type": "Inscribed By",
 	  "value": "@160",
 	  "status": "Legend",
-	  "percent": ".077%"
+	  "percent": "7.14%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -212,10 +212,10 @@
       "name": "The Twetch Takeover 7",
       "attributes": [
 	{
-	  "trait_type": "Inscribed by",
+	  "trait_type": "Inscribed By",
 	  "value": "@356",
 	  "status": "Legend",
-	  "percent": ".077%"
+	  "percent": "7.14%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -246,10 +246,10 @@
       "name": "The Twetch Takeover 8",
       "attributes": [
 	{
-	  "trait_type": "Inscribed by",
+	  "trait_type": "Inscribed By",
 	  "value": "@272",
 	  "status": "Legend",
-	  "percent": ".077%"
+	  "percent": "7.14%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -280,10 +280,10 @@
       "name": "The Twetch Takeover 9",
       "attributes": [
 	{
-	  "trait_type": "Inscribed by",
+	  "trait_type": "Inscribed By",
 	  "value": "@25884",
 	  "status": "Legend",
-	  "percent": ".077%"
+	  "percent": "7.14%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -314,10 +314,10 @@
       "name": "The Twetch Takeover 10",
       "attributes": [
 	{
-	  "trait_type": "Inscribed by",
+	  "trait_type": "Inscribed By",
 	  "value": "@40927",
 	  "status": "Legend",
-	  "percent": ".077%"
+	  "percent": "7.14%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -348,10 +348,10 @@
       "name": "The Twetch Takeover 11",
       "attributes": [
 	{
-	  "trait_type": "Inscribed by",
+	  "trait_type": "Inscribed By",
 	  "value": "@11409",
 	  "status": "Legend",
-	  "percent": ".077%"
+	  "percent": "7.14%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -382,10 +382,10 @@
       "name": "The Twetch Takeover 12",
       "attributes": [
 	{
-	  "trait_type": "Inscribed by",
+	  "trait_type": "Inscribed By",
 	  "value": "@32353",
 	  "status": "Legend",
-	  "percent": ".077%"
+	  "percent": "7.14%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -416,10 +416,44 @@
       "name": "The Twetch Takeover 13",
       "attributes": [
 	{
-	  "trait_type": "Inscribed by",
+	  "trait_type": "Inscribed By",
 	  "value": "@52293",
 	  "status": "Legend",
-	  "percent": ".077%"
+	  "percent": "7.14%"
+	},
+	{
+	  "trait_type": "Out Ahead",
+	  "value": "Of The Crowd",
+	  "status": "Rare",
+	  "percent": "100%"
+	},
+	{
+	  "trait_type": "Eggs",
+	  "value": "Never Gonna Hatch",
+	  "status": "Rare",
+	  "percent": "100%"
+	},
+	{
+	  "trait_type": "Status",
+	  "value": "Poor, Having Fun",
+	  "status": "Rare",
+	  "percent": "100%"
+	}
+      ]
+    }
+  },
+{
+    "id": "11584fa93ad27070d370cd411314f43d37f11a84de55f652b5e464ef53e52378i0",
+    "meta": {
+      "status": "Rare",
+      "rank": 69,
+      "name": "The Twetch Takeover 14",
+      "attributes": [
+	{
+	  "trait_type": "Inscribed By",
+	  "value": "@27257",
+	  "status": "Legend",
+	  "percent": "7.14%"
 	},
 	{
 	  "trait_type": "Out Ahead",
