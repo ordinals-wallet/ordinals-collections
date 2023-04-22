@@ -10,7 +10,7 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@25",
 	  "status": "Legend",
-	  "percent": "14.28%"
+	  "percent": "13.33%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -45,7 +45,7 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@25",
 	  "status": "Legend",
-	  "percent": "14.28%"
+	  "percent": "13.33%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -79,7 +79,7 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@42124",
 	  "status": "Legend",
-	  "percent": "7.14%"
+	  "percent": "6.67%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -113,7 +113,7 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@26850",
 	  "status": "Legend",
-	  "percent": "7.14%"
+	  "percent": "6.67%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -147,7 +147,7 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@40753",
 	  "status": "Legend",
-	  "percent": "7.14%"
+	  "percent": "6.67%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -181,7 +181,7 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@160",
 	  "status": "Legend",
-	  "percent": "7.14%"
+	  "percent": "6.67%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -215,7 +215,7 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@356",
 	  "status": "Legend",
-	  "percent": "7.14%"
+	  "percent": "13.33%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -249,7 +249,7 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@272",
 	  "status": "Legend",
-	  "percent": "7.14%"
+	  "percent": "6.67%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -283,7 +283,7 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@25884",
 	  "status": "Legend",
-	  "percent": "7.14%"
+	  "percent": "6.67%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -317,7 +317,7 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@40927",
 	  "status": "Legend",
-	  "percent": "7.14%"
+	  "percent": "6.67%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -351,7 +351,7 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@11409",
 	  "status": "Legend",
-	  "percent": "7.14%"
+	  "percent": "6.67%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -385,7 +385,7 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@32353",
 	  "status": "Legend",
-	  "percent": "7.14%"
+	  "percent": "6.67%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -419,7 +419,7 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@52293",
 	  "status": "Legend",
-	  "percent": "7.14%"
+	  "percent": "6.67%"
 	},
 	{
 	  "trait_type": "Out Ahead",
@@ -453,7 +453,41 @@
 	  "trait_type": "Inscribed By",
 	  "value": "@27257",
 	  "status": "Legend",
-	  "percent": "7.14%"
+	  "percent": "13.33%"
+	},
+	{
+	  "trait_type": "Out Ahead",
+	  "value": "Of The Crowd",
+	  "status": "Rare",
+	  "percent": "100%"
+	},
+	{
+	  "trait_type": "Eggs",
+	  "value": "Never Gonna Hatch",
+	  "status": "Rare",
+	  "percent": "100%"
+	},
+	{
+	  "trait_type": "Status",
+	  "value": "Poor, Having Fun",
+	  "status": "Rare",
+	  "percent": "100%"
+	}
+      ]
+    }
+  },
+{
+    "id": "c780ca46e2509c7695b2cc71efb7e3c19bdbd9830496a191f54256eaa3ea22f8i0",
+    "meta": {
+      "status": "Rare",
+      "rank": 69,
+      "name": "The Twetch Takeover 15",
+      "attributes": [
+	{
+	  "trait_type": "Inscribed By",
+	  "value": "@357",
+	  "status": "Legend",
+	  "percent": "6.67%"
 	},
 	{
 	  "trait_type": "Out Ahead",
