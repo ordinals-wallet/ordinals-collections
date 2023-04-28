@@ -7,6 +7,7 @@
     "meta": {
       "name": "The Taruguitos #0",
       "description": "Don't let it burn!",
+      "rank": 41,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -33,8 +34,7 @@
           "value": "orange",
           "percent": "23%"
         }
-      ],
-      "rank": 41
+      ]
     }
   },
   {
@@ -45,6 +45,7 @@
     "meta": {
       "name": "The Taruguitos #1",
       "description": "Don't let it burn!",
+      "rank": 10,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -71,8 +72,7 @@
           "value": "orange",
           "percent": "23%"
         }
-      ],
-      "rank": 10
+      ]
     }
   },
   {
@@ -83,6 +83,7 @@
     "meta": {
       "name": "The Taruguitos #2",
       "description": "Don't let it burn!",
+      "rank": 11,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -109,8 +110,7 @@
           "value": "orange",
           "percent": "23%"
         }
-      ],
-      "rank": 11
+      ]
     }
   },
   {
@@ -121,6 +121,7 @@
     "meta": {
       "name": "The Taruguitos #3",
       "description": "Don't let it burn!",
+      "rank": 23,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -147,8 +148,7 @@
           "value": "pink",
           "percent": "23%"
         }
-      ],
-      "rank": 23
+      ]
     }
   },
   {
@@ -159,6 +159,7 @@
     "meta": {
       "name": "The Taruguitos #4",
       "description": "Don't let it burn!",
+      "rank": 32,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -185,8 +186,7 @@
           "value": "pink",
           "percent": "23%"
         }
-      ],
-      "rank": 32
+      ]
     }
   },
   {
@@ -197,6 +197,7 @@
     "meta": {
       "name": "The Taruguitos #5",
       "description": "Don't let it burn!",
+      "rank": 53,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -223,8 +224,7 @@
           "value": "pink",
           "percent": "23%"
         }
-      ],
-      "rank": 53
+      ]
     }
   },
   {
@@ -235,6 +235,7 @@
     "meta": {
       "name": "The Taruguitos #6",
       "description": "Don't let it burn!",
+      "rank": 01,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -261,8 +262,7 @@
           "value": "light blue",
           "percent": "23%"
         }
-      ],
-      "rank": 01
+      ]
     }
   },
   {
@@ -273,6 +273,7 @@
     "meta": {
       "name": "The Taruguitos #7",
       "description": "Don't let it burn!",
+      "rank": 16,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -299,8 +300,7 @@
           "value": "meat",
           "percent": "13%"
         }
-      ],
-      "rank": 16
+      ]
     }
   },
   {
@@ -311,6 +311,7 @@
     "meta": {
       "name": "The Taruguitos #8",
       "description": "Don't let it burn!",
+      "rank": 65,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -337,8 +338,7 @@
           "value": "pink",
           "percent": "23%"
         }
-      ],
-      "rank": 65
+      ]
     }
   },
   {
@@ -349,6 +349,7 @@
     "meta": {
       "name": "The Taruguitos #9",
       "description": "Don't let it burn!",
+      "rank": 57,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -375,8 +376,7 @@
           "value": "orange",
           "percent": "23%"
         }
-      ],
-      "rank": 57
+      ]
     }
   },
   {
@@ -387,6 +387,7 @@
     "meta": {
       "name": "The Taruguitos #10",
       "description": "Don't let it burn!",
+      "rank": 14 ,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -413,8 +414,7 @@
           "value": "light blue",
           "percent": "23%"
         }
-      ],
-      "rank": 14 
+      ]
     }
   },
   {
@@ -425,6 +425,7 @@
     "meta": {
       "name": "The Taruguitos #11",
       "description": "Don't let it burn!",
+      "rank": 03,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -451,8 +452,7 @@
           "value": "meat",
           "percent": "13%"
         }
-      ],
-      "rank": 03
+      ]
     }
   },
   {
@@ -463,6 +463,7 @@
     "meta": {
       "name": "The Taruguitos #12",
       "description": "Don't let it burn!",
+      "rank": 45,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -489,8 +490,7 @@
           "value": "light blue",
           "percent": "23%"
         }
-      ],
-      "rank": 45
+      ]
     }
   },
   {
@@ -501,6 +501,7 @@
     "meta": {
       "name": "The Taruguitos #13",
       "description": "Don't let it burn!",
+      "rank": 21,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -527,8 +528,7 @@
           "value": "green",
           "percent": "16%"
         }
-      ],
-      "rank": 21
+      ]
     }
   },
   {
@@ -539,6 +539,7 @@
     "meta": {
       "name": "The Taruguitos #14",
       "description": "Don't let it burn!",
+      "rank": 24,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -565,8 +566,7 @@
           "value": "orange",
           "percent": "23%"
         }
-      ],
-      "rank": 24
+      ]
     }
   },
   {
@@ -577,6 +577,7 @@
     "meta": {
       "name": "The Taruguitos #15",
       "description": "Don't let it burn!",
+      "rank": 12,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -603,8 +604,7 @@
           "value": "meat",
           "percent": "13%"
         }
-      ],
-      "rank": 12
+      ]
     }
   },
   {
@@ -615,6 +615,7 @@
     "meta": {
       "name": "The Taruguitos #16",
       "description": "Don't let it burn!",
+      "rank": 02,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -641,8 +642,7 @@
           "value": "light blue",
           "percent": "23%"
         }
-      ],
-      "rank": 02
+      ]
     }
   },
   {
@@ -653,6 +653,7 @@
     "meta": {
       "name": "The Taruguitos #17",
       "description": "Don't let it burn!",
+      "rank": 28,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -679,8 +680,7 @@
           "value": "light blue",
           "percent": "23%"
         }
-      ],
-      "rank": 28
+      ]
     }
   },
   {
@@ -691,6 +691,7 @@
     "meta": {
       "name": "The Taruguitos #18",
       "description": "Don't let it burn!",
+      "rank": 48,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -717,8 +718,7 @@
           "value": "pink",
           "percent": "23%"
         }
-      ],
-      "rank": 48
+      ]
     }
   },
   {
@@ -729,6 +729,7 @@
     "meta": {
       "name": "The Taruguitos #19",
       "description": "Don't let it burn!",
+      "rank": 34,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -755,8 +756,7 @@
           "value": "meat",
           "percent": "13%"
         }
-      ],
-      "rank": 34
+      ]
     }
   },
   {
@@ -767,6 +767,7 @@
     "meta": {
       "name": "The Taruguitos #20",
       "description": "Don't let it burn!",
+      "rank": 13,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -793,8 +794,7 @@
           "value": "green",
           "percent": "16%"
         }
-      ],
-      "rank": 13
+      ]
     }
   },
   {
@@ -805,6 +805,7 @@
     "meta": {
       "name": "The Taruguitos #21",
       "description": "Don't let it burn!",
+      "rank": 43,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -831,8 +832,7 @@
           "value": "pink",
           "percent": "23%"
         }
-      ],
-      "rank": 43
+      ]
     }
   },
   {
@@ -843,6 +843,7 @@
     "meta": {
       "name": "The Taruguitos #22",
       "description": "Don't let it burn!",
+      "rank": 62,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -869,8 +870,7 @@
           "value": "green",
           "percent": "16%"
         }
-      ],
-      "rank": 62
+      ]
     }
   },
   {
@@ -881,6 +881,7 @@
     "meta": {
       "name": "The Taruguitos #23",
       "description": "Don't let it burn!",
+      "rank": 18,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -907,8 +908,7 @@
           "value": "pink",
           "percent": "23%"
         }
-      ],
-      "rank": 18
+      ]
     }
   },
   {
@@ -919,6 +919,7 @@
     "meta": {
       "name": "The Taruguitos #24",
       "description": "Don't let it burn!",
+      "rank": 40,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -945,8 +946,7 @@
           "value": "green",
           "percent": "16%"
         }
-      ],
-      "rank": 40
+      ]
     }
   },
   {
@@ -957,6 +957,7 @@
     "meta": {
       "name": "The Taruguitos #25",
       "description": "Don't let it burn!",
+      "rank": 08,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -983,8 +984,7 @@
           "value": "pink",
           "percent": "23%"
         }
-      ],
-      "rank": 08 
+      ]
     }
   },
   {
@@ -995,6 +995,7 @@
     "meta": {
       "name": "The Taruguitos #26",
       "description": "Don't let it burn!",
+      "rank": 56,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1021,8 +1022,7 @@
           "value": "green",
           "percent": "16%"
         }
-      ],
-      "rank": 56
+      ]
     }
   },
   {
@@ -1033,6 +1033,7 @@
     "meta": {
       "name": "The Taruguitos #27",
       "description": "Don't let it burn!",
+      "rank": 51,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1059,8 +1060,7 @@
           "value": "orange",
           "percent": "23%"
         }
-      ],
-      "rank": 51
+      ]
     }
   },
   {
@@ -1071,6 +1071,7 @@
     "meta": {
       "name": "The Taruguitos #28",
       "description": "Don't let it burn!",
+      "rank": 61,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1097,8 +1098,7 @@
           "value": "light blue",
           "percent": "23%"
         }
-      ],
-      "rank": 61
+      ]
     }
   },
   {
@@ -1109,6 +1109,7 @@
     "meta": {
       "name": "The Taruguitos #29",
       "description": "Don't let it burn!",
+      "rank": 27,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1135,8 +1136,7 @@
           "value": "orange",
           "percent": "23%"
         }
-      ],
-      "rank": 27
+      ]
     }
   },
   {
@@ -1147,6 +1147,7 @@
     "meta": {
       "name": "The Taruguitos #30",
       "description": "Don't let it burn!",
+      "rank": 52,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1173,8 +1174,7 @@
           "value": "light blue",
           "percent": "23%"
         }
-      ],
-      "rank": 52
+      ]
     }
   },
   {
@@ -1185,6 +1185,7 @@
     "meta": {
       "name": "The Taruguitos #31",
       "description": "Don't let it burn!",
+      "rank": 17,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1211,8 +1212,7 @@
           "value": "meat",
           "percent": "13%"
         }
-      ],
-      "rank": 17
+      ]
     }
   },
   {
@@ -1223,6 +1223,7 @@
     "meta": {
       "name": "The Taruguitos #32",
       "description": "Don't let it burn!",
+      "rank": 54,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1249,8 +1250,7 @@
           "value": "orange",
           "percent": "23%"
         }
-      ],
-      "rank": 54
+      ]
     }
   },
   {
@@ -1261,6 +1261,7 @@
     "meta": {
       "name": "The Taruguitos #33",
       "description": "Don't let it burn!",
+      "rank": 63,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1287,8 +1288,7 @@
           "value": "pink",
           "percent": "23%"
         }
-      ],
-      "rank": 63
+      ]
     }
   },
   {
@@ -1299,6 +1299,7 @@
     "meta": {
       "name": "The Taruguitos #34",
       "description": "Don't let it burn!",
+      "rank": 46,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1325,8 +1326,7 @@
           "value": "light blue",
           "percent": "23%"
         }
-      ],
-      "rank": 46
+      ]
     }
   },
   {
@@ -1337,6 +1337,7 @@
     "meta": {
       "name": "The Taruguitos #35",
       "description": "Don't let it burn!",
+      "rank": 49,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1363,8 +1364,7 @@
           "value": "meat",
           "percent": "13%"
         }
-      ],
-      "rank": 49
+      ]
     }
   },
   {
@@ -1375,6 +1375,7 @@
     "meta": {
       "name": "The Taruguitos #36",
       "description": "Don't let it burn!",
+      "rank": 64,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1401,8 +1402,7 @@
           "value": "pink",
           "percent": "23%"
         }
-      ],
-      "rank": 64
+      ]
     }
   },
   {
@@ -1413,6 +1413,7 @@
     "meta": {
       "name": "The Taruguitos #37",
       "description": "Don't let it burn!",
+      "rank": 35,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1439,8 +1440,7 @@
           "value": "meat",
           "percent": "13%"
         }
-      ],
-      "rank": 35
+      ]
     }
   },
   {
@@ -1451,6 +1451,7 @@
     "meta": {
       "name": "The Taruguitos #38",
       "description": "Don't let it burn!",
+      "rank": 04,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1477,8 +1478,7 @@
           "value": "green",
           "percent": "16%"
         }
-      ],
-      "rank": 04
+      ]
     }
   },
   {
@@ -1489,6 +1489,7 @@
     "meta": {
       "name": "The Taruguitos #39",
       "description": "Don't let it burn!",
+      "rank": 33,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1515,8 +1516,7 @@
           "value": "green",
           "percent": "16%"
         }
-      ],
-      "rank": 33
+      ]
     }
   },
   {
@@ -1527,6 +1527,7 @@
     "meta": {
       "name": "The Taruguitos #40",
       "description": "Don't let it burn!",
+      "rank": 29,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1553,8 +1554,7 @@
           "value": "pink",
           "percent": "23%"
         }
-      ],
-      "rank": 29
+      ]
     }
   },
   {
@@ -1565,6 +1565,7 @@
     "meta": {
       "name": "The Taruguitos #41",
       "description": "Don't let it burn!",
+      "rank": 58,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1591,8 +1592,7 @@
           "value": "orange",
           "percent": "23%"
         }
-      ],
-      "rank": 58
+      ]
     }
   },
   {
@@ -1603,6 +1603,7 @@
     "meta": {
       "name": "The Taruguitos #42",
       "description": "Don't let it burn!",
+      "rank": 07,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1629,8 +1630,7 @@
           "value": "light blue",
           "percent": "23%"
         }
-      ],
-      "rank": 07
+      ]
     }
   },
   {
@@ -1641,6 +1641,7 @@
     "meta": {
       "name": "The Taruguitos #43",
       "description": "Don't let it burn!",
+      "rank": 55,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1667,8 +1668,7 @@
           "value": "orange",
           "percent": "23%"
         }
-      ],
-      "rank": 55
+      ]
     }
   },
   {
@@ -1679,6 +1679,7 @@
     "meta": {
       "name": "The Taruguitos #44",
       "description": "Don't let it burn!",
+      "rank": 47,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1705,8 +1706,7 @@
           "value": "pink",
           "percent": "23%"
         }
-      ],
-      "rank": 47
+      ]
     }
   },
   {
@@ -1717,6 +1717,7 @@
     "meta": {
       "name": "The Taruguitos #45",
       "description": "Don't let it burn!",
+      "rank": 37,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1743,8 +1744,7 @@
           "value": "light blue",
           "percent": "23%"
         }
-      ],
-      "rank": 37
+      ]
     }
   },
   {
@@ -1755,6 +1755,7 @@
     "meta": {
       "name": "The Taruguitos #46",
       "description": "Don't let it burn!",
+      "rank": 09,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1781,8 +1782,7 @@
           "value": "green",
           "percent": "16%"
         }
-      ],
-      "rank": 09
+      ]
     }
   },
   {
@@ -1793,6 +1793,7 @@
     "meta": {
       "name": "The Taruguitos #47",
       "description": "Don't let it burn!",
+      "rank": 44,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1819,8 +1820,7 @@
           "value": "pink",
           "percent": "23%"
         }
-      ],
-      "rank": 44
+      ]
     }
   },
   {
@@ -1831,6 +1831,7 @@
     "meta": {
       "name": "The Taruguitos #48",
       "description": "Don't let it burn!",
+      "rank": 05,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1857,8 +1858,7 @@
           "value": "orange",
           "percent": "23%"
         }
-      ],
-      "rank": 05
+      ]
     }
   },
   {
@@ -1869,6 +1869,7 @@
     "meta": {
       "name": "The Taruguitos #49",
       "description": "Don't let it burn!",
+      "rank": 36,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1895,8 +1896,7 @@
           "value": "meat",
           "percent": "13%"
         }
-      ],
-      "rank": 36
+      ]
     }
   },
   {
@@ -1907,6 +1907,7 @@
     "meta": {
       "name": "The Taruguitos #50",
       "description": "Don't let it burn!",
+      "rank": 50,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1933,8 +1934,7 @@
           "value": "light blue",
           "percent": "23%"
         }
-      ],
-      "rank": 50
+      ]
     }
   },
   {
@@ -1945,6 +1945,7 @@
     "meta": {
       "name": "The Taruguitos #51",
       "description": "Don't let it burn!",
+      "rank": 42,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -1971,8 +1972,7 @@
           "value": "light blue",
           "percent": "23%"
         }
-      ],
-      "rank": 42
+      ]
     }
   },
   {
@@ -1983,6 +1983,7 @@
     "meta": {
       "name": "The Taruguitos #52",
       "description": "Don't let it burn!",
+      "rank": 26,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -2009,8 +2010,7 @@
           "value": "orange",
           "percent": "23%"
         }
-      ],
-      "rank": 26
+      ]
     }
   },
   {
@@ -2021,6 +2021,7 @@
     "meta": {
       "name": "The Taruguitos #53",
       "description": "Don't let it burn!",
+      "rank": 20,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -2047,8 +2048,7 @@
           "value": "orange",
           "percent": "23%"
         }
-      ],
-      "rank": 20
+      ]
     }
   },
   {
@@ -2059,6 +2059,7 @@
     "meta": {
       "name": "The Taruguitos #54",
       "description": "Don't let it burn!",
+      "rank": 31,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -2085,8 +2086,7 @@
           "value": "light blue",
           "percent": "23%"
         }
-      ],
-      "rank": 31
+      ]
     }
   },
   {
@@ -2097,6 +2097,7 @@
     "meta": {
       "name": "The Taruguitos #55",
       "description": "Don't let it burn!",
+      "rank": 30,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -2123,8 +2124,7 @@
           "value": "green",
           "percent": "16%"
         }
-      ],
-      "rank": 30 
+      ]
     }
   },
   {
@@ -2135,6 +2135,7 @@
     "meta": {
       "name": "The Taruguitos #56",
       "description": "Don't let it burn!",
+      "rank": 60,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -2161,8 +2162,7 @@
           "value": "light blue",
           "percent": "23%"
         }
-      ],
-      "rank": 60
+      ]
     }
   },
   {
@@ -2173,6 +2173,7 @@
     "meta": {
       "name": "The Taruguitos #57",
       "description": "Don't let it burn!",
+      "rank": 39,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -2199,8 +2200,7 @@
           "value": "pink",
           "percent": "23%"
         }
-      ],
-      "rank": 39
+      ]
     }
   },
   {
@@ -2211,6 +2211,7 @@
     "meta": {
       "name": "The Taruguitos #58",
       "description": "Don't let it burn!",
+      "rank": 15,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -2237,8 +2238,7 @@
           "value": "orange",
           "percent": "23%"
         }
-      ],
-      "rank": 15
+      ]
     }
   },
   {
@@ -2249,6 +2249,7 @@
     "meta": {
       "name": "The Taruguitos #59",
       "description": "Don't let it burn!",
+      "rank": 25,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -2275,8 +2276,7 @@
           "value": "pink",
           "percent": "23%"
         }
-      ],
-      "rank": 25
+      ]
     }
   },
   {
@@ -2287,6 +2287,7 @@
     "meta": {
       "name": "The Taruguitos #60",
       "description": "Don't let it burn!",
+      "rank": 06,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -2313,8 +2314,7 @@
           "value": "meat",
           "percent": "13%"
         }
-      ],
-      "rank": 06
+      ]
     }
   },
   {
@@ -2325,6 +2325,7 @@
     "meta": {
       "name": "The Taruguitos #61",
       "description": "Don't let it burn!",
+      "rank": 19,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -2351,8 +2352,7 @@
           "value": "light blue",
           "percent": "23%"
         }
-      ],
-      "rank": 19
+      ]
     }
   },
   {
@@ -2363,6 +2363,7 @@
     "meta": {
       "name": "The Taruguitos #62",
       "description": "Don't let it burn!",
+      "rank": 22,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -2389,8 +2390,7 @@
           "value": "orange",
           "percent": "23%"
         }
-      ],
-      "rank": 22
+      ]
     }
   },
   {
@@ -2401,6 +2401,7 @@
     "meta": {
       "name": "The Taruguitos #63",
       "description": "Don't let it burn!",
+      "rank": 59,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -2427,8 +2428,7 @@
           "value": "green",
           "percent": "16%"
         }
-      ],
-      "rank": 59
+      ]
     }
   },
   {
@@ -2439,6 +2439,7 @@
     "meta": {
       "name": "The Taruguitos #64",
       "description": "Don't let it burn!",
+      "rank": 38,
       "attributes": [
         {
           "trait_type": "BODY",
@@ -2465,8 +2466,7 @@
           "value": "green",
           "percent": "16%"
         }
-      ],
-      "rank": 38
+      ]
     }
   }
 ]
