@@ -74,7 +74,7 @@ def ishex(s):
 
 def test_inscriptions():
     current_collections = os.listdir(COLLECTIONS)
-    for x in ['bitapes']:
+    for x in current_collections:
         with open("{}/{}/inscriptions.json".format(COLLECTIONS, x), "r") as file:
             inscriptions = json.load(file)
         for y in inscriptions:
@@ -86,7 +86,7 @@ def test_inscriptions():
                if x not in ['ordinal-gen1-pokemon', 'bitcoin-jpgs']:
                 assert 'trait_type' in a, 'Attribute must have trait type'
                 assert 'value' in a, 'Attribute must have trait value'
-          assert len(y.get('id')) == 66
+          assert len(y.get('id').strip()) == 66
           assert ishex(y.get('id')[0:64]), 'inscription ids must be valid hex'
           assert isinstance(y.get('meta').get('name'), str)
          
