@@ -1904,7 +1904,7 @@
       ]
     }
   },
-	{
+{
     "id": "3516aaf88d5227840996d222ae6cb5d2110c903d54132b2d74867a6366dbd7dfi0",
     "meta": {
       "status": "Rare",
@@ -1914,6 +1914,40 @@
 	{
 	  "trait_type": "Inscribed By",
 	  "value": "@75373",
+	  "status": "Legend",
+	  "percent": "4.2069%"
+	},
+	{
+	  "trait_type": "Out Ahead",
+	  "value": "Of The Crowd",
+	  "status": "Rare",
+	  "percent": "100%"
+	},
+	{
+	  "trait_type": "Eggs",
+	  "value": "Never Gonna Hatch",
+	  "status": "Rare",
+	  "percent": "100%"
+	},
+	{
+	  "trait_type": "Status",
+	  "value": "Poor, Having Fun",
+	  "status": "Rare",
+	  "percent": "100%"
+	}
+      ]
+    }
+  },
+{
+    "id": "dee464f365587b2051c1fb8ae6c8c60e6f45ded4d121e3f723ca2503d227fb18i0",
+    "meta": {
+      "status": "Rare",
+      "rank": 69,
+      "name": "The Twetch Takeover 58",
+      "attributes": [
+	{
+	  "trait_type": "Inscribed By",
+	  "value": "@6873",
 	  "status": "Legend",
 	  "percent": "4.2069%"
 	},
