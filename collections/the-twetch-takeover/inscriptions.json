@@ -1971,5 +1971,39 @@
 	}
       ]
     }
+  },
+{
+    "id": "274a8af64b6bc32a92f62f8b578e61f183a6f08c45b28a2701b067b44221acf2i0",
+    "meta": {
+      "status": "Rare",
+      "rank": 69,
+      "name": "The Twetch Takeover 59",
+      "attributes": [
+	{
+	  "trait_type": "Inscribed By",
+	  "value": "@127814",
+	  "status": "Legend",
+	  "percent": "4.2069%"
+	},
+	{
+	  "trait_type": "Out Ahead",
+	  "value": "Of The Crowd",
+	  "status": "Rare",
+	  "percent": "100%"
+	},
+	{
+	  "trait_type": "Eggs",
+	  "value": "Never Gonna Hatch",
+	  "status": "Rare",
+	  "percent": "100%"
+	},
+	{
+	  "trait_type": "Status",
+	  "value": "Poor, Having Fun",
+	  "status": "Rare",
+	  "percent": "100%"
+	}
+      ]
+    }
   }
 ]
