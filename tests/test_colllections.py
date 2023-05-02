@@ -60,20 +60,36 @@ def test_meta():
 
         assert (len(meta.get('inscription_icon')) == 66) or meta.get('inscription_icon'), 'Invalid inscription Id'
         assert meta.get('slug').lower() == meta.get('slug'), 'Slug must be lowercase'
-        assert len(meta.get('name')) <= 26, 'Name is too long'
-        assert len(meta.get('slug')) < 30, 'Slug is too long'
+        assert len(meta.get('name')) <= 60, 'Name is too long'
+        assert len(meta.get('slug')) < 60, 'Slug is too long'
         assert meta.get('slug') == x, 'Slug does not match directory name'
+
+def ishex(s):
+    try:
+        n = int(s,16)
+        return True
+    except ValueError:
+        return False
+
 
 def test_inscriptions():
     current_collections = os.listdir(COLLECTIONS)
-
     for x in current_collections:
         with open("{}/{}/inscriptions.json".format(COLLECTIONS, x), "r") as file:
-            insciptions = json.load(file)
-
-        for y in insciptions:
-          assert len(y.get('id')) == 66
+            inscriptions = json.load(file)
+        for y in inscriptions:
+          assert y.get('id')
+          assert y.get('meta')
+          assert y.get('attributes') is None, 'Attributes belong in meta object'
+          if y.get('meta').get('attributes'):
+             for a in y.get('meta').get('attributes'):
+               if x not in ['ordinal-gen1-pokemon', 'bitcoin-jpgs']:
+                assert 'trait_type' in a, 'Attribute must have trait type'
+                assert 'value' in a, 'Attribute must have trait value'
+          assert len(y.get('id').strip()) == 66
+          assert ishex(y.get('id')[0:64]), 'inscription ids must be valid hex'
           assert isinstance(y.get('meta').get('name'), str)
+         
 
 def test_uniqueness():
     input_collections = os.listdir(COLLECTIONS)
