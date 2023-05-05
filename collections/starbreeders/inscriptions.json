@@ -1,0 +1,5897 @@
+[
+  {
+    "id": "3ef3564579cea5c97d0ac7dfb32ff4b5e612cc656211624862596321d845ef03i0",
+    "meta": {
+      "name": "STARBREEDER #001",
+      "status": "neutron star",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "pulsar 3C 58"
+        },
+        {
+          "trait_type": "star type",
+          "value": "neutron star 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "space ship 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape ocher"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular dark"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "dark down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "95da6a9d51e5453778637e184eee1b3a150477eb549ef47b8ae6fac7cb53980ai0",
+    "meta": {
+      "name": "STARBREEDER #002",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "CARMA-7"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 3"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 2"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie orange"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled yellow blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "alien"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien gray"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ea6913a8a2f06e2a6fbe933a491ef39b7ffb34a35a95eb747cc2f2a39c2a2038i0",
+    "meta": {
+      "name": "STARBREEDER #003",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "72 Herculis"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "space ship 2"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape ocher"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular light"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled yellow"
+        },
+        {
+          "trait_type": "hands",
+          "value": "pale"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3e83b808f43ba28c296b672a10263d5e4de3c672c0e0f8bda84f17faa7e9735fi0",
+    "meta": {
+      "name": "STARBREEDER #004",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Bellatrix"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "cape and hat white"
+        },
+        {
+          "trait_type": "face",
+          "value": "oval light"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "light"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "white"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d5f9e407d78460b893ebd4a5d4274a0107671a0c3e85b84cc6f2b42229797965i0",
+    "meta": {
+      "name": "STARBREEDER #005",
+      "status": "supernova",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Faint II-P"
+        },
+        {
+          "trait_type": "star type",
+          "value": "supernova 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 2"
+        },
+        {
+          "trait_type": "object",
+          "value": "earth 1"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular pale"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "light down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "897f431701e92e3823c763311e437c72ca28275c35f193942ca8f05c59547c83i0",
+    "meta": {
+      "name": "STARBREEDER #006",
+      "status": "black hole",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Messier 51"
+        },
+        {
+          "trait_type": "star type",
+          "value": "black hole 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape ocher"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular light"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled red"
+        },
+        {
+          "trait_type": "hands",
+          "value": "light"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "green"
+        }
+      ]
+    }
+  },
+  {
+    "id": "96ffbb0f46b9ccb48399b9e620009d10a33a1f648ed76234bf20bbac8bb9139ei0",
+    "meta": {
+      "name": "STARBREEDER #007",
+      "status": "white dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Sirius B"
+        },
+        {
+          "trait_type": "star type",
+          "value": "white dwarf 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape ocher"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular pale"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "asian"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "641569625bd623c1052ede49b80871eea8568d38c9e4847a7bf015eaef28cda1i0",
+    "meta": {
+      "name": "STARBREEDER #008",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Stephenson 2 DFK 1"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie green"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled red"
+        },
+        {
+          "trait_type": "hands",
+          "value": "light"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien black "
+        }
+      ]
+    }
+  },
+  {
+    "id": "5701fcb1d979c11f03b88da5278a56eed7c23936368146dadcad7d15359d522ai0",
+    "meta": {
+      "name": "STARBREEDER #009",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "AK Scorpii"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 1"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 2"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular light"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "light down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "purple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dcbbbc62d5ce1d2637c247767fea41b44e93a1e6f49f573ea6b6a4bd5d464a45i0",
+    "meta": {
+      "name": "STARBREEDER #010",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "V830 Tauri"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 3"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie red"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 1"
+        },
+        {
+          "trait_type": "face",
+          "value": "male asian"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled yellow"
+        },
+        {
+          "trait_type": "hands",
+          "value": "asian"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "db8236ef3bf660862eda71eed725342ecebcafc682af9bebc484a8a9e4d0674fi0",
+    "meta": {
+      "name": "STARBREEDER #011",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "TW Hydrae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 1"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie red"
+        },
+        {
+          "trait_type": "face",
+          "value": "fangular pale"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "called yellow"
+        },
+        {
+          "trait_type": "hands",
+          "value": "pale"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d811dbf4c5e196bf92fd4b814fbef7e09dd6b895b65a57083d08bdf5f94eee87i0",
+    "meta": {
+      "name": "STARBREEDER #012",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "PDS 70"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape orange"
+        },
+        {
+          "trait_type": "face",
+          "value": ""
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "alien 1"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "86391fd152e7a835e3a049769968d94a43eca8d7c6454e0c191e8b244cc10095i0",
+    "meta": {
+      "name": "STARBREEDER #013",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Gliese 161"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": "earth 1"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "female black"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "robot 1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0fec76101fa3025ca7f4591bdecb46cd45c2601401b940cf3a56d8cbad248ebci0",
+    "meta": {
+      "name": "STARBREEDER #014",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "WOH G64"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape ocher"
+        },
+        {
+          "trait_type": "face",
+          "value": "female black"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "robot down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bcf47db6d604c5d3aa016360b1a8bf8c025548f8809a8848ff8e2946c8e12dc7i0",
+    "meta": {
+      "name": "STARBREEDER #015",
+      "status": "white dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Van Maanen 2"
+        },
+        {
+          "trait_type": "star type",
+          "value": "white dwarf 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "space ship 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled white"
+        },
+        {
+          "trait_type": "hands",
+          "value": "robot"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "robot 1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5e88727707e15959b2cbbe75693f9315d1076251936f5ed2609b74e66232aaf5i0",
+    "meta": {
+      "name": "STARBREEDER #016",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "NML Cygni"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "green hoodie"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled white"
+        },
+        {
+          "trait_type": "hands",
+          "value": "robot"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "robot 1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "05296cb6ad1c4ce240cb5267cf5d1744d97d7bc11467c54d83f08ae984cefc37i0",
+    "meta": {
+      "name": "STARBREEDER #017",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Eta Cassiopeiae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 2"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape ocher"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "alien down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "robot 1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "be739ee2db950aa5e3cc6a443ff3834cfe39df8d86e878eb9913ffd197eb0215i0",
+    "meta": {
+      "name": "STARBREEDER #018",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "1RXS J160929.1-210524"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie orange"
+        },
+        {
+          "trait_type": "face",
+          "value": "male asian"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled yellow"
+        },
+        {
+          "trait_type": "hands",
+          "value": "asian"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "robot 1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d452e5056f083c1e9bc409d18ee5e546f350a2e8a74e584d6be0eaf1e7cdbe6di0",
+    "meta": {
+      "name": "STARBREEDER #019",
+      "status": "supernova",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "SN 1895B"
+        },
+        {
+          "trait_type": "star type",
+          "value": "supernova 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 5"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 3"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape red"
+        },
+        {
+          "trait_type": "face",
+          "value": "male white"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled red"
+        },
+        {
+          "trait_type": "hands",
+          "value": "white"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0e9c3e7a13ec9f04d59b4995961330ad37057bba856fb26036cec6d77c1bc37ei0",
+    "meta": {
+      "name": "STARBREEDER #020",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "119 Tauri"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape red"
+        },
+        {
+          "trait_type": "face",
+          "value": "female black"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4dd18790cc06bd3acf949d0a76b0cfc3a7cce7f6ccf56384136f33ccbabf0683i0",
+    "meta": {
+      "name": "STARBREEDER #021",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Mintaka"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 2"
+        },
+        {
+          "trait_type": "object",
+          "value": "falling star"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "cape and hat white"
+        },
+        {
+          "trait_type": "face",
+          "value": "male asian"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "asian"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6d1ffdc22f5219bd83e06785b1ce189362f14c88f5a6af8cf094a9a0b4d11f72i0",
+    "meta": {
+      "name": "STARBREEDER #022",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Alpha Mensae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 7"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape black"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 5"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b1e05df2d69bd31b8111bee4ec4f4dc8db2ba8c112935045d20c0fd9f3fefc6ci0",
+    "meta": {
+      "name": "STARBREEDER #033",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "51 Ophiuchi"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 9"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 4"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "straight blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "robot"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c6c895dbe4ac097636f11001d4898c71cb1831734fb3f0b77e19b15ba7fcad9bi0",
+    "meta": {
+      "name": "STARBREEDER #034",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Lambda Velorum"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 8"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular pale"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "pale down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aaef63fd588a1e548aa98cb10a7248ca083956ad800be9291f49ee4e72806a3fi0",
+    "meta": {
+      "name": "STARBREEDER #026",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Naos"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "wormhole 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape black"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 4"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "robot down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "55143f170789f2e8bd212df1211abda27d2bd72cf0bc3e0286746d051d488f45i0",
+    "meta": {
+      "name": "STARBREEDER #025",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "AB Aurigae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 5"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 5"
+        },
+        {
+          "trait_type": "object",
+          "value": "satellite"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "space suit 4"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular dark"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "straight purple"
+        },
+        {
+          "trait_type": "hands",
+          "value": "dark"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "purple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dd887671480632829aa6e431557a22b2f116adfe9504ba22f5ad1b1e757dff61i0",
+    "meta": {
+      "name": "STARBREEDER #031",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "S Persei"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 4"
+        },
+        {
+          "trait_type": "object",
+          "value": "ufo 1"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie pink"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled red"
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f3448e247df63aabf5d83bff68f7c3c433b29fe93e0115eb082b06dd452d1965i0",
+    "meta": {
+      "name": "STARBREEDER #032",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "18 Scorpii"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 4"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 3"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "gray gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "robot 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8a02cdab68daa949c63c74bd51a8fd461c55fd741ae85f2a6b272c5ce6296644i0",
+    "meta": {
+      "name": "STARBREEDER #029",
+      "status": "white dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Sirius B"
+        },
+        {
+          "trait_type": "star type",
+          "value": "white dwarf 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 2"
+        },
+        {
+          "trait_type": "object",
+          "value": "earth 2"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular pale"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "pale down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue 1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "909a39499b0b754c789a7129e2a7b441e44753acbbcf194a189c5152e1805c20i0",
+    "meta": {
+      "name": "STARBREEDER #027",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "HBC 1"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 6"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape black"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "laser blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8ae602716c339880ec940998df508577433e6634a0d725f772a02842f1f9c70ei0",
+    "meta": {
+      "name": "STARBREEDER #024",
+      "status": "black hole",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Sagittarius A*"
+        },
+        {
+          "trait_type": "star type",
+          "value": "black hole 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 7"
+        },
+        {
+          "trait_type": "object",
+          "value": "satellite"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "alien down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "437c3dc7cbcbca9601428cce8ea6b84d53be7dd7a5b55a958976b1cda837126fi0",
+    "meta": {
+      "name": "STARBREEDER #023",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "W33A"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 6"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7eb25160f1b3600c6efbcfb221b974ff809ee93bbb731b92ca03a02474015312i0",
+    "meta": {
+      "name": "STARBREEDER #028",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "HD 4747"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 3"
+        },
+        {
+          "trait_type": "object",
+          "value": "UFO 4"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie yellow"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular light"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "straight blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1c7aa42c418c7b0caf49f2101099400bce5f73f790fbbd1c5902a2eea8aa3b58i0",
+    "meta": {
+      "name": "STARBREEDER #030",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Cygnus OB2-12"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 4"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 5"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie pink"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 6"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "straight blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a7a49ebd7ecf741afc5607d45f3595c480147a4b70355f70edc39b3957f59feai0",
+    "meta": {
+      "name": "STARBREEDER #042",
+      "status": "supernova",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "SN 1181"
+        },
+        {
+          "trait_type": "star type",
+          "value": "supernova 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie red"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular dark"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "dark down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "680b381ae37e2365d370e39f0bbe4048d365ccbf2d8a5ffe81045f7e3079c1b4i0",
+    "meta": {
+      "name": "STARBREEDER #039",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Stephenson 2 DFK 1"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 5"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 9"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 1"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "robot down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e51626500a677615a9f47f8929477eb1a938ee7b811b35e478d33f428fa437cbi0",
+    "meta": {
+      "name": "STARBREEDER #041",
+      "status": "white dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "AR Scorpii A"
+        },
+        {
+          "trait_type": "star type",
+          "value": "white dwarf 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": ""
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 7"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "robot down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien 1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1b0d454464bf41776e72b64c587d412846f249aa46a4cf81cd5a3040843118a1i0",
+    "meta": {
+      "name": "STARBREEDER #036",
+      "status": "white dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "GJ 440"
+        },
+        {
+          "trait_type": "star type",
+          "value": "white dwarf 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "wormhole 2"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape black"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular light"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled yellow"
+        },
+        {
+          "trait_type": "hands",
+          "value": "light"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f0ee824acf9fc515fcfbaf87cf6d908bf3bcc6e8154dd6b1155c5559d153e8f5i0",
+    "meta": {
+      "name": "STARBREEDER #035",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "DV Aquarii"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 8"
+        },
+        {
+          "trait_type": "background",
+          "value": "space ship 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie orange"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 5"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "gray gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "686fa77322c84d7af3cb24873c4a0b909fc66952941709a27cbd7372fb8167c4i0",
+    "meta": {
+      "name": "STARBREEDER #040",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Plasketts star"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 4"
+        },
+        {
+          "trait_type": "object",
+          "value": "earth 2"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "space suit 4"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular pale"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "straight blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "gray gloves"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue 1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "933f6158bed87a40c1b606b649d8ec44768e955111530a194dd72a33cf85098ci0",
+    "meta": {
+      "name": "STARBREEDER #037",
+      "status": "supernova",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "SN 2008D"
+        },
+        {
+          "trait_type": "star type",
+          "value": "supernova 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 8"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie green"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 4"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "26072bee8b458f3e7dc5407ded0637adac8bb4140bf9fd0d281a15648b22b7b3i0",
+    "meta": {
+      "name": "STARBREEDER #038",
+      "status": "neutron star",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Hercules X-1"
+        },
+        {
+          "trait_type": "star type",
+          "value": "neutron star 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 6"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 6"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "purple"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "077751494bae456eb47058abfd063b3c254f70fae2beed15ad4c85a46e88e7d1i0",
+    "meta": {
+      "name": "STARBREEDER #062",
+      "status": "red super giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Antares A"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 9"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 3"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "turquoise"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bb6c9cd51a24306fb092ecf847a0bad04bbe7f291996b350ff797bde1ab955c5i0",
+    "meta": {
+      "name": "STARBREEDER #061",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "V1647 Orionis"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 9"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "alien down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "813808e211347624a4d9c826515bd3f2103aa50f38a76ea5a006801bf4039b63i0",
+    "meta": {
+      "name": "STARBREEDER #056",
+      "status": "white dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "LDS 275"
+        },
+        {
+          "trait_type": "star type",
+          "value": "white dwarf 4"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": "UFO 3"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie orange"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "robot 3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0b46473a3a8d57e8ac4e4112d25ff8f19806493d70cdeae7a3079a40b3f32eebi0",
+    "meta": {
+      "name": "STARBREEDER #063",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "61 Ursae Majoris"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 5"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 7"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape black"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 4"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "straight blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0b970ad475c0cdd94d9e7dc5138aef2b49e40fe444f8c72204f62af58fe0472ai0",
+    "meta": {
+      "name": "STARBREEDER #049",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "HOPS 383"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 7"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape black"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular dark"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled green"
+        },
+        {
+          "trait_type": "hands",
+          "value": "dark"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "green"
+        }
+      ]
+    }
+  },
+  {
+    "id": "635d437767a8288a560462ae2e154e68f6a8a606cce7bacb6fb33d241ab2dfd6i0",
+    "meta": {
+      "name": "STARBREEDER #046",
+      "status": "supernova",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "SN 1006"
+        },
+        {
+          "trait_type": "star type",
+          "value": "supernova 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 8"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape black"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular light"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "straight blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "light"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue 1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dc619a9416ba4d0efdd8a60aa55e418ee37aa11408eb6820264428e0b56f756di0",
+    "meta": {
+      "name": "STARBREEDER #057",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "\u00cf\u201e Canis Majoris"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "wormhole"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie red"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 5"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "dark"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "44182eb11a08bb5ade1b135a2d613058706c187417567c9b47d2b9e87e6f8b05i0",
+    "meta": {
+      "name": "STARBREEDER #051",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "KR Muscae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 4"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie yellow"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 6"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "purple"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2d0ad2eff7d09a68542f6542cf91d80e8a48692bd02b77fc408822fddc9d31e0i0",
+    "meta": {
+      "name": "STARBREEDER #048",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Iota Persei"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 2"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 3"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape red"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "laser yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3a108149d1b1cc614e28e5dc81e46970b0f5a4824ac5e89dc504482987ae61ffi0",
+    "meta": {
+      "name": "STARBREEDER #066",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "HD 106906 A"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 6"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 5"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 1"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "space suit 4"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "de378d4e073f3bff2298e18470bbc5b31f55c2359f42f0906ecb2ed6d20605edi0",
+    "meta": {
+      "name": "STARBREEDER #064",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Betelgeuse"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 6"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 4"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "turquoise"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cff135148391a22f87f3385d80fe671adb46f867ecab42f152660b180024986ei0",
+    "meta": {
+      "name": "STARBREEDER #058",
+      "status": "white dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "WD B1620\u00e2\u02c6\u201926"
+        },
+        {
+          "trait_type": "star type",
+          "value": "what dwarf 4"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 4"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "turquoise"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4230310cf961b081df24d6cd49655a3a6927a161d3997f82142b72fd332811c6i0",
+    "meta": {
+      "name": "STARBREEDER #045",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Epsilon Pegasi"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "space ship 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled red"
+        },
+        {
+          "trait_type": "hands",
+          "value": "alien"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4023ea5a2d3e6022a46c7a2192e2d300bfbd225355a01ed28da70265301fda57i0",
+    "meta": {
+      "name": "STARBREEDER #055",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "T Tauri N"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 7"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 9"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular light"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "light down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "green"
+        }
+      ]
+    }
+  },
+  {
+    "id": "68210093ccf6ff32f82b77dd6ce6f002d59190fab8379051683ce70cc2a2ba1ai0",
+    "meta": {
+      "name": "STARBREEDER #053",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "47 Ursae Majoris"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 7"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie pink"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular pale"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "pale down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "43ac47fc53d5f580a07598419b196a37b32b4f6ca221cb80613c3e5a619a3c82i0",
+    "meta": {
+      "name": "STARBREEDER #072",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "UW CMa"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "wormhole 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie green"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "alien down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a925d4c156154868668303622e951fdb1e89f6e26d1c47cf4b58762a0684e5d1i0",
+    "meta": {
+      "name": "STARBREEDER #076",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Nu\u00c2\u00b2 Lupi"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 4"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie red"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "robot down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "196334b90d41f30802d54714f25847ec76887835038aefb0d5f7e66b693792bci0",
+    "meta": {
+      "name": "STARBREEDER #074",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "DH Tauri"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 6"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 7"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 3"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie orange"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 4"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "11e46c200215610b9b509ebb86d0b5aac24f5aed13eff0ab6dfce4dcd10f6022i0",
+    "meta": {
+      "name": "STARBREEDER #070",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "PDS 110"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 5"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular dark"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "dark down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "purple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "028d370c86a6f88db67226bc091bd304e61adfefdb94c1fa3ac8e736bb5148c8i0",
+    "meta": {
+      "name": "STARBREEDER #075",
+      "status": "white dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "WD 1145+017"
+        },
+        {
+          "trait_type": "star type",
+          "value": "white dwarf 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 3"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "gray gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "laser blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9b6ebdd16c71738adeeab8f7c01137752a877e06faaaf636ee3e700ee10bd218i0",
+    "meta": {
+      "name": "STARBREEDER #069",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Rigil Kentaurus"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie yellow"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular dark"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled yellow"
+        },
+        {
+          "trait_type": "hands",
+          "value": "dark"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd48bb054268fd4559b8d2b75111ad6e87baf90bd8b469dc4b350a265ea771e7i0",
+    "meta": {
+      "name": "STARBREEDER #067",
+      "status": "neutron star",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "\u00ce\u00b6 Scorpii"
+        },
+        {
+          "trait_type": "star type",
+          "value": "neutron star 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular blue"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "straight blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "da1d283d856e41d1dd05ebf33516d995f11eee29ad6d909a7bb9a090e790ee7ci0",
+    "meta": {
+      "name": "STARBREEDER #071",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Psi1 Aurigae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 2"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape black"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 4"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": ""
+        },
+        {
+          "trait_type": "eyes",
+          "value": "robot 4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0f34947ae3ff7bdeba545a6dc13c710088081c44afb818f4d08fffe17cdcbb6ei0",
+    "meta": {
+      "name": "STARBREEDER #068",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "\u00ce\u00bc Columbae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 3"
+        },
+        {
+          "trait_type": "object",
+          "value": "ufo 3"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "robot down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fd91253803edc6534ef4e78ee9c9e6433e2cf818c1b0370146b6fca23b0c79b4i0",
+    "meta": {
+      "name": "STARBREEDER #073",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Tau Ceti"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 5"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 9"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape white"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 6"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "purple"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e5b8feb8bafab4f42e245f3c37a2fb203e162868fbd715e942e804ed01cca10ci0",
+    "meta": {
+      "name": "STARBREEDER #043",
+      "status": "supernova",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "ASASSN-15lh"
+        },
+        {
+          "trait_type": "star type",
+          "value": "supernova 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b3d320e611bc694e2a955710e5cd40265718d949e70638ea8ae17b269a184e97i0",
+    "meta": {
+      "name": "STARBREEDER #059",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-1"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 7"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 5"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1eb6b700501180ea19b18acb06e4ba2baf3144b8aa81a5d9879cd7c422a78ec2i0",
+    "meta": {
+      "name": "STARBREEDER #044",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Cygnus X-1"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 8"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie red"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 3"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "turquoise"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bc6175f5d46340336c1aec5cfc2b1c9dc5610d93c566e9493a201eda1d8e971ei0",
+    "meta": {
+      "name": "STARBREEDER #047",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Mu Cephei"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 5"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape black"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular black"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "90814342c8acda95d2ca8fa4615f234ffee0e9ccb2f512ee5cf13bb2bbbd6017i0",
+    "meta": {
+      "name": "STARBREEDER #052",
+      "status": "white dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Sirius"
+        },
+        {
+          "trait_type": "star type",
+          "value": "white dwarf 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 8"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "space suit 3"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular pale"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "straight purple"
+        },
+        {
+          "trait_type": "hands",
+          "value": "gray gloves"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "robot 1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fdb110198b32d0b98f239ae3d623f4f458222916e0c7ac6d55fdb3c4164fc477i0",
+    "meta": {
+      "name": "STARBREEDER #050",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Alsafi"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 1"
+        },
+        {
+          "trait_type": "object",
+          "value": "star"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie pink"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "robot 3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8f39c39e120427bf46b25b78ad4f706cab46284c95cb7b1d93634a84bd2ef9abi0",
+    "meta": {
+      "name": "STARBREEDER #060",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-2"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 6"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 9"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie red"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 5"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "robot down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "robot 4"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e16c240b60b88b5415f08f5a249a4848c4cb82be8cf8dee883c3a6f6a2c738edi0",
+    "meta": {
+      "name": "STARBREEDER #065",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "10 Lacertae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 2"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape black"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "alien down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fec35bd5651b05e7f30c72ba9c7b1fbeeceee325695aef0477da7d2a8233b11ei0",
+    "meta": {
+      "name": "STARBREEDER #054",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "UY Scuti"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 9"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie red"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular red"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "red"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7b6d4ca1a278a44731ebf91443650dc1b225ebc7b214cada9bf5d106afd43ab4i0",
+    "meta": {
+      "name": "STARBREEDER #080",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-3"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 9"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "space suit 4"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular pale"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "turquoise"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue 1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0f6dfb20272b89efb5c9ba10f6790137230bda86531d743c6fedafe2d805a6fdi0",
+    "meta": {
+      "name": "STARBREEDER #078",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-4"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 7"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f69f45f8184e392174d95a3211589a5aea744a596d2d1270d0a4adc1f5945557i0",
+    "meta": {
+      "name": "STARBREEDER #084",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "1 Geminorum"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 4"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 8"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 4"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "58631bf0bafc90b09d33368d4765709affb104571a2e55360fb3cd4b72d16bd5i0",
+    "meta": {
+      "name": "STARBREEDER #083",
+      "status": "white dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "WD 0343+247 SDSS J110217.48+411315.4"
+        },
+        {
+          "trait_type": "star type",
+          "value": "white dwarf 4"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 5"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular black"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "white"
+        }
+      ]
+    }
+  },
+  {
+    "id": "490421932173633c5c79b7b2a3ebf463ac37995aeddef23800a444d41f71e6d8i0",
+    "meta": {
+      "name": "STARBREEDER #097",
+      "status": "supernova",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "SN 1054"
+        },
+        {
+          "trait_type": "star type",
+          "value": "supernova 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 6"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 1"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape black"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "straight blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c1393748b242059859ef09ac726096398eb82bf830ed802ce9a0cb188f35bb8ai0",
+    "meta": {
+      "name": "STARBREEDER #082",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-5"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 7"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 2"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape red"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular dark"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled green"
+        },
+        {
+          "trait_type": "hands",
+          "value": "dark"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8ae2737b670f6436892a0fede176aa10ece42c7c571747b699e771ac8976f951i0",
+    "meta": {
+      "name": "STARBREEDER #091",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "VY Canis Majoris"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie yellow"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 4"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "turquoise"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a88c0479aa651fede2d7226290d7ca6cfb9bf67157df31ea5f1b1f3682fe38ddi0",
+    "meta": {
+      "name": "STARBREEDER #128",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "9 Ceti"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie green"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "red"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "laser yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "82d2d6c2eaf98e8d60be3aef3cef0260a8dcb9b3d1bd7d15890bd2f396d030a9i0",
+    "meta": {
+      "name": "STARBREEDER #122",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-6"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 4"
+        },
+        {
+          "trait_type": "background",
+          "value": "wormhole 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie pink"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 6"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "purple"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bb717d6a667d114ab09f267c33ae61f8f435e85fe8c9d9df230fb402c67de446i0",
+    "meta": {
+      "name": "STARBREEDER #112",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Westerlund 1-26"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 9"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular black"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ffadac42484ee813fe2fab6f62a0eeda69ffd8a8ba3f9d80b33cef1018b13ae2i0",
+    "meta": {
+      "name": "STARBREEDER #129",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Theta 1 Orionis"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular light"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "straight blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fc6f87a22043cfe7512e2fbf6fb5d335e13aa622c0682d3bfc43512f497794d5i0",
+    "meta": {
+      "name": "STARBREEDER #127",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "9 Puppis"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "space ship 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "alien down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "laser yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7585369653e3e3697738610d1049324fd808c40443277041eaae1088c99a6b50i0",
+    "meta": {
+      "name": "STARBREEDER #114",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-7"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 5"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular light"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "18d5e86add6378d4553933c99fc3d279a2667bfa00b83e20ed3077e79a4987e9i0",
+    "meta": {
+      "name": "STARBREEDER #102",
+      "status": "star yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "10 Canum Venaticorum"
+        },
+        {
+          "trait_type": "star type",
+          "value": "star yellow dwarf 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 7"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie red"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular black"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e46b66ac04ec9f9a03aeb8bc633186310a2701fbdde0746e57cee824ff4ca2c3i0",
+    "meta": {
+      "name": "STARBREEDER #125",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Meissa"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie yellow"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 4"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "da71a79efbca11694fbe39579f3aebfd1f8d4ed23bb27173531e08fcef769352i0",
+    "meta": {
+      "name": "STARBREEDER #115",
+      "status": "white dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "SDSS J0003+0718"
+        },
+        {
+          "trait_type": "star type",
+          "value": "white dwarf 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 5"
+        },
+        {
+          "trait_type": "object",
+          "value": "ufo 2"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie red"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "gray gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b3cfc6ccee348ea4d99c12f5106586e3fd5e4bc586e765bb67f5c22cc1a0df7fi0",
+    "meta": {
+      "name": "STARBREEDER #119",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "V849 Arae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supernate 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 9"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 3"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie orange"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 5"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "straight yellow"
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "55be907648feaecf35b7800f598141d52e221dcf2e01187d6ac2c61200ab5108i0",
+    "meta": {
+      "name": "STARBREEDER #100",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-8"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 6"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 6"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie yellow"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular light"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "gray gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "17902531fad7cce2566d68bcaaa5ce2967d38d80a78d09a05b9fc51c31e5031ei0",
+    "meta": {
+      "name": "STARBREEDER #106",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "11 Aquarii"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 7"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape black"
+        },
+        {
+          "trait_type": "face",
+          "value": ""
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "gray gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2d602223878af32bd568dd6755dddb286b8fc544de16282cff5d3e2c38dbe0bci0",
+    "meta": {
+      "name": "STARBREEDER #124",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-9"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 6"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 5"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "space suit 3"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 5"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "gray gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1909f884e7114efdcc61f0a72863d0664ec820193213f104942bd123664c01c5i0",
+    "meta": {
+      "name": "STARBREEDER #126",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-10"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 4"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie green"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 6"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "robot down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9ff1786c96f67170b55f701801e45dba7e390efc5c7a6561115dce7ec231d645i0",
+    "meta": {
+      "name": "STARBREEDER #111",
+      "status": "neutron star",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Centaurus-X3"
+        },
+        {
+          "trait_type": "star type",
+          "value": "neutron star 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 7"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 1"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie pink"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "robot down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "purple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "51e3f07047220e0efa9879b45bad435ab3a8f148458fefc92a7349094b050d4ei0",
+    "meta": {
+      "name": "STARBREEDER #113",
+      "status": "supernova",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "SN 1572"
+        },
+        {
+          "trait_type": "star type",
+          "value": "supernova 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "wormhole 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular red"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "red"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3e77daaae9ef612e035347222ae2ee72fcced5cc847da573625385e126d5165bi0",
+    "meta": {
+      "name": "STARBREEDER #116",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Rigel"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 9"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie red"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular pale"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "pale"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6909cb9074692dcbfefa1b61651773620493dd8860be7c94dcb9b431d43d8c26i0",
+    "meta": {
+      "name": "STARBREEDER #108",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "11 Leonis Minoris"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 4"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 4"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled yellow"
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f867c06f4dab652a55f3b5c1481c7a41391d2b45ac16da5b72f0a03feeded120i0",
+    "meta": {
+      "name": "STARBREEDER #107",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "V408 Aurigae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 4"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 3"
+        },
+        {
+          "trait_type": "object",
+          "value": "satellite"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape red"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular dark"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled yellow"
+        },
+        {
+          "trait_type": "hands",
+          "value": "dark down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6ddee91282141f2aaddf298c233ddd73ef13d3ea2f4e7bbe2d83f979f325b06bi0",
+    "meta": {
+      "name": "STARBREEDER #118",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-11"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 7"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 8"
+        },
+        {
+          "trait_type": "object",
+          "value": "satellite"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 3"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "gray gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "laser green"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9e125bef290a6e4e3e6ea0178c1a0a8b9c3a42d834faa82b809935809e66c626i0",
+    "meta": {
+      "name": "STARBREEDER #109",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "51 Pegasi"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "wormhole 2"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie yellow"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ef70547e4d2899eb807ecb82c1ad8c6a5cbb102201c611cd6b623f3b8167fc31i0",
+    "meta": {
+      "name": "STARBREEDER #110",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "V362 Aurigae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular light"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "robot down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue 1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "42e7727e3db1521b90838aac00fa27a8093b46c2ff9e54ae49a500664336b917i0",
+    "meta": {
+      "name": "STARBREEDER #105",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "HT Sagittae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 9"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie purple blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 4"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b36a7b0894a0fed7c70e66680ad329920a208d35ccd7765d6b0b040bdfa3f9e2i0",
+    "meta": {
+      "name": "STARBREEDER #130",
+      "status": "white dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "RX J0439.8\u00e2\u02c6\u20196809"
+        },
+        {
+          "trait_type": "star type",
+          "value": "white dwarf 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 3"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "turquoise"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0ed33caa60db00e346db6a5f767db57a4b88b8afe810ec59faa544974506888bi0",
+    "meta": {
+      "name": "STARBREEDER #120",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-12"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 5"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 4"
+        },
+        {
+          "trait_type": "object",
+          "value": "ufo 3"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "space suit 3"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular pale"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "gray gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "robot 1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "65c9393f6fab865282d377e878706d73a990c04f691f9f62b9151850a9c29bfbi0",
+    "meta": {
+      "name": "STARBREEDER #131",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "NO Aurigae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 5"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 7"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular pale"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "gray gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f60e1d6bfcd67dc9f6da6dece6a081d4dd3aea568628507d868166d453ca1abbi0",
+    "meta": {
+      "name": "STARBREEDER #123",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "V4030 Sagittarii"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black red"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular red"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "red"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "15dc6ecb53bcc0c85229dc75f63778b8285ea22cea9de3d2c99bd57be41deb60i0",
+    "meta": {
+      "name": "STARBREEDER #101",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "13 Ceti"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie purple blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "alien down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "laser green"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2e4771adcd5aa29ec5a85d3f682d377fd089c7a37c9672d7538ec91e8848475bi0",
+    "meta": {
+      "name": "STARBREEDER #117",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "RT Carinae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 5"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 6"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 3"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie orange"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 4"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "turquoise"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "efb63b317d316420b20a7ca5e12931f710bdb4f4d1e7d28cdbb023a4c308b7e3i0",
+    "meta": {
+      "name": "STARBREEDER #103",
+      "status": "white dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Z Andromedae B"
+        },
+        {
+          "trait_type": "star type",
+          "value": "white dwarf 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 2"
+        },
+        {
+          "trait_type": "object",
+          "value": "earth 1"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 3"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "turquoise"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "robot 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3b10c103f1ccbecb8fda26ca1166b0d3096bd8c64b5511e60974f4702bee793di0",
+    "meta": {
+      "name": "STARBREEDER #104",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-13"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 9"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 8"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape green"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled yellow"
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "935edd1b237f5ce3336dce4b63a01c56df85c5e3dca652b4624d6da581c6718fi0",
+    "meta": {
+      "name": "STARBREEDER #121",
+      "status": "black hole",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Messier 87"
+        },
+        {
+          "trait_type": "star type",
+          "value": "black hole 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black red"
+        },
+        {
+          "trait_type": "face",
+          "value": "red"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled red"
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "739d7c9118b6e64f883745c6284f89cf2af352d2c0d85756b3056a9c48b19c84i0",
+    "meta": {
+      "name": "STARBREEDER #077",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Theta 1 Orionis C"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 6"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled red"
+        },
+        {
+          "trait_type": "hands",
+          "value": "robot down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "726b8cd2c8b1f14cd1c491d95cbb8028678142e9d2611ce035d1ad6c1397ec72i0",
+    "meta": {
+      "name": "STARBREEDER #094",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "13 Trianguli"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 5"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie yellow"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bdb0c20c350f921d7e5ae5061ac46cad082d1dc7afb4db5557617d6f6f09bd27i0",
+    "meta": {
+      "name": "STARBREEDER #086",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-14"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "wormhole 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular pale"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "purple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dbf84c7f82f0f659d83b1b0c38aa97152f8ae3db0b32988081cf7972a84597bci0",
+    "meta": {
+      "name": "STARBREEDER #081",
+      "status": "supernova",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "SN 1987A"
+        },
+        {
+          "trait_type": "star type",
+          "value": "supernova 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 7"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 4"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": ""
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c19e3151885dec334083c63832a2c03a7b673050a8abeb5f07de545eb19b3543i0",
+    "meta": {
+      "name": "STARBREEDER #089",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "BZ Carinae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 5"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 8"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 4"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape green"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 6"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "purple"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien purple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c0652577c2a695827d9254185279810ab7e919d5c6df5eaf23e6369e6dd97445i0",
+    "meta": {
+      "name": "STARBREEDER #090",
+      "status": "white dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "HD 49798"
+        },
+        {
+          "trait_type": "star type",
+          "value": "white dwarf 2"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie red"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular dark"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "straight blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "dark"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "white"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c3a57b067d57c7a2378d935cde0f44826f8c6921e156721056c1e43f533d243fi0",
+    "meta": {
+      "name": "STARBREEDER #088",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Alcyone"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "space ship 2"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "space suit 3"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "alien down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0227f975093e7b8fae7bd95185e9ad3559f13874f591aabedb2ccf4291ae1ce9i0",
+    "meta": {
+      "name": "STARBREEDER #099",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-15"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 6"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 3"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "635d8596d6b4daede5f4e62540b3c5a38614a0e11bbc2e49fc10f6f91c095be0i0",
+    "meta": {
+      "name": "STARBREEDER #098",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "14 Cancri"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "wormhole 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie green"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular pale"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "pale down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "db13a2f575da32783789cd989097556bc45e2f025ffbf51a5a7ff9829a3b6eefi0",
+    "meta": {
+      "name": "STARBREEDER #079",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "IX Carinae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 9"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape black"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 6"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "purple"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2c43cf2775576dced2bf3f5d75343e63bff8a5f437c323f1bb5e751005beb2b0i0",
+    "meta": {
+      "name": "STARBREEDER #096",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-16"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 7"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 7"
+        },
+        {
+          "trait_type": "object",
+          "value": "hoodie purple blue"
+        },
+        {
+          "trait_type": "clothing",
+          "value": ""
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 2"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "alien down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7663f262468044e752a62fccb4978365f406c2937a74170c99d6ec8b0121eaa9i0",
+    "meta": {
+      "name": "STARBREEDER #095",
+      "status": "white dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Procyon B"
+        },
+        {
+          "trait_type": "star type",
+          "value": "white dwarf 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 6"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 4"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien blue"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e9e124a4aa8860d42718d285c80b24f4b84f8179361e5f94fd3afacf18df956di0",
+    "meta": {
+      "name": "STARBREEDER #093",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "V704 Cassiopeiae"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 3"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 5"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 1"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie black blue"
+        },
+        {
+          "trait_type": "face",
+          "value": ""
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "red"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a55ded273bb7d32dc40a17cae59e320ba3fd9d4daf8f157115406537f2507518i0",
+    "meta": {
+      "name": "STARBREEDER #085",
+      "status": "blue giant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "\u00ce\u00be Persei"
+        },
+        {
+          "trait_type": "star type",
+          "value": "blue giant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 2"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled red"
+        },
+        {
+          "trait_type": "hands",
+          "value": "robot"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b289003bbdfaf8c0a6159ce0821b0b76c0592f104d36f5ec1ca8157b6f4dc57i0",
+    "meta": {
+      "name": "STARBREEDER #092",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "15 Leonis Minoris"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf 5"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie red"
+        },
+        {
+          "trait_type": "face",
+          "value": "angular black"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "gray gloves down"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "yellow"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9eacbebf325a6c93f77ca850fadf00494cfcfb6cd6450f3346ec51ed95863531i0",
+    "meta": {
+      "name": "STARBREEDER #087",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Per-emb-17"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar 5"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie white blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "alien 6"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "purple"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "alien purple"
+        }
+      ]
+    }
+  }
+]
