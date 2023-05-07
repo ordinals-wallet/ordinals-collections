@@ -88,7 +88,7 @@ let toTransform = [
       twitter_link: "https://twitter.com/yugalabs",
       website_link: "https://twelvefold.io"
     },
-    inscriptions: await fetch('https://turbo.ordinalswallet.com/wallet/bc1pshdmgmkt6pgw56mz94h5y2at4ryuug0ehpz8vg3lnf90xxkr356sjcazc7/inscriptions').then(res => res.json()),
+    inscriptions: {},//await fetch('https://turbo.ordinalswallet.com/wallet/bc1pshdmgmkt6pgw56mz94h5y2at4ryuug0ehpz8vg3lnf90xxkr356sjcazc7/inscriptions').then(res => res.json()),
     method: 'twelvefold'
   },
   {

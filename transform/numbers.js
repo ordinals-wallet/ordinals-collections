@@ -33,7 +33,11 @@ export const addInscriptionNumbers = async () => {
       let json;
       let failed = false;
       try {
-        json = await fetch('https://turbo.ordinalswallet.com/inscription/'+inscription.id).then(res => res.json());
+        json = await fetch('https://turbo.ordinalswallet.com/inscription/'+inscription.id, {
+          headers: {
+            ['referer']: 'https://ordinalswallet.com/'
+          }
+        }).then(res => res.json());
       } catch {
         failed = true;
         if(attempts > 0) return task(inscription, attempts-1);

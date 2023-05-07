@@ -17,8 +17,7 @@
           "value": "Torri"
         }
       ]
-    },
-    "number": "327858"
+    }
   },
   {
     "id": "1fc2ac2cc36cfb936570c5ceef6fa81234ce18a32e2117df1a917059d9d60e6ci0",
@@ -38,8 +37,7 @@
           "value": "Tower"
         }
       ]
-    },
-    "number": "331307"
+    }
   },
   {
     "id": "594c5686334d525697a5ae4c448b78f45a89e42a70ee3c2de17c129be04ac599i0",
@@ -59,8 +57,7 @@
           "value": "Building"
         }
       ]
-    },
-    "number": "343231"
+    }
   },
   {
     "id": "68c2e8002da336706e1dd3ea7b651375a06a342fbe5ff399077eb361afd9b4f6i0",
@@ -80,8 +77,7 @@
           "value": "Vehicle"
         }
       ]
-    },
-    "number": "420641"
+    }
   },
   {
     "id": "f47596371ad4f597a9f44c51b0cf264470fb91f725ee6defb66ee9d7f1bf063bi0",
@@ -101,7 +97,26 @@
           "value": "Torri"
         }
       ]
-    },
-    "number": "420837"
+    }
+  },
+  {
+    "id": "db4932304378318878cbf841115b173c128f041e7d43fa4463fc13844a23fd91i0",
+    "meta": {
+      "name": "Booth ブース席",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "2 clouds"
+        },
+        {
+          "trait_type": "Pink Sphere",
+          "value": "Low Center"
+        },
+        {
+          "trait_type": "Object",
+          "value": "Food"
+        }
+      ]
+    }
   }
 ]
