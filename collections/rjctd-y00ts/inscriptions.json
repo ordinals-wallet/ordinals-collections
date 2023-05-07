@@ -103,8 +103,7 @@
                 }
             ]
         }
-    }, 
-	{
+    }, {
         "id": "2b1987868a9ed987dbc27069dd496f612dfd30a5a56bceaaa47a84e62f6d8fe5i0",
         "meta": {
             "name": "Rejected y00ts Club #2418",
@@ -135,6 +134,75 @@
                 }, {
                     "trait_type": "Mouth accessories",
                     "value": "Joint"
+                }
+            ]
+		}	
+   }, {
+        "id": "7b49834332d294612fb29d56f9fdcfa129bdde11652ea1aa59b7a14271a9d953i0",
+        "meta": {
+            "name": "Rejected y00ts Club #2408",
+            "attributes": [{
+                    "trait_type": "Background",
+                    "value": "Warm Grey"
+					                }, {
+                    "trait_type": "Fur",
+                    "value": "Purple"
+                }, {
+                    "trait_type": "Mouth",
+                    "value": "Happy"
+                }, {
+                    "trait_type": "Eyes",
+                    "value": "Shiny"
+                }, {
+                    "trait_type": "Clothes",
+                    "value": "Prisoner"
+                }, {
+                    "trait_type": "Earings",
+                    "value": "Golden Ring"
+                }, {
+                    "trait_type": "Eyes accessories",
+                    "value": "None"
+                }, {
+                    "trait_type": "Top",
+                    "value": "None"
+                }, {
+                    "trait_type": "Mouth accessories",
+                    "value": "None"
+                }
+            ]
+		}	
+   }, 
+	{
+        "id": "a7ea7a742b323a24f62d5ae45bb209d82b4e987eb1fced5772c30ab128c15882i0",
+        "meta": {
+            "name": "Rejected y00ts Club #1052",
+            "attributes": [{
+                    "trait_type": "Background",
+                    "value": "Yellow"
+					                }, {
+                    "trait_type": "Fur",
+                    "value": "Golden"
+                }, {
+                    "trait_type": "Mouth",
+                    "value": "Smile"
+                }, {
+                    "trait_type": "Eyes",
+                    "value": "Closed"
+                }, {
+                    "trait_type": "Clothes",
+                    "value": "None"
+                }, {
+                    "trait_type": "Earings",
+                    "value": "None"
+                }, {
+                    "trait_type": "Eyes accessories",
+                    "value": "Lennon Glasses"
+                }, {
+                    "trait_type": "Top",
+                    "value": "None"
+                }, {
+                    "trait_type": "Mouth accessories",
+                    "value": "None"
                 }
             ]
 		}	
