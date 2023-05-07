@@ -1,0 +1,125 @@
+[
+    {
+      "id": "p5U6C8Z2QskxjL1JiA9bKmW7EYhHXg0V34OayTwc5unDvMhNGBrqPRolfFdeztIJ",
+      "meta": {
+        "name": "Normal Avocado",
+        "status": "Common",
+        "rank": 1,
+        "attributes": [
+          {
+            "trait_type": "Skin",
+            "value": "Smooth",
+            "status": "Common",
+            "percent": "50%"
+          },
+          {
+            "trait_type": "Color",
+            "value": "Green",
+            "status": "Common",
+            "percent": "70%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "KjYwVt5u1Ri0Lx4Nq3oZP7Q9Xc8GsFbS6vMmkzUrhfCnJWpdE2lHaqyODgjwBTAe",
+      "meta": {
+        "name": "Zombie Avocado",
+        "status": "Rare",
+        "rank": 2,
+        "attributes": [
+          {
+            "trait_type": "Skin",
+            "value": "Rotten",
+            "status": "Rare",
+            "percent": "10%"
+          },
+          {
+            "trait_type": "Color",
+            "value": "Dark Green",
+            "status": "Uncommon",
+            "percent": "20%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "D3qX9tZz7j4ro10GyfaJkIcHwRnK8YluWmBv6sTebUVxPpCgAFLEhOiQ2MNq5SdV",
+      "meta": {
+        "name": "Soccer Avocado",
+        "status": "Uncommon",
+        "rank": 3,
+        "attributes": [
+          {
+            "trait_type": "Skin",
+            "value": "Smooth",
+            "status": "Common",
+            "percent": "50%"
+          },
+          {
+            "trait_type": "Color",
+            "value": "White",
+            "status": "Rare",
+            "percent": "5%"
+          },
+          {
+            "trait_type": "Pattern",
+            "value": "Soccer Ball",
+            "status": "Uncommon",
+            "percent": "15%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Q0v6J71c9UbyfZ8xWpPmMdNn5aAklLwShuYI2iGjtVXs3oOzTBK4CrHgqeFDRE",
+      "meta": {
+        "name": "Cyborg Avocado",
+        "status": "Epic",
+        "rank": 4,
+        "attributes": [
+          {
+            "trait_type": "Skin",
+            "value": "Metallic",
+            "status": "Epic",
+            "percent": "2%"
+          },
+          {
+            "trait_type": "Color",
+            "value": "Silver",
+            "status": "Epic",
+            "percent": "3%"
+          }
+        ]
+      }
+    },
+    {
+      "id": "h1Y8rCtvJaxA9LzXgR7VcPfWUIb6s3lqF2QHwS8Mk5nuNmOyp4Zj0D1EoGKBTdeV",
+      "meta": {
+        "name": "Trump Avocado",
+        "status": "Legendary",
+        "rank": 5,
+        "attributes": [
+          {
+            "trait_type": "Skin",
+            "value": "Smooth",
+            "status": "Common",
+            "percent": "50%"
+          },
+          {
+            "trait_type": "Color",
+            "value": "Orange",
+            "status": "Legendary",
+            "percent": "1%"
+          },
+          {
+            "trait_type": "Hair",
+            "value": "Trump Hair",
+            "status": "Legendary",
+            "percent": "1%"
+          }
+        ]
+      }
+    }
+  ]
+  
