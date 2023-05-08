@@ -1,0 +1,607 @@
+[
+  {
+    "id": "ad58aeb104f09ee4b5ed633114dd0d87ea72715294caa70d047432b007c2d5e5i0",
+    "meta": { "name": "Bulbasaur", "attributes": ["Grass", "Posion"] }
+  },
+  {
+    "id": "a17cef0e846cd93afb70233b666c9c7622de4d1992623ea308d3231efed44bc2i0",
+    "meta": { "name": "Ivysaur", "attributes": ["Grass", "Posion"] }
+  },
+  {
+    "id": "ff4ac489916315a425b31918b40b24498fcd64f4df91144c70b24297fd652ba1i0",
+    "meta": { "name": "Venusaur", "attributes": ["Grass", "Posion"] }
+  },
+  {
+    "id": "f949ef79fa4c72eedbeea689533ea6b7e179ee988af5f7e81f606f43033c5dd1i0",
+    "meta": { "name": "Charmander", "attributes": "Fire" }
+  },
+  {
+    "id": "4bc0cff862c7f4f454f870f2b4658e7d4e444457beed668afcb316c1907d9a8ai0",
+    "meta": { "name": "Charmeleon", "attributes": "Fire" }
+  },
+  {
+    "id": "cf3514784e6eb91131a96c99aac346340aba529e59eab1336e33aca24e8ab492i0",
+    "meta": { "name": "Charizard", "attributes": ["Fire", "Flying"] }
+  },
+  {
+    "id": "59b69d8f9ecb437469a9e2d385e30132c991c8a5110f508993bf1728ec8fa758i0",
+    "meta": { "name": "Squirtle", "attributes": "Water" }
+  },
+  {
+    "id": "e9019e479c44ee6c7b2c6f871bf296273cfca19a59dd935ea636037552be2f75i0",
+    "meta": { "name": "Wartortle", "attributes": "Water" }
+  },
+  {
+    "id": "879e4662205f5c2f6d69c8f48c492a020b6a386f278ca0e5b1cff23f8aa65879i0",
+    "meta": { "name": "Blastoise", "attributes": "Water" }
+  },
+  {
+    "id": "734a7f35f0f35e90a3111dc169c5c0fa7c39714fcb01efa5d2ba68948f5abfd4i0",
+    "meta": { "name": "Caterpie", "attributes": "Bug" }
+  },
+  {
+    "id": "05022178941f9fbd560095356562816aba2b194072659e6fb55bc5f30a904f0ei0",
+    "meta": { "name": "Metapod", "attributes": "Bug" }
+  },
+  {
+    "id": "e0b86a9af90ba5ae0a6495a38bcd96748c92ee3424ebbdbe024f99790a0b3f1ai0",
+    "meta": { "name": "Butterfree", "attributes": ["Bug", "Flying"] }
+  },
+  {
+    "id": "f6a02ec61f72e61b990c8e08f4d14371ea7bd99e408f4c1632ee12bb8f14c847i0",
+    "meta": { "name": "Weedle", "attributes": ["Bug", "Posion"] }
+  },
+  {
+    "id": "859d15fad68dcb8f0ae712283676e636adb128eaa0c3c38b4118a3f0c9789b20i0",
+    "meta": { "name": "Kakuna", "attributes": ["Bug", "Posion"] }
+  },
+  {
+    "id": "2839902a207fb5e78157a2c113440d617d50ef924a6e37c364b4c21fb69671dai0",
+    "meta": { "name": "Beedrill", "attributes": ["Bug", "Posion"] }
+  },
+  {
+    "id": "3846d7a0bbd48a3416b692e77650e2628d57807fea24c743c37d91cdc3af7eb0i0",
+    "meta": { "name": "Pidgey", "attributes": ["Normal", "Flying"] }
+  },
+  {
+    "id": "988bcfec290be4285b81e74eb93fd490b8efda0c9d5fe4aedb8df60b148ea276i0",
+    "meta": { "name": "Pidgeotto", "attributes": ["Normal", "Flying"] }
+  },
+  {
+    "id": "78a06bd0d75f809b1ac9e4e66ee8f0f28bece0c4f4add966f9420bade83e1438i0",
+    "meta": { "name": "Pidgeot", "attributes": ["Normal", "Flying"] }
+  },
+  {
+    "id": "41296de0330ed6c3a79ab93b8ca0a8f4354ec73511050234683bc5bd12c60946i0",
+    "meta": { "name": "Rattata", "attributes": "Normal" }
+  },
+  {
+    "id": "2e54636b94a8e0a5cbfde00aa84171d3af685fb4add67b648f758cd24230417di0",
+    "meta": { "name": "Raticate", "attributes": "Normal" }
+  },
+  {
+    "id": "ff64ca6eb7dfaf5f8bb366780feb1cfa786c3a558b3e98351aae2850d47202adi0",
+    "meta": { "name": "Spearow", "attributes": ["Normal", "Flying"] }
+  },
+  {
+    "id": "9e5cd090d5b2897bb6db3e5835764742c804c05270b3b675d20cbbcd441760ebi0",
+    "meta": { "name": "Fearow", "attributes": ["Normal", "Flying"] }
+  },
+  {
+    "id": "f34003134c955457a273fd28f98caaf86ecb016f8b0107e88fadb8a076646589i0",
+    "meta": { "name": "Ekans", "attributes": "Posion" }
+  },
+  {
+    "id": "f89645f6fd5c89d0a5839de4a1839521271a8df244e35d07a66b552f58d4c365i0",
+    "meta": { "name": "Arbok", "attributes": "Posion" }
+  },
+  {
+    "id": "1a71222205007726f1ec7951daa6e9ceea579ece94b2eb4160efe44823f19592i0",
+    "meta": { "name": "Pikachu", "attributes": "Electric" }
+  },
+  {
+    "id": "6ac8fbfd2493f93df6fd5f51b2bdab61589cc92efbd7bb4e1df83ee03745680ei0",
+    "meta": { "name": "Raichu", "attributes": "Electric" }
+  },
+  {
+    "id": "e916ed14a7ab20e42bb9a83e3cb28326cc5d156166ef5f8329d4e162113dc1fci0",
+    "meta": { "name": "Sandshrew", "attributes": "Ground" }
+  },
+  {
+    "id": "adc605a099b06320bb02e7c60ee7d4fa25916ebca8dd6a4b2b1603db715ee066i0",
+    "meta": { "name": "Sandslash", "attributes": "Ground" }
+  },
+  {
+    "id": "9d14f81ad53f5e01af9523a700bdec8fc4cc89cc0cfdaff19e1d236f080058cai0",
+    "meta": { "name": "Nidoran - Female", "attributes": "Posion" }
+  },
+  {
+    "id": "f07738931b753f4683603471f5887a134300eb2ce99aba908972438abfe7daebi0",
+    "meta": { "name": "Nidorina", "attributes": "Posion" }
+  },
+  {
+    "id": "57de260ea45346c6739d12a9658555f150b90a417880d7378c3bf435cf81cecai0",
+    "meta": { "name": "Nidoqueen", "attributes": ["Posion", "Ground"] }
+  },
+  {
+    "id": "b3d721246f2f3534d7592a9b51633b62b02a9d006a260fd8bbf0264ae9d448f0i0",
+    "meta": { "name": "Nidoran - Male", "attributes": "Posion" }
+  },
+  {
+    "id": "703f8e75653d3161c1f14394e0d8d06337c67f1e6bdc9d2018bc1b9aa0a0381ci0",
+    "meta": { "name": "Nidorino", "attributes": "Posion" }
+  },
+  {
+    "id": "4576aaf66a46586df28ff9e3adc90c6e99ef81c23d3cf734e1ee6b12a78c6b14i0",
+    "meta": { "name": "Nidoking", "attributes": ["Posion", "Ground"] }
+  },
+  {
+    "id": "f0454d6e39186015025fd13a76855cc94c265b6b400b05ce9fafaaa44fe0c080i0",
+    "meta": { "name": "Clefairy", "attributes": "Normal" }
+  },
+  {
+    "id": "2587a47a84fb9a1943187e8ebc2a8efe670315981293235c66217c491603d9ebi0",
+    "meta": { "name": "Clefable", "attributes": "Normal" }
+  },
+  {
+    "id": "86c71544f62bb84441c8748655be6d1a6182ab370124f6572023a5e104629694i0",
+    "meta": { "name": "Vulpix", "attributes": "Fire" }
+  },
+  {
+    "id": "f9b94979bcdd222793054043591e982dd67d0d67ed09635a4038c5d978e9ba3fi0",
+    "meta": { "name": "Ninetales", "attributes": "Fire" }
+  },
+  {
+    "id": "3efcd13274c1a6d5195f7e61d39180a58333d7f285305e210cbbc823fc105a43i0",
+    "meta": { "name": "Jigglypuff", "attributes": "Normal" }
+  },
+  {
+    "id": "08a4bb2ec4cbb0250eba477f72de20d98a9055e58a466e6cad8f31b269f00ee3i0",
+    "meta": { "name": "Wigglytuff", "attributes": "Normal" }
+  },
+  {
+    "id": "511b64b09de8cf67d06e29f8f8b5e0071b45d419885bdea42492da4442a21bcci0",
+    "meta": { "name": "Zubat", "attributes": ["Posion", "Flying"] }
+  },
+  {
+    "id": "2682f3465fee87a6bdefc89afbe016b681cebecdada48a122eab8d2b27873151i0",
+    "meta": { "name": "Golbat", "attributes": ["Posion", "Flying"] }
+  },
+  {
+    "id": "665859f1b7a6e38f711904331b22b678bcebf6f9055bbde638e6a648e8e5acb9i0",
+    "meta": { "name": "Oddish", "attributes": ["Grass", "Posion"] }
+  },
+  {
+    "id": "44aa43737b6b65b588fb72621b44598ceea4e5ce6ad53a2c1a91abfcfc74d740i0",
+    "meta": { "name": "Gloom", "attributes": ["Grass", "Posion"] }
+  },
+  {
+    "id": "9b4b6cb9f30bc6a2f5fa2787d192ff0067439674a60729036d3e81da0bef608fi0",
+    "meta": { "name": "Vileplume", "attributes": ["Grass", "Posion"] }
+  },
+  {
+    "id": "5a786a4cf2ebbd0d58f252c0858b8ae0cc49089769577c56898c130a3f8aa603i0",
+    "meta": { "name": "Paras", "attributes": ["Bug", "Grass"] }
+  },
+  {
+    "id": "608bbc2a69bfd893f13d2dbe5d92b29689c8bf46d5acb1887bea08958659c8f0i0",
+    "meta": { "name": "Parasect", "attributes": ["Bug", "Grass"] }
+  },
+  {
+    "id": "d403528c2f3a2c6b7231ed45d8e5114d48daf8b4417f040307ebff6189f0657bi0",
+    "meta": { "name": "Venonat", "attributes": ["Bug", "Posion"] }
+  },
+  {
+    "id": "c30b5683a837926257cd40a60a8ec8e886004aa89bf3e07e995523682f1b7661i0",
+    "meta": { "name": "Venomoth", "attributes": ["Bug", "Posion"] }
+  },
+  {
+    "id": "baef861854eacd2d3be08d80f6782e12892f2a53d829e7d86f74b12cb4cf7ba0i0",
+    "meta": { "name": "Diglett", "attributes": ["Ground"] }
+  },
+  {
+    "id": "25508d1525f8bde76e733eeb74f9dba01f0ae83d90c98f5419ebd01068cc5ee3i0",
+    "meta": { "name": "Dugtrio", "attributes": ["Ground"] }
+  },
+  {
+    "id": "72180d074f1fa3950a6be8eb1e0763fcda8269c5e0af7fbd67d96928a77a2d0fi0",
+    "meta": { "name": "Meowth", "attributes": ["Normal"] }
+  },
+  {
+    "id": "9039365921bba6afaba5663a70329f30354991212269af56815fba4683941363i0",
+    "meta": { "name": "Persian", "attributes": ["Normal"] }
+  },
+  {
+    "id": "33bd41c7f06c53a0a16a0521195db32181bd39f6e1f9436a15cc80db7bd5ef59i0",
+    "meta": { "name": "Psyduck", "attributes": "Water" }
+  },
+  {
+    "id": "7a3b8702c2f16505b8a9c58ada0757ad9ef734e0c2329806cc41264b0cd44837i0",
+    "meta": { "name": "Golduck", "attributes": "Water" }
+  },
+  {
+    "id": "4dc2ee3f5499a35d63e776a57315ad549ab7c3f92509079067b3200cd6816c1di0",
+    "meta": { "name": "Mankey", "attributes": "Fighting" }
+  },
+  {
+    "id": "b0c04b0edafa51ba4eee710bc889fc426cbcbf34101eb3b5680a0d441c8a7e12i0",
+    "meta": { "name": "Primeape", "attributes": "Fighting" }
+  },
+  {
+    "id": "e71c8b349bb831ecdaed3684aa6ecf786f0310860880fa74b3ff63836bc63718i0",
+    "meta": { "name": "Growlithe", "attributes": "Fire" }
+  },
+  {
+    "id": "4c12bdd82bf9370edd5d2adc4a4b6c8c00bbc9cd7fdce9c5fa8133bd06ec7ae0i0",
+    "meta": { "name": "Arcanine", "attributes": "Fire" }
+  },
+  {
+    "id": "ee3c7298492c87e6485b505db472adf075eb9163722fd2305f4043a83398589ai0",
+    "meta": { "name": "Poliwag", "attributes": "Water" }
+  },
+  {
+    "id": "f8f930c5e58560f4bc79a73ee33eb3436811420bd72571be2dd32f7621b9036ai0",
+    "meta": { "name": "Poliwhirl", "attributes": "Water" }
+  },
+  {
+    "id": "a247e2466b20c6d9d6f015f08b61468f745156d384e64e1d8b1ce1112a062b9bi0",
+    "meta": { "name": "Poliwrath", "attributes": ["Water", "Fighting"] }
+  },
+  {
+    "id": "dc6b2d7d8f6ca47f7bcf56b3c3f32000e6c8398757edbfdbd3ec3f3088a6fcf1i0",
+    "meta": { "name": "Abra", "attributes": "Psychic" }
+  },
+  {
+    "id": "5af1a5d1d5f88c5ecbc44be25f35b76d758b8dc139ff2df59e1d5a5d36d5c5fei0",
+    "meta": { "name": "Kadabra", "attributes": "Psychic" }
+  },
+  {
+    "id": "dccdfdbaadf70c48c7a2f02099ec7e34600b0cea1720257282b3faa9dc1ff8e6i0",
+    "meta": { "name": "Alakazam", "attributes": "Psychic" }
+  },
+  {
+    "id": "2b4f613743779454c71ddf8710b0a9ce01e10b1fe13e02aee76bc35e5ac916d6i0",
+    "meta": { "name": "Machop", "attributes": "Fighting" }
+  },
+  {
+    "id": "1080a1cf2e5b8b873af87db757586a43f9f38d016809aa5a1ebdb8bd798b0d1ei0",
+    "meta": { "name": "Machoke", "attributes": "Fighting" }
+  },
+  {
+    "id": "a242bacca0d24f189d8c85f72b7a350bd1aa5282747023389af56e6ae70804b2i0",
+    "meta": { "name": "Machamp", "attributes": "Fighting" }
+  },
+  {
+    "id": "959785e82e7a2d93c7e319046f433d3af1f617649ed931127f2c13210a6a390fi0",
+    "meta": { "name": "Bellsprout", "attributes": ["Grass", "Posion"] }
+  },
+  {
+    "id": "9e8afb9429d6fef30352fb7023f3b928cde70f7865db1f34ed8d9a12312a5c64i0",
+    "meta": { "name": "Weepinbell", "attributes": ["Grass", "Posion"] }
+  },
+  {
+    "id": "72f805b2d6baf4c7232177186d53502cd29c75a5855f4f39ebab65528d3fb0fdi0",
+    "meta": { "name": "Victreebel", "attributes": ["Grass", "Posion"] }
+  },
+  {
+    "id": "18587ccdee06b1bc657052a27596f1b8d8681ca81e88ccbb6a42625315495e91i0",
+    "meta": { "name": "Tentacool", "attributes": ["Water", "Posion"] }
+  },
+  {
+    "id": "e7b965b71ae2670866861a1aa3a33bc42fc0705b08b7f09d7a83696be56b2508i0",
+    "meta": { "name": "Tentacruel", "attributes": ["Water", "Posion"] }
+  },
+  {
+    "id": "0db17e3b88d91e06142e24268b664fec07882afdc5e33009a68fb8e2596fbc9bi0",
+    "meta": { "name": "Geodude", "attributes": ["Rock", "Ground"] }
+  },
+  {
+    "id": "1153f73b9983f7d3e5701e0d0c004430f58d55e0a1af29c3464846d94204f415i0",
+    "meta": { "name": "Graveler", "attributes": ["Rock", "Ground"] }
+  },
+  {
+    "id": "a1613e2bd5997c7b8914626d65608b432f45d6a8eca1a0baa10a4a6fb4c2992di0",
+    "meta": { "name": "Golem", "attributes": ["Rock", "Ground"] }
+  },
+  {
+    "id": "7a697e373f398f24ca02db2833d7f7c6fe810eed773cd4e7b4a2d5629d03ed47i0",
+    "meta": { "name": "Ponyta", "attributes": "Fire" }
+  },
+  {
+    "id": "811ed8ad5f32ba49602f7e0f75f7e02a8ea5ab13ba8b89860b774fc975e8e7a2i0",
+    "meta": { "name": "Rapidash", "attributes": "Fire" }
+  },
+  {
+    "id": "b997419f5a9cd88235fe0f3be7f5522734bd6ae3558efef4ab9a7531d9d195f2i0",
+    "meta": { "name": "Slowpoke", "attributes": ["Water", "Psychic"] }
+  },
+  {
+    "id": "ca5736d3d6e14e4205f4ff9726e5b65d76fdc3ff5e13675a8235a132d88d814fi0",
+    "meta": { "name": "Slowbro", "attributes": ["Water", "Psychic"] }
+  },
+  {
+    "id": "67ba12cfed9668839c203b84d15a538af718acac4156c5767f44374664345baei0",
+    "meta": { "name": "Magnemite", "attributes": "Electric" }
+  },
+  {
+    "id": "3dd6ee9b5607fcffd29e217035f7e113f52e237119b21993f44dae36404ec429i0",
+    "meta": { "name": "Magneton", "attributes": "Electric" }
+  },
+  {
+    "id": "12118bf33687a885ae044f720caf2e057f8721a41341be072596b65b13ff653ci0",
+    "meta": { "name": "Farfetch'd", "attributes": ["Normal", "Flying"] }
+  },
+  {
+    "id": "fa597cc613e9cc6775121ae710c9c1879b8c3dd83e371a948825b4ad6be85a38i0",
+    "meta": { "name": "Doduo", "attributes": ["Normal", "Flying"] }
+  },
+  {
+    "id": "df9276092cdfa424e0dfd519327c8678607075ae61edf05ca2d9cba2efaf3d05i0",
+    "meta": { "name": "Dodrio", "attributes": ["Normal", "Flying"] }
+  },
+  {
+    "id": "a71785f1c651a37e761f092f6b4c898135e1480b33cab89a6f44c4b77e4d86d8i0",
+    "meta": { "name": "Seel", "attributes": "Water" }
+  },
+  {
+    "id": "f69ecf3281f87cc9b297220c87539a99af1e64f43c41467d4e21bc7d2bd51c99i0",
+    "meta": { "name": "Dewgong", "attributes": ["Water", "Ice"] }
+  },
+  {
+    "id": "bf2a1a4f92dbd0b6e17f8006e580d819b1a0e577dc8eecf5176285a7c0375b1ei0",
+    "meta": { "name": "Grimer", "attributes": "Posion" }
+  },
+  {
+    "id": "d4a00a6a4f7cac0f9d9d98622a1772be1bab9f2112e52d44cb36aa78b849cbdbi0",
+    "meta": { "name": "Muk", "attributes": "Posion" }
+  },
+  {
+    "id": "079bc642b96d021177167244c1e412bd57e0608e893236bd197ac0dd4ca42203i0",
+    "meta": { "name": "Shellder", "attributes": "Water" }
+  },
+  {
+    "id": "27ec63f958cace6fe0d485166dfeeff2004b57a0803820068f59206388f38302i0",
+    "meta": { "name": "Cloyster", "attributes": ["Water", "Ice"] }
+  },
+  {
+    "id": "12377736c587277a89867f76c46b3dc08587ae26ab66060037839df224b7cd00i0",
+    "meta": { "name": "Gastly", "attributes": ["Ghost", "Posion"] }
+  },
+  {
+    "id": "65ce85fd40187a35ea6d2084c41c36957f1a5713369eacf633cb777212b8f71ai0",
+    "meta": { "name": "Haunter", "attributes": ["Ghost", "Poison"] }
+  },
+  {
+    "id": "a4268b4fee1f5ea9786ad5a12101596a22ad3dd5e4e08cdc2718735c2a08e929i0",
+    "meta": { "name": "Gengar", "attributes": ["Ghost", "Poison"] }
+  },
+  {
+    "id": "f3a6181d01517d0d61cc06c35c950295fe1b8d5eaa308bedeefb3ecb5e797fd9i0",
+    "meta": { "name": "Onix", "attributes": ["Rock", "Ground"] }
+  },
+  {
+    "id": "74f69ff8c9ccd3515d867510d5a0e7284a01a81b93a8a429e41fe4d251590347i0",
+    "meta": { "name": "Drowzee", "attributes": ["Psychic"] }
+  },
+  {
+    "id": "946e081acfbc53dee2d590b4fb0ad3a624f79f1fefa91a9f26eb63b46f8971f7i0",
+    "meta": { "name": "Hypno", "attributes": ["Psychic"] }
+  },
+  {
+    "id": "a89e42dd72db18fac73fa5ad0ecf40b247b0c012427242891c390a7d9c600557i0",
+    "meta": { "name": "Krabby", "attributes": ["Water"] }
+  },
+  {
+    "id": "d5b6f035cf6e56cd798ed7ed720beab045a9dc50d318a9b9746c8606218ee27bi0",
+    "meta": { "name": "Kingler", "attributes": ["Water"] }
+  },
+  {
+    "id": "91524cbf19438e030d9bd47d2c86043633acf7d8551d6a09e19fc2d4f579191ai0",
+    "meta": { "name": "Voltorb", "attributes": "Electric" }
+  },
+  {
+    "id": "82010eb1a58a228988947869f47536c8391f8ebc791ee84415569102883c3b58i0",
+    "meta": { "name": "Electrode", "attributes": "Electric" }
+  },
+  {
+    "id": "10db37c9ffc4c9dded49cb4c150806c09539d528385466c662262f00d4292854i0",
+    "meta": { "name": "Exeggcute", "attributes": ["Grass", "Psychic"] }
+  },
+  {
+    "id": "1da7932ca5315dc982199b1b551540c190f244d9b15598df6c8562d8bb060874i0",
+    "meta": { "name": "Exeggutor", "attributes": ["Grass", "Psychic"] }
+  },
+  {
+    "id": "8b549a6a1c39f7a47ec1a5bf4b16bbe20f5d3a42d9673482cee5638b6ff3b32fi0",
+    "meta": { "name": "Cubone", "attributes": "Ground" }
+  },
+  {
+    "id": "073b2c5358c8935a9940817bf384ddeb82150d0c875dd841f35059b931b976d6i0",
+    "meta": { "name": "Marowak", "attributes": "Ground" }
+  },
+  {
+    "id": "8374ffa5996a4bc37f30036b561854e2b311a82078afa0c22fa56594ad2601eci0",
+    "meta": { "name": "Hitmonlee", "attributes": "Fighting" }
+  },
+  {
+    "id": "cbf863135ee482a1addfbbbffdeebb3f93c585f18bbfa269197cb74d8afef8a3i0",
+    "meta": { "name": "Hitmonchan", "attributes": "Fighting" }
+  },
+  {
+    "id": "4158e1f8c3dd82ae738e008c179cec06d1290e6475e60845c8dbb05db0cb83f8i0",
+    "meta": { "name": "Lickitung", "attributes": "Normal" }
+  },
+  {
+    "id": "28ec69b8688ba29b4e06621f26522eaaa0ee7775acaa15a5fade7e02f34d3af4i0",
+    "meta": { "name": "Koffing", "attributes": "Posion" }
+  },
+  {
+    "id": "e5819484c3ecc288a0c90a597321f580e294a221846903c0575b45429adc5570i0",
+    "meta": { "name": "Weezing", "attributes": "Posion" }
+  },
+  {
+    "id": "e55b64dc4d9d71dfbf5a27a4e6538ee33b2b313e14791fd560144c3e5050ee0ei0",
+    "meta": { "name": "Rhyhorn", "attributes": ["Ground", "Rock"] }
+  },
+  {
+    "id": "5694bc12f975df4a9f4af64f84a6c385f32152b87b603e3eb63302ad08ab8a87i0",
+    "meta": { "name": "Rhydon", "attributes": ["Ground", "Rock"] }
+  },
+  {
+    "id": "74ec698b64ffcebe4d711f84d85060e9b6808ef01ede161fd9d3f4685f66c57ei0",
+    "meta": { "name": "Chansey", "attributes": "Normal" }
+  },
+  {
+    "id": "54a43fe715e928c12e1bdbcdd17057e4c2149d609b3428df65d98c3d8a4c9f14i0",
+    "meta": { "name": "Tangela", "attributes": "Grass" }
+  },
+  {
+    "id": "8b821b475e754a81870f25fca02532f1ddf6e71f0bdc71a891d14ca9bffc798bi0",
+    "meta": { "name": "Kangaskhan", "attributes": "Normal" }
+  },
+  {
+    "id": "274449f802a94ed08793fcdab4e64b33fd67f757625d1ba3591cc2f76bdc1b1fi0",
+    "meta": { "name": "Horsea", "attributes": "Water" }
+  },
+  {
+    "id": "3c43919b8d6e275a29bb975627f11f40a21b8bae9b822c06e4fff683ed0f4057i0",
+    "meta": { "name": "Seadra", "attributes": "Water" }
+  },
+  {
+    "id": "425cc9fb4ab49ce15613c3065f26d52c4c71e79b0edefcbc123f9c2f2db47cd2i0",
+    "meta": { "name": "Goldeen", "attributes": "Water" }
+  },
+  {
+    "id": "1719a6eea35e2ff0794f548d44f7b09f8942a3a0a739c8722a604220dfec5c0bi0",
+    "meta": { "name": "Seaking", "attributes": "Water" }
+  },
+  {
+    "id": "599cc706ed2d00f2d639f2b9f278397858471b24c22483d640d4100b543d5670i0",
+    "meta": { "name": "Staryu", "attributes": "Water" }
+  },
+  {
+    "id": "ddbad4e5127149fada9dd3986063bc3f8fe54e5c30bf0257ceecd5fa3be0ff71i0",
+    "meta": { "name": "Starmie", "attributes": ["Water", "Psychic"] }
+  },
+  {
+    "id": "9f8556a46b0956424f5d5325c0727e12e08bd144796af2bccce83ee5ff6bf1ffi0",
+    "meta": { "name": "Mr. Mime", "attributes": "Psychic" }
+  },
+  {
+    "id": "e14a71b38da2863c8a7d9aff5a1b7de29b81b36e62c74e36ef7595edc66fd51ai0",
+    "meta": { "name": "Scyther", "attributes": ["Bug", "Flying"] }
+  },
+  {
+    "id": "0d8f6ea127e82817200bfb21a680c0bd665c84e76f5872851e9e261581c90825i0",
+    "meta": { "name": "Jynx", "attributes": ["Ice", "Psychic"] }
+  },
+  {
+    "id": "e64d54475b9ce373dc993a77f53a1ada7df6a01e6e69de121a4d2210e229ce0ei0",
+    "meta": { "name": "Electabuzz", "attributes": "Electric" }
+  },
+  {
+    "id": "763241823f0ddbdeec1a5f5a0bc23dba549756746476e0aee15c7cdd937b3006i0",
+    "meta": { "name": "Magmar", "attributes": "Fire" }
+  },
+  {
+    "id": "6545ea14b7ff93a38f7c6d4822d03eecaef6939bee49580d75bfa745ba7f53b1i0",
+    "meta": { "name": "Pinsir", "attributes": "Bug" }
+  },
+  {
+    "id": "492423d96a793a23a7552b70ad6d92a5c09c41dc0eb8399efa90c317e4acb29ei0",
+    "meta": { "name": "Tauros", "attributes": "Normal" }
+  },
+  {
+    "id": "f8ff6df8449228aed81a6db7092b631bb5061a892fe20d3071788c585dec3c8fi0",
+    "meta": { "name": "Magikarp", "attributes": "Water" }
+  },
+  {
+    "id": "71d9709f1f17abe57d328c9b8f08979acea7258a817505ddab7712dcef11fc5bi0",
+    "meta": { "name": "Gyarados", "attributes": ["Water", "Flying"] }
+  },
+  {
+    "id": "a94f31da654ad377da955bdfc13cca1444626c331c8cdb29d317de2b28db04f5i0",
+    "meta": { "name": "Lapras", "attributes": ["Water", "Ice"] }
+  },
+  {
+    "id": "d61709d5b84a5d500aeb97d4ee987a4323a2f2af58dd6730992f040a14d8b86fi0",
+    "meta": { "name": "Ditto", "attributes": "Normal" }
+  },
+  {
+    "id": "f9c9f15072774264ad0974c4c83224e35416d764dbbc00f80e26bf9c5acc031bi0",
+    "image_hash": "ac959365166ecf0d3edaacb58fe65eb1",
+    "meta": { "name": "Eevee", "attributes": "Normal" }
+  },
+  {
+    "id": "79102822e6af7d3a259cbcd073e1c0163a5759fb328dcfede50cd182dfc5727bi0",
+    "meta": { "name": "Vaporeon", "attributes": "Water" }
+  },
+  {
+    "id": "26758e0fb37a275708a7dde0efb8e4b758936d820b4464ba33caa4e23532bc44i0",
+    "meta": { "name": "Jolteon", "attributes": "Electric" }
+  },
+  {
+    "id": "bd7d0035b821c1e3ed6f540901c776b3d02bd972fa837a1068a2584bcb3e96f0i0",
+    "meta": { "name": "Flareon", "attributes": "Fire" }
+  },
+  {
+    "id": "dc6f266c773841c627303760d1ac2209d045c12de479cee095c761a2f04697b9i0",
+    "meta": { "name": "Porygon", "attributes": "Normal" }
+  },
+  {
+    "id": "67946baea39dbd5fb9585bbec1ccf444fdaa1e43110b6c0cc1f8d49201bcddc0i0",
+    "meta": { "name": "Omanyte", "attributes": ["Rock", "Water"] }
+  },
+  {
+    "id": "7107e4510e72be07add6d39120c181e67752b919d5171716d2a72de10996d249i0",
+    "meta": { "name": "Omastar", "attributes": ["Rock", "Water"] }
+  },
+  {
+    "id": "f518c8ec32fb19179cf391e52c2934ed8db040676639fad4f43044769e90d0dei0",
+    "meta": { "name": "Kabuto", "attributes": ["Rock", "Water"] }
+  },
+  {
+    "id": "a47abfd958119e996c5da71855f34e930fbfba0077a34ebd29e1930b184a67a5i0",
+    "meta": { "name": "Kabutops", "attributes": ["Rock", "Water"] }
+  },
+  {
+    "id": "762c38a64db9332278934d6477830ccd07f520c1584d2fb6a9e7f0eff87a3c33i0",
+    "meta": { "name": "Aerodactyl", "attributes": ["Rock", "Flying"] }
+  },
+  {
+    "id": "1e72ee26d28317863503d088088be3cb33c3101aa2482e980c2cc2bc4a41d369i0",
+    "meta": { "name": "Snorlax", "attributes": "Normal" }
+  },
+  {
+    "id": "667e1bf34aa88c64a791c59e07ba3b1ee16e530e7a5929730fe94b505a835e05i0",
+    "meta": { "name": "Articuno", "attributes": ["Electric", "Flying"] }
+  },
+  {
+    "id": "37279c5dd6fdef261f674289109392f3e47816d7e6b48bc6675a885996fabb0ei0",
+    "meta": { "name": "Zapdos", "attributes": ["Electric", "Flying"] }
+  },
+  {
+    "id": "56e3085cd10f6a12b8325b79ba39f7e2661927dbcf4858b69089f29d658e6092i0",
+    "meta": { "name": "Moltres", "attributes": ["Fire", "Flying"] }
+  },
+  {
+    "id": "181f5b378cff356d082fd9f6c43ce38d8569fbb5f0689804a2e2fe81ee859de1i0",
+    "meta": { "name": "Dratini", "attributes": "Dragon" }
+  },
+  {
+    "id": "cb0037d6bcd39cc285e6dc9032989cc9b6d2a18a1c90ee34b7a5e262ea5b1986i0",
+    "meta": { "name": "Dragonair", "attributes": "Dragon" }
+  },
+  {
+    "id": "92ec8d2b1abec1e5206936934530380ffeebba0bf3dfb6daf97446b517012545i0",
+    "meta": { "name": "Dragonite", "attributes": ["Dragon", "Flying"] }
+  },
+  {
+    "id": "beb2514d0c2db19263f4cb29b16ff7958d522c794d30d725b3c699196948d499i0",
+    "meta": { "name": "Mewtwo", "attributes": "Psychic" }
+  },
+  {
+    "id": "ee6ea72947ca590a24451e1dbacb0dc992d1152332c3499306c2518674352757i0",
+    "meta": { "name": "Mew", "attributes": "Psychic" }
+  }
+]
