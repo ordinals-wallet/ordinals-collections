@@ -1,10 +1,10 @@
 {
-  "name" : "frogtoshi " ,                      #碑文名
-  "inscription_icon" : " 4000687bade94e061ba742a5083626e6de9fa0b1ab64dd60be33c33a948725d9i0" ,          # コレクションカバーの碑文ID
-  "supply" : "5 " ,                    # 総供給量
-  "slug" : " frogtoshi " ,                      #ディレクトリ名
-  "description" : " " ,               #コレクションの説明
-  "twitter_link" : " " ,              #公式ツイッター
-  "discord_link" : " " ,              #公式ディスコード
-  "website_link" : " "              #公式ウェブサイト
+  "name": "frogtoshi",
+  "inscription_icon": "4000687bade94e061ba742a5083626e6de9fa0b1ab64dd60be33c33a948725d9i0",
+  "supply": "5",
+  "slug": " frogtoshi ",
+  "description": "",
+  "twitter_link": "",
+  "discord_link": "",
+  "website_link": ""
 }
