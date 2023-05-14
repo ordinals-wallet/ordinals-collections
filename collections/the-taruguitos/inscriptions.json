@@ -275,7 +275,7 @@
         {
           "trait_type": "MOUTH",
           "value": "deep smile",
-          "percent": "16%"
+          "percent": "18%"
         },
         {
           "trait_type": "HEAD GEAR",
@@ -423,7 +423,7 @@
         {
           "trait_type": "MOUTH",
           "value": "deep smile",
-          "percent": "16%"
+          "percent": "18%"
         },
         {
           "trait_type": "HEAD GEAR",
@@ -460,7 +460,7 @@
         {
           "trait_type": "MOUTH",
           "value": "deep smile",
-          "percent": "16%"
+          "percent": "18%"
         },
         {
           "trait_type": "HEAD GEAR",
@@ -941,7 +941,7 @@
         {
           "trait_type": "MOUTH",
           "value": "deep smile",
-          "percent": "16%"
+          "percent": "18%"
         },
         {
           "trait_type": "HEAD GEAR",
@@ -1089,7 +1089,7 @@
         {
           "trait_type": "MOUTH",
           "value": "deep smile",
-          "percent": "16%"
+          "percent": "18%"
         },
         {
           "trait_type": "HEAD GEAR",
@@ -1348,7 +1348,7 @@
         {
           "trait_type": "MOUTH",
           "value": "deep smile",
-          "percent": "16%"
+          "percent": "18%"
         },
         {
           "trait_type": "HEAD GEAR",
@@ -1422,7 +1422,7 @@
         {
           "trait_type": "MOUTH",
           "value": "deep smile",
-          "percent": "16%"
+          "percent": "18%"
         },
         {
           "trait_type": "HEAD GEAR",
@@ -1607,7 +1607,7 @@
         {
           "trait_type": "MOUTH",
           "value": "deep smile",
-          "percent": "16%"
+          "percent": "18%"
         },
         {
           "trait_type": "HEAD GEAR",
@@ -1866,7 +1866,7 @@
         {
           "trait_type": "MOUTH",
           "value": "deep smile",
-          "percent": "16%"
+          "percent": "18%"
         },
         {
           "trait_type": "HEAD GEAR",
@@ -2088,7 +2088,7 @@
         {
           "trait_type": "MOUTH",
           "value": "deep smile",
-          "percent": "16%"
+          "percent": "18%"
         },
         {
           "trait_type": "HEAD GEAR",
@@ -2310,7 +2310,7 @@
         {
           "trait_type": "MOUTH",
           "value": "deep smile",
-          "percent": "16%"
+          "percent": "18%"
         },
         {
           "trait_type": "HEAD GEAR",
@@ -2400,6 +2400,43 @@
           "trait_type": "FEET",
           "value": "green",
           "percent": "16%"
+        }
+      ]
+    }
+  },
+  {
+    "inscription": 2741080,
+    "token": 65,
+    "hash": "b4bf10bd865939a8f986b375f26c2f067a022359fea74f582dbe0f47ad8f29d6i0",
+    "id": "b4bf10bd865939a8f986b375f26c2f067a022359fea74f582dbe0f47ad8f29d6i0",
+    "meta": {
+      "name": "The Taruguitos #65",
+      "description": "Don't let it burn!",
+      "attributes": [
+        {
+          "trait_type": "BODY",
+          "value": "flamenco",
+          "percent": "1.5%"
+        },
+        {
+          "trait_type": "MOUTH",
+          "value": "deep smile",
+          "percent": "18%"
+        },
+        {
+          "trait_type": "HEAD GEAR",
+          "value": "sevillian hat",
+          "percent": "1.5%"
+        },
+        {
+          "trait_type": "EYES",
+          "value": "look right",
+          "percent": "9%"
+        },
+        {
+          "trait_type": "FEET",
+          "value": "black",
+          "percent": "1.5%"
         }
       ]
     }
