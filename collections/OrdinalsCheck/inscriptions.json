@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "meta": {
+      "name": "Red Tick #1",
+      "status": "Common",
+      "rank": 1,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Red",
+          "status": "Common"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "meta": {
+      "name": "Purple Tick #1",
+      "status": "Common",
+      "rank": 1,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Purple",
+          "status": "Common"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "meta": {
+      "name": "Pink Tick #1",
+      "status": "Common",
+      "rank": 1,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pink",
+          "status": "Common"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "meta": {
+      "name": "BTC Tick #1",
+      "status": "Legendary",
+      "rank": 1,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "BTC",
+          "status": "Common"
+        }
+      ]
+    }
+  }
+]
