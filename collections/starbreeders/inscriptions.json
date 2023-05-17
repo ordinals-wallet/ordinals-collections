@@ -7,7 +7,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "pulsar 3C 58"
         },
         {
           "trait_type": "star type",
@@ -15,7 +15,7 @@
         },
         {
           "trait_type": "background",
-          "value": "spaceship 1"
+          "value": "space ship 1"
         },
         {
           "trait_type": "object",
@@ -52,7 +52,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "CARMA-7"
         },
         {
           "trait_type": "star type",
@@ -97,7 +97,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "72 Herculis"
         },
         {
           "trait_type": "star type",
@@ -105,7 +105,7 @@
         },
         {
           "trait_type": "background",
-          "value": "spaceship 2"
+          "value": "space ship 2"
         },
         {
           "trait_type": "object",
@@ -142,7 +142,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Bellatrix"
         },
         {
           "trait_type": "star type",
@@ -187,7 +187,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Faint II-P"
         },
         {
           "trait_type": "star type",
@@ -232,7 +232,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Messier 51"
         },
         {
           "trait_type": "star type",
@@ -277,7 +277,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Sirius B"
         },
         {
           "trait_type": "star type",
@@ -322,7 +322,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Stephenson 2 DFK 1"
         },
         {
           "trait_type": "star type",
@@ -367,7 +367,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "AK Scorpii"
         },
         {
           "trait_type": "star type",
@@ -408,43 +408,43 @@
     "id": "dcbbbc62d5ce1d2637c247767fea41b44e93a1e6f49f573ea6b6a4bd5d464a45i0",
     "meta": {
       "name": "STARBREEDER #010",
-      "status": "red supergiant",
+      "status": "protostar",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "V830 Tauri"
         },
         {
           "trait_type": "star type",
-          "value": "red supergiant 1"
+          "value": "protostar"
         },
         {
           "trait_type": "background",
-          "value": "surface 1"
+          "value": "sky 3"
         },
         {
           "trait_type": "clothing",
-          "value": "hoodie green"
+          "value": "hoodie red"
         },
         {
           "trait_type": "object",
-          "value": ""
+          "value": "planet 1"
         },
         {
           "trait_type": "face",
-          "value": "alien 1"
+          "value": "male asian"
         },
         {
           "trait_type": "fuser",
-          "value": "coiled mother of pearl"
+          "value": "coiled yellow"
         },
         {
           "trait_type": "hands",
-          "value": "robot"
+          "value": "asian"
         },
         {
           "trait_type": "eyes",
-          "value": "alien black"
+          "value": "yellow"
         }
       ]
     }
@@ -457,7 +457,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "TW Hydrae"
         },
         {
           "trait_type": "star type",
@@ -498,15 +498,105 @@
     "id": "d811dbf4c5e196bf92fd4b814fbef7e09dd6b895b65a57083d08bdf5f94eee87i0",
     "meta": {
       "name": "STARBREEDER #012",
+      "status": "protostar",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "PDS 70"
+        },
+        {
+          "trait_type": "star type",
+          "value": "protostar"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 4"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape orange"
+        },
+        {
+          "trait_type": "face",
+          "value": ""
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "alien 1"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "86391fd152e7a835e3a049769968d94a43eca8d7c6454e0c191e8b244cc10095i0",
+    "meta": {
+      "name": "STARBREEDER #013",
+      "status": "yellow dwarf",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "Gliese 161"
+        },
+        {
+          "trait_type": "star type",
+          "value": "yellow dwarf"
+        },
+        {
+          "trait_type": "background",
+          "value": "sky 3"
+        },
+        {
+          "trait_type": "object",
+          "value": "earth 1"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
+          "trait_type": "face",
+          "value": "female black"
+        },
+        {
+          "trait_type": "fuser",
+          "value": ""
+        },
+        {
+          "trait_type": "hands",
+          "value": "black"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "robot 1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0fec76101fa3025ca7f4591bdecb46cd45c2601401b940cf3a56d8cbad248ebci0",
+    "meta": {
+      "name": "STARBREEDER #014",
       "status": "red supergiant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "WOH G64"
         },
         {
           "trait_type": "star type",
-          "value": "red supergiant 1"
+          "value": "red supergiant"
         },
         {
           "trait_type": "background",
@@ -518,11 +608,11 @@
         },
         {
           "trait_type": "clothing",
-          "value": "hoodie cape ocher"
+          "value": "long cape ocher"
         },
         {
           "trait_type": "face",
-          "value": "angular dark"
+          "value": "female black"
         },
         {
           "trait_type": "fuser",
@@ -540,149 +630,14 @@
     }
   },
   {
-    "id": "86391fd152e7a835e3a049769968d94a43eca8d7c6454e0c191e8b244cc10095i0",
-    "meta": {
-      "name": "STARBREEDER #013",
-      "status": "protostar",
-      "attributes": [
-        {
-          "trait_type": "star",
-          "value": ""
-        },
-        {
-          "trait_type": "star type",
-          "value": "protostar 1"
-        },
-        {
-          "trait_type": "background",
-          "value": "sky 4"
-        },
-        {
-          "trait_type": "object",
-          "value": ""
-        },
-        {
-          "trait_type": "clothing",
-          "value": "hoodie cap orange"
-        },
-        {
-          "trait_type": "face",
-          "value": ""
-        },
-        {
-          "trait_type": "fuser",
-          "value": ""
-        },
-        {
-          "trait_type": "hands",
-          "value": "alien down"
-        },
-        {
-          "trait_type": "eyes",
-          "value": "red"
-        }
-      ]
-    }
-  },
-  {
-    "id": "0fec76101fa3025ca7f4591bdecb46cd45c2601401b940cf3a56d8cbad248ebci0",
-    "meta": {
-      "name": "STARBREEDER #014",
-      "status": "protostar",
-      "attributes": [
-        {
-          "trait_type": "star",
-          "value": ""
-        },
-        {
-          "trait_type": "star type",
-          "value": "protostar 1"
-        },
-        {
-          "trait_type": "background",
-          "value": "sky 1"
-        },
-        {
-          "trait_type": "object",
-          "value": ""
-        },
-        {
-          "trait_type": "clothing",
-          "value": "hoodie green"
-        },
-        {
-          "trait_type": "face",
-          "value": "angular light"
-        },
-        {
-          "trait_type": "fuser",
-          "value": ""
-        },
-        {
-          "trait_type": "hands",
-          "value": "light"
-        },
-        {
-          "trait_type": "eyes",
-          "value": "green"
-        }
-      ]
-    }
-  },
-  {
     "id": "bcf47db6d604c5d3aa016360b1a8bf8c025548f8809a8848ff8e2946c8e12dc7i0",
     "meta": {
       "name": "STARBREEDER #015",
-      "status": "yellow dwarf",
-      "attributes": [
-        {
-          "trait_type": "star",
-          "value": ""
-        },
-        {
-          "trait_type": "star type",
-          "value": "yellow dwarf 1"
-        },
-        {
-          "trait_type": "background",
-          "value": "sky 3"
-        },
-        {
-          "trait_type": "object",
-          "value": "earth 1"
-        },
-        {
-          "trait_type": "clothing",
-          "value": "hoodie blue"
-        },
-        {
-          "trait_type": "face",
-          "value": "angular dark"
-        },
-        {
-          "trait_type": "fuser",
-          "value": ""
-        },
-        {
-          "trait_type": "hands",
-          "value": "dark down"
-        },
-        {
-          "trait_type": "eyes",
-          "value": "alien black"
-        }
-      ]
-    }
-  },
-  {
-    "id": "5e88727707e15959b2cbbe75693f9315d1076251936f5ed2609b74e66232aaf5i0",
-    "meta": {
-      "name": "STARBREEDER #016",
       "status": "white dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Van Maanen 2"
         },
         {
           "trait_type": "star type",
@@ -702,11 +657,11 @@
         },
         {
           "trait_type": "face",
-          "value": "alien 1"
+          "value": "robot 1"
         },
         {
           "trait_type": "fuser",
-          "value": "coiled mother of pearl"
+          "value": "coiled white"
         },
         {
           "trait_type": "hands",
@@ -714,7 +669,52 @@
         },
         {
           "trait_type": "eyes",
-          "value": "alien black"
+          "value": "robot 1"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5e88727707e15959b2cbbe75693f9315d1076251936f5ed2609b74e66232aaf5i0",
+    "meta": {
+      "name": "STARBREEDER #016",
+      "status": "red supergiant",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "NML Cygni"
+        },
+        {
+          "trait_type": "star type",
+          "value": "red supergiant 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "surface 1"
+        },
+        {
+          "trait_type": "object",
+          "value": ""
+        },
+        {
+          "trait_type": "clothing",
+          "value": "green hoodie"
+        },
+        {
+          "trait_type": "face",
+          "value": "robot 1"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled white"
+        },
+        {
+          "trait_type": "hands",
+          "value": "robot"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "robot 1"
         }
       ]
     }
@@ -727,11 +727,11 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Eta Cassiopeiae"
         },
         {
           "trait_type": "star type",
-          "value": "yellow dwarf 1"
+          "value": "yellow dwarf"
         },
         {
           "trait_type": "background",
@@ -747,7 +747,7 @@
         },
         {
           "trait_type": "face",
-          "value": "robot 1"
+          "value": "alien 1"
         },
         {
           "trait_type": "fuser",
@@ -759,7 +759,7 @@
         },
         {
           "trait_type": "eyes",
-          "value": "alien black"
+          "value": "robot 1"
         }
       ]
     }
@@ -768,43 +768,43 @@
     "id": "be739ee2db950aa5e3cc6a443ff3834cfe39df8d86e878eb9913ffd197eb0215i0",
     "meta": {
       "name": "STARBREEDER #018",
-      "status": "blue giant",
+      "status": "protostar",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "1RXS J160929.1-210524"
         },
         {
           "trait_type": "star type",
-          "value": "blue giant 1"
+          "value": "protostar 1"
         },
         {
           "trait_type": "background",
-          "value": "surface 2"
+          "value": "sky 4"
         },
         {
           "trait_type": "object",
-          "value": "satellite"
-        },
-        {
-          "trait_type": "clothing",
-          "value": "cape and hat white"
-        },
-        {
-          "trait_type": "face",
-          "value": "angular pale"
-        },
-        {
-          "trait_type": "fuser",
           "value": ""
         },
         {
+          "trait_type": "clothing",
+          "value": "hoodie orange"
+        },
+        {
+          "trait_type": "face",
+          "value": "male asian"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled yellow"
+        },
+        {
           "trait_type": "hands",
-          "value": "pale down"
+          "value": "asian"
         },
         {
           "trait_type": "eyes",
-          "value": "yellow"
+          "value": "robot 1"
         }
       ]
     }
@@ -813,11 +813,56 @@
     "id": "d452e5056f083c1e9bc409d18ee5e546f350a2e8a74e584d6be0eaf1e7cdbe6di0",
     "meta": {
       "name": "STARBREEDER #019",
+      "status": "supernova",
+      "attributes": [
+        {
+          "trait_type": "star",
+          "value": "SN 1895B"
+        },
+        {
+          "trait_type": "star type",
+          "value": "supernova 1"
+        },
+        {
+          "trait_type": "background",
+          "value": "night sky 5"
+        },
+        {
+          "trait_type": "object",
+          "value": "planet 3"
+        },
+        {
+          "trait_type": "clothing",
+          "value": "long cape red"
+        },
+        {
+          "trait_type": "face",
+          "value": "male white"
+        },
+        {
+          "trait_type": "fuser",
+          "value": "coiled red"
+        },
+        {
+          "trait_type": "hands",
+          "value": "white"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0e9c3e7a13ec9f04d59b4995961330ad37057bba856fb26036cec6d77c1bc37ei0",
+    "meta": {
+      "name": "STARBREEDER #020",
       "status": "red supergiant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "119 Tauri"
         },
         {
           "trait_type": "star type",
@@ -837,7 +882,7 @@
         },
         {
           "trait_type": "face",
-          "value": "angular dark"
+          "value": "female black"
         },
         {
           "trait_type": "fuser",
@@ -845,7 +890,7 @@
         },
         {
           "trait_type": "hands",
-          "value": "dark down"
+          "value": "black down"
         },
         {
           "trait_type": "eyes",
@@ -855,67 +900,22 @@
     }
   },
   {
-    "id": "0e9c3e7a13ec9f04d59b4995961330ad37057bba856fb26036cec6d77c1bc37ei0",
-    "meta": {
-      "name": "STARBREEDER #020",
-      "status": "supernova",
-      "attributes": [
-        {
-          "trait_type": "star",
-          "value": ""
-        },
-        {
-          "trait_type": "star type",
-          "value": "supernova 1"
-        },
-        {
-          "trait_type": "background",
-          "value": "night sky 5"
-        },
-        {
-          "trait_type": "object",
-          "value": "planet 2"
-        },
-        {
-          "trait_type": "clothing",
-          "value": "long cape red"
-        },
-        {
-          "trait_type": "face",
-          "value": "angular light"
-        },
-        {
-          "trait_type": "fuser",
-          "value": "coiled red"
-        },
-        {
-          "trait_type": "hands",
-          "value": "light"
-        },
-        {
-          "trait_type": "eyes",
-          "value": "red"
-        }
-      ]
-    }
-  },
-  {
     "id": "4dd18790cc06bd3acf949d0a76b0cfc3a7cce7f6ccf56384136f33ccbabf0683i0",
     "meta": {
       "name": "STARBREEDER #021",
-      "status": "protostar",
+      "status": "blue giant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Mintaka"
         },
         {
           "trait_type": "star type",
-          "value": "protostar 1"
+          "value": "blue giant 1"
         },
         {
           "trait_type": "background",
-          "value": "sky 4"
+          "value": "surface 2"
         },
         {
           "trait_type": "object",
@@ -923,23 +923,23 @@
         },
         {
           "trait_type": "clothing",
-          "value": "hoodie orange"
+          "value": "cape and hat white"
         },
         {
           "trait_type": "face",
-          "value": "angular pale"
+          "value": "male asian"
         },
         {
           "trait_type": "fuser",
-          "value": "coiled yellow"
+          "value": ""
         },
         {
           "trait_type": "hands",
-          "value": "pale"
+          "value": "asian"
         },
         {
           "trait_type": "eyes",
-          "value": "purple"
+          "value": "blue"
         }
       ]
     }
@@ -952,7 +952,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Alpha Mensae"
         },
         {
           "trait_type": "star type",
@@ -997,7 +997,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "51 Ophiuchi"
         },
         {
           "trait_type": "star type",
@@ -1009,7 +1009,7 @@
         },
         {
           "trait_type": "object",
-          "value": "straight blue"
+          "value": ""
         },
         {
           "trait_type": "clothing",
@@ -1042,7 +1042,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Lambda Velorum"
         },
         {
           "trait_type": "star type",
@@ -1087,7 +1087,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Naos"
         },
         {
           "trait_type": "star type",
@@ -1132,7 +1132,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "AB Aurigae"
         },
         {
           "trait_type": "star type",
@@ -1177,7 +1177,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "S Persei"
         },
         {
           "trait_type": "star type",
@@ -1222,7 +1222,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "18 Scorpii"
         },
         {
           "trait_type": "star type",
@@ -1267,7 +1267,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Sirius B"
         },
         {
           "trait_type": "star type",
@@ -1312,7 +1312,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "HBC 1"
         },
         {
           "trait_type": "star type",
@@ -1357,7 +1357,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Sagittarius A*"
         },
         {
           "trait_type": "star type",
@@ -1402,7 +1402,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "W33A"
         },
         {
           "trait_type": "star type",
@@ -1447,7 +1447,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "HD 4747"
         },
         {
           "trait_type": "star type",
@@ -1492,7 +1492,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Cygnus OB2-12"
         },
         {
           "trait_type": "star type",
@@ -1537,7 +1537,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "SN 1181"
         },
         {
           "trait_type": "star type",
@@ -1582,7 +1582,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Stephenson 2 DFK 1"
         },
         {
           "trait_type": "star type",
@@ -1627,7 +1627,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "AR Scorpii A"
         },
         {
           "trait_type": "star type",
@@ -1672,7 +1672,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "GJ 440"
         },
         {
           "trait_type": "star type",
@@ -1717,7 +1717,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "DV Aquarii"
         },
         {
           "trait_type": "star type",
@@ -1725,7 +1725,7 @@
         },
         {
           "trait_type": "background",
-          "value": "sale ship 1"
+          "value": "space ship 1"
         },
         {
           "trait_type": "object",
@@ -1762,7 +1762,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Plasketts star"
         },
         {
           "trait_type": "star type",
@@ -1807,7 +1807,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "SN 2008D"
         },
         {
           "trait_type": "star type",
@@ -1852,7 +1852,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Hercules X-1"
         },
         {
           "trait_type": "star type",
@@ -1897,7 +1897,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Antares A"
         },
         {
           "trait_type": "star type",
@@ -1942,7 +1942,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "V1647 Orionis"
         },
         {
           "trait_type": "star type",
@@ -1987,7 +1987,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "LDS 275"
         },
         {
           "trait_type": "star type",
@@ -2032,7 +2032,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "61 Ursae Majoris"
         },
         {
           "trait_type": "star type",
@@ -2077,7 +2077,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "HOPS 383"
         },
         {
           "trait_type": "star type",
@@ -2122,7 +2122,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "SN 1006"
         },
         {
           "trait_type": "star type",
@@ -2167,7 +2167,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "\u00cf\u201e Canis Majoris"
         },
         {
           "trait_type": "star type",
@@ -2212,7 +2212,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "KR Muscae"
         },
         {
           "trait_type": "star type",
@@ -2257,7 +2257,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Iota Persei"
         },
         {
           "trait_type": "star type",
@@ -2302,7 +2302,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "HD 106906 A"
         },
         {
           "trait_type": "star type",
@@ -2347,7 +2347,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Betelgeuse"
         },
         {
           "trait_type": "star type",
@@ -2392,7 +2392,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "WD B1620\u00e2\u02c6\u201926"
         },
         {
           "trait_type": "star type",
@@ -2437,7 +2437,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Epsilon Pegasi"
         },
         {
           "trait_type": "star type",
@@ -2482,7 +2482,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "T Tauri N"
         },
         {
           "trait_type": "star type",
@@ -2527,7 +2527,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "47 Ursae Majoris"
         },
         {
           "trait_type": "star type",
@@ -2535,7 +2535,7 @@
         },
         {
           "trait_type": "background",
-          "value": ""
+          "value": "surface 7"
         },
         {
           "trait_type": "object",
@@ -2572,7 +2572,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "UW CMa"
         },
         {
           "trait_type": "star type",
@@ -2617,7 +2617,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Nu\u00c2\u00b2 Lupi"
         },
         {
           "trait_type": "star type",
@@ -2662,7 +2662,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "DH Tauri"
         },
         {
           "trait_type": "star type",
@@ -2707,7 +2707,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "PDS 110"
         },
         {
           "trait_type": "star type",
@@ -2752,7 +2752,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "WD 1145+017"
         },
         {
           "trait_type": "star type",
@@ -2764,7 +2764,7 @@
         },
         {
           "trait_type": "object",
-          "value": "laser blue"
+          "value": ""
         },
         {
           "trait_type": "clothing",
@@ -2784,7 +2784,7 @@
         },
         {
           "trait_type": "eyes",
-          "value": ""
+          "value": "laser blue"
         }
       ]
     }
@@ -2797,7 +2797,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Rigil Kentaurus"
         },
         {
           "trait_type": "star type",
@@ -2842,7 +2842,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "\u00ce\u00b6 Scorpii"
         },
         {
           "trait_type": "star type",
@@ -2887,7 +2887,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Psi1 Aurigae"
         },
         {
           "trait_type": "star type",
@@ -2932,7 +2932,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "\u00ce\u00bc Columbae"
         },
         {
           "trait_type": "star type",
@@ -2977,7 +2977,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Tau Ceti"
         },
         {
           "trait_type": "star type",
@@ -3022,7 +3022,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "ASASSN-15lh"
         },
         {
           "trait_type": "star type",
@@ -3067,7 +3067,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-1"
         },
         {
           "trait_type": "star type",
@@ -3112,7 +3112,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Cygnus X-1"
         },
         {
           "trait_type": "star type",
@@ -3157,7 +3157,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Mu Cephei"
         },
         {
           "trait_type": "star type",
@@ -3202,7 +3202,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Sirius"
         },
         {
           "trait_type": "star type",
@@ -3247,7 +3247,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Alsafi"
         },
         {
           "trait_type": "star type",
@@ -3292,7 +3292,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-2"
         },
         {
           "trait_type": "star type",
@@ -3337,7 +3337,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "10 Lacertae"
         },
         {
           "trait_type": "star type",
@@ -3382,7 +3382,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "UY Scuti"
         },
         {
           "trait_type": "star type",
@@ -3422,12 +3422,12 @@
   {
     "id": "7b6d4ca1a278a44731ebf91443650dc1b225ebc7b214cada9bf5d106afd43ab4i0",
     "meta": {
-      "name": "STARBREEDER #077",
+      "name": "STARBREEDER #080",
       "status": "protostar",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-3"
         },
         {
           "trait_type": "star type",
@@ -3472,7 +3472,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-4"
         },
         {
           "trait_type": "star type",
@@ -3512,12 +3512,12 @@
   {
     "id": "f69f45f8184e392174d95a3211589a5aea744a596d2d1270d0a4adc1f5945557i0",
     "meta": {
-      "name": "STARBREEDER #079",
+      "name": "STARBREEDER #084",
       "status": "yellow dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "1 Geminorum"
         },
         {
           "trait_type": "star type",
@@ -3557,12 +3557,12 @@
   {
     "id": "58631bf0bafc90b09d33368d4765709affb104571a2e55360fb3cd4b72d16bd5i0",
     "meta": {
-      "name": "STARBREEDER #080",
+      "name": "STARBREEDER #083",
       "status": "white dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "WD 0343+247 SDSS J110217.48+411315.4"
         },
         {
           "trait_type": "star type",
@@ -3602,12 +3602,12 @@
   {
     "id": "490421932173633c5c79b7b2a3ebf463ac37995aeddef23800a444d41f71e6d8i0",
     "meta": {
-      "name": "STARBREEDER #081",
+      "name": "STARBREEDER #097",
       "status": "supernova",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "SN 1054"
         },
         {
           "trait_type": "star type",
@@ -3652,7 +3652,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-5"
         },
         {
           "trait_type": "star type",
@@ -3692,12 +3692,12 @@
   {
     "id": "8ae2737b670f6436892a0fede176aa10ece42c7c571747b699e771ac8976f951i0",
     "meta": {
-      "name": "STARBREEDER #083",
+      "name": "STARBREEDER #091",
       "status": "red supergiant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "VY Canis Majoris"
         },
         {
           "trait_type": "star type",
@@ -3737,12 +3737,12 @@
   {
     "id": "a88c0479aa651fede2d7226290d7ca6cfb9bf67157df31ea5f1b1f3682fe38ddi0",
     "meta": {
-      "name": "STARBREEDER #084",
+      "name": "STARBREEDER #128",
       "status": "yellow dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "9 Ceti"
         },
         {
           "trait_type": "star type",
@@ -3782,12 +3782,12 @@
   {
     "id": "82d2d6c2eaf98e8d60be3aef3cef0260a8dcb9b3d1bd7d15890bd2f396d030a9i0",
     "meta": {
-      "name": "STARBREEDER #085",
+      "name": "STARBREEDER #122",
       "status": "protostar",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-6"
         },
         {
           "trait_type": "star type",
@@ -3827,12 +3827,12 @@
   {
     "id": "bb717d6a667d114ab09f267c33ae61f8f435e85fe8c9d9df230fb402c67de446i0",
     "meta": {
-      "name": "STARBREEDER #086",
+      "name": "STARBREEDER #112",
       "status": "red supergiant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Westerlund 1-26"
         },
         {
           "trait_type": "star type",
@@ -3872,12 +3872,12 @@
   {
     "id": "ffadac42484ee813fe2fab6f62a0eeda69ffd8a8ba3f9d80b33cef1018b13ae2i0",
     "meta": {
-      "name": "STARBREEDER #087",
+      "name": "STARBREEDER #129",
       "status": "blue giant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Theta 1 Orionis"
         },
         {
           "trait_type": "star type",
@@ -3917,12 +3917,12 @@
   {
     "id": "fc6f87a22043cfe7512e2fbf6fb5d335e13aa622c0682d3bfc43512f497794d5i0",
     "meta": {
-      "name": "STARBREEDER #088",
+      "name": "STARBREEDER #127",
       "status": "yellow dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "9 Puppis"
         },
         {
           "trait_type": "star type",
@@ -3962,12 +3962,12 @@
   {
     "id": "7585369653e3e3697738610d1049324fd808c40443277041eaae1088c99a6b50i0",
     "meta": {
-      "name": "STARBREEDER #089",
+      "name": "STARBREEDER #114",
       "status": "protostar",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-7"
         },
         {
           "trait_type": "star type",
@@ -4007,12 +4007,12 @@
   {
     "id": "18d5e86add6378d4553933c99fc3d279a2667bfa00b83e20ed3077e79a4987e9i0",
     "meta": {
-      "name": "STARBREEDER #090",
+      "name": "STARBREEDER #102",
       "status": "star yellow dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "10 Canum Venaticorum"
         },
         {
           "trait_type": "star type",
@@ -4052,12 +4052,12 @@
   {
     "id": "e46b66ac04ec9f9a03aeb8bc633186310a2701fbdde0746e57cee824ff4ca2c3i0",
     "meta": {
-      "name": "STARBREEDER #091",
+      "name": "STARBREEDER #125",
       "status": "blue giant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Meissa"
         },
         {
           "trait_type": "star type",
@@ -4097,12 +4097,12 @@
   {
     "id": "da71a79efbca11694fbe39579f3aebfd1f8d4ed23bb27173531e08fcef769352i0",
     "meta": {
-      "name": "STARBREEDER #092",
+      "name": "STARBREEDER #115",
       "status": "white dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "SDSS J0003+0718"
         },
         {
           "trait_type": "star type",
@@ -4142,12 +4142,12 @@
   {
     "id": "b3cfc6ccee348ea4d99c12f5106586e3fd5e4bc586e765bb67f5c22cc1a0df7fi0",
     "meta": {
-      "name": "STARBREEDER #093",
+      "name": "STARBREEDER #119",
       "status": "red supergiant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "V849 Arae"
         },
         {
           "trait_type": "star type",
@@ -4187,12 +4187,12 @@
   {
     "id": "55be907648feaecf35b7800f598141d52e221dcf2e01187d6ac2c61200ab5108i0",
     "meta": {
-      "name": "STARBREEDER #094",
+      "name": "STARBREEDER #100",
       "status": "protostar",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-8"
         },
         {
           "trait_type": "star type",
@@ -4232,12 +4232,12 @@
   {
     "id": "17902531fad7cce2566d68bcaaa5ce2967d38d80a78d09a05b9fc51c31e5031ei0",
     "meta": {
-      "name": "STARBREEDER #095",
+      "name": "STARBREEDER #106",
       "status": "yellow dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "11 Aquarii"
         },
         {
           "trait_type": "star type",
@@ -4277,12 +4277,12 @@
   {
     "id": "2d602223878af32bd568dd6755dddb286b8fc544de16282cff5d3e2c38dbe0bci0",
     "meta": {
-      "name": "STARBREEDER #096",
+      "name": "STARBREEDER #124",
       "status": "protostar",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-9"
         },
         {
           "trait_type": "star type",
@@ -4322,12 +4322,12 @@
   {
     "id": "1909f884e7114efdcc61f0a72863d0664ec820193213f104942bd123664c01c5i0",
     "meta": {
-      "name": "STARBREEDER #097",
+      "name": "STARBREEDER #126",
       "status": "protostar",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-10"
         },
         {
           "trait_type": "star type",
@@ -4367,12 +4367,12 @@
   {
     "id": "9ff1786c96f67170b55f701801e45dba7e390efc5c7a6561115dce7ec231d645i0",
     "meta": {
-      "name": "STARBREEDER #098",
-      "status": "neutro star",
+      "name": "STARBREEDER #111",
+      "status": "neutron star",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Centaurus-X3"
         },
         {
           "trait_type": "star type",
@@ -4412,12 +4412,12 @@
   {
     "id": "51e3f07047220e0efa9879b45bad435ab3a8f148458fefc92a7349094b050d4ei0",
     "meta": {
-      "name": "STARBREEDER #099",
+      "name": "STARBREEDER #113",
       "status": "supernova",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "SN 1572"
         },
         {
           "trait_type": "star type",
@@ -4457,12 +4457,12 @@
   {
     "id": "3e77daaae9ef612e035347222ae2ee72fcced5cc847da573625385e126d5165bi0",
     "meta": {
-      "name": "STARBREEDER #100",
+      "name": "STARBREEDER #116",
       "status": "blue giant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Rigel"
         },
         {
           "trait_type": "star type",
@@ -4502,12 +4502,12 @@
   {
     "id": "6909cb9074692dcbfefa1b61651773620493dd8860be7c94dcb9b431d43d8c26i0",
     "meta": {
-      "name": "STARBREEDER #101",
+      "name": "STARBREEDER #108",
       "status": "yellow dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "11 Leonis Minoris"
         },
         {
           "trait_type": "star type",
@@ -4547,12 +4547,12 @@
   {
     "id": "f867c06f4dab652a55f3b5c1481c7a41391d2b45ac16da5b72f0a03feeded120i0",
     "meta": {
-      "name": "STARBREEDER #102",
+      "name": "STARBREEDER #107",
       "status": "red supergiant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "V408 Aurigae"
         },
         {
           "trait_type": "star type",
@@ -4572,7 +4572,7 @@
         },
         {
           "trait_type": "face",
-          "value": "aangular dark"
+          "value": "angular dark"
         },
         {
           "trait_type": "fuser",
@@ -4592,12 +4592,12 @@
   {
     "id": "6ddee91282141f2aaddf298c233ddd73ef13d3ea2f4e7bbe2d83f979f325b06bi0",
     "meta": {
-      "name": "STARBREEDER #103",
+      "name": "STARBREEDER #118",
       "status": "protostar",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-11"
         },
         {
           "trait_type": "star type",
@@ -4637,12 +4637,12 @@
   {
     "id": "9e125bef290a6e4e3e6ea0178c1a0a8b9c3a42d834faa82b809935809e66c626i0",
     "meta": {
-      "name": "STARBREEDER #104",
+      "name": "STARBREEDER #109",
       "status": "yellow dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "51 Pegasi"
         },
         {
           "trait_type": "star type",
@@ -4682,12 +4682,12 @@
   {
     "id": "ef70547e4d2899eb807ecb82c1ad8c6a5cbb102201c611cd6b623f3b8167fc31i0",
     "meta": {
-      "name": "STARBREEDER #105",
+      "name": "STARBREEDER #110",
       "status": "red supergiant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "V362 Aurigae"
         },
         {
           "trait_type": "star type",
@@ -4727,12 +4727,12 @@
   {
     "id": "42e7727e3db1521b90838aac00fa27a8093b46c2ff9e54ae49a500664336b917i0",
     "meta": {
-      "name": "STARBREEDER #106",
+      "name": "STARBREEDER #105",
       "status": "blue giant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "HT Sagittae"
         },
         {
           "trait_type": "star type",
@@ -4772,12 +4772,12 @@
   {
     "id": "b36a7b0894a0fed7c70e66680ad329920a208d35ccd7765d6b0b040bdfa3f9e2i0",
     "meta": {
-      "name": "STARBREEDER #107",
+      "name": "STARBREEDER #130",
       "status": "white dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "RX J0439.8\u00e2\u02c6\u20196809"
         },
         {
           "trait_type": "star type",
@@ -4817,12 +4817,12 @@
   {
     "id": "0ed33caa60db00e346db6a5f767db57a4b88b8afe810ec59faa544974506888bi0",
     "meta": {
-      "name": "STARBREEDER #108",
+      "name": "STARBREEDER #120",
       "status": "protostar",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-12"
         },
         {
           "trait_type": "star type",
@@ -4862,12 +4862,12 @@
   {
     "id": "65c9393f6fab865282d377e878706d73a990c04f691f9f62b9151850a9c29bfbi0",
     "meta": {
-      "name": "STARBREEDER #109",
+      "name": "STARBREEDER #131",
       "status": "red supergiant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "NO Aurigae"
         },
         {
           "trait_type": "star type",
@@ -4907,12 +4907,12 @@
   {
     "id": "f60e1d6bfcd67dc9f6da6dece6a081d4dd3aea568628507d868166d453ca1abbi0",
     "meta": {
-      "name": "STARBREEDER #110",
+      "name": "STARBREEDER #123",
       "status": "blue giant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "V4030 Sagittarii"
         },
         {
           "trait_type": "star type",
@@ -4952,12 +4952,12 @@
   {
     "id": "15dc6ecb53bcc0c85229dc75f63778b8285ea22cea9de3d2c99bd57be41deb60i0",
     "meta": {
-      "name": "STARBREEDER #111",
+      "name": "STARBREEDER #101",
       "status": "yellow dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "13 Ceti"
         },
         {
           "trait_type": "star type",
@@ -4997,12 +4997,12 @@
   {
     "id": "2e4771adcd5aa29ec5a85d3f682d377fd089c7a37c9672d7538ec91e8848475bi0",
     "meta": {
-      "name": "STARBREEDER #112",
+      "name": "STARBREEDER #117",
       "status": "red supergiant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "RT Carinae"
         },
         {
           "trait_type": "star type",
@@ -5042,12 +5042,12 @@
   {
     "id": "efb63b317d316420b20a7ca5e12931f710bdb4f4d1e7d28cdbb023a4c308b7e3i0",
     "meta": {
-      "name": "STARBREEDER #113",
+      "name": "STARBREEDER #103",
       "status": "white dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Z Andromedae B"
         },
         {
           "trait_type": "star type",
@@ -5087,12 +5087,12 @@
   {
     "id": "3b10c103f1ccbecb8fda26ca1166b0d3096bd8c64b5511e60974f4702bee793di0",
     "meta": {
-      "name": "STARBREEDER #114",
+      "name": "STARBREEDER #104",
       "status": "protostar",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-13"
         },
         {
           "trait_type": "star type",
@@ -5132,12 +5132,12 @@
   {
     "id": "935edd1b237f5ce3336dce4b63a01c56df85c5e3dca652b4624d6da581c6718fi0",
     "meta": {
-      "name": "STARBREEDER #115",
+      "name": "STARBREEDER #121",
       "status": "black hole",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Messier 87"
         },
         {
           "trait_type": "star type",
@@ -5157,7 +5157,7 @@
         },
         {
           "trait_type": "face",
-          "value": ""
+          "value": "red"
         },
         {
           "trait_type": "fuser",
@@ -5177,12 +5177,12 @@
   {
     "id": "739d7c9118b6e64f883745c6284f89cf2af352d2c0d85756b3056a9c48b19c84i0",
     "meta": {
-      "name": "STARBREEDER #116",
+      "name": "STARBREEDER #077",
       "status": "blue giant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Theta 1 Orionis C"
         },
         {
           "trait_type": "star type",
@@ -5198,7 +5198,7 @@
         },
         {
           "trait_type": "clothing",
-          "value": "hoodie black blue hoodie purple blue"
+          "value": "hoodie black blue"
         },
         {
           "trait_type": "face",
@@ -5222,12 +5222,12 @@
   {
     "id": "726b8cd2c8b1f14cd1c491d95cbb8028678142e9d2611ce035d1ad6c1397ec72i0",
     "meta": {
-      "name": "STARBREEDER #117",
+      "name": "STARBREEDER #094",
       "status": "yellow dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "13 Trianguli"
         },
         {
           "trait_type": "star type",
@@ -5267,12 +5267,12 @@
   {
     "id": "bdb0c20c350f921d7e5ae5061ac46cad082d1dc7afb4db5557617d6f6f09bd27i0",
     "meta": {
-      "name": "STARBREEDER #118",
+      "name": "STARBREEDER #086",
       "status": "protostar",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-14"
         },
         {
           "trait_type": "star type",
@@ -5312,12 +5312,12 @@
   {
     "id": "dbf84c7f82f0f659d83b1b0c38aa97152f8ae3db0b32988081cf7972a84597bci0",
     "meta": {
-      "name": "STARBREEDER #119",
+      "name": "STARBREEDER #081",
       "status": "supernova",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "SN 1987A"
         },
         {
           "trait_type": "star type",
@@ -5357,12 +5357,12 @@
   {
     "id": "c19e3151885dec334083c63832a2c03a7b673050a8abeb5f07de545eb19b3543i0",
     "meta": {
-      "name": "STARBREEDER #120",
+      "name": "STARBREEDER #089",
       "status": "red supergiant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "BZ Carinae"
         },
         {
           "trait_type": "star type",
@@ -5402,12 +5402,12 @@
   {
     "id": "c0652577c2a695827d9254185279810ab7e919d5c6df5eaf23e6369e6dd97445i0",
     "meta": {
-      "name": "STARBREEDER #121",
+      "name": "STARBREEDER #090",
       "status": "white dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "HD 49798"
         },
         {
           "trait_type": "star type",
@@ -5447,12 +5447,12 @@
   {
     "id": "c3a57b067d57c7a2378d935cde0f44826f8c6921e156721056c1e43f533d243fi0",
     "meta": {
-      "name": "STARBREEDER #122",
+      "name": "STARBREEDER #088",
       "status": "blue giant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Alcyone"
         },
         {
           "trait_type": "star type",
@@ -5492,12 +5492,12 @@
   {
     "id": "0227f975093e7b8fae7bd95185e9ad3559f13874f591aabedb2ccf4291ae1ce9i0",
     "meta": {
-      "name": "STARBREEDER #123",
+      "name": "STARBREEDER #099",
       "status": "protostar",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-15"
         },
         {
           "trait_type": "star type",
@@ -5537,12 +5537,12 @@
   {
     "id": "635d8596d6b4daede5f4e62540b3c5a38614a0e11bbc2e49fc10f6f91c095be0i0",
     "meta": {
-      "name": "STARBREEDER #124",
+      "name": "STARBREEDER #098",
       "status": "yellow dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "14 Cancri"
         },
         {
           "trait_type": "star type",
@@ -5582,12 +5582,12 @@
   {
     "id": "db13a2f575da32783789cd989097556bc45e2f025ffbf51a5a7ff9829a3b6eefi0",
     "meta": {
-      "name": "STARBREEDER #125",
+      "name": "STARBREEDER #079",
       "status": "red supergiant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "IX Carinae"
         },
         {
           "trait_type": "star type",
@@ -5627,12 +5627,12 @@
   {
     "id": "2c43cf2775576dced2bf3f5d75343e63bff8a5f437c323f1bb5e751005beb2b0i0",
     "meta": {
-      "name": "STARBREEDER #126",
+      "name": "STARBREEDER #096",
       "status": "protostar",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-16"
         },
         {
           "trait_type": "star type",
@@ -5644,7 +5644,7 @@
         },
         {
           "trait_type": "object",
-          "value": ""
+          "value": "hoodie purple blue"
         },
         {
           "trait_type": "clothing",
@@ -5672,12 +5672,12 @@
   {
     "id": "7663f262468044e752a62fccb4978365f406c2937a74170c99d6ec8b0121eaa9i0",
     "meta": {
-      "name": "STARBREEDER #127",
+      "name": "STARBREEDER #095",
       "status": "white dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Procyon B"
         },
         {
           "trait_type": "star type",
@@ -5717,12 +5717,12 @@
   {
     "id": "e9e124a4aa8860d42718d285c80b24f4b84f8179361e5f94fd3afacf18df956di0",
     "meta": {
-      "name": "STARBREEDER #128",
+      "name": "STARBREEDER #093",
       "status": "red supergiant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "V704 Cassiopeiae"
         },
         {
           "trait_type": "star type",
@@ -5762,12 +5762,12 @@
   {
     "id": "a55ded273bb7d32dc40a17cae59e320ba3fd9d4daf8f157115406537f2507518i0",
     "meta": {
-      "name": "STARBREEDER #129",
+      "name": "STARBREEDER #085",
       "status": "blue giant",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "\u00ce\u00be Persei"
         },
         {
           "trait_type": "star type",
@@ -5807,12 +5807,12 @@
   {
     "id": "2b289003bbdfaf8c0a6159ce0821b0b76c0592f104d36f5ec1ca8157b6f4dc57i0",
     "meta": {
-      "name": "STARBREEDER #130",
+      "name": "STARBREEDER #092",
       "status": "yellow dwarf",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "15 Leonis Minoris"
         },
         {
           "trait_type": "star type",
@@ -5852,12 +5852,12 @@
   {
     "id": "9eacbebf325a6c93f77ca850fadf00494cfcfb6cd6450f3346ec51ed95863531i0",
     "meta": {
-      "name": "STARBREEDER #131",
+      "name": "STARBREEDER #087",
       "status": "protostar",
       "attributes": [
         {
           "trait_type": "star",
-          "value": ""
+          "value": "Per-emb-17"
         },
         {
           "trait_type": "star type",
