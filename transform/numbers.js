@@ -33,16 +33,12 @@ export const addInscriptionNumbers = async () => {
       let json;
       let failed = false;
       try {
-        json = await fetch('https://turbo.ordinalswallet.com/inscription/'+inscription.id, {
-          headers: {
-            ['referer']: 'https://ordinalswallet.com/'
-          }
-        }).then(res => res.json());
+        json = await fetch('https://api.hiro.so/ordinals/v1/inscriptions/'+inscription.id).then(res => res.json());
       } catch {
         failed = true;
         if(attempts > 0) return task(inscription, attempts-1);
       }
-      if(!failed) inscription['number'] = json.num?.toString();
+      if(!failed) inscription['number'] = json.number?.toString();
       return inscription;
     };
     let transformedInscriptions = await promiseAllInBatches(task, inscriptions, 1000);
