@@ -43,7 +43,7 @@ export const addInscriptionNumbers = async () => {
       try {
         json = await fetch('https://api.hiro.so/ordinals/v1/inscriptions/'+inscription.id, {
           headers: {
-            'x-hiro-api-key:': environment?.HIRO_API_KEY ?? null,
+            'x-hiro-api-key': environment?.HIRO_API_KEY ?? null,
           }
         }).then(res => res.json());
       } catch {
