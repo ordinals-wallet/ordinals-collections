@@ -21,6 +21,14 @@ async function promiseAllInBatches(task, items, batchSize) {
 }
 
 export const addInscriptionNumbers = async () => {
+  let environment;
+  try {
+    const environmentRaw = await fs.readFileSync(path.resolve(__dirname, '../environment.json'));
+    environment = JSON.parse(environmentRaw);
+  } catch (e) {
+    console.error('Error reading environment.json', e);
+  }
+
   for(let collection of getDirectories(path.resolve(__dirname, '../collections/'))) {
     console.log(collection);
     let filePath = `../collections/${collection}/inscriptions.json`;
@@ -33,7 +41,11 @@ export const addInscriptionNumbers = async () => {
       let json;
       let failed = false;
       try {
-        json = await fetch('https://api.hiro.so/ordinals/v1/inscriptions/'+inscription.id).then(res => res.json());
+        json = await fetch('https://api.hiro.so/ordinals/v1/inscriptions/'+inscription.id, {
+          headers: {
+            'x-hiro-api-key:': environment?.HIRO_API_KEY ?? null,
+          }
+        }).then(res => res.json());
       } catch {
         failed = true;
         if(attempts > 0) return task(inscription, attempts-1);
