@@ -7,6 +7,13 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+const BATCH_SIZE = 220;
+const BATCH_TIMEOUT_DELAY = 15000;
+
+function timeout(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 async function promiseAllInBatches(task, items, batchSize) {
   let position = 0;
   let results = [];
@@ -33,7 +40,9 @@ export const addInscriptionNumbers = async () => {
     console.log(collection);
     let filePath = `../collections/${collection}/inscriptions.json`;
     let inscriptions = JSON.parse(fs.readFileSync(path.resolve(__dirname, filePath)));
-    let task = async (inscription, attempts=3) => {
+    let task = async (inscription, attempts=5) => {
+      inscription.id = inscription.id?.toLowerCase();
+
       if(inscription?.['number']) {
         inscription['number'] = inscription['number'].toString();
         return inscription;
@@ -41,6 +50,7 @@ export const addInscriptionNumbers = async () => {
       let json;
       let failed = false;
       try {
+        await timeout(BATCH_TIMEOUT_DELAY);
         json = await fetch('https://api.hiro.so/ordinals/v1/inscriptions/'+inscription.id, {
           headers: {
             'x-hiro-api-key': environment?.HIRO_API_KEY ?? null,
@@ -48,12 +58,21 @@ export const addInscriptionNumbers = async () => {
         }).then(res => res.json());
       } catch {
         failed = true;
+        console.log(`!! Failed ${inscription.id}`);
         if(attempts > 0) return task(inscription, attempts-1);
       }
+
+      // Not found - skip
+      if (json.error === 'Not found') {
+        console.log(`${inscription.id} not found`);
+        return inscription;
+      }
+
+      if(attempts > 0 && !json.number) return task(inscription, attempts-1);
       if(!failed) inscription['number'] = json.number?.toString();
       return inscription;
     };
-    let transformedInscriptions = await promiseAllInBatches(task, inscriptions, 1000);
+    let transformedInscriptions = await promiseAllInBatches(task, inscriptions, BATCH_SIZE);
     fs.writeFileSync(path.resolve(__dirname, filePath), JSON.stringify(transformedInscriptions, null, 2));
   }
 };
