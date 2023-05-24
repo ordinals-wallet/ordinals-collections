@@ -360,7 +360,7 @@
       }
     },
     {
-      "id": "1e442d938bf132e96f00353be5a03543014f43b325b6ad20122ff5b3c237432bi0",
+      "id": "7452caa78235f6032a3a4a0034fce65b5251ec7a7e3d34b950f3d309bcb55271i0",
       "meta": {
         "name": "Wormhole #16",
         "attributes": [
@@ -4723,6 +4723,30 @@
           {
             "trait_type": "Background",
             "value": "Cosmos Purple"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1e442d938bf132e96f00353be5a03543014f43b325b6ad20122ff5b3c237432bi0",
+      "meta": {
+        "name": "Wormhole #198",
+        "attributes": [
+          {
+            "trait_type": "Orbital Space Attribute",
+            "value": "Planet Ring Blue"
+          },
+          {
+            "trait_type": "Planets",
+            "value": "Elemental Water"
+          },
+          {
+            "trait_type": "Wormholes",
+            "value": "Dimensional Portal Red"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Space"
           }
         ]
       }
@@ -16104,6 +16128,30 @@
       }
     },
     {
+      "id": "b29d1bad53b06f492784547775024f9d5da85aed7bc65801c00b451709e42ceei0",
+      "meta": {
+        "name": "Wormhole #673",
+        "attributes": [
+          {
+            "trait_type": "Orbital Space Attribute",
+            "value": "Moon Big"
+          },
+          {
+            "trait_type": "Planets",
+            "value": "Ivy"
+          },
+          {
+            "trait_type": "Wormholes",
+            "value": "Dimensional Portal Green"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Cosmos Blue"
+          }
+        ]
+      }
+    },
+    {
       "id": "01418973365e1315c736359c718dcdb97b81cd3ebc1efd2ed1b5ca5167a19f59i0",
       "meta": {
         "name": "Wormhole #674",
@@ -25008,7 +25056,7 @@
       }
     },
     {
-      "id": "27996cc2a6226ed160c147b89bd00c0264614a173656b79b6f182ce5b35d6b25i0",
+      "id": "7140d423dfc1f010e1d495b4b78968f97ea8cd649bfef4d239bfeb57ba154795i0",
       "meta": {
         "name": "Wormhole #1045",
         "attributes": [
@@ -25123,6 +25171,30 @@
           {
             "trait_type": "Background",
             "value": "Cosmos Red"
+          }
+        ]
+      }
+    },
+    {
+      "id": "27996cc2a6226ed160c147b89bd00c0264614a173656b79b6f182ce5b35d6b25i0",
+      "meta": {
+        "name": "Wormhole #1050",
+        "attributes": [
+          {
+            "trait_type": "Orbital Space Attribute",
+            "value": "Planet Ring Purple"
+          },
+          {
+            "trait_type": "Planets",
+            "value": "Waterworld"
+          },
+          {
+            "trait_type": "Wormholes",
+            "value": "Vortex Blue"
+          },
+          {
+            "trait_type": "Background",
+            "value": "Cosmos Blue"
           }
         ]
       }
