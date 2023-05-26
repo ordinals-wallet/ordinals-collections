@@ -254,5 +254,37 @@
                 }
             ]
         }
+    },
+    {
+        "id": "ca1aaa1e8c1c90182f02870824bddfc758bd9c47555f625e10292e5e7970ee6ci0",
+        "meta": {
+            "name": "Bitcoin Bones #9",
+            "attributes": [
+                {
+                    "trait_type": "Background",
+                    "value": "Bitcoin"
+                },
+                {
+                    "trait_type": "Body",
+                    "value": "Cookies"
+                },
+                {
+                    "trait_type": "Eyes",
+                    "value": "Bored Black"
+                },
+                {
+                    "trait_type": "Head",
+                    "value": "Warm"
+                },
+                {
+                    "trait_type": "Mouth",
+                    "value": "Type 5"
+                },
+                {
+                    "trait_type": "Hat",
+                    "value": "King"
+                }
+            ]
+        }
     }
 ]
