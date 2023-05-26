@@ -1,62 +1,62 @@
 [
-	{
-		"id": "00f934ee652a24d5ecc20de7f57349a210c675e06038796e879618e7e8d1fed0i0",
-		"meta": {
-			"name": "Bellatrix",
-			"attributes": [
-				{
-					"trait_type": "Type",
-					"value": "Leaf"
-				}
-			]
-		}
-	},
-	{
-		"id": "3f51f73248fd69113e1c71a3122d7d28f86bfe604fbc9840e2e022f90f4f9be8i0",
-		"meta": {
-			"name": "Makana",
-			"attributes": [
-				{
-					"trait_type": "Type",
-					"value": "Leaf"
-				}
-			]
-		}
-	},
-	{
-		"id": "fb6cd33a4134ddbc67955be216993b09089e4ff1203321d1563e14f0b01371b0i0",
-		"meta": {
-			"name": "Biely",
-			"attributes": [
-				{
-					"trait_type": "Type",
-					"value": "Leaf"
-				}
-			]
-		}
-	},
-	{
-		"id": "f80b56a00a27be9496e2362bc01fbb24a30f3763668404c4537417b534c24553i0",
-		"meta": {
-			"name": "Vigne",
-			"attributes": [
-				{
-					"trait_type": "Type",
-					"value": "Leaf"
-				}
-			]
-		}
-	},
-	{
-		"id": "579ae21f18bf02434aea7b012b548175dbca6d19793bd336ce86ff30649cda18i0",
-		"meta": {
-			"name": "Naru",
-			"attributes": [
-				{
-					"trait_type": "Type",
-					"value": "Leaf"
-				}
-			]
-		}
-	}
+  {
+    "id": "00f934ee652a24d5ecc20de7f57349a210c675e06038796e879618e7e8d1fed0i0",
+    "meta": {
+      "name": "Bellatrix",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Leaf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3f51f73248fd69113e1c71a3122d7d28f86bfe604fbc9840e2e022f90f4f9be8i0",
+    "meta": {
+      "name": "Makana",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Leaf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fb6cd33a4134ddbc67955be216993b09089e4ff1203321d1563e14f0b01371b0i0",
+    "meta": {
+      "name": "Biely",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Leaf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f80b56a00a27be9496e2362bc01fbb24a30f3763668404c4537417b534c24553i0",
+    "meta": {
+      "name": "Vigne",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Leaf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "579ae21f18bf02434aea7b012b548175dbca6d19793bd336ce86ff30649cda18i0",
+    "meta": {
+      "name": "Naru",
+      "attributes": [
+        {
+          "trait_type": "Type",
+          "value": "Leaf"
+        }
+      ]
+    }
+  }
 ]
