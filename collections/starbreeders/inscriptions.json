@@ -15,7 +15,7 @@
         },
         {
           "trait_type": "background",
-          "value": "spaceship 1"
+          "value": "space ship 1"
         },
         {
           "trait_type": "object",
@@ -105,7 +105,7 @@
         },
         {
           "trait_type": "background",
-          "value": "spaceship 2"
+          "value": "space ship 2"
         },
         {
           "trait_type": "object",
@@ -413,7 +413,8 @@
         {
           "trait_type": "star",
           "value": "V830 Tauri"
-        },{
+        },
+        {
           "trait_type": "star type",
           "value": "protostar"
         },
@@ -422,30 +423,29 @@
           "value": "sky 3"
         },
         {
-            "trait_type": "clothing",
-            "value": "red hoodie"
-          },
+          "trait_type": "clothing",
+          "value": "hoodie red"
+        },
         {
           "trait_type": "object",
           "value": "planet 1"
         },
- {
+        {
           "trait_type": "face",
           "value": "male asian"
         },
- {
+        {
           "trait_type": "fuser",
           "value": "coiled yellow"
         },
- {
+        {
           "trait_type": "hands",
           "value": "asian"
         },
- {
+        {
           "trait_type": "eyes",
           "value": "yellow"
         }
-
       ]
     }
   },
@@ -503,11 +503,12 @@
         {
           "trait_type": "star",
           "value": "PDS 70"
-        },{
+        },
+        {
           "trait_type": "star type",
           "value": "protostar"
         },
- {
+        {
           "trait_type": "background",
           "value": "sky 4"
         },
@@ -516,26 +517,25 @@
           "value": ""
         },
         {
-            "trait_type": "clothing",
-            "value": "long cape orange"
-          },
- {
+          "trait_type": "clothing",
+          "value": "long cape orange"
+        },
+        {
           "trait_type": "face",
           "value": ""
         },
- {
+        {
           "trait_type": "fuser",
           "value": ""
         },
- {
+        {
           "trait_type": "hands",
           "value": "alien 1"
         },
- {
+        {
           "trait_type": "eyes",
           "value": "red"
         }
-
       ]
     }
   },
@@ -548,11 +548,12 @@
         {
           "trait_type": "star",
           "value": "Gliese 161"
-        },{
+        },
+        {
           "trait_type": "star type",
           "value": "yellow dwarf"
         },
- {
+        {
           "trait_type": "background",
           "value": "sky 3"
         },
@@ -561,26 +562,25 @@
           "value": "earth 1"
         },
         {
-            "trait_type": "clothing",
-            "value": "blue hoodie"
-          },
- {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
           "trait_type": "face",
           "value": "female black"
         },
- {
+        {
           "trait_type": "fuser",
           "value": ""
         },
- {
+        {
           "trait_type": "hands",
           "value": "black"
         },
- {
+        {
           "trait_type": "eyes",
           "value": "robot 1"
         }
-
       ]
     }
   },
@@ -593,11 +593,12 @@
         {
           "trait_type": "star",
           "value": "WOH G64"
-        },{
+        },
+        {
           "trait_type": "star type",
           "value": "red supergiant"
         },
- {
+        {
           "trait_type": "background",
           "value": "night sky 1"
         },
@@ -606,30 +607,28 @@
           "value": ""
         },
         {
-            "trait_type": "clothing",
-            "value": "long cape ocher"
-          },
- {
+          "trait_type": "clothing",
+          "value": "long cape ocher"
+        },
+        {
           "trait_type": "face",
           "value": "female black"
         },
- {
+        {
           "trait_type": "fuser",
           "value": ""
         },
- {
+        {
           "trait_type": "hands",
           "value": "robot down"
         },
- {
+        {
           "trait_type": "eyes",
-          "value": "yellow framed"
+          "value": "yellow"
         }
-
       ]
     }
   },
-
   {
     "id": "bcf47db6d604c5d3aa016360b1a8bf8c025548f8809a8848ff8e2946c8e12dc7i0",
     "meta": {
@@ -639,43 +638,42 @@
         {
           "trait_type": "star",
           "value": "Van Maanen 2"
-        },{
+        },
+        {
           "trait_type": "star type",
           "value": "white dwarf 1"
         },
- {
+        {
           "trait_type": "background",
-          "value": "spaceship 1"
+          "value": "space ship 1"
         },
         {
           "trait_type": "object",
           "value": ""
         },
         {
-            "trait_type": "clothing",
-            "value": "blue hoodie"
-          },
- {
+          "trait_type": "clothing",
+          "value": "hoodie blue"
+        },
+        {
           "trait_type": "face",
           "value": "robot 1"
         },
- {
+        {
           "trait_type": "fuser",
           "value": "coiled white"
         },
- {
+        {
           "trait_type": "hands",
           "value": "robot"
         },
- {
+        {
           "trait_type": "eyes",
           "value": "robot 1"
         }
-
       ]
     }
   },
-
   {
     "id": "5e88727707e15959b2cbbe75693f9315d1076251936f5ed2609b74e66232aaf5i0",
     "meta": {
@@ -685,11 +683,12 @@
         {
           "trait_type": "star",
           "value": "NML Cygni"
-        },{
+        },
+        {
           "trait_type": "star type",
           "value": "red supergiant 1"
         },
- {
+        {
           "trait_type": "background",
           "value": "surface 1"
         },
@@ -698,30 +697,28 @@
           "value": ""
         },
         {
-            "trait_type": "clothing",
-            "value": "green hoodie"
-          },
- {
+          "trait_type": "clothing",
+          "value": "green hoodie"
+        },
+        {
           "trait_type": "face",
           "value": "robot 1"
         },
- {
+        {
           "trait_type": "fuser",
           "value": "coiled white"
         },
- {
+        {
           "trait_type": "hands",
           "value": "robot"
         },
- {
+        {
           "trait_type": "eyes",
           "value": "robot 1"
         }
-
       ]
     }
   },
-
   {
     "id": "05296cb6ad1c4ce240cb5267cf5d1744d97d7bc11467c54d83f08ae984cefc37i0",
     "meta": {
@@ -731,11 +728,12 @@
         {
           "trait_type": "star",
           "value": "Eta Cassiopeiae"
-        },{
+        },
+        {
           "trait_type": "star type",
           "value": "yellow dwarf"
         },
- {
+        {
           "trait_type": "background",
           "value": "sky 2"
         },
@@ -744,31 +742,28 @@
           "value": ""
         },
         {
-            "trait_type": "clothing",
-            "value": "long cape ocher"
-          },
-        
- {
+          "trait_type": "clothing",
+          "value": "long cape ocher"
+        },
+        {
           "trait_type": "face",
           "value": "alien 1"
         },
- {
+        {
           "trait_type": "fuser",
           "value": ""
         },
- {
+        {
           "trait_type": "hands",
           "value": "alien down"
         },
- {
+        {
           "trait_type": "eyes",
           "value": "robot 1"
         }
-
       ]
     }
   },
-
   {
     "id": "be739ee2db950aa5e3cc6a443ff3834cfe39df8d86e878eb9913ffd197eb0215i0",
     "meta": {
@@ -778,11 +773,12 @@
         {
           "trait_type": "star",
           "value": "1RXS J160929.1-210524"
-        },{
+        },
+        {
           "trait_type": "star type",
           "value": "protostar 1"
         },
- {
+        {
           "trait_type": "background",
           "value": "sky 4"
         },
@@ -791,30 +787,28 @@
           "value": ""
         },
         {
-            "trait_type": "clothing",
-            "value": "orange hoodie"
-          },
- {
+          "trait_type": "clothing",
+          "value": "hoodie orange"
+        },
+        {
           "trait_type": "face",
           "value": "male asian"
         },
- {
+        {
           "trait_type": "fuser",
           "value": "coiled yellow"
         },
- {
+        {
           "trait_type": "hands",
           "value": "asian"
         },
- {
+        {
           "trait_type": "eyes",
           "value": "robot 1"
         }
-
       ]
     }
   },
-
   {
     "id": "d452e5056f083c1e9bc409d18ee5e546f350a2e8a74e584d6be0eaf1e7cdbe6di0",
     "meta": {
@@ -824,11 +818,12 @@
         {
           "trait_type": "star",
           "value": "SN 1895B"
-        },{
+        },
+        {
           "trait_type": "star type",
           "value": "supernova 1"
         },
- {
+        {
           "trait_type": "background",
           "value": "night sky 5"
         },
@@ -837,30 +832,28 @@
           "value": "planet 3"
         },
         {
-            "trait_type": "clothing",
-            "value": "long cape red"
-          },
- {
+          "trait_type": "clothing",
+          "value": "long cape red"
+        },
+        {
           "trait_type": "face",
           "value": "male white"
         },
- {
+        {
           "trait_type": "fuser",
           "value": "coiled red"
         },
- {
+        {
           "trait_type": "hands",
           "value": "white"
         },
- {
+        {
           "trait_type": "eyes",
           "value": "red"
         }
-
       ]
     }
   },
-
   {
     "id": "0e9c3e7a13ec9f04d59b4995961330ad37057bba856fb26036cec6d77c1bc37ei0",
     "meta": {
@@ -870,11 +863,12 @@
         {
           "trait_type": "star",
           "value": "119 Tauri"
-        },{
+        },
+        {
           "trait_type": "star type",
           "value": "red supergiant 1"
         },
- {
+        {
           "trait_type": "background",
           "value": "sky 3"
         },
@@ -883,30 +877,28 @@
           "value": ""
         },
         {
-            "trait_type": "clothing",
-            "value": "long cape red"
-          },
- {
+          "trait_type": "clothing",
+          "value": "long cape red"
+        },
+        {
           "trait_type": "face",
           "value": "female black"
         },
- {
+        {
           "trait_type": "fuser",
           "value": ""
         },
- {
+        {
           "trait_type": "hands",
           "value": "black down"
         },
- {
+        {
           "trait_type": "eyes",
           "value": "yellow"
         }
-
       ]
     }
   },
-
   {
     "id": "4dd18790cc06bd3acf949d0a76b0cfc3a7cce7f6ccf56384136f33ccbabf0683i0",
     "meta": {
@@ -916,11 +908,12 @@
         {
           "trait_type": "star",
           "value": "Mintaka"
-        },{
+        },
+        {
           "trait_type": "star type",
           "value": "blue giant 1"
         },
- {
+        {
           "trait_type": "background",
           "value": "surface 2"
         },
@@ -929,26 +922,25 @@
           "value": "falling star"
         },
         {
-            "trait_type": "clothing",
-            "value": "cape and hat white"
-          },
- {
+          "trait_type": "clothing",
+          "value": "cape and hat white"
+        },
+        {
           "trait_type": "face",
           "value": "male asian"
         },
- {
+        {
           "trait_type": "fuser",
           "value": ""
         },
- {
+        {
           "trait_type": "hands",
           "value": "asian"
         },
- {
+        {
           "trait_type": "eyes",
           "value": "blue"
         }
-
       ]
     }
   },
@@ -1017,7 +1009,7 @@
         },
         {
           "trait_type": "object",
-          "value": "straight blue"
+          "value": ""
         },
         {
           "trait_type": "clothing",
@@ -1733,7 +1725,7 @@
         },
         {
           "trait_type": "background",
-          "value": "sale ship 1"
+          "value": "space ship 1"
         },
         {
           "trait_type": "object",
@@ -2175,7 +2167,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": "τ Canis Majoris"
+          "value": "\u00cf\u201e Canis Majoris"
         },
         {
           "trait_type": "star type",
@@ -2400,7 +2392,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": "WD B1620−26"
+          "value": "WD B1620\u00e2\u02c6\u201926"
         },
         {
           "trait_type": "star type",
@@ -2543,7 +2535,7 @@
         },
         {
           "trait_type": "background",
-          "value": ""
+          "value": "surface 7"
         },
         {
           "trait_type": "object",
@@ -2625,7 +2617,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": "Nu² Lupi"
+          "value": "Nu\u00c2\u00b2 Lupi"
         },
         {
           "trait_type": "star type",
@@ -2772,7 +2764,7 @@
         },
         {
           "trait_type": "object",
-          "value": "laser blue"
+          "value": ""
         },
         {
           "trait_type": "clothing",
@@ -2792,7 +2784,7 @@
         },
         {
           "trait_type": "eyes",
-          "value": ""
+          "value": "laser blue"
         }
       ]
     }
@@ -2850,7 +2842,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": "ζ Scorpii"
+          "value": "\u00ce\u00b6 Scorpii"
         },
         {
           "trait_type": "star type",
@@ -2940,7 +2932,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": "μ Columbae"
+          "value": "\u00ce\u00bc Columbae"
         },
         {
           "trait_type": "star type",
@@ -3885,7 +3877,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": "ι Orionis"
+          "value": "Theta 1 Orionis"
         },
         {
           "trait_type": "star type",
@@ -4580,7 +4572,7 @@
         },
         {
           "trait_type": "face",
-          "value": "aangular dark"
+          "value": "angular dark"
         },
         {
           "trait_type": "fuser",
@@ -4785,7 +4777,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": "RX J0439.8−6809"
+          "value": "RX J0439.8\u00e2\u02c6\u20196809"
         },
         {
           "trait_type": "star type",
@@ -5165,7 +5157,7 @@
         },
         {
           "trait_type": "face",
-          "value": ""
+          "value": "red"
         },
         {
           "trait_type": "fuser",
@@ -5190,7 +5182,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": "θ1 Orionis C"
+          "value": "Theta 1 Orionis C"
         },
         {
           "trait_type": "star type",
@@ -5206,7 +5198,7 @@
         },
         {
           "trait_type": "clothing",
-          "value": "hoodie black blue hoodie purple blue"
+          "value": "hoodie black blue"
         },
         {
           "trait_type": "face",
@@ -5652,7 +5644,7 @@
         },
         {
           "trait_type": "object",
-          "value": ""
+          "value": "hoodie purple blue"
         },
         {
           "trait_type": "clothing",
@@ -5775,7 +5767,7 @@
       "attributes": [
         {
           "trait_type": "star",
-          "value": "ξ Persei"
+          "value": "\u00ce\u00be Persei"
         },
         {
           "trait_type": "star type",
