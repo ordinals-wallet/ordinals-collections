@@ -73,7 +73,7 @@ Collections can be organized using `status` and `rank`
 ]
 ```
 
-Artists can assign unqiue traits to ordinals with `attributes`
+Artists can assign unique traits to ordinals with `attributes`
 
 ```
 [
