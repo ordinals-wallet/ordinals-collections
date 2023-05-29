@@ -146,7 +146,37 @@
   {
     "id": "",
     "meta": {
-      "name": "Like Lichtenstein #5"
+      "name": "Like Lichtenstein #5",
+      "attributes": [
+        {
+          "trait_type": "Hair",
+          "value": "DarkBlue"
+        },
+        {
+          "trait_type": "Grass",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Lip",
+          "value": "Purple"
+        },
+        {
+          "trait_type": "Quote",
+          "value": "Corrupt cops"
+        },
+        {
+          "trait_type": "Animate",
+          "value": "Cop"
+        },
+        {
+          "trait_type": "Other",
+          "value": "None"
+        }
+      ]
     }
   }
 ]
