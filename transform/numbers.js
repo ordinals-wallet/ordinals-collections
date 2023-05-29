@@ -7,8 +7,11 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const BATCH_SIZE = 220;
-const BATCH_TIMEOUT_DELAY = 15000;
+const BATCH_SIZE = 60;
+const BATCHES_BEFORE_DELAY = 750;
+const BATCH_TIMEOUT_DELAY = 60000;
+
+let currentBatchCount = 0;
 
 function timeout(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -19,10 +22,10 @@ async function promiseAllInBatches(task, items, batchSize) {
   let results = [];
   while (position < items.length) {
     const itemsForBatch = items.slice(position, position + batchSize);
-    results = [...results, ...await Promise.all(itemsForBatch.map(item => task(item)))];
+    results = [...results, ...await task(itemsForBatch)];
     position += batchSize;
-    process.stdout.write(`.`);
-    console.log(`${position} / ${items.length}`);
+    // process.stdout.write(`.`);
+    // console.log(`${position} / ${items.length}`);
   }
   return results;
 }
@@ -40,38 +43,59 @@ export const addInscriptionNumbers = async () => {
     console.log(collection);
     let filePath = `../collections/${collection}/inscriptions.json`;
     let inscriptions = JSON.parse(fs.readFileSync(path.resolve(__dirname, filePath)));
-    let task = async (inscription, attempts=5) => {
-      inscription.id = inscription.id?.toLowerCase();
 
-      if(inscription?.['number']) {
-        inscription['number'] = inscription['number'].toString();
-        return inscription;
-      }
-      let json;
-      let failed = false;
-      try {
-        await timeout(BATCH_TIMEOUT_DELAY);
-        json = await fetch('https://api.hiro.so/ordinals/v1/inscriptions/'+inscription.id, {
-          headers: {
-            'x-hiro-api-key': environment?.HIRO_API_KEY ?? null,
+    let task = async (inscriptions) => {
+      // Skip inscriptions that already contain a number
+      const inscriptionsToProcess = inscriptions.filter((i) => !i.number || i.number?.length === 0);
+
+      const inscriptionIds = inscriptionsToProcess.map((i) => i.id?.toLowerCase());
+
+      if (inscriptionIds.length > 0) {
+        const inscriptionIdsString = inscriptionIds.map((id) => `&id=${id}`).join('');
+
+        let json;
+        let failed = false;
+        try {
+          json = await fetch(`https://api.hiro.so/ordinals/v1/inscriptions?limit=${BATCH_SIZE}${inscriptionIdsString}`, {
+            headers: {
+              'x-hiro-api-key': environment?.HIRO_API_KEY ?? null,
+            }
+          }).then(res => res.json());
+        } catch {
+          failed = true;
+          console.log(`!! Failed`);
+        }
+
+        if (!failed && json?.results) {
+          for (let i=0; i < json?.results.length; i+=1) {
+            const result = json.results[i];
+            if (result.id && result.number) {
+              const existingInscriptionIndex = inscriptions.findIndex((i) => i.id.toLowerCase() === result.id.toLowerCase());
+              if (existingInscriptionIndex !== -1) {
+                inscriptions[existingInscriptionIndex] = {
+                  ...inscriptions[existingInscriptionIndex],
+                  number: result.number,
+                };
+              } else {
+                console.log('!!  Existing inscription not found');
+              }
+            }
           }
-        }).then(res => res.json());
-      } catch {
-        failed = true;
-        console.log(`!! Failed ${inscription.id}`);
-        if(attempts > 0) return task(inscription, attempts-1);
+        }
+
+        currentBatchCount += 1;
+
+        if ((currentBatchCount % BATCHES_BEFORE_DELAY) === 0) {
+          console.log(`==== Hit ${BATCHES_BEFORE_DELAY} batches, waiting ${BATCH_TIMEOUT_DELAY}ms before continuing...`)
+          await timeout(BATCH_TIMEOUT_DELAY);
+        }
+
+        console.log(`🤖 Processing batch ${currentBatchCount}`);
       }
 
-      // Not found - skip
-      if (json.error === 'Not found') {
-        console.log(`${inscription.id} not found`);
-        return inscription;
-      }
-
-      if(attempts > 0 && !json.number) return task(inscription, attempts-1);
-      if(!failed) inscription['number'] = json.number?.toString();
-      return inscription;
+      return inscriptions;
     };
+
     let transformedInscriptions = await promiseAllInBatches(task, inscriptions, BATCH_SIZE);
     fs.writeFileSync(path.resolve(__dirname, filePath), JSON.stringify(transformedInscriptions, null, 2));
   }
