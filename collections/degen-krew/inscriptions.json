@@ -3628,9 +3628,9 @@
     }
   },
   {
-    "id": "f3fd14750f3ad57cb12952d608bc8e77a7599f9107a5ea7252162d4819f4a158i0",
+    "id": "45aa90fe2eb703444c794ff5a366c6d5175b4cfa73db255e552d100ba56db7fai0",
     "meta": {
-      "name": "Degen Krew #131",
+      "name": "Degen Krew #132",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3651,6 +3651,106 @@
         {
           "trait_type": "Earring",
           "value": "Gold Stud"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Gray Tracksuit"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4a80d2fea43ccc8c0728bcfd7a883dc2d7c6707ad0f871d19237410fcd325f5bi0",
+    "meta": {
+      "name": "Degen Krew #133",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Undead"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Albino"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Tooth"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Yellow Cap"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Double Gold"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9e6eefe7eebe1bd7caff63c0b9bb30c04995d28eeb003a6bbed2097219f88a78i0",
+    "meta": {
+      "name": "Degen Krew #134",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Gray"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Brown"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Albino"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cig"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Hair"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Black Tracksuit"
+        },
+        {
+          "trait_type": "Earring",
+          "value": "Diamond Stud"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6b0b310e6c7cf86f35594e804658deb2959637a8b098a09baeb31ad3478629d0i0",
+    "meta": {
+      "name": "Degen Krew #135",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Undead"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Baller"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Tooth"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Black Makaveli"
         },
         {
           "trait_type": "Clothing",
