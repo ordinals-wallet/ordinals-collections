@@ -321,10 +321,10 @@
       "attributes": []
     }
   },
-  {
+    {
     "id": "aa36a8959e4de4272d3fdb701d59f6a48bc717d619433d1bbcfd2b18987be348i0",
     "meta": {
-      "name": "Nekohige Sign #47",
+      "name": "Nekohige Sign #047",
       "attributes": []
     }
   },
@@ -367,7 +367,12 @@
     "id": "ca217e8053086fe6b2d3fa2cfe3dc3803d0097d22c8e0de861da8f575257242ei0",
     "meta": {
       "name": "Nekohige Sign #53",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "",
+          "value": ""
+        }
+      ]
     }
   },
   {
@@ -404,5 +409,5 @@
       "name": "Nekohige Sign #58",
       "attributes": []
     }
-   }
- ]
+  }
+]
