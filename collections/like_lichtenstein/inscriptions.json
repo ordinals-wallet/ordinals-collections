@@ -178,5 +178,77 @@
         }
       ]
     }
+  },
+  {
+    "id": "4694a59a61d155fef3beffb96ab76a63dda8b1b0ef30edfaa799aae178e7b72di0",
+    "meta": {
+      "name": "Like Lichtenstein #6",
+      "attributes": [
+        {
+          "trait_type": "Hair",
+          "value": "LightGray"
+        },
+        {
+          "trait_type": "Grass",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Lip",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Quote",
+          "value": "Next target"
+        },
+        {
+          "trait_type": "Animate",
+          "value": "Fish"
+        },
+        {
+          "trait_type": "Other",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6f42574d311f58e143b529fc2e7ddd8747d52647bd4db97e46bbb70314eb8c03i0",
+    "meta": {
+      "name": "Like Lichtenstein #7",
+      "attributes": [
+        {
+          "trait_type": "Hair",
+          "value": "Orange"
+        },
+        {
+          "trait_type": "Grass",
+          "value": "Purple"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Lip",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Quote",
+          "value": "To the moon"
+        },
+        {
+          "trait_type": "Animate",
+          "value": "Ethereum"
+        },
+        {
+          "trait_type": "Other",
+          "value": "None"
+        }
+      ]
+    }
   }
 ]
