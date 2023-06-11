@@ -1,10 +1,10 @@
 {
-  "name": "",                    # inscription name
-  "inscription_icon": "",        # collection cover inscription id
+  "name": "SLOC GAMES",                    # inscription name
+  "inscription_icon": "3d3e05544a84d4fe250d81447e53821dad63065c2bca382251bc98c2d80a1574i0",        # collection cover inscription id
   "supply": "",                  # total supply
   "slug": "sloc-games",                    # directory name
   "description": "",             # collection description
-  "twitter_link": "",            # official twitter
+  "twitter_link": "https://twitter.com/nempoint",            # official twitter
   "discord_link": "",            # official discord
   "website_link": ""             # official website
 }
