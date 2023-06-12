@@ -1,0 +1,46 @@
+import requests
+
+def rename_folder(repo_owner, repo_name, old_folder_name, new_folder_name, access_token):
+    url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/contents/{old_folder_name}"
+    
+    headers = {
+        "Authorization": f"Bearer {access_token}",
+        "Accept": "application/vnd.github.v3+json"
+    }
+    
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+        content = response.json()
+        sha = content['sha']
+        path = content['path']
+        
+        new_path = path.replace(old_folder_name, new_folder_name)
+        
+        payload = {
+            "message": f"Rename {old_folder_name} to {new_folder_name}",
+            "branch": "main",
+            "sha": sha,
+            "path": path,
+            "new_path": new_path
+        }
+        
+        rename_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/contents/{path}"
+        rename_response = requests.put(rename_url, json=payload, headers=headers)
+        
+        if rename_response.status_code == 200:
+            print("Folder renamed successfully.")
+        else:
+            print("Failed to rename folder.")
+            print(rename_response.json())
+    else:
+        print("Failed to retrieve folder information.")
+        print(response.json())
+
+# 使用例
+repo_owner = "ユーザー名"
+repo_name = "リポジトリ名"
+old_folder_name = "Ordinal-Undertale"
+new_folder_name = "ordinal-undertale"
+access_token = "アクセストークン"
+
+rename_folder(repo_owner, repo_name, old_folder_name, new_folder_name, access_token)
