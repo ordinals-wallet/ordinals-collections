@@ -250,5 +250,77 @@
         }
       ]
     }
+  },
+  {
+    "id": "b2dd0a2bf7e686b0af1492f7a4d84196382a2d5edacd747538ecb0387ea1885fi0",
+    "meta": {
+      "name": "Like Lichtenstein #8",
+      "attributes": [
+        {
+          "trait_type": "Hair",
+          "value": "Blond"
+        },
+        {
+          "trait_type": "Grass",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Lip",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Quote",
+          "value": "I believe"
+        },
+        {
+          "trait_type": "Animate",
+          "value": "Rose"
+        },
+        {
+          "trait_type": "Other",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c53ff7602e99b9ac6d7c2e729b9ec987ffb0a8750f4e3b56a14e5a6643eebac7i0",
+    "meta": {
+      "name": "Like Lichtenstein #9",
+      "attributes": [
+        {
+          "trait_type": "Hair",
+          "value": "SkyBlue"
+        },
+        {
+          "trait_type": "Grass",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Lip",
+          "value": "Coral"
+        },
+        {
+          "trait_type": "Quote",
+          "value": "Can be eaten"
+        },
+        {
+          "trait_type": "Animate",
+          "value": "Chicken"
+        },
+        {
+          "trait_type": "Other",
+          "value": "None"
+        }
+      ]
+    }
   }
 ]
