@@ -3628,9 +3628,9 @@
     }
   },
   {
-    "id": "45aa90fe2eb703444c794ff5a366c6d5175b4cfa73db255e552d100ba56db7fai0",
+    "id": "f3fd14750f3ad57cb12952d608bc8e77a7599f9107a5ea7252162d4819f4a158i0",
     "meta": {
-      "name": "Degen Krew #132",
+      "name": "Degen Krew #131",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3655,6 +3655,38 @@
         {
           "trait_type": "Clothing",
           "value": "Gray Tracksuit"
+        }
+      ]
+    }
+  },
+  {
+    "id": "45aa90fe2eb703444c794ff5a366c6d5175b4cfa73db255e552d100ba56db7fai0",
+    "meta": {
+      "name": "Degen Krew #132",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Purple"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Bored"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Halo"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Tooth"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Black Tracksuit"
         }
       ]
     }
@@ -3702,7 +3734,7 @@
         },
         {
           "trait_type": "Skin",
-          "value": "Brown"
+          "value": "Orange"
         },
         {
           "trait_type": "Eyes",
@@ -3751,6 +3783,262 @@
         {
           "trait_type": "Hat",
           "value": "Black Makaveli"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Gray Tracksuit"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6b0b310e6c7cf86f35594e804658deb2959637a8b098a09baeb31ad3478629d0i0",
+    "meta": {
+      "name": "Degen Krew #136",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Gray"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Spectacles"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cig"
+        },
+        {
+          "trait_type": "Earring",
+          "value": "Diamond Stud"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Mamba"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7261d3beb0fb971cc6d6a1b0fc55afe2bb60faa8b491903727f744a7d47b708i0",
+    "meta": {
+      "name": "Degen Krew #137",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Purple"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Gold Cyborg"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Joint"
+        },
+        {
+          "trait_type": "Earring",
+          "value": "Gold Stud"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Orange Beanie"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "White Tank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "87ee8044d0d3534e43d9ef6a867452a0217219cb9c7440b5905d3fcf3c8105f1i0",
+    "meta": {
+      "name": "Degen Krew #138",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Galaxy"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Game Over"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Joint"
+        },
+        {
+          "trait_type": "Tats",
+          "value": "Yup"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Halo"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Hawaiian"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9b90c7971c7731fa47fe687a9f359ffe618c22aa14b807f747bc19a796cb6026i0",
+    "meta": {
+      "name": "Degen Krew #139",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Rainbow"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Bloodshot"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Tongue"
+        },
+        {
+          "trait_type": "Earring",
+          "value": "Diamond Stud"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Skull"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Gray Hoodie"
+        }
+      ]
+    }
+  },
+  {
+    "id": "01918b9f29740d0b50f1c129f4aac739959695871af5239170e5e1a50f7a8d59i0",
+    "meta": {
+      "name": "Degen Krew #140",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Tongue"
+        },
+        {
+          "trait_type": "Earring",
+          "value": "Diamond Stud"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Crown"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Double Gold"
+        }
+      ]
+    }
+  },
+  {
+    "id": "244beef9b9c95e041742c2a7eaedb107efa1d5678bc70a697ab29251e2b64cc1i0",
+    "meta": {
+      "name": "Degen Krew #141",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Tooth"
+        },
+        {
+          "trait_type": "Earring",
+          "value": "Gold Stud"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Yellow Cap"
+        },
+        {
+          "trait_type": "Tats",
+          "value": "Yup"
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Mamba"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d99167e7655569dfde78462795b0b013c3414d7bb2423c39d658a2192164b2f9i0",
+    "meta": {
+      "name": "Degen Krew #142",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Surprised"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Gold Tooth"
+        },
+        {
+          "trait_type": "Earring",
+          "value": "Gold Stud"
+        },
+        {
+          "trait_type": "Hat",
+          "value": "Black Snapback"
+        },
+        {
+          "trait_type": "Tats",
+          "value": "Yup"
         },
         {
           "trait_type": "Clothing",
