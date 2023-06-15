@@ -1,10 +1,10 @@
 {
-  "name": "",                    # inscription name
-  "inscription_icon": "",        # collection cover inscription id
-  "supply": "",                  # total supply
-  "slug": "",                    # saneyama-aliens
-  "description": "",             # collection description
-  "twitter_link": "",            # official twitter
-  "discord_link": "",            # official discord
-  "website_link": ""             # official website
+  "name": "The Saneyama Aliens", 
+  "inscription_icon": "10ee80d25e9bc831d506f1c7a6e3742920078f49bf3c0af15c2735bf42a2ea02i0", 
+  "supply": "",                 
+  "slug": "saneyama-aliens", 
+  "description": "Ordinal",
+  "twitter_link": "https://twitter.com/saneyamatamo2",
+  "discord_link": "https://discord.gg/US4gQeXweX",
+  "website_link": ""
 }
