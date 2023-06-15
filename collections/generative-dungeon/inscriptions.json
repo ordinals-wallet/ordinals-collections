@@ -2294,5 +2294,33 @@
         }
       ]
     }
+  },
+  {
+    "id": "79951b86f0d6b985f8bf591b276b9e7d258b14c254558f9f0af9c1ebe732f2b9i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #83",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "assassin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "toughen skin"
+        }
+      ]
+    }
   }
 ]
