@@ -58,7 +58,6 @@ def test_meta():
 
 assert (len(meta.get('inscription_icon')) == 66) or meta.get('inscription_icon')
 
-　
 def ishex(s):
     try:
         n = int(s,16)
