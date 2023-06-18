@@ -78,7 +78,10 @@ def test_inscriptions():
 
 def test_uniqueness():
     input_collections = os.listdir(COLLECTIONS)
+    print('\n\n')
 
+    # add new collections
+    all_inscription_ids = []
     for collection in input_collections:
         with open(f"{COLLECTIONS}/{collection}/inscriptions.json", "r") as file:
             try:
@@ -87,6 +90,7 @@ def test_uniqueness():
                 pytest.fail(f"Failed to decode JSON in {collection}/inscriptions.json: {str(e)}")
 
         # Rest of the assertions
+
 
 
 
