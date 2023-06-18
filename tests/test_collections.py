@@ -94,4 +94,3 @@ def test_uniqueness():
       all_inscription_ids = all_inscription_ids + inscription_ids
       duplicates = len(all_inscription_ids) - len(set(all_inscription_ids))
       assert duplicates == 0
-     
