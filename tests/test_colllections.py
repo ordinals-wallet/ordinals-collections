@@ -85,7 +85,7 @@ def test_inscriptions():
 def test_uniqueness():
     input_collections = os.listdir(COLLECTIONS)
 
-    # add new collections
+    # Add new collections
     all_inscription_ids = []
     for collection in input_collections:
         with open(f"{COLLECTIONS}/{collection}/inscriptions.json", "r") as file:
@@ -102,6 +102,9 @@ def test_uniqueness():
                 all_inscription_ids.append(inscription_id)
 
             # Assert other conditions for inscriptions
+
+            # Rest of the assertions
+
 
             # Rest of the assertions
 
