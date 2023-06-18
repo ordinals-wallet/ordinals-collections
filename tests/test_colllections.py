@@ -47,6 +47,23 @@ def test_meta():
     current_collections = os.listdir(COLLECTIONS)
 
     for x in current_collections:
+        with open(f"{COLLECTIONS}/{x}/meta.json", "r") as file:
+            meta = json.load(file)
+
+        assert set(meta.keys()) == set(expected_meta.keys()), 'Invalid meta data keys'
+
+        for y in zip(meta.values(), meta.keys()):
+            assert isinstance(y[0], str), 'Invalid data type, use a string'
+            if y[1].endswith('link'):
+                if y[0]:
+                    assert y[0].startswith('https://') or y[0].startswith('http://'), 'link must start with https://'
+
+        assert (len(meta.get('inscription_icon')) == 66) or meta.get('inscription_icon'), 'Invalid inscription Id'
+        assert meta.get('slug').lower() == meta.get('slug'), 'Slug must be lowercase'
+        assert len(meta.get('name')) <= 60, 'Name is too long'
+        assert len(meta.get('slug')) < 60, 'Slug is too long'
+        assert meta.get('slug') == x, 'Slug does not match directory name'
+
 with open("{}/{}/meta.json".format(COLLECTIONS, x), "r") as file:
     meta = json.load(file)
 
