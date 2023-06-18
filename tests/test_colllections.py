@@ -77,7 +77,7 @@ def ishex(s):
 def test_inscriptions():
     current_collections = os.listdir(COLLECTIONS)
     for x in current_collections:
-with open("{}/{{}}/meta.json".format(COLLECTIONS).format(x), "r") as file:
+with open("{}/{}/meta.json".format(COLLECTIONS, x), "r") as file:
     meta = json.load(file)
 
         for y in inscriptions:
