@@ -3,6 +3,7 @@ import json
 import pytest
 
 COLLECTIONS = "./collections"
+
 def test_home_structure():
     expected_directories = [
         "LICENSE",
@@ -22,12 +23,14 @@ def test_home_structure():
     current_directories = os.listdir()
     correct_directories = [x in expected_directories for x in current_directories]
     assert all(correct_directories), 'Top level changes are not allowed'
+
 def test_collections_structure():
     current_collections = os.listdir(COLLECTIONS)
     folders = [
         not os.path.isfile(f"{COLLECTIONS}/{x}") for x in current_collections
     ]
     assert all(folders), 'Invalid structure, include your files in a nested directory'
+
 def test_meta():
     expected_meta = {
         "name": "Based Apes",
@@ -56,7 +59,7 @@ def test_meta():
                     if y[0]:
                         assert y[0].startswith('https://') or y[0].startswith('http://'), 'link must start with https://'
 
-assert (len(meta.get('inscription_icon')) == 66) or meta.get('inscription_icon')
+            assert (len(meta.get('inscription_icon')) == 66) or meta.get('inscription_icon')
 
 def ishex(s):
     try:
@@ -78,6 +81,7 @@ def test_inscriptions():
 
         for y in inscriptions:
             # Rest of the assertions
+
 def test_uniqueness():
     input_collections = os.listdir(COLLECTIONS)
     print('\n\n')
