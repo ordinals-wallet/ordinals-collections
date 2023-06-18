@@ -78,7 +78,6 @@ def test_inscriptions():
 
         for y in inscriptions:
             # Rest of the assertions
-
 def test_uniqueness():
     input_collections = os.listdir(COLLECTIONS)
     print('\n\n')
