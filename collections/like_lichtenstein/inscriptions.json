@@ -322,5 +322,113 @@
         }
       ]
     }
+  },
+  {
+    "id": "d3e08c0f50569f150d12cb5d70e5dc859d9217660e8272447c6ef326044561b3i0",
+    "meta": {
+      "name": "Like Lichtenstein ROY #10",
+      "attributes": [
+        {
+          "trait_type": "Hair",
+          "value": "DarkBrown"
+        },
+        {
+          "trait_type": "Grass",
+          "value": "White"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Lip",
+          "value": "purple"
+        },
+        {
+          "trait_type": "Quote",
+          "value": "Not guilty"
+        },
+        {
+          "trait_type": "Animate",
+          "value": "Tarial"
+        },
+        {
+          "trait_type": "Other",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9be37ffd40f7d6227b9db57153d4a0b5a06e1a2141d57f7e93dea7e913ec04e1i0",
+    "meta": {
+      "name": "Like Lichtenstein ROY #11",
+      "attributes": [
+        {
+          "trait_type": "Hair",
+          "value": "brown"
+        },
+        {
+          "trait_type": "Grass",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Lip",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Quote",
+          "value": "My daughter"
+        },
+        {
+          "trait_type": "Animate",
+          "value": "Baby"
+        },
+        {
+          "trait_type": "Other",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "61c92b3ecf501ec0eb97159dcf9aadbc1eaf2f42fb41a655acac9daea13e2a92i0",
+    "meta": {
+      "name": "Like Lichtenstein ROY #12",
+      "attributes": [
+        {
+          "trait_type": "Hair",
+          "value": "Blond"
+        },
+        {
+          "trait_type": "Grass",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Lip",
+          "value": "Coral"
+        },
+        {
+          "trait_type": "Quote",
+          "value": "Don't think"
+        },
+        {
+          "trait_type": "Animate",
+          "value": "Kung fu"
+        },
+        {
+          "trait_type": "Other",
+          "value": "None"
+        }
+      ]
+    }
   }
 ]
