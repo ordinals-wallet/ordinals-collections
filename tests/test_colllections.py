@@ -91,4 +91,4 @@ def test_uniqueness():
             except json.JSONDecodeError as e:
                 pytest.fail(f"Failed to decode JSON in {collection}/inscriptions.json: {str(e)}")
 
-        # Rest of the assertions
+    # Rest of the assertions
