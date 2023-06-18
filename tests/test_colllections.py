@@ -94,6 +94,14 @@ def test_uniqueness():
             except json.JSONDecodeError as e:
                 pytest.fail(f"Failed to decode JSON in {collection}/inscriptions.json: {str(e)}")
 
-        # Rest of the assertions
-        # Indent the code properly
+            # Assert uniqueness of inscription IDs
+            for inscription in inscriptions:
+                inscription_id = inscription.get("id")
+                assert inscription_id, "Inscription ID is missing"
+                assert inscription_id not in all_inscription_ids, f"Duplicated inscription ID: {inscription_id}"
+                all_inscription_ids.append(inscription_id)
+
+            # Assert other conditions for inscriptions
+
+            # Rest of the assertions
 
