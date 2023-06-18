@@ -56,7 +56,8 @@ def test_meta():
                     if y[0]:
                         assert y[0].startswith('https://') or y[0].startswith('http://'), 'link must start with https://'
 
-            assert (len(meta.get('inscription_icon')) == 66) or meta.get('inscription_icon
+assert (len(meta.get('inscription_icon')) == 66) or meta.get('inscription_icon')
+
 　
 def ishex(s):
     try:
