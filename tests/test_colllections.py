@@ -82,10 +82,12 @@ def test_inscriptions():
             # Add assertions for inscriptions
 
 def test_uniqueness():
-    all_inscription_ids = []
-    current_collections = os.listdir(COLLECTIONS)
+    input_collections = os.listdir(COLLECTIONS)
+    print('\n\n')
 
-    for collection in current_collections:
+    # Add new collections
+    all_inscription_ids = []
+    for collection in input_collections:
         with open(f"{COLLECTIONS}/{collection}/inscriptions.json", "r") as file:
             try:
                 inscriptions = json.load(file)
@@ -98,6 +100,10 @@ def test_uniqueness():
                 assert inscription_id, "Inscription ID is missing"
                 assert inscription_id not in all_inscription_ids, f"Duplicated inscription ID: {inscription_id}"
                 all_inscription_ids.append(inscription_id)
+
+            # Assert other conditions for inscriptions
+
+            # Rest of the assertions
 
             # Add other assertions for inscriptions
 
