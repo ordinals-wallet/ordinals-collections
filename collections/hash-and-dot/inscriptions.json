@@ -2,29 +2,171 @@
     {
         "id": "99844960354a904b91f5204175e8a4e7f1e475c64971edf739edb1ff538a9b23i0",
         "meta": {
-            "name": "Hash && Dot #0",
-            "attributes": []
+            "name": "Hash && Dot #0 (Genesis)",
+            "attributes": 
+            [
+                {
+                    "trait_type": "Colors",
+                    "value": "0"
+                },
+                {
+                    "trait_type": "Density",
+                    "value": "0"
+                }
+            ]
         }
     },
     {
         "id": "99ac078f6a15c8119a913fee20d52259a9e121ad5d0cafdbc7c8a3e105e655ebi0",
         "meta": {
             "name": "Hash && Dot #1",
-            "attributes": []
+            "attributes":
+            [
+                {
+                    "trait_type": "Colors",
+                    "value": "25"
+                },
+                {
+                    "trait_type": "Density",
+                    "value": "0.591"
+                }
+            ]
         }
     },
     {
         "id": "d42608a3b000d8988a70d4fe69a85894dc937edb21b3744783e8cef63536faf0i0",
         "meta": {
             "name": "Hash && Dot #2",
-            "attributes": []
+            "attributes":
+            [
+                {
+                    "trait_type": "Colors",
+                    "value": "25"
+                },
+                {
+                    "trait_type": "Density",
+                    "value": "0.494"
+                }
+            ]
+        }
+    },
+    {
+        "id": "9e2525b51f2df82244080ccfb3367fb9c5b810ba10de57303a2cf4c464a7f8b3i0",
+        "meta": {
+            "name": "Hash && Dot #3",
+            "attributes":
+            [
+                {
+                    "trait_type": "Colors",
+                    "value": "22"
+                },
+                {
+                    "trait_type": "Density",
+                    "value": "0.317"
+                }
+            ]
+        }
+    },
+    {
+        "id": "5473d822fec72839d8a40d183b5060f13633dd461ca7075e97899bc761f4dc03i0",
+        "meta": {
+            "name": "Hash && Dot #4",
+            "attributes":
+            [
+                {
+                    "trait_type": "Colors",
+                    "value": "24"
+                },
+                {
+                    "trait_type": "Density",
+                    "value": "0.440"
+                }
+            ]
+        }
+    },
+    {
+        "id": "29e688c5c0421b17f1e8ba9cf8dc733c0d1e905ffe3a497e700101cf7167df11i0",
+        "meta": {
+            "name": "Hash && Dot #5",
+            "attributes":
+            [
+                {
+                    "trait_type": "Colors",
+                    "value": "21"
+                },
+                {
+                    "trait_type": "Density",
+                    "value": "0.244"
+                }
+            ]
+        }
+    },
+    {
+        "id": "4bd8448da7e76bbeb8e32ef724d8b70aa5fe526cde77fee41633730c4e61ab8ei0",
+        "meta": {
+            "name": "Hash && Dot #6",
+            "attributes":
+            [
+                {
+                    "trait_type": "Colors",
+                    "value": "24"
+                },
+                {
+                    "trait_type": "Density",
+                    "value": "0.627"
+                }
+            ]
+        }
+    },
+    {
+        "id": "1670874dcd08ee829294ded51e13dc25fad369a2c7fb0c44cb929de3b975047fi0",
+        "meta": {
+            "name": "Hash && Dot #7",
+            "attributes":
+            [
+                {
+                    "trait_type": "Colors",
+                    "value": "25"
+                },
+                {
+                    "trait_type": "Density",
+                    "value": "0.383"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6b0a408e8fc36a1c3c6ab841aa06f35926b65087a909992c38f7fa9d6ea19676i0",
+        "meta": {
+            "name": "Hash && Dot #8",
+            "attributes":
+            [
+                {
+                    "trait_type": "Colors",
+                    "value": "25"
+                },
+                {
+                    "trait_type": "Density",
+                    "value": "0.495"
+                }
+            ]
         }
     },
     {
         "id": "",
         "meta": {
-            "name": "Hash && Dot #3",
-            "attributes": []
+            "name": "Hash && Dot #9",
+            "attributes":
+            [
+                {
+                    "trait_type": "Colors",
+                    "value": "26"
+                },
+                {
+                    "trait_type": "Density",
+                    "value": "0.506"
+                }
+            ]
         }
     }
 ]
