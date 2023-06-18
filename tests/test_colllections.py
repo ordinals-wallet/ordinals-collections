@@ -1,8 +1,8 @@
 import os
 import json
+import pytest
 
 COLLECTIONS = "./collections"
-
 
 def test_home_structure():
     expected_directories = [
@@ -24,14 +24,12 @@ def test_home_structure():
     correct_directories = [x in expected_directories for x in current_directories]
     assert all(correct_directories), 'Top level changes are not allowed'
 
-
 def test_collections_structure():
     current_collections = os.listdir(COLLECTIONS)
     folders = [
-        not os.path.isfile("{}/{}".format(COLLECTIONS, x)) for x in current_collections
+        not os.path.isfile(f"{COLLECTIONS}/{x}") for x in current_collections
     ]
     assert all(folders), 'Invalid structure, include your files in a nested directory'
-
 
 def test_meta():
     expected_meta = {
@@ -53,7 +51,15 @@ def test_meta():
             except json.JSONDecodeError as e:
                 pytest.fail(f"Failed to decode JSON in {x}/meta.json: {str(e)}")
 
-        assert set(meta.keys()) == set(expected_meta.keys()), 'Invalid meta data keys'
+            assert set(meta.keys()) == set(expected_meta.keys()), 'Invalid meta data keys'
+
+            for y in zip(meta.values(), meta.keys()):
+                assert isinstance(y[0], str), 'Invalid data type, use a string'
+                if y[1].endswith('link'):
+                    if y[0]:
+                        assert y[0].startswith('https://') or y[0].startswith('http://'), 'link must start with https://'
+
+            assert (len(meta.get('inscription_icon')) == 66) or meta.get('inscription_icon
 　
 def ishex(s):
     try:
