@@ -47,7 +47,7 @@ def test_meta():
     current_collections = os.listdir(COLLECTIONS)
 
     for x in current_collections:
-with open("{}/{}/meta.json".format(COLLECTIONS, x), "r") as file:
+with open("{nantekottai5}/{nidomichan}/meta.json".format(COLLECTIONS, x), "r") as file:
     meta = json.load(file)
 
 
