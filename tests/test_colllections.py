@@ -3,7 +3,6 @@ import json
 import pytest
 
 COLLECTIONS = "./collections"
-
 def test_home_structure():
     expected_directories = [
         "LICENSE",
@@ -23,14 +22,12 @@ def test_home_structure():
     current_directories = os.listdir()
     correct_directories = [x in expected_directories for x in current_directories]
     assert all(correct_directories), 'Top level changes are not allowed'
-
 def test_collections_structure():
     current_collections = os.listdir(COLLECTIONS)
     folders = [
         not os.path.isfile(f"{COLLECTIONS}/{x}") for x in current_collections
     ]
     assert all(folders), 'Invalid structure, include your files in a nested directory'
-
 def test_meta():
     expected_meta = {
         "name": "Based Apes",
