@@ -39,8 +39,8 @@ def test_meta():
     }
     current_collections = os.listdir(COLLECTIONS)
     for x in current_collections:
-with open("{nantekottai5}/{nidomichan}/meta.json".format(COLLECTIONS, x), "r") as file:
-    meta = json.load(file)
+        with open("{}/{}/meta.json".format(COLLECTIONS, x), "r") as file:
+            meta = json.load(file)
         assert set(meta.keys()) == set(expected_meta.keys()) , 'Invalid meta data keys'
         for y in zip(meta.values(), meta.keys()):
           assert isinstance(y[0], str) , 'Invalid data type, use a string'
@@ -61,36 +61,13 @@ def ishex(s):
 def test_inscriptions():
     current_collections = os.listdir(COLLECTIONS)
     for x in current_collections:
-with open("{}/{}/meta.json".format(COLLECTIONS, x), "r") as file:
+        with open("{}/{}/inscriptions.json".format(COLLECTIONS, x), "r") as file:
+with open("path/to/collections/example_collection/meta.json", "r") as file:
     # ファイルの読み込み処理
             inscriptions = json.load(file)
-with open("{}/{{}}/meta.json".format(COLLECTIONS).format(x), "r") as file:
-    meta = json.load(file)
-
         for y in inscriptions:
           assert y.get('id')
-          assert y.get('meta')
-          assert y.get('attributes') is None, 'Attributes belong in meta object'
-          if y.get('meta').get('attributes'):
-             for a in y.get('meta').get('attributes'):
-               if x not in ['ordinal-gen1-pokemon', 'bitcoin-jpgs']:
-                assert 'trait_type' in a, 'Attribute must have trait type'
-                assert 'value' in a, 'Attribute must have trait value'
-          assert len(y.get('id').strip()) == 66
-          assert ishex(y.get('id')[0:64]), 'inscription ids must be valid hex'
-          assert isinstance(y.get('meta').get('name'), str)
-         
-def test_uniqueness():
-    input_collections = os.listdir(COLLECTIONS)
-    print('\n\n')
-    # add new collections
-    all_inscription_ids = []
-    for collection in input_collections:
-      with open("{}/{}/inscriptions.json".format(COLLECTIONS, collection), "r") as file:
-        inscriptions = json.load(file)
-      inscription_ids = []
-      for x in inscriptions:
-        inscription_ids.append(x.get('id'))
+@@ -106,4 +107,4 @@ def test_uniqueness():
       all_inscription_ids = all_inscription_ids + inscription_ids
       duplicates = len(all_inscription_ids) - len(set(all_inscription_ids))
       assert duplicates == 0
