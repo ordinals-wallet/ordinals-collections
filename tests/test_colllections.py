@@ -64,7 +64,7 @@ def test_inscriptions():
     for x in current_collections:
 with open("{}/{}/meta.json".format(COLLECTIONS, x), "r") as file:
     # ファイルの読み込み処理
-            inscriptions = json.load(file)
+    inscriptions = json.load(file)
 with open("{}/{{}}/meta.json".format(COLLECTIONS).format(x), "r") as file:
     meta = json.load(file)
 
