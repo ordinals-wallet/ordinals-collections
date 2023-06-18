@@ -105,6 +105,3 @@ def test_uniqueness():
             # Assert other conditions for inscriptions
 
             # Rest of the assertions
-
-
-            # Rest of the assertions
