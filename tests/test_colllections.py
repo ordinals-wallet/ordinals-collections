@@ -92,3 +92,4 @@ def test_uniqueness():
                 pytest.fail(f"Failed to decode JSON in {collection}/inscriptions.json: {str(e)}")
 
         # Rest of the assertions
+        # Indent the code properly
