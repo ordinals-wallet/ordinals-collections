@@ -1,6 +1,5 @@
 import os
 import json
-
 COLLECTIONS = "./collections"
 def test_home_structure():
     expected_directories = [
@@ -64,9 +63,10 @@ def test_inscriptions():
     for x in current_collections:
 with open("{}/{}/meta.json".format(COLLECTIONS, x), "r") as file:
     # ファイルの読み込み処理
-    inscriptions = json.load(file)
+            inscriptions = json.load(file)
 with open("{}/{{}}/meta.json".format(COLLECTIONS).format(x), "r") as file:
     meta = json.load(file)
+
         for y in inscriptions:
           assert y.get('id')
           assert y.get('meta')
@@ -78,7 +78,8 @@ with open("{}/{{}}/meta.json".format(COLLECTIONS).format(x), "r") as file:
                 assert 'value' in a, 'Attribute must have trait value'
           assert len(y.get('id').strip()) == 66
           assert ishex(y.get('id')[0:64]), 'inscription ids must be valid hex'
-          assert isinstance(y.get('meta').get('name'), str)      
+          assert isinstance(y.get('meta').get('name'), str)
+         
 def test_uniqueness():
     input_collections = os.listdir(COLLECTIONS)
     print('\n\n')
@@ -93,3 +94,4 @@ def test_uniqueness():
       all_inscription_ids = all_inscription_ids + inscription_ids
       duplicates = len(all_inscription_ids) - len(set(all_inscription_ids))
       assert duplicates == 0
+     
