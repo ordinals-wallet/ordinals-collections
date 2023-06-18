@@ -59,7 +59,7 @@ def test_meta():
                     if y[0]:
                         assert y[0].startswith('https://') or y[0].startswith('http://'), 'link must start with https://'
 
-            assert (len(meta.get('inscription_icon')) == 66) or meta.get('inscription_icon')
+            assert len(meta.get('inscription_icon', '')) == 66 or meta.get('inscription_icon')
 
 def ishex(s):
     try:
@@ -67,7 +67,6 @@ def ishex(s):
         return True
     except ValueError:
         return False
-
 
 def test_inscriptions():
     current_collections = os.listdir(COLLECTIONS)
@@ -80,15 +79,13 @@ def test_inscriptions():
         inscriptions = meta.get('inscriptions', [])
 
         for y in inscriptions:
-            # Rest of the assertions
+            # Add assertions for inscriptions
 
 def test_uniqueness():
-    input_collections = os.listdir(COLLECTIONS)
-    print('\n\n')
-
-    # Add new collections
     all_inscription_ids = []
-    for collection in input_collections:
+    current_collections = os.listdir(COLLECTIONS)
+
+    for collection in current_collections:
         with open(f"{COLLECTIONS}/{collection}/inscriptions.json", "r") as file:
             try:
                 inscriptions = json.load(file)
@@ -102,6 +99,6 @@ def test_uniqueness():
                 assert inscription_id not in all_inscription_ids, f"Duplicated inscription ID: {inscription_id}"
                 all_inscription_ids.append(inscription_id)
 
-            # Assert other conditions for inscriptions
+            # Add other assertions for inscriptions
 
             # Rest of the assertions
