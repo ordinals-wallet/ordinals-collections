@@ -84,6 +84,7 @@ def test_inscriptions():
 
 def test_uniqueness():
     input_collections = os.listdir(COLLECTIONS)
+    print('\n\n')
 
     # Add new collections
     all_inscription_ids = []
