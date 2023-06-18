@@ -63,8 +63,8 @@ def test_inscriptions():
     for x in current_collections:
         with open("{}/{}/inscriptions.json".format(COLLECTIONS, x), "r") as file:
 with open("path/to/collections/example_collection/meta.json", "r") as file:
-    # ファイルの読み込み処理
-            inscriptions = json.load(file)
+        # ファイルの読み込み処理
+        inscriptions = json.load(file)
         for y in inscriptions:
           assert y.get('id')
 @@ -106,4 +107,4 @@ def test_uniqueness():
