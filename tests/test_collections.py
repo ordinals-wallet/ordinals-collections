@@ -1,5 +1,6 @@
 import os
 import json
+
 COLLECTIONS = "./collections"
 def test_home_structure():
     expected_directories = [
