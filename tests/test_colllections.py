@@ -54,7 +54,7 @@ def test_meta():
                 pytest.fail(f"Failed to decode JSON in {x}/meta.json: {str(e)}")
 
         assert set(meta.keys()) == set(expected_meta.keys()), 'Invalid meta data keys'
-
+　
 def ishex(s):
     try:
         n = int(s,16)
