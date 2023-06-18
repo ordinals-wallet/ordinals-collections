@@ -61,12 +61,12 @@ def ishex(s):
 def test_inscriptions():
     current_collections = os.listdir(COLLECTIONS)
     for x in current_collections:
-        with open("{}/{}/inscriptions.json".format(COLLECTIONS, x), "r") as file:
-    with open("path/to/collections/example_collection/meta.json", "r") as file:
+    with open("{}/{}/inscriptions.json".format(COLLECTIONS, x), "r") as file:
         # ファイルの読み込み処理
         inscriptions = json.load(file)
+
         for y in inscriptions:
-          assert y.get('id')
+      assert y.get('id')  # コロンを追加
 @@ -106,4 +107,4 @@ def test_uniqueness():
       all_inscription_ids = all_inscription_ids + inscription_ids
       duplicates = len(all_inscription_ids) - len(set(all_inscription_ids))
