@@ -81,6 +81,8 @@ def test_inscriptions():
 
 def test_uniqueness():
     input_collections = os.listdir(COLLECTIONS)
+    # 以降のコードも適切にインデントされていることを確認する
+
     print('\n\n')
 
     # add new collections
