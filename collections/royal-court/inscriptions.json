@@ -1,0 +1,290 @@
+[
+  {
+    "id": "c90473c1a73573daf6d8554cd544c0e4038c69c298fdd5d8068b139b6242efedi0",
+    "meta": {
+      "name": "Ace of Spades",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "Ace"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Spades"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3faf37b377e022a4a5109e89be45d38a37bcf79fbe93018d5fd8e7f53b38e80di0",
+    "meta": {
+      "name": "Ace of Diamonds",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "Ace"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Diamonds"
+        }
+      ]
+    }
+  },
+  {
+    "id": "479901e4eff49ca5b77f8a9154a95e3bc83fd41f0d9a441232f3d9ad4c9cac6di0",
+    "meta": {
+      "name": "Ace of Hearts",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "Ace"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Hearts"
+        }
+      ]
+    }
+  },
+  {
+    "id": "045c1bf546bb54df9c3f59e8bfb9e0f9e2da9e323207e93d4853cb4b188d56c7i0",
+    "meta": {
+      "name": "Ace of Clubs",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "Ace"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Clubs"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f16a540ded717c1a8e9d568bcc2176b67ed3a894c5c8377547f2e2b41d622aeai0",
+    "meta": {
+      "name": "Jack of Diamonds",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "Jack"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Diamonds"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f87ee8ebee4817e9084c7f45a141b9e104a5ecd5b77a775183369f4342aa8c0bi0",
+    "meta": {
+      "name": "Jack of Clubs",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "Jack"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Clubs"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e3fa3aba078b7495a707df03eeb904633f6f2c9e0e9c43902b00eddc0107e03di0",
+    "meta": {
+      "name": "Jack of Spades",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "Jack"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Spades"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a4ebe207a95d59ce0d66d197b525b4f98d7c14bf3ecfdb07aa600a47f1bca687i0",
+    "meta": {
+      "name": "Jack of Hearts",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "Jack"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Hearts"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f4a9cdf5da868cc12c55a9db4468ab34ac75a12eca06634368b928e65c50f046i0",
+    "meta": {
+      "name": "Joker, Red",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "Joker"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Red"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a319bdfb24fc6c0d9046988f93ce6c0e4ff0cd224439f085d0ad8f81d56c45c3i0",
+    "meta": {
+      "name": "Joker, Black",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "Joker"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Black"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a81f1d5d53d572e439ec04f72a10587c1dd6c5312873339f58e596d1ee3d0bb7i0",
+    "meta": {
+      "name": "King of Hearts",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "King"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Hearts"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b2ef2f7768846d9dde1d6a42cfe918d5a6a8bf86afea202bcd78b64d909782e9i0",
+    "meta": {
+      "name": "King of Clubs",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "King"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Clubs"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4e1b1665608950681d47cbcc2ba180c7160af5669865c8c6eec74e4d1f08d0eei0",
+    "meta": {
+      "name": "King of Diamonds",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "King"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Diamonds"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c24c5cd8ff9cbb0a90d359f0065783081bc6c9e55a2c688ae74cef583a5a7bfbi0",
+    "meta": {
+      "name": "King of Spades",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "King"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Spades"
+        }
+      ]
+    }
+  },
+  {
+    "id": "19c7dd662f21a5b61c3accce2d1329f05a1d6efc092fc0cb657e94a841889880i0",
+    "meta": {
+      "name": "Queen of Diamonds",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "Queen"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Diamonds"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4ebbb37487adcf86d81100564aa6fc8b0b0720eef5cc25dccca43f674fe5dd8fi0",
+    "meta": {
+      "name": "Queen of Clubs",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "Queen"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Clubs"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d88d762080602f734e8ed782c6b1f9e088b8fd049310dc866be20363876584c6i0",
+    "meta": {
+      "name": "Queen of Spades",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "Queen"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Spades"
+        }
+      ]
+    }
+  },
+  {
+    "id": "26cb243cebce279fec8b7cf549d319aea13388472db7d79a480a6a6f54ab6dfei0",
+    "meta": {
+      "name": "Queen of Hearts",
+      "attributes": [
+        {
+          "trait_type": "Face",
+          "value": "Queen"
+        },
+        {
+          "trait_type": "Suit",
+          "value": "Hearts"
+        }
+      ]
+    }
+  }
+]
