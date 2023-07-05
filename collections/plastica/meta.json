@@ -1,0 +1,8 @@
+{"name": "Plastica", 
+"inscription_icon": "f689111e515bad80b01a79e9c682f17eb9fbaeb0d22570b6d61be49f1aace036i0", 
+"supply": "40", 
+"slug": "plastica", 
+"description": "Plastica is a real time endless generative animation of a periodic surface continuously deformed by noise (FBM) with ray-marching rendering that gives a plastic look and behavior.The shapes formed by maximum and minimum of the rendered surfaces, even if completely abstract, can be viewed as something halfway between synthetic and organic matter. The variety of the 23 palettes contributes to this synthetic / organic vision.The rendering is implemented in vanilla Javascript WebGL with GLSL shader. The hash of the blockchain transaction is used to seed the PRNG (Pseudo Random Number generator) giving rise to features variation in the minted pieces.Requires a WebGL compatible browser and a recent PC with GPU.5 features/traits:- Palette (23 palettes)- Surface (8 kind of different surfaces)- FOV (in arbitrary unit)- Angle- ScaleINTERACTION[1] 1080x1080 resolution (default)[2] 2160x2160 resolution[s] save at current resolution", 
+"twitter_link": "https://twitter.com/Waterflowing0", 
+"discord_link": "", 
+"website_link": ""}
