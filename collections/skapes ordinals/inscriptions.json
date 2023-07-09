@@ -6,7 +6,7 @@
 	"attributes": [{"trait_type": "Vibe", "value": "Bored"}, {"trait_type": "Facing", "value": "Left"}, {"trait_type": "Effect", "value": "Nature"}, {"trait_type": "Object", "value": "Fairy "}, {"trait_type": "Fur Color", "value": "Brown"}, {"trait_type": "Background", "value": "Blue"}
       ]
     }
-  } /*,
+  },
 {
     "id":"INSCRIPTION",
     "meta":{"name": "SKAPE #105",
@@ -512,5 +512,5 @@
     { "trait_type": "Background", "value": "Grey" }
       ]
     }
-  }*/
+  }
 ]
