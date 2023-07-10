@@ -1,0 +1,72 @@
+id, name,  category
+
+## Base
+0, Human, Base
+1, Human (With Cigarette), Base
+2, Zombie, Base
+3, Mummy, Base
+4, Robot, Base
+
+##  Top  - or use head or headwear or hair & hats or such??
+5, Top 1,  Top
+6, Top 2,  Top
+7, Top 3, Top
+8, Top 4, Top
+9,  Top 5, Top
+10, Top 6, Top
+11, Top 7, Top
+12, Top 8, Top
+13, Top 9, Top
+14, Top 10, Top
+15, Top 11, Top
+16, Top 12, Top
+
+## Back or Backwear??
+## Weapon or Armor or ??
+## Body or Torso or ??
+
+17,  Back 1,   Back
+18,  Weapon 1, Weapon
+19,  Body 1,   Body
+20,  Weapon 2, Weapon
+21,  Back 2,   Back
+22,  Weapon 3, Weapon
+23,  Weapon 4, Weapon
+24,  Body 2,   Body
+25,  Weapon 5, Weapon
+26,  Body 3,    Body
+27,  Weapon 6, Weapon
+28,  Weapon 7, Weapon
+29,  Body 4,    Body
+30,  Back 3,    Back
+31,  Weapon 8, Weapon
+32,  Weapon 9, Weapon
+33,  Back 4,   Back
+34,  Back 5,   Back
+35,  Back 6,    Back
+36,  Back 7,    Back
+37,  Weapon 10, Weapon
+38,  Weapon 11, Weapon
+39,  Weapon 12, Weapon
+40,  Weapon 13, Weapon
+41,  Body 5,   Body
+42,  Body 6,   Body
+43,  Back 8,   Back
+44,  Back 9,   Back
+45,  Weapon 14, Weapon
+
+##  Legs  or Pants?
+46,  Pants 1,   Pants
+47,  Pants 2,   Pants
+48,  Pants 3,   Pants
+49,  Pants 4,   Pants
+50,  Pants 5,   Pants
+
+## Backgrounds
+51,  Background 1, Background
+52,  Background 2, Background
+53,  Background 3, Background
+54,  Background 4, Background
+55,  Background 5, Background
+56,  Background 6, Background
+57,  Background 7, Background 
