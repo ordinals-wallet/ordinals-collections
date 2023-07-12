@@ -1,602 +1,2002 @@
 [
-    {
-        "id": "83e7b772656e6aa0988d94c9f7d772c94c0304e3273adb0cc88d191440733c04i0",
-        "meta": {
-            "name": "RESIDENT PASS 1"
-        }
-    },
-    {
-        "id": "33185b041dcb90bfddf1c7ee3e8d4fea02bed08c3d19790747602fe0f702a309i0",
-        "meta": {
-            "name": "RESIDENT PASS 2"
-        }
-    },
-    {
-        "id": "977e1ec2fea437a732562604453e93926c0d778ce50b256b60fcef14860e1f0di0",
-        "meta": {
-            "name": "RESIDENT PASS 3"
-        }
-    },
-    {
-        "id": "d8cedda5edadc2c351f2f2a7154a28b60eea264a20f9226ad9a1bf0628e99b13i0",
-        "meta": {
-            "name": "RESIDENT PASS 4"
-        }
-    },
-    {
-        "id": "ea42fd34fb6c230783494fb95398253bd83b916075fe3f577a8693a440355715i0",
-        "meta": {
-            "name": "RESIDENT PASS 5"
-        }
-    },
-    {
-        "id": "5aa4a7537e1f338bf0cfdf9fab62a3f2fd852cbb92c4d8a4366870fceda64b1di0",
-        "meta": {
-            "name": "RESIDENT PASS 6"
-        }
-    },
-    {
-        "id": "c06cad3c0822d4c9ca3a81124d2dbca26b735059c24d24b4035a0c5f717d412bi0",
-        "meta": {
-            "name": "RESIDENT PASS 7"
-        }
-    },
-    {
-        "id": "65103f4e3362148499a5bec646ca0d378b08b69394200301cb409140c84dd235i0",
-        "meta": {
-            "name": "RESIDENT PASS 8"
-        }
-    },
-    {
-        "id": "43104a179b6887366bdbf13f33721ea5ae92a7490dac94d78b7e06e04773663ai0",
-        "meta": {
-            "name": "RESIDENT PASS 9"
-        }
-    },
-    {
-        "id": "821674c704ee2d9634ffadbd618d44363921b63e6862ddeff69f17a308a32343i0",
-        "meta": {
-            "name": "RESIDENT PASS 10"
-        }
-    },
-    {
-        "id": "261158f94936591affe1e392e64ce02dacf7e8fbb45ebfc071c55759cad2ee50i0",
-        "meta": {
-            "name": "RESIDENT PASS 11"
-        }
-    },
-    {
-        "id": "ab2f49bb60d7a9044a130838ac5046432495980a66e16e82a88ad48cb04bb353i0",
-        "meta": {
-            "name": "RESIDENT PASS 12"
-        }
-    },
-    {
-        "id": "b893152539b8c9c696e533ae25e2943daf9f104b5e64d7ffe5adcbfc9b049c56i0",
-        "meta": {
-            "name": "RESIDENT PASS 13"
-        }
-    },
-    {
-        "id": "e9bca138cd37866e6a03c5ded01b2599a3693c011ccc4680792e7489e716005ai0",
-        "meta": {
-            "name": "RESIDENT PASS 14"
-        }
-    },
-    {
-        "id": "55d9b16a25b3fbd9871e2bc8d1b1508aa02abf3ac100c99051aef5560348215fi0",
-        "meta": {
-            "name": "RESIDENT PASS 15"
-        }
-    },
-    {
-        "id": "c05a994420fb89d1bdc5df3812b6c68446788854822275d30a586d1acb44016ai0",
-        "meta": {
-            "name": "RESIDENT PASS 16"
-        }
-    },
-    {
-        "id": "79f4293fdf288a73b870903cdb4725209c6e7bd35b4add730e183f7c3c94317ei0",
-        "meta": {
-            "name": "RESIDENT PASS 17"
-        }
-    },
-    {
-        "id": "598e6a85763a4537aca255a367f63c9cc193adfd288d835068f6bbfef2156881i0",
-        "meta": {
-            "name": "RESIDENT PASS 18"
-        }
-    },
-    {
-        "id": "b3c9a9a5d0bb5288c66fcf5132fdd234b4522ba26afb2e0552254e1cc1932089i0",
-        "meta": {
-            "name": "RESIDENT PASS 19"
-        }
-    },
-    {
-        "id": "73fcfcc3a0e6d59f77c2b7b27200c1189203a2f990b6f930bd900322980c4289i0",
-        "meta": {
-            "name": "RESIDENT PASS 20"
-        }
-    },
-    {
-        "id": "7900cc2560baae348852c8230aafec68594565bc5259b8daf9e683efbcf66089i0",
-        "meta": {
-            "name": "RESIDENT PASS 21"
-        }
-    },
-    {
-        "id": "954583a075f1276fa43f98c1b02f0da28a02c8234762395b44b6d67fbc63068ci0",
-        "meta": {
-            "name": "RESIDENT PASS 22"
-        }
-    },
-    {
-        "id": "e13c2d252c859b8a90b6646ef17e1e5187e943a532387c1b85c3393704789c93i0",
-        "meta": {
-            "name": "RESIDENT PASS 23"
-        }
-    },
-    {
-        "id": "5e572e89be03392e419d53f4a05a0840e2cdae7cbf2bd3406dfd702d48bb3f94i0",
-        "meta": {
-            "name": "RESIDENT PASS 24"
-        }
-    },
-    {
-        "id": "9cb815a5da5ccb7a43f7dd5e94425526728c3510a30f41b94bfa9022cfb22c96i0",
-        "meta": {
-            "name": "RESIDENT PASS 25"
-        }
-    },
-    {
-        "id": "adbf70507e774bfe7806c41ff07da1dbccd1e4275f60d215b1f9891385c79997i0",
-        "meta": {
-            "name": "RESIDENT PASS 26"
-        }
-    },
-    {
-        "id": "0f4e2f046c4ca10482d4af0193d64d41467cf86ef4ff0d93db750ae381737398i0",
-        "meta": {
-            "name": "RESIDENT PASS 27"
-        }
-    },
-    {
-        "id": "6d779621dc771d32549ec7a909f7419f103ed9457d9530bb5a05314d2bc5519ai0",
-        "meta": {
-            "name": "RESIDENT PASS 28"
-        }
-    },
-    {
-        "id": "92e1412734e0f06f7e409a9bd809af9b77419d45c88c18b38120b666b20122aci0",
-        "meta": {
-            "name": "RESIDENT PASS 29"
-        }
-    },
-    {
-        "id": "3bc8cac84e48a2831bdff3c6bf01022651854243224d2eb82513b03a83b799b1i0",
-        "meta": {
-            "name": "RESIDENT PASS 30"
-        }
-    },
-    {
-        "id": "a69e46550240bf47a0bad3e0dd453dce8193a8d76bcc6c5849351a65dd0a87b4i0",
-        "meta": {
-            "name": "RESIDENT PASS 31"
-        }
-    },
-    {
-        "id": "f37d059a99961b6f922cbfc3f5623b97ef8b0168554d620d5a819d60c0b5adb7i0",
-        "meta": {
-            "name": "RESIDENT PASS 32"
-        }
-    },
-    {
-        "id": "b5e566708fd4f58b8a592d4d06d363b207acaf2e979c335a53b3c7b3f05f12c3i0",
-        "meta": {
-            "name": "RESIDENT PASS 33"
-        }
-    },
-    {
-        "id": "c6a63fe8bb8be1c451b013f865f24667c13025ff098b2b8a3ba4029e377393dfi0",
-        "meta": {
-            "name": "RESIDENT PASS 34"
-        }
-    },
-    {
-        "id": "aa1b4fd4e4597892b3c7b35495cce9d9244a0650d195820e91a69131471122e3i0",
-        "meta": {
-            "name": "RESIDENT PASS 35"
-        }
-    },
-    {
-        "id": "a58af029ba59b2fdbee24bc71a2d189d2504a13dc17c8d910eb7ac8a3dccf3eci0",
-        "meta": {
-            "name": "RESIDENT PASS 36"
-        }
-    },
-    {
-        "id": "f8024a157a1ca3689532ef9aeebaf44dab1ce6fc6d521188e6e01c2c7c8969f2i0",
-        "meta": {
-            "name": "RESIDENT PASS 37"
-        }
-    },
-    {
-        "id": "fb94e3108888cebd0dd086c4d7a6dc1a264c03fad64d96bebbeaa1eaef60cbf8i0",
-        "meta": {
-            "name": "RESIDENT PASS 38"
-        }
-    },
-    {
-        "id": "ec7953b00bb815a1411565555ef82bd96fa80470c5fb833177fc72898604c9f9i0",
-        "meta": {
-            "name": "RESIDENT PASS 39"
-        }
-    },
-    {
-        "id": "08b324577cff1a7df0e11c6ff6c587ff21ca8aa3229e15d178a074b1faa73e09i0",
-        "meta": {
-            "name": "RESIDENT PASS 40"
-        }
-    },
-    {
-        "id": "a704d318bae943edc9f579a871a635a5c821cf7063929ad2918290ecb0747812i0",
-        "meta": {
-            "name": "RESIDENT PASS 41"
-        }
-    },
-    {
-        "id": "03c0847d40870aadf5a4a95176a0caa79d915854855ace02820a92f124078b12i0",
-        "meta": {
-            "name": "RESIDENT PASS 42"
-        }
-    },
-    {
-        "id": "42e4270176198965e2426ca43d4bd164cffde203763ea10ffd28b3042b6b8320i0",
-        "meta": {
-            "name": "RESIDENT PASS 43"
-        }
-    },
-    {
-        "id": "535330be73cbbfbb5f8c30f4e3130ec30c6270406b2fd1db90fe1d18e6105325i0",
-        "meta": {
-            "name": "RESIDENT PASS 44"
-        }
-    },
-    {
-        "id": "10b671424265b9f1decac549561c67cde0ec364c020d806ccf82e77ac5b3f827i0",
-        "meta": {
-            "name": "RESIDENT PASS 45"
-        }
-    },
-    {
-        "id": "72049cfedaa1a6cafaead65deab0371cd5e6ee2d5d00aa64ef19896e361bc228i0",
-        "meta": {
-            "name": "RESIDENT PASS 46"
-        }
-    },
-    {
-        "id": "c1499c9e6455a3c9ac5db1ca0288455cf29591f8deeb899e0b6ab23aea6c202di0",
-        "meta": {
-            "name": "RESIDENT PASS 47"
-        }
-    },
-    {
-        "id": "b17719bae4fa1260cee15f82a3b5c81ff450a4d5a198eff504be3efde1681930i0",
-        "meta": {
-            "name": "RESIDENT PASS 48"
-        }
-    },
-    {
-        "id": "c738f1870e723b8eedaf82425c3aa7c48c4d2aebe7ea916b51744a71b42d6f30i0",
-        "meta": {
-            "name": "RESIDENT PASS 49"
-        }
-    },
-    {
-        "id": "f718435c8b160edd32e96ada63597635e04d5f54d33b73f17757aeed0b1f4134i0",
-        "meta": {
-            "name": "RESIDENT PASS 50"
-        }
-    },
-    {
-        "id": "eed06e817e0c7ba58a3caff0c232477e7d9f52d5715e9b5f4d060cd04858713ci0",
-        "meta": {
-            "name": "RESIDENT PASS 51"
-        }
-    },
-    {
-        "id": "21f5a82ed32e719982a8499cff672a2bddf967d4b5120da558aa4decfbdb7941i0",
-        "meta": {
-            "name": "RESIDENT PASS 52"
-        }
-    },
-    {
-        "id": "f186bef9d91cd0cad8ea6b9b85f47ed001e1dd28a377cedb9fb8533c31846644i0",
-        "meta": {
-            "name": "RESIDENT PASS 53"
-        }
-    },
-    {
-        "id": "12b35a592f335bb700556136d7fb15196b98bfbbe824746fa8dd000b2ead9c47i0",
-        "meta": {
-            "name": "RESIDENT PASS 54"
-        }
-    },
-    {
-        "id": "8da9e0f110381b0fadde0ff72e4b40833f16b2aad6b20ba4fae41cc28be46f48i0",
-        "meta": {
-            "name": "RESIDENT PASS 55"
-        }
-    },
-    {
-        "id": "f7f3ec86572524d73fb82dd77da5aac805290eb3846db5e884221938da4b1950i0",
-        "meta": {
-            "name": "RESIDENT PASS 56"
-        }
-    },
-    {
-        "id": "e9112aff52b68202197679c77cb829afdd6ff186e4999623b0602169aeda8d59i0",
-        "meta": {
-            "name": "RESIDENT PASS 57"
-        }
-    },
-    {
-        "id": "5c9e2104f4d17a494d7bb0fb399d1818673c9db3f4715d37df72f3dc4686535ai0",
-        "meta": {
-            "name": "RESIDENT PASS 58"
-        }
-    },
-    {
-        "id": "6d7bf50e91c52d9dc84102a987d7ebfaa84b64b53fc2ca7534cfe183a0b7475bi0",
-        "meta": {
-            "name": "RESIDENT PASS 59"
-        }
-    },
-    {
-        "id": "21384fe78eb6e494f7c465f47e61e99c6b714c2734d07c2beee1f72346a8f75ci0",
-        "meta": {
-            "name": "RESIDENT PASS 60"
-        }
-    },
-    {
-        "id": "592c7b926219b1996f75cc6dbabbf137396a1ab7417ce5a8d2b752a0519b1f60i0",
-        "meta": {
-            "name": "RESIDENT PASS 61"
-        }
-    },
-    {
-        "id": "fb7e4ec6b89d1d9e4c589e8d61062b8083da981087b649661e67e431af9ff867i0",
-        "meta": {
-            "name": "RESIDENT PASS 62"
-        }
-    },
-    {
-        "id": "8d9dbd13cdf3e9205abeaaf28ec661b681f87c1609e4da48df8fd6e29b62cd6di0",
-        "meta": {
-            "name": "RESIDENT PASS 63"
-        }
-    },
-    {
-        "id": "ebb196b5554c5062544b874bd8bb04f57a8676e8b036339a815fee358e990178i0",
-        "meta": {
-            "name": "RESIDENT PASS 64"
-        }
-    },
-    {
-        "id": "035f2b21e882e1ac24c163a7a1c143c1cbf5ed5124d7533d09dc2e2778caa97ai0",
-        "meta": {
-            "name": "RESIDENT PASS 65"
-        }
-    },
-    {
-        "id": "0870afdcbd08f50d255e50e2a4ea9106bd94b3e82703484c812791ed1985a97ci0",
-        "meta": {
-            "name": "RESIDENT PASS 66"
-        }
-    },
-    {
-        "id": "23d97be35b670fd0c6d2232b9231a2c0746cfae064df48505c652a68f77a8782i0",
-        "meta": {
-            "name": "RESIDENT PASS 67"
-        }
-    },
-    {
-        "id": "b6e6f42090a2f4963ebd1bf7a2426d84bbdf29970dc18f44ab8fa7c8cc143d87i0",
-        "meta": {
-            "name": "RESIDENT PASS 68"
-        }
-    },
-    {
-        "id": "14cb04506d4e0f9774a233b7be8927fa7107312e4d761a1c45a62418b1bce88ai0",
-        "meta": {
-            "name": "RESIDENT PASS 69"
-        }
-    },
-    {
-        "id": "d0716de77e586569ac50078c36fbcc139ec9c014744d49a762053099ca16c88di0",
-        "meta": {
-            "name": "RESIDENT PASS 70"
-        }
-    },
-    {
-        "id": "faa7620f710c6afacc1ca3424a2e18b212a9c0b7ef5e7164248f24328be45c94i0",
-        "meta": {
-            "name": "RESIDENT PASS 71"
-        }
-    },
-    {
-        "id": "cbb46f18f5647ea600ce84c64263efe71bcc51feafd3963b0ed9b125f9b08999i0",
-        "meta": {
-            "name": "RESIDENT PASS 72"
-        }
-    },
-    {
-        "id": "dc2356c078e74d7238f5ccb52b10c46e96f326fb62332f3b8b6e9b089b54a99ci0",
-        "meta": {
-            "name": "RESIDENT PASS 73"
-        }
-    },
-    {
-        "id": "b41246770b0ff5198075330eef69ec018d15933c42beb5b9e3b7d1a108be34a1i0",
-        "meta": {
-            "name": "RESIDENT PASS 74"
-        }
-    },
-    {
-        "id": "9d5905b9ffb6c76a3aedf01f4beacf3805ec712d2ba7d456aa8f65bc17d2c4a2i0",
-        "meta": {
-            "name": "RESIDENT PASS 75"
-        }
-    },
-    {
-        "id": "2cbb74a7c4d8f84eeb95dc01321ae93fdb0333838a481bc84d7926e0e4a2dea7i0",
-        "meta": {
-            "name": "RESIDENT PASS 76"
-        }
-    },
-    {
-        "id": "e57e42b1b57942bac0184f0d667deb0a07a4e76db0c17db57fc65fdba8e0f3adi0",
-        "meta": {
-            "name": "RESIDENT PASS 77"
-        }
-    },
-    {
-        "id": "86b9f8fe6964a1a32f47e5e820770f01b7d609ad6827c70db809e9ab27a3a3afi0",
-        "meta": {
-            "name": "RESIDENT PASS 78"
-        }
-    },
-    {
-        "id": "a61f1d445dd71d3395dfa8fc85987c816bdefdbf75659ed54a302c4ba2649bb0i0",
-        "meta": {
-            "name": "RESIDENT PASS 79"
-        }
-    },
-    {
-        "id": "a4d2e80c541436efc005ec7014009724ff14075bf1440d2aa793e3d5689c20b1i0",
-        "meta": {
-            "name": "RESIDENT PASS 80"
-        }
-    },
-    {
-        "id": "a51101429c1b5207935b6859670a3a2f6334f85cc561703baf20fff0cb3299b2i0",
-        "meta": {
-            "name": "RESIDENT PASS 81"
-        }
-    },
-    {
-        "id": "6859c0c59d02aacb74af0e0cc534deb7a499bb96bf435e667d1aa256d47f4bb4i0",
-        "meta": {
-            "name": "RESIDENT PASS 82"
-        }
-    },
-    {
-        "id": "cb9504869aa6fe0f66b6cda2292d079faecd13711de40d5be98f5949290a4ebai0",
-        "meta": {
-            "name": "RESIDENT PASS 83"
-        }
-    },
-    {
-        "id": "480b6f7d2e7ac5554f94322f852cd80d741a143578e27654876500c2a6fb19c1i0",
-        "meta": {
-            "name": "RESIDENT PASS 84"
-        }
-    },
-    {
-        "id": "18e382b6db76b272624c3268638e2bd21c94a1bfa6492557037f935fdf2b4dc1i0",
-        "meta": {
-            "name": "RESIDENT PASS 85"
-        }
-    },
-    {
-        "id": "a35d8d06ff33d588edabcaa6dc7ac0ec8887f0ff51cb6781a37ea5fda15f5ac1i0",
-        "meta": {
-            "name": "RESIDENT PASS 86"
-        }
-    },
-    {
-        "id": "2005c16aa5973992182ba986bccad5c08957d162d84e1a5f520d87b702e7dec6i0",
-        "meta": {
-            "name": "RESIDENT PASS 87"
-        }
-    },
-    {
-        "id": "2e5be3175777bb01cfe5d13795560cdc351be7fb072ed467471cf6dbb37d46c7i0",
-        "meta": {
-            "name": "RESIDENT PASS 88"
-        }
-    },
-    {
-        "id": "526419d5cee0c70a5d4d1d1d3fcce40b3ecbf566e4f314775564d89fa420a9d7i0",
-        "meta": {
-            "name": "RESIDENT PASS 89"
-        }
-    },
-    {
-        "id": "370dba45cb918a01a5dde57e02730fe5cb8cc1f292e3ffc1b6c197e1a477bbdfi0",
-        "meta": {
-            "name": "RESIDENT PASS 90"
-        }
-    },
-    {
-        "id": "e2d97e46ceae55e17b80082c43dcd55e07fc4e302e91cd692b0427d9bb8a9ae5i0",
-        "meta": {
-            "name": "RESIDENT PASS 91"
-        }
-    },
-    {
-        "id": "82dcac6271a3ffd242c9826d5f6e8c8e6c8d8e1688282c11003ba893e5bf0cf0i0",
-        "meta": {
-            "name": "RESIDENT PASS 92"
-        }
-    },
-    {
-        "id": "64a2fa9cf70577611f97fa7cdc5184a827c09cf001d62f48940e924e60f097f0i0",
-        "meta": {
-            "name": "RESIDENT PASS 93"
-        }
-    },
-    {
-        "id": "f7e506025c5625b81774dc6beb1cf4051de4cad54f59c4527a800af5c535acf0i0",
-        "meta": {
-            "name": "RESIDENT PASS 94"
-        }
-    },
-    {
-        "id": "c919cdcc3082dc294db4fb8ae915b781820d8d2ac05562e4be7d67681f4e94f2i0",
-        "meta": {
-            "name": "RESIDENT PASS 95"
-        }
-    },
-    {
-        "id": "6d60c873e6ffae7b7d495ff1e7ffbb5f198c48718a053a874a5290fa02d4a4f2i0",
-        "meta": {
-            "name": "RESIDENT PASS 96"
-        }
-    },
-    {
-        "id": "a1f46eb23c6906e73181d5d2feb54291d8d8e2cc655958257829cd414d2e64f5i0",
-        "meta": {
-            "name": "RESIDENT PASS 97"
-        }
-    },
-    {
-        "id": "ddf78299e6198e6c66a00ddf59f7bbdc42f2c8a62283de443ac79a5770fd6dfai0",
-        "meta": {
-            "name": "RESIDENT PASS 98"
-        }
-    },
-    {
-        "id": "903097eaccf7512b963e8f3556524ca0a21fedf8d505375223bdaba8f2b98dfbi0",
-        "meta": {
-            "name": "RESIDENT PASS 99"
-        }
-    },
-    {
-        "id": "cefea4f67a8eab33ef614fc6dae8849b4f20920d72dc7d0df0172359e9b1c4fei0",
-        "meta": {
-            "name": "RESIDENT PASS 100"
-        }
+  {
+    "id": "83e7b772656e6aa0988d94c9f7d772c94c0304e3273adb0cc88d191440733c04i0",
+    "meta": {
+      "name": "RESIDENT PASS 1",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
     }
+  },
+  {
+    "id": "33185b041dcb90bfddf1c7ee3e8d4fea02bed08c3d19790747602fe0f702a309i0",
+    "meta": {
+      "name": "RESIDENT PASS 2",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 1
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "977e1ec2fea437a732562604453e93926c0d778ce50b256b60fcef14860e1f0di0",
+    "meta": {
+      "name": "RESIDENT PASS 3",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "d8cedda5edadc2c351f2f2a7154a28b60eea264a20f9226ad9a1bf0628e99b13i0",
+    "meta": {
+      "name": "RESIDENT PASS 4",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 1
+        },
+        {
+          "trait_type": "Goo",
+          "value": 2
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "ea42fd34fb6c230783494fb95398253bd83b916075fe3f577a8693a440355715i0",
+    "meta": {
+      "name": "RESIDENT PASS 5",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 2
+        },
+        {
+          "trait_type": "Goo",
+          "value": 1
+        },
+        {
+          "trait_type": "Torn",
+          "value": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "5aa4a7537e1f338bf0cfdf9fab62a3f2fd852cbb92c4d8a4366870fceda64b1di0",
+    "meta": {
+      "name": "RESIDENT PASS 6",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 1
+        },
+        {
+          "trait_type": "Goo",
+          "value": 1
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "c06cad3c0822d4c9ca3a81124d2dbca26b735059c24d24b4035a0c5f717d412bi0",
+    "meta": {
+      "name": "RESIDENT PASS 7",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 3
+        },
+        {
+          "trait_type": "Goo",
+          "value": 4
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "65103f4e3362148499a5bec646ca0d378b08b69394200301cb409140c84dd235i0",
+    "meta": {
+      "name": "RESIDENT PASS 8",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 6
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "43104a179b6887366bdbf13f33721ea5ae92a7490dac94d78b7e06e04773663ai0",
+    "meta": {
+      "name": "RESIDENT PASS 9",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Goo",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "821674c704ee2d9634ffadbd618d44363921b63e6862ddeff69f17a308a32343i0",
+    "meta": {
+      "name": "RESIDENT PASS 10",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Goo",
+          "value": 3
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "261158f94936591affe1e392e64ce02dacf7e8fbb45ebfc071c55759cad2ee50i0",
+    "meta": {
+      "name": "RESIDENT PASS 11",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 7
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "ab2f49bb60d7a9044a130838ac5046432495980a66e16e82a88ad48cb04bb353i0",
+    "meta": {
+      "name": "RESIDENT PASS 12",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 2
+        },
+        {
+          "trait_type": "Goo",
+          "value": 3
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "b893152539b8c9c696e533ae25e2943daf9f104b5e64d7ffe5adcbfc9b049c56i0",
+    "meta": {
+      "name": "RESIDENT PASS 13",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 11
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "e9bca138cd37866e6a03c5ded01b2599a3693c011ccc4680792e7489e716005ai0",
+    "meta": {
+      "name": "RESIDENT PASS 14",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 3
+        },
+        {
+          "trait_type": "Torn",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "55d9b16a25b3fbd9871e2bc8d1b1508aa02abf3ac100c99051aef5560348215fi0",
+    "meta": {
+      "name": "RESIDENT PASS 15",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 4
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "c05a994420fb89d1bdc5df3812b6c68446788854822275d30a586d1acb44016ai0",
+    "meta": {
+      "name": "RESIDENT PASS 16",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 7
+        },
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "79f4293fdf288a73b870903cdb4725209c6e7bd35b4add730e183f7c3c94317ei0",
+    "meta": {
+      "name": "RESIDENT PASS 17",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 4
+        },
+        {
+          "trait_type": "Torn",
+          "value": 6
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "598e6a85763a4537aca255a367f63c9cc193adfd288d835068f6bbfef2156881i0",
+    "meta": {
+      "name": "RESIDENT PASS 18",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 11
+        },
+        {
+          "trait_type": "Torn",
+          "value": 3
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "b3c9a9a5d0bb5288c66fcf5132fdd234b4522ba26afb2e0552254e1cc1932089i0",
+    "meta": {
+      "name": "RESIDENT PASS 19",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Goo",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "73fcfcc3a0e6d59f77c2b7b27200c1189203a2f990b6f930bd900322980c4289i0",
+    "meta": {
+      "name": "RESIDENT PASS 20",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Goo",
+          "value": 5
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "7900cc2560baae348852c8230aafec68594565bc5259b8daf9e683efbcf66089i0",
+    "meta": {
+      "name": "RESIDENT PASS 21",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 5
+        },
+        {
+          "trait_type": "Torn",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": "954583a075f1276fa43f98c1b02f0da28a02c8234762395b44b6d67fbc63068ci0",
+    "meta": {
+      "name": "RESIDENT PASS 22",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 4
+        },
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Goo",
+          "value": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": "e13c2d252c859b8a90b6646ef17e1e5187e943a532387c1b85c3393704789c93i0",
+    "meta": {
+      "name": "RESIDENT PASS 23",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Goo",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "5e572e89be03392e419d53f4a05a0840e2cdae7cbf2bd3406dfd702d48bb3f94i0",
+    "meta": {
+      "name": "RESIDENT PASS 24",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 5
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        },
+        {
+          "trait_type": "Torn",
+          "value": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "9cb815a5da5ccb7a43f7dd5e94425526728c3510a30f41b94bfa9022cfb22c96i0",
+    "meta": {
+      "name": "RESIDENT PASS 25",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 8
+        },
+        {
+          "trait_type": "Torn",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "adbf70507e774bfe7806c41ff07da1dbccd1e4275f60d215b1f9891385c79997i0",
+    "meta": {
+      "name": "RESIDENT PASS 26",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 6
+        },
+        {
+          "trait_type": "Torn",
+          "value": 11
+        },
+        {
+          "trait_type": "Goo",
+          "value": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": "0f4e2f046c4ca10482d4af0193d64d41467cf86ef4ff0d93db750ae381737398i0",
+    "meta": {
+      "name": "RESIDENT PASS 27",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 4
+        },
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "6d779621dc771d32549ec7a909f7419f103ed9457d9530bb5a05314d2bc5519ai0",
+    "meta": {
+      "name": "RESIDENT PASS 28",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 5
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        },
+        {
+          "trait_type": "Goo",
+          "value": 3
+        }
+      ]
+    }
+  },
+  {
+    "id": "92e1412734e0f06f7e409a9bd809af9b77419d45c88c18b38120b666b20122aci0",
+    "meta": {
+      "name": "RESIDENT PASS 29",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 3
+        },
+        {
+          "trait_type": "Torn",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 3
+        }
+      ]
+    }
+  },
+  {
+    "id": "3bc8cac84e48a2831bdff3c6bf01022651854243224d2eb82513b03a83b799b1i0",
+    "meta": {
+      "name": "RESIDENT PASS 30",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 6
+        },
+        {
+          "trait_type": "Goo",
+          "value": 5
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "a69e46550240bf47a0bad3e0dd453dce8193a8d76bcc6c5849351a65dd0a87b4i0",
+    "meta": {
+      "name": "RESIDENT PASS 31",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 6
+        },
+        {
+          "trait_type": "Blood",
+          "value": 4
+        },
+        {
+          "trait_type": "Goo",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "f37d059a99961b6f922cbfc3f5623b97ef8b0168554d620d5a819d60c0b5adb7i0",
+    "meta": {
+      "name": "RESIDENT PASS 32",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 8
+        },
+        {
+          "trait_type": "Goo",
+          "value": 5
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "b5e566708fd4f58b8a592d4d06d363b207acaf2e979c335a53b3c7b3f05f12c3i0",
+    "meta": {
+      "name": "RESIDENT PASS 33",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 3
+        },
+        {
+          "trait_type": "Goo",
+          "value": 6
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "c6a63fe8bb8be1c451b013f865f24667c13025ff098b2b8a3ba4029e377393dfi0",
+    "meta": {
+      "name": "RESIDENT PASS 34",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 1
+        },
+        {
+          "trait_type": "Goo",
+          "value": 1
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "aa1b4fd4e4597892b3c7b35495cce9d9244a0650d195820e91a69131471122e3i0",
+    "meta": {
+      "name": "RESIDENT PASS 35",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 10
+        },
+        {
+          "trait_type": "Torn",
+          "value": 8
+        },
+        {
+          "trait_type": "Blood",
+          "value": 3
+        }
+      ]
+    }
+  },
+  {
+    "id": "a58af029ba59b2fdbee24bc71a2d189d2504a13dc17c8d910eb7ac8a3dccf3eci0",
+    "meta": {
+      "name": "RESIDENT PASS 36",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 2
+        },
+        {
+          "trait_type": "Torn",
+          "value": 3
+        },
+        {
+          "trait_type": "Goo",
+          "value": 9
+        }
+      ]
+    }
+  },
+  {
+    "id": "f8024a157a1ca3689532ef9aeebaf44dab1ce6fc6d521188e6e01c2c7c8969f2i0",
+    "meta": {
+      "name": "RESIDENT PASS 37",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        },
+        {
+          "trait_type": "Goo",
+          "value": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "fb94e3108888cebd0dd086c4d7a6dc1a264c03fad64d96bebbeaa1eaef60cbf8i0",
+    "meta": {
+      "name": "RESIDENT PASS 38",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 8
+        },
+        {
+          "trait_type": "Goo",
+          "value": 4
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "ec7953b00bb815a1411565555ef82bd96fa80470c5fb833177fc72898604c9f9i0",
+    "meta": {
+      "name": "RESIDENT PASS 39",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 5
+        },
+        {
+          "trait_type": "Goo",
+          "value": 3
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "08b324577cff1a7df0e11c6ff6c587ff21ca8aa3229e15d178a074b1faa73e09i0",
+    "meta": {
+      "name": "RESIDENT PASS 40",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 3
+        },
+        {
+          "trait_type": "Goo",
+          "value": 8
+        },
+        {
+          "trait_type": "Torn",
+          "value": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "a704d318bae943edc9f579a871a635a5c821cf7063929ad2918290ecb0747812i0",
+    "meta": {
+      "name": "RESIDENT PASS 41",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 17
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "03c0847d40870aadf5a4a95176a0caa79d915854855ace02820a92f124078b12i0",
+    "meta": {
+      "name": "RESIDENT PASS 42",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 6
+        },
+        {
+          "trait_type": "Torn",
+          "value": 3
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "42e4270176198965e2426ca43d4bd164cffde203763ea10ffd28b3042b6b8320i0",
+    "meta": {
+      "name": "RESIDENT PASS 43",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 2
+        },
+        {
+          "trait_type": "Goo",
+          "value": 10
+        },
+        {
+          "trait_type": "Torn",
+          "value": 10
+        }
+      ]
+    }
+  },
+  {
+    "id": "535330be73cbbfbb5f8c30f4e3130ec30c6270406b2fd1db90fe1d18e6105325i0",
+    "meta": {
+      "name": "RESIDENT PASS 44",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 3
+        },
+        {
+          "trait_type": "Goo",
+          "value": 12
+        },
+        {
+          "trait_type": "Torn",
+          "value": 6
+        }
+      ]
+    }
+  },
+  {
+    "id": "10b671424265b9f1decac549561c67cde0ec364c020d806ccf82e77ac5b3f827i0",
+    "meta": {
+      "name": "RESIDENT PASS 45",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 3
+        },
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "72049cfedaa1a6cafaead65deab0371cd5e6ee2d5d00aa64ef19896e361bc228i0",
+    "meta": {
+      "name": "RESIDENT PASS 46",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 3
+        },
+        {
+          "trait_type": "Torn",
+          "value": 7
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "c1499c9e6455a3c9ac5db1ca0288455cf29591f8deeb899e0b6ab23aea6c202di0",
+    "meta": {
+      "name": "RESIDENT PASS 47",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 10
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "b17719bae4fa1260cee15f82a3b5c81ff450a4d5a198eff504be3efde1681930i0",
+    "meta": {
+      "name": "RESIDENT PASS 48",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 3
+        },
+        {
+          "trait_type": "Torn",
+          "value": 3
+        },
+        {
+          "trait_type": "Goo",
+          "value": 3
+        }
+      ]
+    }
+  },
+  {
+    "id": "c738f1870e723b8eedaf82425c3aa7c48c4d2aebe7ea916b51744a71b42d6f30i0",
+    "meta": {
+      "name": "RESIDENT PASS 49",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 6
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "f718435c8b160edd32e96ada63597635e04d5f54d33b73f17757aeed0b1f4134i0",
+    "meta": {
+      "name": "RESIDENT PASS 50",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 8
+        },
+        {
+          "trait_type": "Torn",
+          "value": 3
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "eed06e817e0c7ba58a3caff0c232477e7d9f52d5715e9b5f4d060cd04858713ci0",
+    "meta": {
+      "name": "RESIDENT PASS 51",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Goo",
+          "value": 3
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "21f5a82ed32e719982a8499cff672a2bddf967d4b5120da558aa4decfbdb7941i0",
+    "meta": {
+      "name": "RESIDENT PASS 52",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 5
+        },
+        {
+          "trait_type": "Blood",
+          "value": 3
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "f186bef9d91cd0cad8ea6b9b85f47ed001e1dd28a377cedb9fb8533c31846644i0",
+    "meta": {
+      "name": "RESIDENT PASS 53",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 5
+        },
+        {
+          "trait_type": "Torn",
+          "value": 5
+        },
+        {
+          "trait_type": "Blood",
+          "value": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": "12b35a592f335bb700556136d7fb15196b98bfbbe824746fa8dd000b2ead9c47i0",
+    "meta": {
+      "name": "RESIDENT PASS 54",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Goo",
+          "value": 4
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "8da9e0f110381b0fadde0ff72e4b40833f16b2aad6b20ba4fae41cc28be46f48i0",
+    "meta": {
+      "name": "RESIDENT PASS 55",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Goo",
+          "value": 5
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "f7f3ec86572524d73fb82dd77da5aac805290eb3846db5e884221938da4b1950i0",
+    "meta": {
+      "name": "RESIDENT PASS 56",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 2
+        },
+        {
+          "trait_type": "Goo",
+          "value": 4
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "e9112aff52b68202197679c77cb829afdd6ff186e4999623b0602169aeda8d59i0",
+    "meta": {
+      "name": "RESIDENT PASS 57",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 4
+        },
+        {
+          "trait_type": "Goo",
+          "value": 12
+        },
+        {
+          "trait_type": "Torn",
+          "value": 6
+        }
+      ]
+    }
+  },
+  {
+    "id": "5c9e2104f4d17a494d7bb0fb399d1818673c9db3f4715d37df72f3dc4686535ai0",
+    "meta": {
+      "name": "RESIDENT PASS 58",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 6
+        },
+        {
+          "trait_type": "Goo",
+          "value": 12
+        },
+        {
+          "trait_type": "Blood",
+          "value": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": "6d7bf50e91c52d9dc84102a987d7ebfaa84b64b53fc2ca7534cfe183a0b7475bi0",
+    "meta": {
+      "name": "RESIDENT PASS 59",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 10
+        },
+        {
+          "trait_type": "Torn",
+          "value": 3
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "21384fe78eb6e494f7c465f47e61e99c6b714c2734d07c2beee1f72346a8f75ci0",
+    "meta": {
+      "name": "RESIDENT PASS 60",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 10
+        },
+        {
+          "trait_type": "Goo",
+          "value": 6
+        },
+        {
+          "trait_type": "Blood",
+          "value": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": "592c7b926219b1996f75cc6dbabbf137396a1ab7417ce5a8d2b752a0519b1f60i0",
+    "meta": {
+      "name": "RESIDENT PASS 61",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 6
+        },
+        {
+          "trait_type": "Goo",
+          "value": 4
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "fb7e4ec6b89d1d9e4c589e8d61062b8083da981087b649661e67e431af9ff867i0",
+    "meta": {
+      "name": "RESIDENT PASS 62",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 3
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        },
+        {
+          "trait_type": "Goo",
+          "value": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "8d9dbd13cdf3e9205abeaaf28ec661b681f87c1609e4da48df8fd6e29b62cd6di0",
+    "meta": {
+      "name": "RESIDENT PASS 63",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 1
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        },
+        {
+          "trait_type": "Goo",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "ebb196b5554c5062544b874bd8bb04f57a8676e8b036339a815fee358e990178i0",
+    "meta": {
+      "name": "RESIDENT PASS 64",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 2
+        },
+        {
+          "trait_type": "Torn",
+          "value": 3
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "035f2b21e882e1ac24c163a7a1c143c1cbf5ed5124d7533d09dc2e2778caa97ai0",
+    "meta": {
+      "name": "RESIDENT PASS 65",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 6
+        },
+        {
+          "trait_type": "Torn",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "0870afdcbd08f50d255e50e2a4ea9106bd94b3e82703484c812791ed1985a97ci0",
+    "meta": {
+      "name": "RESIDENT PASS 66",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 3
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        },
+        {
+          "trait_type": "Goo",
+          "value": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "23d97be35b670fd0c6d2232b9231a2c0746cfae064df48505c652a68f77a8782i0",
+    "meta": {
+      "name": "RESIDENT PASS 67",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Goo",
+          "value": 6
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "b6e6f42090a2f4963ebd1bf7a2426d84bbdf29970dc18f44ab8fa7c8cc143d87i0",
+    "meta": {
+      "name": "RESIDENT PASS 68",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 5
+        },
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Goo",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "14cb04506d4e0f9774a233b7be8927fa7107312e4d761a1c45a62418b1bce88ai0",
+    "meta": {
+      "name": "RESIDENT PASS 69",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 1
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "d0716de77e586569ac50078c36fbcc139ec9c014744d49a762053099ca16c88di0",
+    "meta": {
+      "name": "RESIDENT PASS 70",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 7
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "faa7620f710c6afacc1ca3424a2e18b212a9c0b7ef5e7164248f24328be45c94i0",
+    "meta": {
+      "name": "RESIDENT PASS 71",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 9
+        },
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "cbb46f18f5647ea600ce84c64263efe71bcc51feafd3963b0ed9b125f9b08999i0",
+    "meta": {
+      "name": "RESIDENT PASS 72",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 5
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "dc2356c078e74d7238f5ccb52b10c46e96f326fb62332f3b8b6e9b089b54a99ci0",
+    "meta": {
+      "name": "RESIDENT PASS 73",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 11
+        },
+        {
+          "trait_type": "Torn",
+          "value": 10
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "b41246770b0ff5198075330eef69ec018d15933c42beb5b9e3b7d1a108be34a1i0",
+    "meta": {
+      "name": "RESIDENT PASS 74",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 5
+        },
+        {
+          "trait_type": "Goo",
+          "value": 5
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "9d5905b9ffb6c76a3aedf01f4beacf3805ec712d2ba7d456aa8f65bc17d2c4a2i0",
+    "meta": {
+      "name": "RESIDENT PASS 75",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 3
+        },
+        {
+          "trait_type": "Goo",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "2cbb74a7c4d8f84eeb95dc01321ae93fdb0333838a481bc84d7926e0e4a2dea7i0",
+    "meta": {
+      "name": "RESIDENT PASS 76",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 6
+        },
+        {
+          "trait_type": "Blood",
+          "value": 3
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "e57e42b1b57942bac0184f0d667deb0a07a4e76db0c17db57fc65fdba8e0f3adi0",
+    "meta": {
+      "name": "RESIDENT PASS 77",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "86b9f8fe6964a1a32f47e5e820770f01b7d609ad6827c70db809e9ab27a3a3afi0",
+    "meta": {
+      "name": "RESIDENT PASS 78",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 9
+        },
+        {
+          "trait_type": "Torn",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "a61f1d445dd71d3395dfa8fc85987c816bdefdbf75659ed54a302c4ba2649bb0i0",
+    "meta": {
+      "name": "RESIDENT PASS 79",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 6
+        },
+        {
+          "trait_type": "Goo",
+          "value": 6
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "a4d2e80c541436efc005ec7014009724ff14075bf1440d2aa793e3d5689c20b1i0",
+    "meta": {
+      "name": "RESIDENT PASS 80",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 3
+        },
+        {
+          "trait_type": "Torn",
+          "value": 5
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "a51101429c1b5207935b6859670a3a2f6334f85cc561703baf20fff0cb3299b2i0",
+    "meta": {
+      "name": "RESIDENT PASS 81",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 1
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        },
+        {
+          "trait_type": "Goo",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "6859c0c59d02aacb74af0e0cc534deb7a499bb96bf435e667d1aa256d47f4bb4i0",
+    "meta": {
+      "name": "RESIDENT PASS 82",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 5
+        },
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb9504869aa6fe0f66b6cda2292d079faecd13711de40d5be98f5949290a4ebai0",
+    "meta": {
+      "name": "RESIDENT PASS 83",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        },
+        {
+          "trait_type": "Goo",
+          "value": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "480b6f7d2e7ac5554f94322f852cd80d741a143578e27654876500c2a6fb19c1i0",
+    "meta": {
+      "name": "RESIDENT PASS 84",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 8
+        },
+        {
+          "trait_type": "Blood",
+          "value": 4
+        },
+        {
+          "trait_type": "Goo",
+          "value": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": "18e382b6db76b272624c3268638e2bd21c94a1bfa6492557037f935fdf2b4dc1i0",
+    "meta": {
+      "name": "RESIDENT PASS 85",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 2
+        },
+        {
+          "trait_type": "Torn",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "a35d8d06ff33d588edabcaa6dc7ac0ec8887f0ff51cb6781a37ea5fda15f5ac1i0",
+    "meta": {
+      "name": "RESIDENT PASS 86",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 1
+        },
+        {
+          "trait_type": "Goo",
+          "value": 1
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "2005c16aa5973992182ba986bccad5c08957d162d84e1a5f520d87b702e7dec6i0",
+    "meta": {
+      "name": "RESIDENT PASS 87",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 2
+        },
+        {
+          "trait_type": "Goo",
+          "value": 6
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "2e5be3175777bb01cfe5d13795560cdc351be7fb072ed467471cf6dbb37d46c7i0",
+    "meta": {
+      "name": "RESIDENT PASS 88",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 5
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "526419d5cee0c70a5d4d1d1d3fcce40b3ecbf566e4f314775564d89fa420a9d7i0",
+    "meta": {
+      "name": "RESIDENT PASS 89",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 2
+        },
+        {
+          "trait_type": "Torn",
+          "value": 7
+        },
+        {
+          "trait_type": "Goo",
+          "value": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": "370dba45cb918a01a5dde57e02730fe5cb8cc1f292e3ffc1b6c197e1a477bbdfi0",
+    "meta": {
+      "name": "RESIDENT PASS 90",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 3
+        },
+        {
+          "trait_type": "Blood",
+          "value": 3
+        },
+        {
+          "trait_type": "Torn",
+          "value": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": "e2d97e46ceae55e17b80082c43dcd55e07fc4e302e91cd692b0427d9bb8a9ae5i0",
+    "meta": {
+      "name": "RESIDENT PASS 91",
+      "attributes": [
+        {
+          "trait_type": "Blood",
+          "value": 4
+        },
+        {
+          "trait_type": "Goo",
+          "value": 3
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "82dcac6271a3ffd242c9826d5f6e8c8e6c8d8e1688282c11003ba893e5bf0cf0i0",
+    "meta": {
+      "name": "RESIDENT PASS 92",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 9
+        },
+        {
+          "trait_type": "Torn",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "64a2fa9cf70577611f97fa7cdc5184a827c09cf001d62f48940e924e60f097f0i0",
+    "meta": {
+      "name": "RESIDENT PASS 93",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 13
+        },
+        {
+          "trait_type": "Torn",
+          "value": 8
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "f7e506025c5625b81774dc6beb1cf4051de4cad54f59c4527a800af5c535acf0i0",
+    "meta": {
+      "name": "RESIDENT PASS 94",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 16
+        },
+        {
+          "trait_type": "Torn",
+          "value": 5
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "c919cdcc3082dc294db4fb8ae915b781820d8d2ac05562e4be7d67681f4e94f2i0",
+    "meta": {
+      "name": "RESIDENT PASS 95",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 2
+        },
+        {
+          "trait_type": "Torn",
+          "value": 4
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "6d60c873e6ffae7b7d495ff1e7ffbb5f198c48718a053a874a5290fa02d4a4f2i0",
+    "meta": {
+      "name": "RESIDENT PASS 96",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 1
+        },
+        {
+          "trait_type": "Goo",
+          "value": 2
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "a1f46eb23c6906e73181d5d2feb54291d8d8e2cc655958257829cd414d2e64f5i0",
+    "meta": {
+      "name": "RESIDENT PASS 97",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 6
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        },
+        {
+          "trait_type": "Torn",
+          "value": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "ddf78299e6198e6c66a00ddf59f7bbdc42f2c8a62283de443ac79a5770fd6dfai0",
+    "meta": {
+      "name": "RESIDENT PASS 98",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 3
+        },
+        {
+          "trait_type": "Blood",
+          "value": 3
+        },
+        {
+          "trait_type": "Goo",
+          "value": 3
+        }
+      ]
+    }
+  },
+  {
+    "id": "903097eaccf7512b963e8f3556524ca0a21fedf8d505375223bdaba8f2b98dfbi0",
+    "meta": {
+      "name": "RESIDENT PASS 99",
+      "attributes": [
+        {
+          "trait_type": "Goo",
+          "value": 3
+        },
+        {
+          "trait_type": "Torn",
+          "value": 5
+        },
+        {
+          "trait_type": "Blood",
+          "value": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "cefea4f67a8eab33ef614fc6dae8849b4f20920d72dc7d0df0172359e9b1c4fei0",
+    "meta": {
+      "name": "RESIDENT PASS 100",
+      "attributes": [
+        {
+          "trait_type": "Torn",
+          "value": 7
+        },
+        {
+          "trait_type": "Goo",
+          "value": 5
+        },
+        {
+          "trait_type": "Blood",
+          "value": 1
+        }
+      ]
+    }
+  }
 ]
