@@ -1,24 +1,34 @@
 [
   {
-    "id": "9f5a8745ab2b876e1df2bba79f1eb746dd81c82172fea38ccf45371abdf80e56i0",
+    "id": " 9f5a8745ab2b876e1df2bba79f1eb746dd81c82172fea38ccf45371abdf80e56i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #1",
+      "status": "Rare",
+      "rank": 8,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Blackpaper"
+          "value": "Blackpaper",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Copper Bot"
+          "value": "Copper Bot",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "Royal Wardrobe"
+          "value": "Royal Wardrobe",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Macintoshi"
+          "value": "Macintoshi",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -27,22 +37,32 @@
     "id": "c44b485e03c6c44aa019410cedb85cf0075aaef0ba3b015ab5e11eed0f3d5fd1i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #2",
+      "status": "TBD",
+      "rank": 58,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Orange"
+          "value": "Orange",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Copper"
+          "value": "Copper",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "Laszlo Pizza Uniform"
+          "value": "Laszlo Pizza Uniform",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Halftone"
+          "value": "Halftone",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -51,26 +71,38 @@
     "id": "4080b326dd57165b5ecb35d14968f706d92bbba01e5179ff46c66cc9c1f4ac58i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #3",
+      "status": "TBD",
+      "rank": 27,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Moon"
+          "value": "Moon",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Body",
-          "value": "Greenscale"
+          "value": "Greenscale",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Outfit",
-          "value": "Jailbird"
+          "value": "Jailbird",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Facemelter"
+          "value": "Facemelter",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Eyes",
-          "value": "BTC"
+          "value": "BTC",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -79,30 +111,44 @@
     "id": "ca09a4103763ac58f8b2d0ed2f7296d30f666274f40dd6666fad3eac75d09401i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #4",
+      "status": "TBD",
+      "rank": 4,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Blackpaper"
+          "value": "Blackpaper",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Outfit",
-          "value": "Cyber Cloak Orange"
+          "value": "Cyber Cloak Orange",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Body",
-          "value": "Orange"
+          "value": "Orange",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Necklace",
-          "value": "Ledger"
+          "value": "Ledger",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Pixel"
+          "value": "Pixel",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Eyewear",
-          "value": "Cyberglasses Grey"
+          "value": "Cyberglasses Grey",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -111,26 +157,38 @@
     "id": "5e5b8afd6ddaa5a0791f17ef11d1e0678a8c3c073b854dfe67b62fd8386c9074i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #5",
+      "status": "TBD",
+      "rank": 46,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Gold Gradient"
+          "value": "Gold Gradient",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Body",
-          "value": "Brown"
+          "value": "Brown",
+          "status": "Legendary",
+          "percent": "0%"
         },
         {
           "trait_type": "Outfit",
-          "value": "Doctor"
+          "value": "Doctor",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Bored Anonymous"
+          "value": "Bored Anonymous",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Eyewear",
-          "value": "3D"
+          "value": "3D",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -139,22 +197,32 @@
     "id": "a8b119f589a07c2b9e375ac9142aa8117699a4330e9c6c03a7a39e422a197daei0",
     "meta": {
       "name": "Anonymous Bitcoin Club #6",
+      "status": "TBD",
+      "rank": 6,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Binary Green"
+          "value": "Binary Green",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Body",
-          "value": "Silver Bot"
+          "value": "Silver Bot",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Outfit",
-          "value": "Hoodie Red"
+          "value": "Hoodie Red",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Facemelter"
+          "value": "Facemelter",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -163,22 +231,32 @@
     "id": "65c7fb76d11097e3d464d1168213cb88461051a2a3a2c7e9c6c4dfb2cdc48b2bi0",
     "meta": {
       "name": "Anonymous Bitcoin Club #7",
+      "status": "TBD",
+      "rank": 19,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Blockchain"
+          "value": "Blockchain",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Body",
-          "value": "Bronzescale"
+          "value": "Bronzescale",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Outfit",
-          "value": "Moonman"
+          "value": "Moonman",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Facemelter"
+          "value": "Facemelter",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -187,26 +265,38 @@
     "id": "14a505ef92143b398c1e93a293069f5968a56846d868d02c2b4cfc0e83311606i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #8",
+      "status": "TBD",
+      "rank": 14,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Binary Green"
+          "value": "Binary Green",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Body",
-          "value": "Visitor"
+          "value": "Visitor",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Outfit",
-          "value": "Uncle Sat"
+          "value": "Uncle Sat",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Clown"
+          "value": "Clown",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Eyes",
-          "value": "BTC"
+          "value": "BTC",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -215,22 +305,32 @@
     "id": "7d66f5c84a2287e91f0a4191d9b1e76ef5c5e9e89e325acfdd3978d7b2950fedi0",
     "meta": {
       "name": "Anonymous Bitcoin Club #9",
+      "status": "TBD",
+      "rank": 15,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Blue"
+          "value": "Blue",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Bull"
+          "value": "Bull",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Halftone"
+          "value": "Halftone",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Eyewear",
-          "value": "Cypher"
+          "value": "Cypher",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -239,54 +339,78 @@
     "id": "18cb1926a61e95473ed51f67d2333c99bcc58ba050eccf636edb702c769bca58i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #10",
+      "status": "TBD",
+      "rank": 49,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Blackpaper"
+          "value": "Blackpaper",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Body",
-          "value": "Bronzescale"
+          "value": "Bronzescale",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Outfit",
-          "value": "Laszlo Pizza Uniform"
+          "value": "Laszlo Pizza Uniform",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Papertoshi"
+          "value": "Papertoshi",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Eyes",
-          "value": "Orange Pill"
+          "value": "Orange Pill",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
   },
   {
-    "id": "f31d69a32808e157f0c11c7533277a36eac1a7d9024434bcfaba283ffa96e511i0",
+    "id": "f31d69a32808e157f0c11c7533277a36eac1a7d9024434bcfaba283ffa96e511i0 ",
     "meta": {
       "name": "Anonymous Bitcoin Club #11",
+      "status": "TBD",
+      "rank": 18,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Binary Gold"
+          "value": "Binary Gold",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Body",
-          "value": "Greenscale"
+          "value": "Greenscale",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Outfit",
-          "value": "Cyber Cloak Orange"
+          "value": "Cyber Cloak Orange",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Fractured"
+          "value": "Fractured",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Eyewear",
-          "value": "Cyberglasses Pepe Vision"
+          "value": "Cyberglasses Pepe Vision",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -295,22 +419,32 @@
     "id": "906f71aca655413b47d16915cf111dab90c24406adfd6007afd7dd85583072f1i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #12",
+      "status": "TBD",
+      "rank": 11,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Silk Road"
+          "value": "Silk Road",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Skeleton"
+          "value": "Skeleton",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Clown"
+          "value": "Clown",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Headwear",
-          "value": "Halo"
+          "value": "Halo",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -319,22 +453,32 @@
     "id": "a7f972512b8a51a62c56aff3eb1aa72698501e51644258c2457179ac47dc57c2i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #13",
+      "status": "TBD",
+      "rank": 26,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Red Chart"
+          "value": "Red Chart",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Human"
+          "value": "Human",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Bored Anonymous"
+          "value": "Bored Anonymous",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Headwear",
-          "value": "Brown Hair"
+          "value": "Brown Hair",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -343,26 +487,38 @@
     "id": "66c792668727d9f8b7fbaedd0e2e7d4cce05d7952720de97d4acf13065d9787ei0",
     "meta": {
       "name": "Anonymous Bitcoin Club #14",
+      "status": "TBD",
+      "rank": 44,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Orange Gradient"
+          "value": "Orange Gradient",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Melted"
+          "value": "Melted",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		 {
           "trait_type": "Outfit",
-          "value": "CyberSuit Gold"
+          "value": "CyberSuit Gold",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		 {
           "trait_type": "Mask",
-          "value": "Halftone"
+          "value": "Halftone",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		 {
           "trait_type": "Eyewear",
-          "value": "OG BTC"
+          "value": "OG BTC",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -371,22 +527,32 @@
     "id": "504b58e6dac4f4a09f7b429e2379f632b022f7270f8845eb2b6ad354b46f5a3di0",
     "meta": {
       "name": "Anonymous Bitcoin Club #15",
+      "status": "TBD",
+      "rank": 36,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Yellow"
+          "value": "Yellow",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Bluescale"
+          "value": "Bluescale",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "BitRoman"
+          "value": "BitRoman",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Pizzatoshi"
+          "value": "Pizzatoshi",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -395,26 +561,38 @@
     "id": "57637ce2a19122ba36ef9b68d4ca8d4fe1b1cb31f26e7be25fd393548d0375dbi0",
     "meta": {
       "name": "Anonymous Bitcoin Club  #16",
+      "status": "TBD",
+      "rank": 13,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Gold Gradient"
+          "value": "Gold Gradient",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Green"
+          "value": "Green",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "Uncle Sat"
+          "value": "Uncle Sat",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Anonymous"
+          "value": "Anonymous",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Eyes",
-          "value": "BTC"
+          "value": "BTC",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -423,30 +601,44 @@
     "id": "2799e15d3b6f6ff48123d92e7b8569ed72268ebaf636d7aeeb3fa841823f1341i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #17",
+      "status": "TBD",
+      "rank": 17,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Blockchain"
+          "value": "Blockchain",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Red"
+          "value": "Red",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "Laszlo Pizza"
+          "value": "Laszlo Pizza",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Necklace",
-          "value": "Lightning"
+          "value": "Lightning",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Anonymous"
+          "value": "Anonymous",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Eyewear",
-          "value": "Bitcoin Glasses"
+          "value": "Bitcoin Glasses",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -455,22 +647,32 @@
     "id": "3e178d702c1b7ee4394f25236e0074d59f5ae293607d1fdca972313567c440c8i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #18",
+      "status": "TBD",
+      "rank": 9,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Purple Gradient"
+          "value": "Purple Gradient",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Gold Bot"
+          "value": "Gold Bot",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "SatoshiLite"
+          "value": "SatoshiLite",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Papertoshi"
+          "value": "Papertoshi",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -479,22 +681,32 @@
     "id": "0ceca49b68c669673e1748ca4b4ee03dc59d9be32ef2f53df8087ffae2255cd9i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #19",
+      "status": "TBD",
+      "rank": 48,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Binary Bitcoin"
+          "value": "Binary Bitcoin",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Melted"
+          "value": "Melted",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "Moonman"
+          "value": "Moonman",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Bull"
+          "value": "Bull",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -503,26 +715,38 @@
     "id": "2dc85fd3b7bb848ff0d9945395c76d682201f2ed8a548742ed53d1303026f46ei0",
     "meta": {
       "name": "Anonymous Bitcoin Club #20",
+      "status": "TBD",
+      "rank": 1,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "The Times"
+          "value": "The Times",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Brown"
+          "value": "Brown",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "Hoodie Gold"
+          "value": "Hoodie Gold",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Bored Anonymous"
+          "value": "Bored Anonymous",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Eyes",
-          "value": "BTC"
+          "value": "BTC",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -531,22 +755,32 @@
     "id": "f01a07e29de2f2fdb89e7c19a0223d254da67ab81b33b019b7d7f35e121dc5e5i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #21",
+      "status": "TBD",
+      "rank": 20,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Tuquoise Gradient"
+          "value": "Tuquoise Gradient",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Greenscale"
+          "value": "Greenscale",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "Steampunk"
+          "value": "Steampunk",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Skin",
-          "value": "Gold"
+          "value": "Gold",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -555,26 +789,38 @@
     "id": "47a99b099a4c6b253105c21aa6ae04a640b69a26bbc26b15e332fc6e45b89e2di0",
     "meta": {
       "name": "Anonymous Bitcoin Club #22",
+      "status": "TBD",
+      "rank": 52,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Orange"
+          "value": "Orange",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Orange Bot"
+          "value": "Orange Bot",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "Cyber Cloak Orange"
+          "value": "Cyber Cloak Orange",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Gold"
+          "value": "Gold",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Eyewear",
-          "value": "Cypher"
+          "value": "Cypher",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -583,22 +829,32 @@
     "id": "4fedd4a50e23cfd40702e6d237a44d7c002bfeed20c5716879f1aa5497d43597i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #23",
+      "status": "TBD",
+      "rank": 29,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Whitepaper"
+          "value": "Whitepaper",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Powder"
+          "value": "Powder",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "Angel Outfit"
+          "value": "Angel Outfit",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Negative"
+          "value": "Negative",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -607,26 +863,38 @@
     "id": "c5616ede0292892ed89bb22ba7ab4975b28e19ec9c3cf7c894310898628308b9i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #24",
+      "status": "TBD",
+      "rank": 22,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Genesis"
+          "value": "Genesis",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Brown"
+          "value": "Brown",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "Doctor"
+          "value": "Doctor",
+          "status": "TBD",
+          "percent": "%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Halftone"
+          "value": "Halftone",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Eyes",
-          "value": "Orange Pill"
+          "value": "Orange Pill",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -635,26 +903,38 @@
     "id": "f53d20c573c0ed18ef85957274e3809f5f51dcb67b9786e775d6580753bc9070i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #25",
+      "status": "TBD",
+      "rank": 35,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Blackpaper"
+          "value": "Blackpaper",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Powder"
+          "value": "Powder",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "Cyber Cloak White"
+          "value": "Cyber Cloak White",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Trippy"
+          "value": "Trippy",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Eyewear",
-          "value": "Cyberglasses Grey"
+          "value": "Cyberglasses Grey",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -663,22 +943,32 @@
     "id": "e0b3448bf03f3cb5f5723e7d88ba0017f88b3d152e1172210a25672b4b4919afi0",
     "meta": {
       "name": "Anonymous Bitcoin Club #26",
+      "status": "TBD",
+      "rank": 68,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Mt.Gox"
+          "value": "Mt.Gox",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Bluescale"
+          "value": "Bluescale",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "Captain Uniform"
+          "value": "Captain Uniform",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Facemelter"
+          "value": "Facemelter",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -687,22 +977,32 @@
     "id": "08ce8ee3e9211d91307063834a1143e8c1d604e0fb4527fd28fbba96c3d02811i0",
     "meta": {
       "name": "Anonymous Bitcoin Club #27",
+      "status": "TBD",
+      "rank": 65,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Yellow"
+          "value": "Yellow",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Bronze Bot"
+          "value": "Bronze Bot",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "Fast Food Uniform"
+          "value": "Fast Food Uniform",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Graffiti"
+          "value": "Graffiti",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -711,22 +1011,32 @@
     "id": "a32e2adafa86ff908937ffaa84c39c795361a06bb181396059f5ba3bc48daedei0",
     "meta": {
       "name": "Anonymous Bitcoin Club #28",
+      "status": "TBD",
+      "rank": 39,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Loading..."
+          "value": "Loading...",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Bluescale"
+          "value": "Bluescale",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "BitRoman"
+          "value": "BitRoman",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Papertoshi"
+          "value": "Papertoshi",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -735,26 +1045,38 @@
     "id": "294101debacb5818e9504afffbf72b4285289e054883816c2cd059a762c2279bi0",
     "meta": {
       "name": "Anonymous Bitcoin Club #29",
+      "status": "TBD",
+      "rank": 21,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Red"
+          "value": "Red",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Powder"
+          "value": "Powder",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "Crash Test"
+          "value": "Crash Test",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Pizzatoshi"
+          "value": "Pizzatoshi",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Eyewear",
-          "value": "3D"
+          "value": "3D",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -763,22 +1085,32 @@
     "id": "ff689035c415b943ab83991cad105e04da471d19511a2efe313fd43ea79fd78fi0",
     "meta": {
       "name": "Anonymous Bitcoin Club #30",
+      "status": "TBD",
+      "rank": 16,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Purple Gradient"
+          "value": "Purple Gradient",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Powder"
+          "value": "Powder",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Outfit",
-          "value": "Hoodie White"
+          "value": "Hoodie White",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Graffiti"
+          "value": "Graffiti",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
@@ -787,22 +1119,470 @@
     "id": "5940b79a845a805c4bd8f9ef360d3cbba36cafb5435bcfa5bc07efbc940b5bcbi0",
     "meta": {
       "name": "Anonymous Bitcoin Club #31",
+      "status": "TBD",
+      "rank": 25,
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Purple Gradient"
+          "value": "Purple Gradient",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
           "trait_type": "Body",
-          "value": "Cat"
+          "value": "Cat",
+          "status": "TBD",
+          "percent": "0%"
         },
-        {
+		{
           "trait_type": "Mask",
-          "value": "Catoshi"
+          "value": "Catoshi",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Eyes",
+          "value": "Laser",
+          "status": "TBD",
+          "percent": "0%"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fe0b62bed6ff2eedd0fffec2fb4c812af689d9c378d4319997732ce524a5f0b8i0",
+    "meta": {
+      "name": "Anonymous Bitcoin Club #32",
+      "status": "TBD",
+      "rank": 61,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Silk Road",
+          "status": "TBD",
+          "percent": "0%"
         },
         {
+          "trait_type": "Body",
+          "value": "Red",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		 {
+          "trait_type": "Outfit",
+          "value": "Priest",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		 {
+          "trait_type": "Mask",
+          "value": "Trippy",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		 {
+          "trait_type": "Necklace",
+          "value": "Lightning",
+          "status": "TBD",
+          "percent": "0%"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4c68cb14f89074178167165eae96b18ef8608f81e2a776c53bf9b4d54447cecbi0",
+    "meta": {
+      "name": "Anonymous Bitcoin Club #33",
+      "status": "TBD",
+      "rank": 37,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Purple",
+          "status": "TBD",
+          "percent": "0%"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Green",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Outfit",
+          "value": "Cybersuit Noir",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Mask",
+          "value": "Gold",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Eyewear",
+          "value": "Cyberglasses Grey",
+          "status": "TBD",
+          "percent": "0%"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b0343b9a7eedfde536c879dc77593959ac6ebc91e98af9c92fee43ef9c2eb415i0",
+    "meta": {
+      "name": "Anonymous Bitcoin Club #34",
+      "status": "TBD",
+      "rank": 56,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Loading...",
+          "status": "TBD",
+          "percent": "0%"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Green",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Outfit",
+          "value": "Hoodie White",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Mask",
+          "value": "Clown",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
           "trait_type": "Eyes",
-          "value": "Laser"
+          "value": "Satoshi Dice",
+          "status": "TBD",
+          "percent": "0%"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d480bc556a0f98401cd2c358de271c218463d07127fa92c7f83c6cb6d9aaf3f8i0",
+    "meta": {
+      "name": "Anonymous Bitcoin Club #35",
+      "status": "TBD",
+      "rank": 47,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Whitepaper",
+          "status": "TBD",
+          "percent": "0%"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Greenscale",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Outfit",
+          "value": "Captain Uniform",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Mask",
+          "value": "Neon",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Eyes",
+          "value": "Orange Pill",
+          "status": "TBD",
+          "percent": "0%"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5cb7651d3bc9b184fac1f4597bf0db6a23a9a3a2316769ab9607d220a66a15c7i0",
+    "meta": {
+      "name": "Anonymous Bitcoin Club #36",
+      "status": "TBD",
+      "rank": 7,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Turquoise Gradient",
+          "status": "TBD",
+          "percent": "0%"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Diablo",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Mask",
+          "value": "Pepetoshi",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Eyewear",
+          "value": "Bitcoin Glasses",
+          "status": "TBD",
+          "percent": "0%"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d9b607f4a8e527f3424b9c385a0c3aeb19cb3738b71c09ae96eef8390255f692i0",
+    "meta": {
+      "name": "Anonymous Bitcoin Club #37",
+      "status": "TBD",
+      "rank": 23,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Orange Gradient",
+          "status": "TBD",
+          "percent": "0%"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Robot",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Mask",
+          "value": "Halftone",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Headwear",
+          "value": "Laszlo Pizza Hat",
+          "status": "TBD",
+          "percent": "0%"
+        }
+      ]
+    }
+  },
+  {
+    "id": "df280792a5b9bb17ff04480c826c51cb81b214e3a8fe8d4252fd434cfbe4a564i0",
+    "meta": {
+      "name": "Anonymous Bitcoin Club #38",
+      "status": "TBD",
+      "rank": 64,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Whitepaper",
+          "status": "TBD",
+          "percent": "0%"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Amphibian",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Mask",
+          "value": "Puzzle",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Headwear",
+          "value": "Black Hair",
+          "status": "TBD",
+          "percent": "0%"
+        }
+      ]
+    }
+  },
+  {
+    "id": "26b5fdad160b73fb6def0a8a6faa9ead755a5ae7b7f34962ad4396d78b0645d9i0",
+    "meta": {
+      "name": "Anonymous Bitcoin Club #39",
+      "status": "TBD",
+      "rank": 64,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Binary Green",
+          "status": "TBD",
+          "percent": "0%"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Greenscale",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Outfit",
+          "value": "BitRoman",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Mask",
+          "value": "Papertoshi",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Eyewear",
+          "value": "3D",
+          "status": "TBD",
+          "percent": "0%"
+        }
+      ]
+    }
+  },
+{
+    "id": "1e026512408ab19a81acaf5f56fc308c6bc7e6dcdc0a9bdafcdb3be52d9d8b77i0",
+    "meta": {
+      "name": "Anonymous Bitcoin Club #40",
+      "status": "TBD",
+      "rank": 64,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Moon",
+          "status": "TBD",
+          "percent": "0%"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Visitor",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Mask",
+          "value": "Halftone",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Headwear",
+          "value": "Halo",
+          "status": "TBD",
+          "percent": "0%"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b8a56df59e2bd8d9f058e699b2791d4dff671d1e1d4e114637ec0e0978c984c1i0",
+    "meta": {
+      "name": "Anonymous Bitcoin Club #41",
+      "status": "TBD",
+      "rank": 64,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Orange Gradient",
+          "status": "TBD",
+          "percent": "0%"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Melted",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Mask",
+          "value": "WhiteRabbit",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Headwear",
+          "value": "Rabbit",
+          "status": "TBD",
+          "percent": "0%"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f70fb6ed53947d339117ac3763ca3c4b90e4b61e61050d5191a72011c04ec848i0",
+    "meta": {
+      "name": "Anonymous Bitcoin Club #42",
+      "status": "TBD",
+      "rank": 64,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Purple",
+          "status": "TBD",
+          "percent": "0%"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Purple Gradient",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Mask",
+          "value": "Halftone",
+          "status": "TBD",
+          "percent": "0%"
+        },
+                {
+          "trait_type": "Outfit",
+          "value": "BitCorn Suit",
+          "status": "TBD",
+          "percent": "0%"
+        },		
+                {
+          "trait_type": "Eyewear",
+          "value": "Cyberglasses Purple",
+          "status": "TBD",
+          "percent": "0%"
+        }
+      ]
+    }
+  },
+  {
+    "id": "038df081e8f0ea7c8942687bc4c22b5adc4bb336b72e395ffa5e5d1a1d4291cdi0",
+    "meta": {
+      "name": "Anonymous Bitcoin Club #43",
+      "status": "TBD",
+      "rank": 64,
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Blackpaper",
+          "status": "TBD",
+          "percent": "0%"
+        },
+        {
+          "trait_type": "Body",
+          "value": "BTC Machine",
+          "status": "TBD",
+          "percent": "0%"
+        },
+		{
+          "trait_type": "Mask",
+          "value": "MACHINEHEAD",
+          "status": "TBD",
+          "percent": "0%"
         }
       ]
     }
