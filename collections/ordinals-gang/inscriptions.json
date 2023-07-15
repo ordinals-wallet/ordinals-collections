@@ -1,444 +1,527 @@
 [
-    {
-        
-        "id": "a9dfe26fb3f12094d23f9c2d437f9095504a77a79dfd5327d00b911d690b6498i0",
-        "meta": {
-            "name": "Snap",
-            "rank": "1",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "558"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "leader"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "the quick-witted and sharp leader of the gang, always ready with a snappy comeback"
-                }
-            ]
+  {
+    "id": "a9dfe26fb3f12094d23f9c2d437f9095504a77a79dfd5327d00b911d690b6498i0",
+    "meta": {
+      "name": "Snap",
+      "rank": "1",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "558"
+        },
+        {
+          "trait_type": "level",
+          "value": "leader"
+        },
+        {
+          "trait_type": "description",
+          "value": "The zippy, quick-witted leader, dishing out snappy comebacks like a pro."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Snap once saved the gang by outwitting a rival with a single pun. His secret weapon: a trusty thesaurus."
         }
-    },
-    {
-        "id": "ce571812a2b14b9a7001219debe4fa83baddeed66e0fb5ad58cef4861cba22b6i0",
-        "meta": {
-            "name": "Snuggle",
-            "rank": "3",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "559"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "senior"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "warm and cuddly senior member, always offering hugs to their friends, loves fist fights"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "ce571812a2b14b9a7001219debe4fa83baddeed66e0fb5ad58cef4861cba22b6i0",
+    "meta": {
+      "name": "Snuggle",
+      "rank": "3",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "559"
+        },
+        {
+          "trait_type": "level",
+          "value": "senior"
+        },
+        {
+          "trait_type": "description",
+          "value": "This warm, fuzzy senior member offers bear hugs while daydreaming about their next bar fight."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Can often be found knitting cozy brass knuckles for friends and family."
         }
-    },
-    {
-        "id": "36f0272e28bf6595199d02cb29013b91d9b9b9e250d270f32270506dcd1262bai0",
-        "meta": {
-            "name": "Chillwave",
-            "rank": "7",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "560"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "member"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "calm and mellow member, always riding the waves of life, loves speedboats"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "36f0272e28bf6595199d02cb29013b91d9b9b9e250d270f32270506dcd1262bai0",
+    "meta": {
+      "name": "Chillwave",
+      "rank": "7",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "560"
+        },
+        {
+          "trait_type": "level",
+          "value": "member"
+        },
+        {
+          "trait_type": "description",
+          "value": "Calm as a cucumber, this member surfs the waves of life with a speedboat always in tow."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Once meditated for three days straight during a high-speed boat chase."
         }
-    },
-    {
-        "id": "fcf4b558d1edabf568a2dcbbb2d17b2628aafc944e4a14338cdfc6075ed949a9i0",
-        "meta": {
-            "name": "Pop",
-            "rank": "8",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "561"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "member"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "bubbly and playful member, always popping with excitement, loves sleep"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "fcf4b558d1edabf568a2dcbbb2d17b2628aafc944e4a14338cdfc6075ed949a9i0",
+    "meta": {
+      "name": "Pop",
+      "rank": "8",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "561"
+        },
+        {
+          "trait_type": "level",
+          "value": "member"
+        },
+        {
+          "trait_type": "description",
+          "value": "This bubbly member is like a human soda, constantly fizzing with excitement but loves a good nap."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Holds the world record for most hours slept in a bounce house."
         }
-    },
-    {
-        "id": "067e499b7add5c9218f8baf819747401d3c7bdf2c3bfde622f19d9f1646b8759i0",
-        "meta": {
-            "name": "Thrill",
-            "rank": "9",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "562"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "member"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "adventurous and daring member, always seeking out thrills and excitement, loves xanax"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "067e499b7add5c9218f8baf819747401d3c7bdf2c3bfde622f19d9f1646b8759i0",
+    "meta": {
+      "name": "Thrill",
+      "rank": "9",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "562"
+        },
+        {
+          "trait_type": "level",
+          "value": "member"
+        },
+        {
+          "trait_type": "description",
+          "value": "Adventure junkie and adrenaline seeker, this member can't get enough of extreme sports and Xanax."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Became an X-Games gold medalist while simultaneously having a panic attack."
         }
-    },
-    {
-        "id": "871686740b43aa97caa221d0e930b24f05d513a481104bf44a14278071f06e4bi0",
-        "meta": {
-            "name": "Zoom",
-            "rank": "10",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "563"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "member"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "analytical and brainy member, always zooming in on details and finding solutions, loves degens"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "871686740b43aa97caa221d0e930b24f05d513a481104bf44a14278071f06e4bi0",
+    "meta": {
+      "name": "Zoom",
+      "rank": "10",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "563"
+        },
+        {
+          "trait_type": "level",
+          "value": "member"
+        },
+        {
+          "trait_type": "description",
+          "value": "the brainiac of the group, analyzing every detail while secretly rooting for degenerate behavior"
+        },
+        {
+          "trait_type": "bio",
+          "value": "Favorite pastime: calculating the exact odds of successfully pulling off a heist."
         }
-    },
-    {
-        "id": "86d7c323ae7d1512fe3befc2ae1a765465f6bcd82144eb479dd47980a070eb08i0",
-        "meta": {
-            "name": "Whisker",
-            "rank": "4",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "564"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "senior"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "wise and experienced senior member, with a wealth of knowledge as big as his beard, loves surfing"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "86d7c323ae7d1512fe3befc2ae1a765465f6bcd82144eb479dd47980a070eb08i0",
+    "meta": {
+      "name": "Whisker",
+      "rank": "4",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "564"
+        },
+        {
+          "trait_type": "level",
+          "value": "senior"
+        },
+        {
+          "trait_type": "description",
+          "value": "Wise as an ancient sage, this senior member's beard doubles as a library of worldly knowledge. Loves surfing."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Discovered the meaning of life while riding a gnarly wave in Tahiti."
         }
-    },
-    {
-        "id": "69f857e4bf91da5175d1a3b69c6fdd31c968312c22395cc92e53636de73d876di0",
-        "meta": {
-            "name": "Jolt",
-            "rank": "11",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "565"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "member"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "electrifying member, always charging up the group with their energy, loves chamomile tea"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "69f857e4bf91da5175d1a3b69c6fdd31c968312c22395cc92e53636de73d876di0",
+    "meta": {
+      "name": "Jolt",
+      "rank": "11",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "565"
+        },
+        {
+          "trait_type": "level",
+          "value": "member"
+        },
+        {
+          "trait_type": "description",
+          "value": "Shockingly energetic member, zapping life into the group with their boundless enthusiasm, surprisingly adores chamomile tea."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Jolt, a human espresso shot, is never seen without a twinkle in their eye. Their contagious energy keeps the team on their toes and their love for chamomile tea grounds them in moments of tranquility. In their free time, Jolt enjoys finger painting with static electricity."
         }
-    },
-    {
-        "id": "8a0fd57b34bd2278f8d1fedb7375945cdcf10b858d65bf580cddebb0e3064f80i0",
-        "meta": {
-            "name": "Byte",
-            "rank": "5",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "566"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "senior"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "tech-savvy senior member, always knowledgeable about the latest technology, loves cobol"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "8a0fd57b34bd2278f8d1fedb7375945cdcf10b858d65bf580cddebb0e3064f80i0",
+    "meta": {
+      "name": "Byte",
+      "rank": "5",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "566"
+        },
+        {
+          "trait_type": "level",
+          "value": "senior"
+        },
+        {
+          "trait_type": "description",
+          "value": "Gadget-whiz senior member, always ahead of the tech curve, and harbors a deep affection for COBOL."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Byte is the group's digital guru, never far from the latest gadgets and gizmos. They love reminiscing about the golden days of COBOL while staying ahead of the latest tech trends. Byte spends their downtime restoring vintage computers and contemplating how floppy disks changed the world."
         }
-    },
-    {
-        "id": "424d50344b551e9533c074d9dad1b529a8e6e8cce20c9f13ba2f110e19f67e1bi0",
-        "meta": {
-            "name": "eco",
-            "rank": "12",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "567"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "member"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "planet-loving member of the group, always fighting to protect earth, loves rare steak"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "424d50344b551e9533c074d9dad1b529a8e6e8cce20c9f13ba2f110e19f67e1bi0",
+    "meta": {
+      "name": "Eco",
+      "rank": "12",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "567"
+        },
+        {
+          "trait_type": "level",
+          "value": "member"
+        },
+        {
+          "trait_type": "description",
+          "value": "earth-hugging member of the group, always fighting for Mother Nature, inexplicably craves rare steak"
+        },
+        {
+          "trait_type": "bio",
+          "value": "Eco is the group's green warrior, determined to save the planet one biodegradable straw at a time. Despite their love for all things Earth, they can't resist the allure of a rare steak Eco's hobbies include hugging trees and pondering the impact of cow flatulence on climate change."
         }
-    },
-    {
-        "id": "fa4759eebcb255b18cae7b06d69f1edaaec8e83ddaeab158cd8d8c11cc335f18i0",
-        "meta": {
-            "name": "Zipper",
-            "rank": "13",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "568"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "member"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "efficient and organized member, always keeping things in order, loves entropy"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "fa4759eebcb255b18cae7b06d69f1edaaec8e83ddaeab158cd8d8c11cc335f18i0",
+    "meta": {
+      "name": "Zipper",
+      "rank": "13",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "568"
+        },
+        {
+          "trait_type": "level",
+          "value": "member"
+        },
+        {
+          "trait_type": "description",
+          "value": "Ridiculously neat and orderly member, always taming chaos, secretly revels in entropy."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Zipper is the group's resident Marie Kondo, ensuring everything is in its proper place. They have a knack for transforming chaos into harmony but also have a guilty pleasure for entropy. When not organizing, Zipper can be found reading about the disorderly demise of the universe."
         }
-    },
-    {
-        "id": "5be51507bc9b06ea00dfee2b9b992c2ec17f2efbb56cc4b61850fe5c88c38e61i0",
-        "meta": {
-            "name": "Scribe",
-            "rank": "14",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "569"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "member"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "loyal and dependable member, always taking notes and keeping records, loves amnesia"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "5be51507bc9b06ea00dfee2b9b992c2ec17f2efbb56cc4b61850fe5c88c38e61i0",
+    "meta": {
+      "name": "Scribe",
+      "rank": "14",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "569"
+        },
+        {
+          "trait_type": "level",
+          "value": "member"
+        },
+        {
+          "trait_type": "description",
+          "value": "Unwaveringly reliable member, always scribbling notes, inexplicably fascinated by amnesia."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Scribe is the group's living, breathing encyclopedia, meticulously documenting every detail. They are steadfast in their note-taking but can't help being intrigued by the concept of amnesia. In their downtime, Scribe enjoys dabbling in memory-enhancing techniques and learning to juggle – both pens and responsibilities."
         }
-    },
-    {
-        "id": "184d13b4a75366624b128960d5059445a22fb22933a9e9260b5787ba0e645547i0",
-        "meta": {
-            "name": "Flashback",
-            "rank": "15",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "570"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "member"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "nostalgic member, always reminiscing about the good old days, loves sci-fi"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "184d13b4a75366624b128960d5059445a22fb22933a9e9260b5787ba0e645547i0",
+    "meta": {
+      "name": "Flashback",
+      "rank": "15",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "570"
+        },
+        {
+          "trait_type": "level",
+          "value": "member"
+        },
+        {
+          "trait_type": "description",
+          "value": "The nostalgic member who can't stop reminiscing about the good old days, but seriously into sci-fi."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Once built a time machine out of an old DeLorean, but lost the keys."
         }
-    },
-    {
-        "id": "7c6e78812eb126379c15ba3b21340a75264dfc0a82f64f16f5916d3583182ee9i0",
-        "meta": {
-            "name": "Wildcard",
-            "rank": "16",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "571"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "member"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "unpredictable and spontaneous member, always keeping the group on their toes with their wild antics, loves prediction markets"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "7c6e78812eb126379c15ba3b21340a75264dfc0a82f64f16f5916d3583182ee9i0",
+    "meta": {
+      "name": "Wildcard",
+      "rank": "16",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "571"
+        },
+        {
+          "trait_type": "level",
+          "value": "member"
+        },
+        {
+          "trait_type": "description",
+          "value": "The unpredictable and spontaneous member, stirring up wild antics like it's their job, obsessed with prediction markets."
+        },
+        {
+          "trait_type": "bio",
+          "value": "World champion in underwater basket weaving and professional chaos theorist."
         }
-    },
-    {
-        "id": "3d802fb815eeab0adab8cfec5a34b17509a71b22091c6770927633350f1163eci0",
-        "meta": {
-            "name": "Bounce",
-            "rank": "17",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "572"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "member"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "resilient and optimistic member, always bouncing back from setbacks, loves tragedy"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "3d802fb815eeab0adab8cfec5a34b17509a71b22091c6770927633350f1163eci0",
+    "meta": {
+      "name": "Bounce",
+      "rank": "17",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "572"
+        },
+        {
+          "trait_type": "level",
+          "value": "member"
+        },
+        {
+          "trait_type": "description",
+          "value": "Resilient, optimistic member who always bounces back from setbacks, yet has an odd love for tragedy."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Developed a new sport called 'tragedy pong' where the ball is made from tears."
         }
-    },
-    {
-        "id": "aab15678a9c45607882241d831a52003890972e0885ebefb167d5c50b6800462i0",
-        "meta": {
-            "name": "Zap",
-            "rank": "6",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "573"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "senior"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "energetic and lively senior member, always full of energy and enthusiasm, loves sloths"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "aab15678a9c45607882241d831a52003890972e0885ebefb167d5c50b6800462i0",
+    "meta": {
+      "name": "Zap",
+      "rank": "6",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "573"
+        },
+        {
+          "trait_type": "level",
+          "value": "senior"
+        },
+        {
+          "trait_type": "description",
+          "value": "The energetic, lively senior member, always zapping around with enthusiasm, but adores sloths."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Holds the world record for the longest staring contest with a sloth... and lost."
         }
-    },
-    {
-        "id": "4e77ae2458b30213215e33178e6ba1fd438d1313b14decd1b5091a14c2c78c10i0",
-        "meta": {
-            "name": "Beatbox",
-            "rank": "18",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "574"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "member"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "musical, weird member, always dropping sick beats and freestyling, loves meditation"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "4e77ae2458b30213215e33178e6ba1fd438d1313b14decd1b5091a14c2c78c10i0",
+    "meta": {
+      "name": "Beatbox",
+      "rank": "18",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "574"
+        },
+        {
+          "trait_type": "level",
+          "value": "member"
+        },
+        {
+          "trait_type": "description",
+          "value": "The musical, weird member who drops sick beats and freestyles like a pro, but meditates like a monk."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Became a celebrity when their viral meditation rap video broke the internet."
         }
-    },
-    {
-        "id": "7c63918f80282124901fd3f97e76506498b598e21583861e30e970909a0d2535i0",
-        "meta": {
-            "name": "Serene",
-            "rank": "19",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "575"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "member"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "peaceful and serene member, always offering calm and tranquility to others, loves guns"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "7c63918f80282124901fd3f97e76506498b598e21583861e30e970909a0d2535i0",
+    "meta": {
+      "name": "Serene",
+      "rank": "19",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "575"
+        },
+        {
+          "trait_type": "level",
+          "value": "member"
+        },
+        {
+          "trait_type": "description",
+          "value": "Peaceful and tranquil member, spreading calmness everywhere, but loves guns a bit too much."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Founder of 'Zen Shooting Range,' where participants practice mindfulness while firing off rounds."
         }
-    },
-    {
-        "id": "4c12cdd434c289ad3df63c5ac0236d7b1742c47142e307e403a1e5aebc081283i0",
-        "meta": {
-            "name": "Sketch",
-            "rank": "20",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "576"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "member"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "artistic and talented member, always sketching and painting, loves paying taxes"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "4c12cdd434c289ad3df63c5ac0236d7b1742c47142e307e403a1e5aebc081283i0",
+    "meta": {
+      "name": "Sketch",
+      "rank": "20",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "576"
+        },
+        {
+          "trait_type": "level",
+          "value": "member"
+        },
+        {
+          "trait_type": "description",
+          "value": "The artistic and talented member, always creating art masterpieces, but strangely loves paying taxes."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Created a series of tax-themed coloring books that became an unexpected bestseller."
         }
-    },
-    {
-        "id": "e622f4b54fe5dfd6a2d0394df38aa46d6bf2a024a50bb6d034562cc02832d829i0",
-        "meta": {
-            "name": "Swag",
-            "rank": "2",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "577"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "aspiring leader"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "shy and fashionable aspiring leader, always setting trends and looking fresh, loves mutiny"
-                }
-            ]
+      ]
+    }
+  },
+  {
+    "id": "e622f4b54fe5dfd6a2d0394df38aa46d6bf2a024a50bb6d034562cc02832d829i0",
+    "meta": {
+      "name": "Swag",
+      "rank": "2",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "577"
+        },
+        {
+          "trait_type": "level",
+          "value": "aspiring leader"
+        },
+        {
+          "trait_type": "description",
+          "value": "Unassumingly stylish aspiring leader, constantly launching fashion revolutions, harbors a secret passion for mutiny."
+        },
+        {
+          "trait_type": "bio",
+          "value": "Swag is the group's undercover fashionista, making waves with their sartorial choices. Always dressed to impress, they have a knack for starting clothing trends. Despite their shy demeanor, Swag dreams of leading a mutiny and taking over the fashion world one runway at a time."
         }
-    },
-    {
-        "id": "a212a3dead8051374536124220c50e1ea7f102752f140a003f7c5e1d366eb8a0i0",
-        "meta": {
-            "name": "Glitch",
-            "rank": "21",
-            "attributes": [
-                {
-                    "trait_type": "number",
-                    "value": "578"
-                },
-                {
-                    "trait_type": "level",
-                    "value": "member"
-                },
-                {
-                    "trait_type": "description",
-                    "value": "unconventional, financially responsible member, always finding creative sources of funding, loves holding the bag"
-                }
-            ]
+      ]
+    }
+  }, 
+  {
+    "id": "a212a3dead8051374536124220c50e1ea7f102752f140a003f7c5e1d366eb8a0i0",
+    "meta": {
+      "name": "Glitch",
+      "rank": "21",
+      "attributes": [
+        {
+          "trait_type": "number",
+          "value": "578"
+        },
+        {
+          "trait_type": "level",
+          "value": "member"
+        },
+        {
+          "trait_type": "description",
+          "value": "Quirky, frugal extraordinaire, constantly conjuring up innovative ways to pinch pennies, can't resist a good ol' bag-holding session."
+        },
+        {
+          "trait_type": "bio",
+          "value": "A master of financial wizardry, Glitch zigzags through life on a quest for the best deals and obscure income sources. With an uncanny ability to sniff out bargains, Glitch's frugality has saved the group from bankruptcy more than once. In their free time, they enjoy collecting vintage coin purses and researching long-lost satoshis."
         }
-    }   
+      ]
+    }
+  }
 ]
