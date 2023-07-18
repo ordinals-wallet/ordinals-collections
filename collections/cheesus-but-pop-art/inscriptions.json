@@ -1458,5 +1458,73 @@
         }
       ]
     }
+  },
+  {
+    "id": "76a4b86ab2ea1acae15110104071676719f27fc2fc737fc242fab576c175edb0i0",
+    "meta": {
+      "name": "Cheesus #ff6e4a",
+      "attributes": [
+        {
+          "trait_type": "Satribute",
+          "value": "Vintage"
+        },
+        {
+          "trait_type": "Satribute",
+          "value": "Block 78"
+        },
+        {
+          "trait_type": "Inscription type",
+          "value": "Re-Inscription"
+        },
+        {
+          "trait_type": "Batch number",
+          "value": "6"
+        },
+        {
+          "trait_type": "Background",
+          "value": "pop"
+        },
+        {
+          "trait_type": "Trait",
+          "value": "colored shirt"
+        },
+        {
+          "trait_type": "Trait",
+          "value": "twin"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e8b283b59454e38085725c294905b22095045503f2cc5ea5c1683345b552fdd6i0",
+    "meta": {
+      "name": "Cheesus #1a1a1a",
+      "attributes": [
+        {
+          "trait_type": "Satribute",
+          "value": "Silk Road"
+        },
+        {
+          "trait_type": "Inscription type",
+          "value": "Classic"
+        },
+        {
+          "trait_type": "Batch number",
+          "value": "6"
+        },
+        {
+          "trait_type": "Background",
+          "value": "pop"
+        },
+        {
+          "trait_type": "Trait",
+          "value": "colored shirt"
+        },
+        {
+          "trait_type": "Trait",
+          "value": "speech bubble"
+        }
+      ]
+    }
   }
 ]
