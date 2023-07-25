@@ -1,0 +1,402 @@
+[
+	{
+		"id": "877893457679503cfd1ee88b0e67aed1eec22a6f55b35fa72787bb8b9be62187i0",
+		"meta": {
+			"name": "Shadow Oracle",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Optimistic, Insightful, Knowledgeable"},
+				{"trait_type": "Speed", "value": "Swift"}
+			]
+		}
+	},
+	{
+		"id": "b66a57fe54b3cf7e11101dcff5f539eb3bb2e9456817a91e8b9bbea1e3af9943i0",
+		"meta": {
+			"name": "Deep Sea Wisdom",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Confident, Insightful, Knowledgeable"},
+				{"trait_type": "Speed", "value": "Energetic"}
+			]
+		}
+	},
+	{
+		"id": "82c1e46981322286be6f209f4b4838849574311e26dc116f6bce901af1246a80i0",
+		"meta": {
+			"name": "Abyssal Dreamer",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Confident, Insightful, Knowledgeable"},
+				{"trait_type": "Speed", "value": "Energetic"}
+			]
+		}
+	},
+	{
+		"id": "27a7317b94e307285fc24394a2fa503db55fd96ae4ae734704621b6bb5c90bb1i0",
+		"meta": {
+			"name": "Aqua Mystica",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Confident, Insightful, Knowledgeable"},
+				{"trait_type": "Speed", "value": "Energetic"}
+			]
+		}
+	},
+	{
+		"id": "92d48078330bcd90e52f955ee9e60d1a2e5cdac075c0bfda922917bfab2c4203i0",
+		"meta": {
+			"name": "Biting Insight",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Uncooperative, Sarcastic, Knowledgeable"},
+				{"trait_type": "Speed", "value": "Reasonable"}
+			]
+		}
+	},
+	{
+		"id": "a1facd308d0ecfd0c71ef42eacd8ebee5da3eb3c715f4057747cdcda44b53f76i0",
+		"meta": {
+			"name": "Resistant Knowledge",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Uncooperative, Sarcastic, Knowledgeable"},
+				{"trait_type": "Speed", "value": "Reasonable"}
+			]
+		}
+	},
+	{
+		"id": "645093d65af436af1c6fcfd25ca55a17cc3340ca96f9ea5273c8cb36a79ea09fi0",
+		"meta": {
+			"name": "Insolent Perception",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Uncooperative, Sarcastic, Knowledgeable"},
+				{"trait_type": "Speed", "value": "Reasonable"}
+			]
+		}
+	},
+	{
+		"id": "b18377374216eca43a2d9b5cab02f7896229235bd9ba6cfb22dcb389bc440aa5i0",
+		"meta": {
+			"name": "Rude Vision",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Uncooperative, Sarcastic, Knowledgeable"},
+				{"trait_type": "Speed", "value": "Reasonable"}
+			]
+		}
+	},
+	{
+		"id": "f3fba5aa3cbb3ff8cf479ee0f061ce75cbd11eb47a3b0d87371fd31f77f35cd2i0",
+		"meta": {
+			"name": "Emerald Sarcasm",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Uncooperative, Sarcastic, Knowledgeable"},
+				{"trait_type": "Speed", "value": "Reasonable"}
+			]
+		}
+	},
+	{
+		"id": "5a018da2cb254fc86369774884d8c3180363861af6bb8219e90bc2448b7967e2i0",
+		"meta": {
+			"name": "Refractory Emerald",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Uncooperative, Sarcastic, Knowledgeable"},
+				{"trait_type": "Speed", "value": "Reasonable"}
+			]
+		}
+	},
+	{
+		"id": "2cc0801904b5ae0c4cd2a8270632574c669dd340c61834e273af9ba292f92385i0",
+		"meta": {
+			"name": "Cranky Forest Eye",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Uncooperative, Sarcastic, Knowledgeable"},
+				{"trait_type": "Speed", "value": "Reasonable"}
+			]
+		}
+	},
+	{
+		"id": "d9cfb5e6f2562a9d97cb96f85e6ad979f8b29acd8af83dc86eaa33a84dea1e36i0",
+		"meta": {
+			"name": "Perverse Forest Eye",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Uncooperative, Sarcastic, Knowledgeable"},
+				{"trait_type": "Speed", "value": "Reasonable"}
+			]
+		}
+	},
+	{
+		"id": "a2ff51a3ea3d34cd78b5a2a1072bdba5278f3cdbd9bba03c515d2ff7145cb7c1i0",
+		"meta": {
+			"name": "Sly Forest Eye",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Uncooperative, Sarcastic, Knowledgeable"},
+				{"trait_type": "Speed", "value": "Reasonable"}
+			]
+		}
+	},
+	{
+		"id": "9e18089548368bee3470518404757a23bcb3e2fab1dfe2c5267a9c70fec3776ci0",
+		"meta": {
+			"name": "Creative Divination",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "f0d97f170b412c731092b43b311750bf01f42dbd01168d19e106cccefb892470i0",
+		"meta": {
+			"name": "Perceptive Palette",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "eff7e4da5dcf418dfd290fee83d8d1378db2a62f513f19d5ba430c16823b8293i0",
+		"meta": {
+			"name": "Mystical Impulse",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "a9c58265266fac5cdadc10c1a9e8a098ddf6098093cb138396af55ff25dc8ba1i0",
+		"meta": {
+			"name": "Rosy Revelation",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "fdbaa849beede2da388003e8b87b9a9209eda919f45e053c324d2b1e8bdeb1c4i0",
+		"meta": {
+			"name": "Dream Whisperer",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "f758978d6305e61738c3b8ab26d944f01fe94798e46557a2f426d0823649e6c9i0",
+		"meta": {
+			"name": "Intuitive Spark",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "b9b0c625d10de9b862f2dbbc47677f3833a656832d2d44446a0c98f49d1aeaffi0",
+		"meta": {
+			"name": "Perceptive Vortex",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "147375e2ca421417293d2b79089ca51c3e71960eb05b8252135bbed27fb91b2bi0",
+		"meta": {
+			"name": "Artistic Revelation",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "3089b25457dd4c92e51d19e2ffeff5595e0effdb71487a86a00a6a973b01006ci0",
+		"meta": {
+			"name": "Astral Fantasy",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "5b9fb4f6df2c73df5e7649d9dc7d4969dc92ccee3d21782776049df1af825b8ci0",
+		"meta": {
+			"name": "Adventurous Creativity",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "b218349864904be7559f5ceadce5e5dabf0bb7bce21e3b03a7e1a190a3aa2ba2i0",
+		"meta": {
+			"name": "Cosmic Expressions",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "c14c5ae0fa74f6a9e23214d191d1e48f1d6bb02207077eb9d1b83976ef868eb7i0",
+		"meta": {
+			"name": "Flaming Inspirer",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "9e1410dc213f21a14efd857ea0e1cd5f7f3249678636f248f81d1ac92b284ee0i0",
+		"meta": {
+			"name": "Wise Blush Infinity",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "6809e315c5630860e180bce817f0bac62f813f66d563f15d7ba74f3c55d5abfei0",
+		"meta": {
+			"name": "Wise Passion",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "b0b1e61388abfa8eabd7f090c383e7fedd7a404e68706fe3ef59d7b01cccfc08i0",
+		"meta": {
+			"name": "Vivid Flame Reader",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "c64b4cea187fcb295485089c17f915cfef1210a71c2d00f8b7d84cefed21ca21i0",
+		"meta": {
+			"name": "Vivid Insight",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "c7e129ce4b824666574a5a6be602e4fcec22161e2a0bbf8ccc3b3f0eea6db031i0",
+		"meta": {
+			"name": "Open Perception",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "b87a9576158726f59ee00cdd7733ecf529a983b7c3778f1fd2c539c82b39b223i0",
+		"meta": {
+			"name": "Wise Imagination",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "861e371db581b5c3d5226bedb767d48ad12caa1eb43729f0d9c6d149d226425ai0",
+		"meta": {
+			"name": "Intuitive Reflection",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "1aa482553cd93df3f8b046ad9b2dc5c962135d5dddcc2a3d90f9cfa74c859b7di0",
+		"meta": {
+			"name": "Intuitive Impulse",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "dc21d3bfa13bf16fc138c668321036087b18d21ba8a16b7d4f4c273a1c40a7bdi0",
+		"meta": {
+			"name": "Intuitive Wisdom",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "d9f06d98f582e07931188d8edaebe5f4f1a341a312eb339af7a8b7a66cb5cfe6i0",
+		"meta": {
+			"name": "Ambitious Aurora",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "53349b6179d0170a79cab2f82fa5061eff401bd06907ed3f71d44f175ba4c9f4i0",
+		"meta": {
+			"name": "Ambitious Reflection",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "b2ffb6c8270e883bd9d29a5a753c6cf23e4a4a3e1e7ffbe7ebcb770b7e547713i0",
+		"meta": {
+			"name": "Ambitious Harmony",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "b15bab2ba9ca89ca3fc2c832991c9bb8f650c5bfb0ce1de72fa53e2d7dff5847i0",
+		"meta": {
+			"name": "Pretty Perception",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "b4a4ef22155ec0083c1e5e804f3f41ff5b8cf059f6899af662a447c49ccd8e4ci0",
+		"meta": {
+			"name": "Pinkspired Vision",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	},
+	{
+		"id": "09eb37ee97178d914f8069453e00b0e288a05cfce155efdf8067a7e2157a9ea8i0",
+		"meta": {
+			"name": "Cotton Candy Inspiration",
+			"attributes": [
+				{"trait_type": "Personality", "value": "Open-minded, Hesitant, Creative"},
+				{"trait_type": "Speed", "value": "Relaxed"}
+			]
+		}
+	}
+]
