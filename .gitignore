@@ -4,6 +4,5 @@ env/*
 tests/__pycache__/*
 scripts/*
 .DS_Store
-src/
 target/
-Cargo.*
+temp.txt
