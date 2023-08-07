@@ -4,10 +4,22 @@
     "meta": {
       "name": "Bitcoin Relic #1",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Abyssal" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Abyssal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -16,10 +28,22 @@
     "meta": {
       "name": "Bitcoin Relic #2",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Magnetic" },
-        { "trait_type": "Artist", "value": "flashrekt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Magnetic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "flashrekt.eth"
+        }
       ]
     }
   },
@@ -28,10 +52,22 @@
     "meta": {
       "name": "Bitcoin Relic #3",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Lost" },
-        { "trait_type": "Artist", "value": "iliketerraforms.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Lost"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "iliketerraforms.eth"
+        }
       ]
     }
   },
@@ -40,10 +76,22 @@
     "meta": {
       "name": "Bitcoin Relic #4",
       "attributes": [
-        { "trait_type": "Type", "value": "Grail" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Lost" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Grail"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Lost"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -52,10 +100,22 @@
     "meta": {
       "name": "Bitcoin Relic #5",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Heavenly" },
-        { "trait_type": "Artist", "value": "flashrekt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Heavenly"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "flashrekt.eth"
+        }
       ]
     }
   },
@@ -64,10 +124,22 @@
     "meta": {
       "name": "Bitcoin Relic #6",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Lost" },
-        { "trait_type": "Artist", "value": "selwob.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Lost"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "selwob.eth"
+        }
       ]
     }
   },
@@ -76,10 +148,22 @@
     "meta": {
       "name": "Bitcoin Relic #7",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Essence", "value": "Molten" },
-        { "trait_type": "Artist", "value": "masta.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Molten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "masta.eth"
+        }
       ]
     }
   },
@@ -88,10 +172,22 @@
     "meta": {
       "name": "Bitcoin Relic #8",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Essence", "value": "Infernal" },
-        { "trait_type": "Artist", "value": "masta.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Infernal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "masta.eth"
+        }
       ]
     }
   },
@@ -100,10 +196,22 @@
     "meta": {
       "name": "Bitcoin Relic #9",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Lost" },
-        { "trait_type": "Artist", "value": "🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Lost"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉.eth"
+        }
       ]
     }
   },
@@ -112,10 +220,22 @@
     "meta": {
       "name": "Bitcoin Relic #10",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Night" },
-        { "trait_type": "Artist", "value": "probablyevvi.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Night"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "probablyevvi.eth"
+        }
       ]
     }
   },
@@ -124,10 +244,22 @@
     "meta": {
       "name": "Bitcoin Relic #11",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -136,10 +268,22 @@
     "meta": {
       "name": "Bitcoin Relic #12",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Nature" },
-        { "trait_type": "Essence", "value": "Swamp" },
-        { "trait_type": "Artist", "value": "probablyevvi.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Swamp"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "probablyevvi.eth"
+        }
       ]
     }
   },
@@ -148,10 +292,22 @@
     "meta": {
       "name": "Bitcoin Relic #13",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Essence", "value": "Celestial" },
-        { "trait_type": "Artist", "value": "probablyevvi.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Celestial"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "probablyevvi.eth"
+        }
       ]
     }
   },
@@ -160,10 +316,22 @@
     "meta": {
       "name": "Bitcoin Relic #14",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Nature" },
-        { "trait_type": "Essence", "value": "Soul" },
-        { "trait_type": "Artist", "value": "probablyevvi.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Soul"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "probablyevvi.eth"
+        }
       ]
     }
   },
@@ -172,10 +340,22 @@
     "meta": {
       "name": "Bitcoin Relic #15",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Essence", "value": "Infernal" },
-        { "trait_type": "Artist", "value": "calbear4life.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Infernal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "calbear4life.eth"
+        }
       ]
     }
   },
@@ -184,10 +364,22 @@
     "meta": {
       "name": "Bitcoin Relic #16",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Earth" },
-        { "trait_type": "Essence", "value": "Mineral" },
-        { "trait_type": "Artist", "value": "calbear4life.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Mineral"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "calbear4life.eth"
+        }
       ]
     }
   },
@@ -196,10 +388,22 @@
     "meta": {
       "name": "Bitcoin Relic #17",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Fae" },
-        { "trait_type": "Artist", "value": "willhunter.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Fae"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "willhunter.eth"
+        }
       ]
     }
   },
@@ -208,10 +412,22 @@
     "meta": {
       "name": "Bitcoin Relic #18",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Earth" },
-        { "trait_type": "Essence", "value": "Gnomic" },
-        { "trait_type": "Artist", "value": "nandx.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Gnomic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "nandx.eth"
+        }
       ]
     }
   },
@@ -220,10 +436,22 @@
     "meta": {
       "name": "Bitcoin Relic #19",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Nature" },
-        { "trait_type": "Essence", "value": "Wildblood" },
-        { "trait_type": "Artist", "value": "nandx.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Wildblood"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "nandx.eth"
+        }
       ]
     }
   },
@@ -232,10 +460,22 @@
     "meta": {
       "name": "Bitcoin Relic #20",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Nature" },
-        { "trait_type": "Essence", "value": "Swamp" },
-        { "trait_type": "Artist", "value": "0x9058a136e29c3b937c23cde011b4e584fb603c11" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Swamp"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x9058a136e29c3b937c23cde011b4e584fb603c11"
+        }
       ]
     }
   },
@@ -244,10 +484,22 @@
     "meta": {
       "name": "Bitcoin Relic #21",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Night" },
-        { "trait_type": "Artist", "value": "vonbonbon.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Night"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "vonbonbon.eth"
+        }
       ]
     }
   },
@@ -256,10 +508,22 @@
     "meta": {
       "name": "Bitcoin Relic #22",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Essence", "value": "Ashen" },
-        { "trait_type": "Artist", "value": "vonbonbon.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Ashen"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "vonbonbon.eth"
+        }
       ]
     }
   },
@@ -268,10 +532,22 @@
     "meta": {
       "name": "Bitcoin Relic #23",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Sylphic" },
-        { "trait_type": "Artist", "value": "07c1.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Sylphic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "07c1.eth"
+        }
       ]
     }
   },
@@ -280,10 +556,22 @@
     "meta": {
       "name": "Bitcoin Relic #24",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Sylphic" },
-        { "trait_type": "Artist", "value": "07c1.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Sylphic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "07c1.eth"
+        }
       ]
     }
   },
@@ -292,10 +580,22 @@
     "meta": {
       "name": "Bitcoin Relic #25",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Sylphic" },
-        { "trait_type": "Artist", "value": "07c1.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Sylphic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "07c1.eth"
+        }
       ]
     }
   },
@@ -304,10 +604,22 @@
     "meta": {
       "name": "Bitcoin Relic #26",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Water" },
-        { "trait_type": "Essence", "value": "Arctic" },
-        { "trait_type": "Artist", "value": "07c1.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Arctic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "07c1.eth"
+        }
       ]
     }
   },
@@ -316,10 +628,22 @@
     "meta": {
       "name": "Bitcoin Relic #27",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Night" },
-        { "trait_type": "Artist", "value": "neurotoad.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Night"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "neurotoad.eth"
+        }
       ]
     }
   },
@@ -328,10 +652,22 @@
     "meta": {
       "name": "Bitcoin Relic #28",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Water" },
-        { "trait_type": "Essence", "value": "Undine" },
-        { "trait_type": "Artist", "value": "07c1.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Undine"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "07c1.eth"
+        }
       ]
     }
   },
@@ -340,10 +676,22 @@
     "meta": {
       "name": "Bitcoin Relic #29",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Magic" },
-        { "trait_type": "Artist", "value": "jpmorganwallet.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Magic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jpmorganwallet.eth"
+        }
       ]
     }
   },
@@ -352,10 +700,22 @@
     "meta": {
       "name": "Bitcoin Relic #30",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Abyssal" },
-        { "trait_type": "Artist", "value": "rnbws.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Abyssal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "rnbws.eth"
+        }
       ]
     }
   },
@@ -364,10 +724,22 @@
     "meta": {
       "name": "Bitcoin Relic #31",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Water" },
-        { "trait_type": "Essence", "value": "Undine" },
-        { "trait_type": "Artist", "value": "rnbws.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Undine"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "rnbws.eth"
+        }
       ]
     }
   },
@@ -376,10 +748,22 @@
     "meta": {
       "name": "Bitcoin Relic #32",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Lost" },
-        { "trait_type": "Artist", "value": "knowrat.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Lost"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "knowrat.eth"
+        }
       ]
     }
   },
@@ -388,10 +772,22 @@
     "meta": {
       "name": "Bitcoin Relic #33",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Night" },
-        { "trait_type": "Artist", "value": "0xcfb098c1d44eb12f93f9aaece5d6054e2a2240ab" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Night"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0xcfb098c1d44eb12f93f9aaece5d6054e2a2240ab"
+        }
       ]
     }
   },
@@ -400,10 +796,22 @@
     "meta": {
       "name": "Bitcoin Relic #34",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Magic" },
-        { "trait_type": "Artist", "value": "0xcfb098c1d44eb12f93f9aaece5d6054e2a2240ab" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Magic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0xcfb098c1d44eb12f93f9aaece5d6054e2a2240ab"
+        }
       ]
     }
   },
@@ -412,10 +820,22 @@
     "meta": {
       "name": "Bitcoin Relic #35",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Lost" },
-        { "trait_type": "Artist", "value": "yigitduman.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Lost"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "yigitduman.eth"
+        }
       ]
     }
   },
@@ -424,10 +844,22 @@
     "meta": {
       "name": "Bitcoin Relic #36",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Earth" },
-        { "trait_type": "Essence", "value": "Craggy" },
-        { "trait_type": "Artist", "value": "privatezod.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Craggy"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "privatezod.eth"
+        }
       ]
     }
   },
@@ -436,10 +868,22 @@
     "meta": {
       "name": "Bitcoin Relic #37",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Photonic" },
-        { "trait_type": "Artist", "value": "privatezod.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Photonic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "privatezod.eth"
+        }
       ]
     }
   },
@@ -448,10 +892,22 @@
     "meta": {
       "name": "Bitcoin Relic #38",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Astral" },
-        { "trait_type": "Artist", "value": "0x7218f254d79e612cbefb93c9c3dad295eaaf9501" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Astral"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x7218f254d79e612cbefb93c9c3dad295eaaf9501"
+        }
       ]
     }
   },
@@ -460,10 +916,22 @@
     "meta": {
       "name": "Bitcoin Relic #39",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Night" },
-        { "trait_type": "Artist", "value": "0x7218f254d79e612cbefb93c9c3dad295eaaf9501" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Night"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x7218f254d79e612cbefb93c9c3dad295eaaf9501"
+        }
       ]
     }
   },
@@ -472,10 +940,22 @@
     "meta": {
       "name": "Bitcoin Relic #40",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "7174.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "7174.eth"
+        }
       ]
     }
   },
@@ -484,10 +964,22 @@
     "meta": {
       "name": "Bitcoin Relic #41",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Heavenly" },
-        { "trait_type": "Artist", "value": "0x505e5ea6b384ea9c18e2313f2cf13c28af576e0a" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Heavenly"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x505e5ea6b384ea9c18e2313f2cf13c28af576e0a"
+        }
       ]
     }
   },
@@ -496,10 +988,22 @@
     "meta": {
       "name": "Bitcoin Relic #42",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Evil" },
-        { "trait_type": "Artist", "value": "chainleft.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Evil"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "chainleft.eth"
+        }
       ]
     }
   },
@@ -508,10 +1012,22 @@
     "meta": {
       "name": "Bitcoin Relic #43",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Magic" },
-        { "trait_type": "Artist", "value": "estubbs.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Magic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "estubbs.eth"
+        }
       ]
     }
   },
@@ -520,10 +1036,22 @@
     "meta": {
       "name": "Bitcoin Relic #44",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Magic" },
-        { "trait_type": "Artist", "value": "quaq.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Magic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "quaq.eth"
+        }
       ]
     }
   },
@@ -532,10 +1060,22 @@
     "meta": {
       "name": "Bitcoin Relic #45",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Earth" },
-        { "trait_type": "Essence", "value": "Craggy" },
-        { "trait_type": "Artist", "value": "0x1F919740214C7FcE32E4CA5060626Cc822CdA703" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Craggy"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x1F919740214C7FcE32E4CA5060626Cc822CdA703"
+        }
       ]
     }
   },
@@ -544,10 +1084,22 @@
     "meta": {
       "name": "Bitcoin Relic #46",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Abyssal" },
-        { "trait_type": "Artist", "value": "wilc.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Abyssal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "wilc.eth"
+        }
       ]
     }
   },
@@ -556,10 +1108,22 @@
     "meta": {
       "name": "Bitcoin Relic #47",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Essence", "value": "Infernal" },
-        { "trait_type": "Artist", "value": "foolishpilgrim.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Infernal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "foolishpilgrim.eth"
+        }
       ]
     }
   },
@@ -568,10 +1132,22 @@
     "meta": {
       "name": "Bitcoin Relic #48",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Evil" },
-        { "trait_type": "Artist", "value": "rmittal.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Evil"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "rmittal.eth"
+        }
       ]
     }
   },
@@ -580,10 +1156,22 @@
     "meta": {
       "name": "Bitcoin Relic #49",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Essence", "value": "Celestial" },
-        { "trait_type": "Artist", "value": "rmittal.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Celestial"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "rmittal.eth"
+        }
       ]
     }
   },
@@ -592,10 +1180,22 @@
     "meta": {
       "name": "Bitcoin Relic #50",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Visceral" },
-        { "trait_type": "Artist", "value": "flashrekt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Visceral"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "flashrekt.eth"
+        }
       ]
     }
   },
@@ -604,10 +1204,22 @@
     "meta": {
       "name": "Bitcoin Relic #51",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Prismatic" },
-        { "trait_type": "Artist", "value": "0x27c5932eE1B0873e67279066bE914d46203fC738" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Prismatic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x27c5932eE1B0873e67279066bE914d46203fC738"
+        }
       ]
     }
   },
@@ -616,10 +1228,22 @@
     "meta": {
       "name": "Bitcoin Relic #52",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Water" },
-        { "trait_type": "Essence", "value": "Tidal" },
-        { "trait_type": "Artist", "value": "bobbyshla.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Tidal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "bobbyshla.eth"
+        }
       ]
     }
   },
@@ -628,10 +1252,22 @@
     "meta": {
       "name": "Bitcoin Relic #53",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Water" },
-        { "trait_type": "Essence", "value": "Tidal" },
-        { "trait_type": "Artist", "value": "bobbyshla.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Tidal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "bobbyshla.eth"
+        }
       ]
     }
   },
@@ -640,10 +1276,22 @@
     "meta": {
       "name": "Bitcoin Relic #54",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Unknown" },
-        { "trait_type": "Artist", "value": "lunarraid.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Unknown"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "lunarraid.eth"
+        }
       ]
     }
   },
@@ -652,10 +1300,22 @@
     "meta": {
       "name": "Bitcoin Relic #55",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "dallasjhawk.q00t.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "dallasjhawk.q00t.eth"
+        }
       ]
     }
   },
@@ -664,10 +1324,22 @@
     "meta": {
       "name": "Bitcoin Relic #56",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Abyssal" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Abyssal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -676,10 +1348,22 @@
     "meta": {
       "name": "Bitcoin Relic #57",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Magic" },
-        { "trait_type": "Artist", "value": "vault.keltron.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Magic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "vault.keltron.eth"
+        }
       ]
     }
   },
@@ -688,10 +1372,22 @@
     "meta": {
       "name": "Bitcoin Relic #58",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -700,10 +1396,22 @@
     "meta": {
       "name": "Bitcoin Relic #59",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Magic" },
-        { "trait_type": "Artist", "value": "donosaur.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Magic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "donosaur.eth"
+        }
       ]
     }
   },
@@ -712,10 +1420,22 @@
     "meta": {
       "name": "Bitcoin Relic #60",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Night" },
-        { "trait_type": "Artist", "value": "wimpz.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Night"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "wimpz.eth"
+        }
       ]
     }
   },
@@ -724,10 +1444,22 @@
     "meta": {
       "name": "Bitcoin Relic #61",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "0xef9c3572a7194d829f5742f5299418db1f9f00a7" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0xef9c3572a7194d829f5742f5299418db1f9f00a7"
+        }
       ]
     }
   },
@@ -736,10 +1468,22 @@
     "meta": {
       "name": "Bitcoin Relic #62",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Night" },
-        { "trait_type": "Artist", "value": "probablyevvi.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Night"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "probablyevvi.eth"
+        }
       ]
     }
   },
@@ -748,10 +1492,22 @@
     "meta": {
       "name": "Bitcoin Relic #63",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Heavenly" },
-        { "trait_type": "Artist", "value": "blessu.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Heavenly"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "blessu.eth"
+        }
       ]
     }
   },
@@ -760,10 +1516,22 @@
     "meta": {
       "name": "Bitcoin Relic #64",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Prismatic" },
-        { "trait_type": "Artist", "value": "0xcfb098c1d44eb12f93f9aaece5d6054e2a2240ab" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Prismatic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0xcfb098c1d44eb12f93f9aaece5d6054e2a2240ab"
+        }
       ]
     }
   },
@@ -772,10 +1540,22 @@
     "meta": {
       "name": "Bitcoin Relic #65",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Essence", "value": "Celestial" },
-        { "trait_type": "Artist", "value": "0xcfb098c1d44eb12f93f9aaece5d6054e2a2240ab" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Celestial"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0xcfb098c1d44eb12f93f9aaece5d6054e2a2240ab"
+        }
       ]
     }
   },
@@ -784,10 +1564,22 @@
     "meta": {
       "name": "Bitcoin Relic #66",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Lost" },
-        { "trait_type": "Artist", "value": "0xcfb098c1d44eb12f93f9aaece5d6054e2a2240ab" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Lost"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0xcfb098c1d44eb12f93f9aaece5d6054e2a2240ab"
+        }
       ]
     }
   },
@@ -796,10 +1588,22 @@
     "meta": {
       "name": "Bitcoin Relic #67",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Magic" },
-        { "trait_type": "Artist", "value": "0x89d791d59c9bd0bb4fb6ecb6ca00efc8ffcb1d25" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Magic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x89d791d59c9bd0bb4fb6ecb6ca00efc8ffcb1d25"
+        }
       ]
     }
   },
@@ -808,10 +1612,22 @@
     "meta": {
       "name": "Bitcoin Relic #68",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Water" },
-        { "trait_type": "Essence", "value": "Tidal" },
-        { "trait_type": "Artist", "value": "0x89d791d59c9bd0bb4fb6ecb6ca00efc8ffcb1d25" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Tidal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x89d791d59c9bd0bb4fb6ecb6ca00efc8ffcb1d25"
+        }
       ]
     }
   },
@@ -820,10 +1636,22 @@
     "meta": {
       "name": "Bitcoin Relic #69",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Magic" },
-        { "trait_type": "Artist", "value": "boestom.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Magic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "boestom.eth"
+        }
       ]
     }
   },
@@ -832,10 +1660,22 @@
     "meta": {
       "name": "Bitcoin Relic #70",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Magic" },
-        { "trait_type": "Artist", "value": "artcollectooooor.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Magic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "artcollectooooor.eth"
+        }
       ]
     }
   },
@@ -844,10 +1684,22 @@
     "meta": {
       "name": "Bitcoin Relic #71",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Abyssal" },
-        { "trait_type": "Artist", "value": "selwob.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Abyssal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "selwob.eth"
+        }
       ]
     }
   },
@@ -856,10 +1708,22 @@
     "meta": {
       "name": "Bitcoin Relic #72",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Evil" },
-        { "trait_type": "Artist", "value": "selwob.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Evil"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "selwob.eth"
+        }
       ]
     }
   },
@@ -868,10 +1732,22 @@
     "meta": {
       "name": "Bitcoin Relic #73",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Earth" },
-        { "trait_type": "Essence", "value": "Dwarven" },
-        { "trait_type": "Artist", "value": "selwob.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Dwarven"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "selwob.eth"
+        }
       ]
     }
   },
@@ -880,10 +1756,22 @@
     "meta": {
       "name": "Bitcoin Relic #74",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Earth" },
-        { "trait_type": "Essence", "value": "Gnomic" },
-        { "trait_type": "Artist", "value": "selwob.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Gnomic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "selwob.eth"
+        }
       ]
     }
   },
@@ -892,10 +1780,22 @@
     "meta": {
       "name": "Bitcoin Relic #75",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Photonic" },
-        { "trait_type": "Artist", "value": "selwob.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Photonic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "selwob.eth"
+        }
       ]
     }
   },
@@ -904,10 +1804,22 @@
     "meta": {
       "name": "Bitcoin Relic #76",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Prismatic" },
-        { "trait_type": "Artist", "value": "selwob.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Prismatic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "selwob.eth"
+        }
       ]
     }
   },
@@ -916,10 +1828,22 @@
     "meta": {
       "name": "Bitcoin Relic #77",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Unknown" },
-        { "trait_type": "Artist", "value": "selwob.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Unknown"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "selwob.eth"
+        }
       ]
     }
   },
@@ -928,10 +1852,22 @@
     "meta": {
       "name": "Bitcoin Relic #78",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "selwob.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "selwob.eth"
+        }
       ]
     }
   },
@@ -940,10 +1876,22 @@
     "meta": {
       "name": "Bitcoin Relic #79",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Water" },
-        { "trait_type": "Essence", "value": "Undine" },
-        { "trait_type": "Artist", "value": "selwob.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Undine"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "selwob.eth"
+        }
       ]
     }
   },
@@ -952,10 +1900,22 @@
     "meta": {
       "name": "Bitcoin Relic #80",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Earth" },
-        { "trait_type": "Essence", "value": "Mineral" },
-        { "trait_type": "Artist", "value": "ballsweat.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Mineral"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ballsweat.eth"
+        }
       ]
     }
   },
@@ -964,10 +1924,22 @@
     "meta": {
       "name": "Bitcoin Relic #81",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Evil" },
-        { "trait_type": "Artist", "value": "ballsweat.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Evil"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ballsweat.eth"
+        }
       ]
     }
   },
@@ -976,10 +1948,22 @@
     "meta": {
       "name": "Bitcoin Relic #82",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Fae" },
-        { "trait_type": "Artist", "value": "0x7EeA01cd9510BC03160eA9Ab27779B1079bF57Cc" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Fae"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x7EeA01cd9510BC03160eA9Ab27779B1079bF57Cc"
+        }
       ]
     }
   },
@@ -988,10 +1972,22 @@
     "meta": {
       "name": "Bitcoin Relic #83",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Heavenly" },
-        { "trait_type": "Artist", "value": "0xbee631d0197b9b8406ec271ac41281be5cfc66bc" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Heavenly"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0xbee631d0197b9b8406ec271ac41281be5cfc66bc"
+        }
       ]
     }
   },
@@ -1000,10 +1996,22 @@
     "meta": {
       "name": "Bitcoin Relic #84",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Photonic" },
-        { "trait_type": "Artist", "value": "itsbradleybitch.pcc.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Photonic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "itsbradleybitch.pcc.eth"
+        }
       ]
     }
   },
@@ -1012,10 +2020,22 @@
     "meta": {
       "name": "Bitcoin Relic #85",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Evil" },
-        { "trait_type": "Artist", "value": "0x973def5792da872f932d6945f38b34e9ed851452" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Evil"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x973def5792da872f932d6945f38b34e9ed851452"
+        }
       ]
     }
   },
@@ -1024,10 +2044,22 @@
     "meta": {
       "name": "Bitcoin Relic #86",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Fae" },
-        { "trait_type": "Artist", "value": "0x973def5792da872f932d6945f38b34e9ed851452" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Fae"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x973def5792da872f932d6945f38b34e9ed851452"
+        }
       ]
     }
   },
@@ -1036,10 +2068,22 @@
     "meta": {
       "name": "Bitcoin Relic #87",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Heavenly" },
-        { "trait_type": "Artist", "value": "mabdekgosh.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Heavenly"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "mabdekgosh.eth"
+        }
       ]
     }
   },
@@ -1048,10 +2092,22 @@
     "meta": {
       "name": "Bitcoin Relic #88",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Prismatic" },
-        { "trait_type": "Artist", "value": "mabdekgosh.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Prismatic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "mabdekgosh.eth"
+        }
       ]
     }
   },
@@ -1060,10 +2116,22 @@
     "meta": {
       "name": "Bitcoin Relic #89",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Night" },
-        { "trait_type": "Artist", "value": "mabdekgosh.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Night"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "mabdekgosh.eth"
+        }
       ]
     }
   },
@@ -1072,10 +2140,22 @@
     "meta": {
       "name": "Bitcoin Relic #90",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Magic" },
-        { "trait_type": "Artist", "value": "0x04a20eb448673bf850ea9a7e6f13b2d7f9f785be" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Magic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x04a20eb448673bf850ea9a7e6f13b2d7f9f785be"
+        }
       ]
     }
   },
@@ -1084,10 +2164,22 @@
     "meta": {
       "name": "Bitcoin Relic #91",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Water" },
-        { "trait_type": "Essence", "value": "Tidal" },
-        { "trait_type": "Artist", "value": "0r4nge.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Tidal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0r4nge.eth"
+        }
       ]
     }
   },
@@ -1096,10 +2188,22 @@
     "meta": {
       "name": "Bitcoin Relic #92",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Abyssal" },
-        { "trait_type": "Artist", "value": "0x216dB609E83142C79918F0E4Ba3463415D3B9D2D" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Abyssal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x216dB609E83142C79918F0E4Ba3463415D3B9D2D"
+        }
       ]
     }
   },
@@ -1108,10 +2212,22 @@
     "meta": {
       "name": "Bitcoin Relic #93",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Prismatic" },
-        { "trait_type": "Artist", "value": "e4c4.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Prismatic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "e4c4.eth"
+        }
       ]
     }
   },
@@ -1120,10 +2236,22 @@
     "meta": {
       "name": "Bitcoin Relic #94",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "0x6e0c83fba7a67b7c64bfd1ff7760cbb096a5da35" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x6e0c83fba7a67b7c64bfd1ff7760cbb096a5da35"
+        }
       ]
     }
   },
@@ -1132,10 +2260,22 @@
     "meta": {
       "name": "Bitcoin Relic #95",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Sylphic" },
-        { "trait_type": "Artist", "value": "vileplume.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Sylphic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "vileplume.eth"
+        }
       ]
     }
   },
@@ -1144,10 +2284,22 @@
     "meta": {
       "name": "Bitcoin Relic #96",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Electric" },
-        { "trait_type": "Artist", "value": "meowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeow.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Electric"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "meowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeowmeow.eth"
+        }
       ]
     }
   },
@@ -1156,10 +2308,22 @@
     "meta": {
       "name": "Bitcoin Relic #97",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Prismatic" },
-        { "trait_type": "Artist", "value": "comfyvault.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Prismatic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "comfyvault.eth"
+        }
       ]
     }
   },
@@ -1168,10 +2332,22 @@
     "meta": {
       "name": "Bitcoin Relic #98",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Earth" },
-        { "trait_type": "Essence", "value": "Dwarven" },
-        { "trait_type": "Artist", "value": "comfyvault.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Dwarven"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "comfyvault.eth"
+        }
       ]
     }
   },
@@ -1180,10 +2356,22 @@
     "meta": {
       "name": "Bitcoin Relic #99",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Essence", "value": "Ashen" },
-        { "trait_type": "Artist", "value": "tristanowen.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Ashen"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "tristanowen.eth"
+        }
       ]
     }
   },
@@ -1192,10 +2380,22 @@
     "meta": {
       "name": "Bitcoin Relic #100",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Night" },
-        { "trait_type": "Artist", "value": "0xe893b92fe428916931cea98fd9fa734e4688dd0a" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Night"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0xe893b92fe428916931cea98fd9fa734e4688dd0a"
+        }
       ]
     }
   },
@@ -1204,10 +2404,22 @@
     "meta": {
       "name": "Bitcoin Relic #101",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Electric" },
-        { "trait_type": "Artist", "value": "888bit.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Electric"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "888bit.eth"
+        }
       ]
     }
   },
@@ -1216,10 +2428,22 @@
     "meta": {
       "name": "Bitcoin Relic #102",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Nature" },
-        { "trait_type": "Essence", "value": "Swamp" },
-        { "trait_type": "Artist", "value": "digidaiwaifu.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Swamp"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "digidaiwaifu.eth"
+        }
       ]
     }
   },
@@ -1228,10 +2452,22 @@
     "meta": {
       "name": "Bitcoin Relic #103",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Essence", "value": "Molten" },
-        { "trait_type": "Artist", "value": "digidaiwaifu.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Molten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "digidaiwaifu.eth"
+        }
       ]
     }
   },
@@ -1240,10 +2476,22 @@
     "meta": {
       "name": "Bitcoin Relic #104",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Photonic" },
-        { "trait_type": "Artist", "value": "majorana.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Photonic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "majorana.eth"
+        }
       ]
     }
   },
@@ -1252,10 +2500,22 @@
     "meta": {
       "name": "Bitcoin Relic #105",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "majorana.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "majorana.eth"
+        }
       ]
     }
   },
@@ -1264,10 +2524,22 @@
     "meta": {
       "name": "Bitcoin Relic #106",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Magic" },
-        { "trait_type": "Artist", "value": "0x5f1db8d30744eed120fa29d7045a5d32e34c9724" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Magic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x5f1db8d30744eed120fa29d7045a5d32e34c9724"
+        }
       ]
     }
   },
@@ -1276,10 +2548,22 @@
     "meta": {
       "name": "Bitcoin Relic #107",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "0x354fE37DF91833c8FdcE5E8c3a62246B5aaF92D3" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x354fE37DF91833c8FdcE5E8c3a62246B5aaF92D3"
+        }
       ]
     }
   },
@@ -1288,10 +2572,22 @@
     "meta": {
       "name": "Bitcoin Relic #108",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Nature" },
-        { "trait_type": "Essence", "value": "Soul" },
-        { "trait_type": "Artist", "value": "0x2cac9e6d1d630a35cb8019779daf4c5fd96135ca" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Soul"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x2cac9e6d1d630a35cb8019779daf4c5fd96135ca"
+        }
       ]
     }
   },
@@ -1300,10 +2596,22 @@
     "meta": {
       "name": "Bitcoin Relic #109",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Photonic" },
-        { "trait_type": "Artist", "value": "0x2cac9e6d1d630a35cb8019779daf4c5fd96135ca" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Photonic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x2cac9e6d1d630a35cb8019779daf4c5fd96135ca"
+        }
       ]
     }
   },
@@ -1312,10 +2620,22 @@
     "meta": {
       "name": "Bitcoin Relic #110",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Runic" },
-        { "trait_type": "Artist", "value": "0xeaa7045335239c1c18c87bd8cc80c5c2611adfbc" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Runic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0xeaa7045335239c1c18c87bd8cc80c5c2611adfbc"
+        }
       ]
     }
   },
@@ -1324,10 +2644,22 @@
     "meta": {
       "name": "Bitcoin Relic #111",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Water" },
-        { "trait_type": "Essence", "value": "Arctic" },
-        { "trait_type": "Artist", "value": "ryga.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Arctic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ryga.eth"
+        }
       ]
     }
   },
@@ -1336,10 +2668,22 @@
     "meta": {
       "name": "Bitcoin Relic #112",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Water" },
-        { "trait_type": "Essence", "value": "Undine" },
-        { "trait_type": "Artist", "value": "ryga.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Undine"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ryga.eth"
+        }
       ]
     }
   },
@@ -1348,10 +2692,22 @@
     "meta": {
       "name": "Bitcoin Relic #113",
       "attributes": [
-        { "trait_type": "Type", "value": "Grail" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Electric" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Grail"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Electric"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -1360,10 +2716,22 @@
     "meta": {
       "name": "Bitcoin Relic #114",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Night" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Night"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -1372,10 +2740,22 @@
     "meta": {
       "name": "Bitcoin Relic #115",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Photonic" },
-        { "trait_type": "Artist", "value": "ad-altiora.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Photonic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "ad-altiora.eth"
+        }
       ]
     }
   },
@@ -1384,10 +2764,22 @@
     "meta": {
       "name": "Bitcoin Relic #116",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Runic" },
-        { "trait_type": "Artist", "value": "livmybestlife.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Runic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "livmybestlife.eth"
+        }
       ]
     }
   },
@@ -1396,10 +2788,22 @@
     "meta": {
       "name": "Bitcoin Relic #117",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "0xCEf27c738193b86E29c2646A1e19aFc432b63ddE" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0xCEf27c738193b86E29c2646A1e19aFc432b63ddE"
+        }
       ]
     }
   },
@@ -1408,10 +2812,22 @@
     "meta": {
       "name": "Bitcoin Relic #118",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "0x33ee1FA9eD670001D1740419192142931e088e79" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x33ee1FA9eD670001D1740419192142931e088e79"
+        }
       ]
     }
   },
@@ -1420,10 +2836,22 @@
     "meta": {
       "name": "Bitcoin Relic #119",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Evil" },
-        { "trait_type": "Artist", "value": "neonstar.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Evil"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "neonstar.eth"
+        }
       ]
     }
   },
@@ -1432,10 +2860,22 @@
     "meta": {
       "name": "Bitcoin Relic #120",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Visceral" },
-        { "trait_type": "Artist", "value": "0x0C41d64B3717732cBBB80fb74075C37A7742CcCE" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Visceral"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x0C41d64B3717732cBBB80fb74075C37A7742CcCE"
+        }
       ]
     }
   },
@@ -1444,10 +2884,22 @@
     "meta": {
       "name": "Bitcoin Relic #121",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "formula44.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "formula44.eth"
+        }
       ]
     }
   },
@@ -1456,10 +2908,22 @@
     "meta": {
       "name": "Bitcoin Relic #122",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Nature" },
-        { "trait_type": "Essence", "value": "Soul" },
-        { "trait_type": "Artist", "value": "infusion.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Soul"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "infusion.eth"
+        }
       ]
     }
   },
@@ -1468,10 +2932,22 @@
     "meta": {
       "name": "Bitcoin Relic #123",
       "attributes": [
-        { "trait_type": "Type", "value": "Grail" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Unknown" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Grail"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Unknown"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -1480,10 +2956,22 @@
     "meta": {
       "name": "Bitcoin Relic #124",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Essence", "value": "Ashen" },
-        { "trait_type": "Artist", "value": "7174.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Ashen"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "7174.eth"
+        }
       ]
     }
   },
@@ -1492,10 +2980,22 @@
     "meta": {
       "name": "Bitcoin Relic #125",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Abyssal" },
-        { "trait_type": "Artist", "value": "0x77b52cb4b739e3e73585635db11b61910bd9cb23" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Abyssal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x77b52cb4b739e3e73585635db11b61910bd9cb23"
+        }
       ]
     }
   },
@@ -1504,10 +3004,22 @@
     "meta": {
       "name": "Bitcoin Relic #126",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Essence", "value": "Infernal" },
-        { "trait_type": "Artist", "value": "0x77b52cb4b739e3e73585635db11b61910bd9cb23" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Infernal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x77b52cb4b739e3e73585635db11b61910bd9cb23"
+        }
       ]
     }
   },
@@ -1516,10 +3028,22 @@
     "meta": {
       "name": "Bitcoin Relic #127",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Nature" },
-        { "trait_type": "Essence", "value": "Swamp" },
-        { "trait_type": "Artist", "value": "danbar.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Swamp"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "danbar.eth"
+        }
       ]
     }
   },
@@ -1528,10 +3052,22 @@
     "meta": {
       "name": "Bitcoin Relic #128",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Abyssal" },
-        { "trait_type": "Artist", "value": "0x616ea1bd67c8b7c5755a720b7f9ad44881a6baa2" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Abyssal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x616ea1bd67c8b7c5755a720b7f9ad44881a6baa2"
+        }
       ]
     }
   },
@@ -1540,10 +3076,22 @@
     "meta": {
       "name": "Bitcoin Relic #129",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Night" },
-        { "trait_type": "Artist", "value": "unclebrian.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Night"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "unclebrian.eth"
+        }
       ]
     }
   },
@@ -1552,10 +3100,22 @@
     "meta": {
       "name": "Bitcoin Relic #130",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Magic" },
-        { "trait_type": "Artist", "value": "bichonroo.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Magic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "bichonroo.eth"
+        }
       ]
     }
   },
@@ -1564,10 +3124,22 @@
     "meta": {
       "name": "Bitcoin Relic #131",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "bichonroo.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "bichonroo.eth"
+        }
       ]
     }
   },
@@ -1576,10 +3148,22 @@
     "meta": {
       "name": "Bitcoin Relic #132",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Heavenly" },
-        { "trait_type": "Artist", "value": "0x5801eda17e45a74a139b22981eb3a09aa2aba288" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Heavenly"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x5801eda17e45a74a139b22981eb3a09aa2aba288"
+        }
       ]
     }
   },
@@ -1588,10 +3172,22 @@
     "meta": {
       "name": "Bitcoin Relic #133",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Runic" },
-        { "trait_type": "Artist", "value": "selwob.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Runic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "selwob.eth"
+        }
       ]
     }
   },
@@ -1600,10 +3196,22 @@
     "meta": {
       "name": "Bitcoin Relic #134",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Astral" },
-        { "trait_type": "Artist", "value": "selwob.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Astral"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "selwob.eth"
+        }
       ]
     }
   },
@@ -1612,10 +3220,22 @@
     "meta": {
       "name": "Bitcoin Relic #135",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Water" },
-        { "trait_type": "Essence", "value": "Illuvial" },
-        { "trait_type": "Artist", "value": "selwob.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Illuvial"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "selwob.eth"
+        }
       ]
     }
   },
@@ -1624,10 +3244,22 @@
     "meta": {
       "name": "Bitcoin Relic #136",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Water" },
-        { "trait_type": "Essence", "value": "Tidal" },
-        { "trait_type": "Artist", "value": "selwob.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Tidal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "selwob.eth"
+        }
       ]
     }
   },
@@ -1636,10 +3268,22 @@
     "meta": {
       "name": "Bitcoin Relic #137",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Essence", "value": "Molten" },
-        { "trait_type": "Artist", "value": "selwob.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Molten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "selwob.eth"
+        }
       ]
     }
   },
@@ -1648,10 +3292,22 @@
     "meta": {
       "name": "Bitcoin Relic #138",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Night" },
-        { "trait_type": "Artist", "value": "tenebrat66.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Night"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "tenebrat66.eth"
+        }
       ]
     }
   },
@@ -1660,10 +3316,22 @@
     "meta": {
       "name": "Bitcoin Relic #139",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Lost" },
-        { "trait_type": "Artist", "value": "gaincontrol.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Lost"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "gaincontrol.eth"
+        }
       ]
     }
   },
@@ -1672,10 +3340,22 @@
     "meta": {
       "name": "Bitcoin Relic #140",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "halfglass.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "halfglass.eth"
+        }
       ]
     }
   },
@@ -1684,10 +3364,22 @@
     "meta": {
       "name": "Bitcoin Relic #141",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Heavenly" },
-        { "trait_type": "Artist", "value": "halfglass.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Heavenly"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "halfglass.eth"
+        }
       ]
     }
   },
@@ -1696,10 +3388,22 @@
     "meta": {
       "name": "Bitcoin Relic #142",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Essence", "value": "Ashen" },
-        { "trait_type": "Artist", "value": "0x421B7f08E5F44A985D156Af0479E68975b5eff7E" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Ashen"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x421B7f08E5F44A985D156Af0479E68975b5eff7E"
+        }
       ]
     }
   },
@@ -1708,10 +3412,22 @@
     "meta": {
       "name": "Bitcoin Relic #143",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "0xca9d4f6f4b688253bccdde6f491f4b9ccfbf8bc2" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0xca9d4f6f4b688253bccdde6f491f4b9ccfbf8bc2"
+        }
       ]
     }
   },
@@ -1720,10 +3436,22 @@
     "meta": {
       "name": "Bitcoin Relic #144",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Astral" },
-        { "trait_type": "Artist", "value": "deltasleep.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Astral"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "deltasleep.eth"
+        }
       ]
     }
   },
@@ -1732,10 +3460,22 @@
     "meta": {
       "name": "Bitcoin Relic #145",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Nature" },
-        { "trait_type": "Essence", "value": "Swamp" },
-        { "trait_type": "Artist", "value": "0x70EB416Ad3eC2a3804Ff63306dCC8d64879E6091" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Swamp"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x70EB416Ad3eC2a3804Ff63306dCC8d64879E6091"
+        }
       ]
     }
   },
@@ -1744,10 +3484,22 @@
     "meta": {
       "name": "Bitcoin Relic #146",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Sylphic" },
-        { "trait_type": "Artist", "value": "0x70EB416Ad3eC2a3804Ff63306dCC8d64879E6091" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Sylphic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x70EB416Ad3eC2a3804Ff63306dCC8d64879E6091"
+        }
       ]
     }
   },
@@ -1756,10 +3508,22 @@
     "meta": {
       "name": "Bitcoin Relic #147",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Evil" },
-        { "trait_type": "Artist", "value": "datadanne.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Evil"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "datadanne.eth"
+        }
       ]
     }
   },
@@ -1768,10 +3532,22 @@
     "meta": {
       "name": "Bitcoin Relic #148",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "0x87d8bafa45ebfacf93c46ce9cebcd3613ab6b18f" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x87d8bafa45ebfacf93c46ce9cebcd3613ab6b18f"
+        }
       ]
     }
   },
@@ -1780,10 +3556,22 @@
     "meta": {
       "name": "Bitcoin Relic #149",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Night" },
-        { "trait_type": "Artist", "value": "0x79c1134a1dfdf7e0d58e58cafc84a514991372e6" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Night"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x79c1134a1dfdf7e0d58e58cafc84a514991372e6"
+        }
       ]
     }
   },
@@ -1792,10 +3580,22 @@
     "meta": {
       "name": "Bitcoin Relic #150",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Night" },
-        { "trait_type": "Artist", "value": "bkmb.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Night"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "bkmb.eth"
+        }
       ]
     }
   },
@@ -1804,10 +3604,22 @@
     "meta": {
       "name": "Bitcoin Relic #151",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Water" },
-        { "trait_type": "Essence", "value": "Tidal" },
-        { "trait_type": "Artist", "value": "0xd3494529b30953fdd95060bd97f22b2969638758" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Tidal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0xd3494529b30953fdd95060bd97f22b2969638758"
+        }
       ]
     }
   },
@@ -1816,10 +3628,22 @@
     "meta": {
       "name": "Bitcoin Relic #152",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Evil" },
-        { "trait_type": "Artist", "value": "alextagr.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Evil"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "alextagr.eth"
+        }
       ]
     }
   },
@@ -1828,10 +3652,22 @@
     "meta": {
       "name": "Bitcoin Relic #153",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Visceral" },
-        { "trait_type": "Artist", "value": "0xc9cef03f9204cd66f395ac2e0bb2626324718718" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Visceral"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0xc9cef03f9204cd66f395ac2e0bb2626324718718"
+        }
       ]
     }
   },
@@ -1840,10 +3676,22 @@
     "meta": {
       "name": "Bitcoin Relic #154",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "quantized.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "quantized.eth"
+        }
       ]
     }
   },
@@ -1852,10 +3700,22 @@
     "meta": {
       "name": "Bitcoin Relic #155",
       "attributes": [
-        { "trait_type": "Type", "value": "Grail" },
-        { "trait_type": "Element", "value": "Nature" },
-        { "trait_type": "Essence", "value": "Swamp" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Grail"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Swamp"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -1864,10 +3724,22 @@
     "meta": {
       "name": "Bitcoin Relic #156",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "charlesdodgson.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "charlesdodgson.eth"
+        }
       ]
     }
   },
@@ -1876,10 +3748,22 @@
     "meta": {
       "name": "Bitcoin Relic #157",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Earth" },
-        { "trait_type": "Essence", "value": "Crystal" },
-        { "trait_type": "Artist", "value": "timshel.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Crystal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "timshel.eth"
+        }
       ]
     }
   },
@@ -1888,10 +3772,22 @@
     "meta": {
       "name": "Bitcoin Relic #158",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Night" },
-        { "trait_type": "Artist", "value": "🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Night"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉🍉.eth"
+        }
       ]
     }
   },
@@ -1900,10 +3796,22 @@
     "meta": {
       "name": "Bitcoin Relic #159",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Forbidden" },
-        { "trait_type": "Artist", "value": "timshel.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forbidden"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "timshel.eth"
+        }
       ]
     }
   },
@@ -1912,10 +3820,22 @@
     "meta": {
       "name": "Bitcoin Relic #160",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Earth" },
-        { "trait_type": "Essence", "value": "Gnomic" },
-        { "trait_type": "Artist", "value": "timshel.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Earth"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Gnomic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "timshel.eth"
+        }
       ]
     }
   },
@@ -1924,10 +3844,22 @@
     "meta": {
       "name": "Bitcoin Relic #161",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Lost" },
-        { "trait_type": "Artist", "value": "flashrekt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Lost"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "flashrekt.eth"
+        }
       ]
     }
   },
@@ -1936,10 +3868,22 @@
     "meta": {
       "name": "Bitcoin Relic #162",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Lost" },
-        { "trait_type": "Artist", "value": "0x05a2f0eef8c2b4c68e5c0b5801d8fcc1b42b6cb9" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Lost"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x05a2f0eef8c2b4c68e5c0b5801d8fcc1b42b6cb9"
+        }
       ]
     }
   },
@@ -1948,10 +3892,22 @@
     "meta": {
       "name": "Bitcoin Relic #163",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Lost" },
-        { "trait_type": "Artist", "value": "timshel.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Lost"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "timshel.eth"
+        }
       ]
     }
   },
@@ -1960,10 +3916,22 @@
     "meta": {
       "name": "Bitcoin Relic #164",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Nature" },
-        { "trait_type": "Essence", "value": "Soul" },
-        { "trait_type": "Artist", "value": "timshel.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Soul"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "timshel.eth"
+        }
       ]
     }
   },
@@ -1972,10 +3940,22 @@
     "meta": {
       "name": "Bitcoin Relic #165",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Lost" },
-        { "trait_type": "Artist", "value": "timshel.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Lost"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "timshel.eth"
+        }
       ]
     }
   },
@@ -1984,10 +3964,22 @@
     "meta": {
       "name": "Bitcoin Relic #166",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Fae" },
-        { "trait_type": "Artist", "value": "jaros.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Fae"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jaros.eth"
+        }
       ]
     }
   },
@@ -1996,10 +3988,22 @@
     "meta": {
       "name": "Bitcoin Relic #167",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Fae" },
-        { "trait_type": "Artist", "value": "jaros.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Fae"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "jaros.eth"
+        }
       ]
     }
   },
@@ -2008,10 +4012,22 @@
     "meta": {
       "name": "Bitcoin Relic #168",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Sylphic" },
-        { "trait_type": "Artist", "value": "steveruns.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Sylphic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "steveruns.eth"
+        }
       ]
     }
   },
@@ -2020,10 +4036,22 @@
     "meta": {
       "name": "Bitcoin Relic #169",
       "attributes": [
-        { "trait_type": "Type", "value": "Grail" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Essence", "value": "Ashen" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Grail"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Ashen"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -2032,10 +4060,22 @@
     "meta": {
       "name": "Bitcoin Relic #170",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Water" },
-        { "trait_type": "Essence", "value": "Illuvial" },
-        { "trait_type": "Artist", "value": "0x33ee1FA9eD670001D1740419192142931e088e79" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Illuvial"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0x33ee1FA9eD670001D1740419192142931e088e79"
+        }
       ]
     }
   },
@@ -2044,10 +4084,22 @@
     "meta": {
       "name": "Bitcoin Relic #171",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Magnetic" },
-        { "trait_type": "Artist", "value": "b0rg.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Magnetic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "b0rg.eth"
+        }
       ]
     }
   },
@@ -2056,10 +4108,22 @@
     "meta": {
       "name": "Bitcoin Relic #172",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Water" },
-        { "trait_type": "Essence", "value": "Tidal" },
-        { "trait_type": "Artist", "value": "cdb-vault.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Tidal"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "cdb-vault.eth"
+        }
       ]
     }
   },
@@ -2068,10 +4132,22 @@
     "meta": {
       "name": "Bitcoin Relic #173",
       "attributes": [
-        { "trait_type": "Type", "value": "Amulet" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Frosted" },
-        { "trait_type": "Artist", "value": "probablyevvi.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Amulet"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Frosted"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "probablyevvi.eth"
+        }
       ]
     }
   },
@@ -2080,10 +4156,22 @@
     "meta": {
       "name": "Bitcoin Relic #174",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Photonic" },
-        { "trait_type": "Artist", "value": "0xbb0305FaD6e3703cf2959de51BcC590501395310" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Photonic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0xbb0305FaD6e3703cf2959de51BcC590501395310"
+        }
       ]
     }
   },
@@ -2092,10 +4180,22 @@
     "meta": {
       "name": "Bitcoin Relic #175",
       "attributes": [
-        { "trait_type": "Type", "value": "Grail" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Photonic" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Grail"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Photonic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -2104,10 +4204,22 @@
     "meta": {
       "name": "Bitcoin Relic #176",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Astral" },
-        { "trait_type": "Artist", "value": "nyancat.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Astral"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "nyancat.eth"
+        }
       ]
     }
   },
@@ -2116,10 +4228,22 @@
     "meta": {
       "name": "Bitcoin Relic #177",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Nature" },
-        { "trait_type": "Essence", "value": "Forest" },
-        { "trait_type": "Artist", "value": "0xfdffca1246924de90f54f867db89476d011e5ce5" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Nature"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forest"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "0xfdffca1246924de90f54f867db89476d011e5ce5"
+        }
       ]
     }
   },
@@ -2128,10 +4252,22 @@
     "meta": {
       "name": "Bitcoin Relic #178",
       "attributes": [
-        { "trait_type": "Type", "value": "Curio" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Magnetic" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Curio"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Magnetic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -2140,10 +4276,22 @@
     "meta": {
       "name": "Bitcoin Relic #179",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Water" },
-        { "trait_type": "Essence", "value": "Illuvial" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Water"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Illuvial"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -2152,10 +4300,22 @@
     "meta": {
       "name": "Bitcoin Relic #180",
       "attributes": [
-        { "trait_type": "Type", "value": "Focus" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Essence", "value": "Draconic" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Focus"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Fire"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Draconic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -2164,10 +4324,22 @@
     "meta": {
       "name": "Bitcoin Relic #181",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -2176,10 +4348,22 @@
     "meta": {
       "name": "Bitcoin Relic #182",
       "attributes": [
-        { "trait_type": "Type", "value": "Trinket" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Magic" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Trinket"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Magic"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -2188,10 +4372,22 @@
     "meta": {
       "name": "Bitcoin Relic #183",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Light" },
-        { "trait_type": "Essence", "value": "Fae" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Light"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Fae"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -2200,10 +4396,22 @@
     "meta": {
       "name": "Bitcoin Relic #184",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -2212,10 +4420,22 @@
     "meta": {
       "name": "Bitcoin Relic #185",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Wind" },
-        { "trait_type": "Essence", "value": "Visceral" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Wind"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Visceral"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -2224,10 +4444,22 @@
     "meta": {
       "name": "Bitcoin Relic #186",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Arcane" },
-        { "trait_type": "Essence", "value": "Astral" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Arcane"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Astral"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   },
@@ -2236,10 +4468,22 @@
     "meta": {
       "name": "Bitcoin Relic #187",
       "attributes": [
-        { "trait_type": "Type", "value": "Talisman" },
-        { "trait_type": "Element", "value": "Shadow" },
-        { "trait_type": "Essence", "value": "Forgotten" },
-        { "trait_type": "Artist", "value": "remnynt.eth" }
+        {
+          "trait_type": "Type",
+          "value": "Talisman"
+        },
+        {
+          "trait_type": "Element",
+          "value": "Shadow"
+        },
+        {
+          "trait_type": "Essence",
+          "value": "Forgotten"
+        },
+        {
+          "trait_type": "Artist",
+          "value": "remnynt.eth"
+        }
       ]
     }
   }
