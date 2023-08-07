@@ -39,7 +39,7 @@
         {
           "trait_type": "Satribute",
           "value": "Common"
-        },
+        },    
         {
           "trait_type": "Satribute",
           "value": "Vintage"
@@ -2019,6 +2019,38 @@
         {
           "trait_type": "Trait",
           "value": "derp"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ade0914dc5127ea9368b4205962c85598ed43c9cf7792f13d2c0ef6027fa3c1ei0",
+    "meta": {
+      "name": "Cheesus #f3f0f0",
+      "attributes": [
+        {
+          "trait_type": "Satribute",
+          "value": "Pizza"
+        },
+        {
+          "trait_type": "Satribute",
+          "value": "Sat Number Palindrome"
+        },
+        {
+          "trait_type": "Inscription type",
+          "value": "Classic"
+        },
+        {
+          "trait_type": "Batch number",
+          "value": "7"
+        },
+        {
+          "trait_type": "Background",
+          "value": "rainbow"
+        },
+        {
+          "trait_type": "Trait",
+          "value": "none"
         }
       ]
     }
