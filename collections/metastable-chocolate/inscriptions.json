@@ -1,938 +1,866 @@
 [
-    {
-        "id": "340ca7dc0eeffa1f2b7cb323945b8d89e43db53b7cd33467f086fee868e1859ai0",
-        "meta": {
-            "name": "Brazilian Body",
-            "rank": "1",
-            "status": "Exotic",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Cupuaçu"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Pure"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "cupuaçu 80%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★★"
-                }
-            ]
+  {
+    "id": "340ca7dc0eeffa1f2b7cb323945b8d89e43db53b7cd33467f086fee868e1859ai0",
+    "meta": {
+      "name": "Brazilian Body",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Cupuaçu"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Pure"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "cupuaçu 80%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★★"
         }
-    },
-    {
-        "id": "04148cdcc91e0189638a71d0b5a267d9ded68168199165f05349133bdaa3b570i0",
-        "meta": {
-            "name": "Pink Academia",
-            "rank": "2",
-            "status": "Legendary",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Pink"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Macadamia"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "47%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "af22cde72b4882fe37a5550a6e89da462260080c181db1ad83d23dd6754ab980i0",
-        "meta": {
-            "name": "Intense Slivers",
-            "rank": "3",
-            "status": "Legendary",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Extra Dark"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Almond"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "86%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "d3686e4158eed86ca3de90abd61e80cd79cf35069b99e7e8a240d593ea70d117i0",
-        "meta": {
-            "name": "Cocoa Temptation",
-            "rank": "4",
-            "status": "Epic",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Extra Dark"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Cocoa Nibs"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "86%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "562e0c1ea38ffd517480ab15efe1283171994e07ee0c79ff7567abf7118a73a5i0",
-        "meta": {
-            "name": "Black Tender",
-            "rank": "5",
-            "status": "Epic",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Extra Dark"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Nougat"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "86%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "3b551b13be0dd003f22f97b406d304cfa5742605ad494f5e452ec3af1c38c00ci0",
-        "meta": {
-            "name": "Pop Rice Pink",
-            "rank": "6",
-            "status": "Epic",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Pink"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Crisp"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "47%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "798b6f300c0abe209f53256051ce846883c352b2d1f48b3252838e5a4e817b83i0",
-        "meta": {
-            "name": "Saturday Black",
-            "rank": "7",
-            "status": "Rare",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Extra Dark"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Pure"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "86%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "c0f5d9e6f15e2ea079f62d582682b1747b4479ab3ca59c75aae3d8214e9762fei0",
-        "meta": {
-            "name": "White Hazelnut",
-            "rank": "8",
-            "status": "Rare",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "White"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Hazelnut"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "cocoa butter 22%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "3decd91d2656ff47a2b98fb3beef33b3d9f855a3e769c75a83ca3af317fd52ffi0",
-        "meta": {
-            "name": "Garnet Good",
-            "rank": "9",
-            "status": "Rare",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Pink"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Biscuit"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "47%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "913ef83f19a6c4a5403a1746721d778e838609d7f8b30084947e69f6f3b3586fi0",
-        "meta": {
-            "name": "Pink Chocolate",
-            "rank": "10",
-            "status": "Rare",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Pink"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Pure"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "47%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "c5aeb01c4ae9566cf294347affb3ac80f74ce3d7669d38ff962b4e5d0db6b2b1i0",
-        "meta": {
-            "name": "Lucky Macadamia",
-            "rank": "11",
-            "status": "Rare",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "White"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Macadamia"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "cocoa butter 22%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "cb3317e966fa5c66ccaaf3bd631f7b38682bf4cb538b8a2c97626bf3a41866ffi0",
-        "meta": {
-            "name": "Almond Alright",
-            "rank": "12",
-            "status": "Uncommon",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Dark"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Almond"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "70%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "2bdc1905e3084910d9119fcc55b0b6792413192bac63674eb346310ce2e92a95i0",
-        "meta": {
-            "name": "Grapisfaction",
-            "rank": "13",
-            "status": "Uncommon",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Dark"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Raisin and Hazelnut"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "70%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "98e79c4fb641c33c02367f2eac834ae2ba78250ce5f633e9c6a81b56da806c33i0",
-        "meta": {
-            "name": "Black Spots",
-            "rank": "14",
-            "status": "Uncommon",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "White"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Cocoa Nibs"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "cocoa butter 22%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "1e6f7b0f71917a8be38607142a493438bbded8abefb88b3ee7eb7d2ee3703e8fi0",
-        "meta": {
-            "name": "Sweet Sweetie",
-            "rank": "15",
-            "status": "Uncommon",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "White"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Salted Caramel"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "cocoa butter 22%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "bbf5689592e3e2cb3069fc81236bcc20140906e83661b3d3379ace972aad9badi0",
-        "meta": {
-            "name": "White Crisp",
-            "rank": "16",
-            "status": "Uncommon",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "White"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Crisp"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "cocoa butter 22%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "fed3606cb3d2643163741d2581bf8467d94d655d4908fa187a3beee868d0624di0",
-        "meta": {
-            "name": "Nibbin' Affection",
-            "rank": "17",
-            "status": "Uncommon",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Dark"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Cocoa Nibs"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "70%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "40fb69517f6a7b688a47da890e197893f27d19d3b5348a7b4718c3fafa6c262bi0",
-        "meta": {
-            "name": "Hazel Raise",
-            "rank": "18",
-            "status": "Uncommon",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Milk"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Raisin and Hazelnut"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "45%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "f870e9158ced1dc20d9deb0e28d2d2c3aff554ba53e985986f8f921ab1b30a16i0",
-        "meta": {
-            "name": "Nuts in the Dark",
-            "rank": "19",
-            "status": "Uncommon",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Dark"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Hazelnut"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "70%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "4568063b82f016913671650d8453999d2d0bec078afabbee3aa7e3b8d77ca881i0",
-        "meta": {
-            "name": "New Nougat",
-            "rank": "20",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Dark"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Nougat"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "70%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "52b3984570c689c744fe8f960922e978b8ab249f4803a8f586a6ac8edd0b6a9bi0",
-        "meta": {
-            "name": "Caramel Bits",
-            "rank": "21",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Dark"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Salted Caramel"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "70%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "2e4039908b2f8a8342abe69f9a28945787f44afc5e821d125f876d0e36ec0426i0",
-        "meta": {
-            "name": "Groundnut Choco",
-            "rank": "22",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Milk"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Peanut"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "45%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "6262b1921ef386133eeb144767afec3ce216a2f7c7c72497fe70fd1181ecd65ai0",
-        "meta": {
-            "name": "Persian Empire",
-            "rank": "23",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Dark"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Marzipan"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "70%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "c3063d963abfbdee327fce628885b9acfc64fd392cc8cfba24c10502c5292c84i0",
-        "meta": {
-            "name": "White Biscuit",
-            "rank": "24",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "White"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Biscuit"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "cocoa butter 22%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "4fa4ed9d29105177e92de098bee6cba73520d9fba9b514e47107418848596142i0",
-        "meta": {
-            "name": "Pure Dark",
-            "rank": "25",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Dark"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Pure"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "70%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "0cfbe7fd5623617ae415db3df3d85d2060e8b3a39cc513800de64d5dfc614640i0",
-        "meta": {
-            "name": "Hazel Brown",
-            "rank": "26",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Milk"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Hazelnut"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "45%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "6b550e7965ed0c3760046de08476ce48be968933dd346062c7f96ac467794243i0",
-        "meta": {
-            "name": "With Macadamia",
-            "rank": "27",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Milk"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Macadamia"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "45%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "c5854cddd582f41d05f44ce29c988d67475dee9aaf792bcd64718f127862c064i0",
-        "meta": {
-            "name": "Salty Sweet Brown",
-            "rank": "28",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Milk"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Salted Caramel"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "45%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "b6c47c5745f1c804878a0530029fe0bf1a056626cf380a7c5ee8de580ccec512i0",
-        "meta": {
-            "name": "Dark 'n Biscuit",
-            "rank": "29",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Dark"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Biscuit"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "70%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "b9bb04ff677e115443fc0ef806ddec8a99b864557e6123334e4e5870e0067d4ai0",
-        "meta": {
-            "name": "Marzipan Chocolate",
-            "rank": "30",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Milk"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Marzipan"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "45%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "a29433aeb7a257b16e34aa533c5e9d7599ef32aad989c2d444b0b9cc827d99eci0",
-        "meta": {
-            "name": "White Chocolate",
-            "rank": "31",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "White"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Pure"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "cocoa butter 22%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "4facd6a44d61dd20fbbf3773f549ec6cfcb3e04308827188c639548803864d9ci0",
-        "meta": {
-            "name": "Chocococoa",
-            "rank": "32",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Milk"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Cocoa Nibs"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "45%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "b2dfc26fdbedbba9a6a26287824a3540da6301d1f4d27cb8d08cf25c8c757060i0",
-        "meta": {
-            "name": "Noisette",
-            "rank": "33",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Milk"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Nougat"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "45%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "74f91a93992847bfffd53576627475e06aee07b59546719938b0ce93cce2bec4i0",
-        "meta": {
-            "name": "Rice Puff Choc",
-            "rank": "34",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Milk"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Crisp"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "32%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "39b4655b9f941200f6338d61765456cb8a7954749db33f4b6dd973b9be1c7a4ci0",
-        "meta": {
-            "name": "Milk Chocolate",
-            "rank": "35",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Milk"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Pure"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "45%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★★★"
-                }
-            ]
-        }
-    },
-    {
-        "id": "16446dbe12bfa97aa5dc2740aa94f8e6f7937ae8304137e1f32022f0c9873cedi0",
-        "meta": {
-            "name": "Choc with Biscuit",
-            "rank": "36",
-            "status": "Common",
-            "attributes": [
-                {
-                    "trait_type": "Chocolate",
-                    "value": "Milk"
-                },
-                {
-                    "trait_type": "Flavour",
-                    "value": "Biscuit"
-                },
-                {
-                    "trait_type": "Cocoa content",
-                    "value": "32%"
-                },
-                {
-                    "trait_type": "Quality",
-                    "value": "★"
-                }
-            ]
-        }
+      ]
     }
+  },
+  {
+    "id": "04148cdcc91e0189638a71d0b5a267d9ded68168199165f05349133bdaa3b570i0",
+    "meta": {
+      "name": "Pink Academia",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Macadamia"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "47%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "af22cde72b4882fe37a5550a6e89da462260080c181db1ad83d23dd6754ab980i0",
+    "meta": {
+      "name": "Intense Slivers",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Extra Dark"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Almond"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "86%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d3686e4158eed86ca3de90abd61e80cd79cf35069b99e7e8a240d593ea70d117i0",
+    "meta": {
+      "name": "Cocoa Temptation",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Extra Dark"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Cocoa Nibs"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "86%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "562e0c1ea38ffd517480ab15efe1283171994e07ee0c79ff7567abf7118a73a5i0",
+    "meta": {
+      "name": "Black Tender",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Extra Dark"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Nougat"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "86%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3b551b13be0dd003f22f97b406d304cfa5742605ad494f5e452ec3af1c38c00ci0",
+    "meta": {
+      "name": "Pop Rice Pink",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Crisp"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "47%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "798b6f300c0abe209f53256051ce846883c352b2d1f48b3252838e5a4e817b83i0",
+    "meta": {
+      "name": "Saturday Black",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Extra Dark"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Pure"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "86%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c0f5d9e6f15e2ea079f62d582682b1747b4479ab3ca59c75aae3d8214e9762fei0",
+    "meta": {
+      "name": "White Hazelnut",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "White"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Hazelnut"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "cocoa butter 22%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3decd91d2656ff47a2b98fb3beef33b3d9f855a3e769c75a83ca3af317fd52ffi0",
+    "meta": {
+      "name": "Garnet Good",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Biscuit"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "47%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "913ef83f19a6c4a5403a1746721d778e838609d7f8b30084947e69f6f3b3586fi0",
+    "meta": {
+      "name": "Pink Chocolate",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Pure"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "47%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c5aeb01c4ae9566cf294347affb3ac80f74ce3d7669d38ff962b4e5d0db6b2b1i0",
+    "meta": {
+      "name": "Lucky Macadamia",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "White"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Macadamia"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "cocoa butter 22%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb3317e966fa5c66ccaaf3bd631f7b38682bf4cb538b8a2c97626bf3a41866ffi0",
+    "meta": {
+      "name": "Almond Alright",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Almond"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "70%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2bdc1905e3084910d9119fcc55b0b6792413192bac63674eb346310ce2e92a95i0",
+    "meta": {
+      "name": "Grapisfaction",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Raisin and Hazelnut"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "70%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "98e79c4fb641c33c02367f2eac834ae2ba78250ce5f633e9c6a81b56da806c33i0",
+    "meta": {
+      "name": "Black Spots",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "White"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Cocoa Nibs"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "cocoa butter 22%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1e6f7b0f71917a8be38607142a493438bbded8abefb88b3ee7eb7d2ee3703e8fi0",
+    "meta": {
+      "name": "Sweet Sweetie",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "White"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Salted Caramel"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "cocoa butter 22%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bbf5689592e3e2cb3069fc81236bcc20140906e83661b3d3379ace972aad9badi0",
+    "meta": {
+      "name": "White Crisp",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "White"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Crisp"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "cocoa butter 22%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fed3606cb3d2643163741d2581bf8467d94d655d4908fa187a3beee868d0624di0",
+    "meta": {
+      "name": "Nibbin' Affection",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Cocoa Nibs"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "70%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "40fb69517f6a7b688a47da890e197893f27d19d3b5348a7b4718c3fafa6c262bi0",
+    "meta": {
+      "name": "Hazel Raise",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Milk"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Raisin and Hazelnut"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "45%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f870e9158ced1dc20d9deb0e28d2d2c3aff554ba53e985986f8f921ab1b30a16i0",
+    "meta": {
+      "name": "Nuts in the Dark",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Hazelnut"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "70%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4568063b82f016913671650d8453999d2d0bec078afabbee3aa7e3b8d77ca881i0",
+    "meta": {
+      "name": "New Nougat",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Nougat"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "70%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "52b3984570c689c744fe8f960922e978b8ab249f4803a8f586a6ac8edd0b6a9bi0",
+    "meta": {
+      "name": "Caramel Bits",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Salted Caramel"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "70%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2e4039908b2f8a8342abe69f9a28945787f44afc5e821d125f876d0e36ec0426i0",
+    "meta": {
+      "name": "Groundnut Choco",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Milk"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Peanut"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "45%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6262b1921ef386133eeb144767afec3ce216a2f7c7c72497fe70fd1181ecd65ai0",
+    "meta": {
+      "name": "Persian Empire",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Marzipan"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "70%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c3063d963abfbdee327fce628885b9acfc64fd392cc8cfba24c10502c5292c84i0",
+    "meta": {
+      "name": "White Biscuit",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "White"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Biscuit"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "cocoa butter 22%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4fa4ed9d29105177e92de098bee6cba73520d9fba9b514e47107418848596142i0",
+    "meta": {
+      "name": "Pure Dark",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Pure"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "70%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0cfbe7fd5623617ae415db3df3d85d2060e8b3a39cc513800de64d5dfc614640i0",
+    "meta": {
+      "name": "Hazel Brown",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Milk"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Hazelnut"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "45%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6b550e7965ed0c3760046de08476ce48be968933dd346062c7f96ac467794243i0",
+    "meta": {
+      "name": "With Macadamia",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Milk"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Macadamia"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "45%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c5854cddd582f41d05f44ce29c988d67475dee9aaf792bcd64718f127862c064i0",
+    "meta": {
+      "name": "Salty Sweet Brown",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Milk"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Salted Caramel"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "45%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b6c47c5745f1c804878a0530029fe0bf1a056626cf380a7c5ee8de580ccec512i0",
+    "meta": {
+      "name": "Dark 'n Biscuit",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Dark"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Biscuit"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "70%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b9bb04ff677e115443fc0ef806ddec8a99b864557e6123334e4e5870e0067d4ai0",
+    "meta": {
+      "name": "Marzipan Chocolate",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Milk"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Marzipan"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "45%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a29433aeb7a257b16e34aa533c5e9d7599ef32aad989c2d444b0b9cc827d99eci0",
+    "meta": {
+      "name": "White Chocolate",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "White"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Pure"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "cocoa butter 22%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4facd6a44d61dd20fbbf3773f549ec6cfcb3e04308827188c639548803864d9ci0",
+    "meta": {
+      "name": "Chocococoa",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Milk"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Cocoa Nibs"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "45%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b2dfc26fdbedbba9a6a26287824a3540da6301d1f4d27cb8d08cf25c8c757060i0",
+    "meta": {
+      "name": "Noisette",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Milk"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Nougat"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "45%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "74f91a93992847bfffd53576627475e06aee07b59546719938b0ce93cce2bec4i0",
+    "meta": {
+      "name": "Rice Puff Choc",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Milk"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Crisp"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "32%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "39b4655b9f941200f6338d61765456cb8a7954749db33f4b6dd973b9be1c7a4ci0",
+    "meta": {
+      "name": "Milk Chocolate",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Milk"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Pure"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "45%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★★★"
+        }
+      ]
+    }
+  },
+  {
+    "id": "16446dbe12bfa97aa5dc2740aa94f8e6f7937ae8304137e1f32022f0c9873cedi0",
+    "meta": {
+      "name": "Choc with Biscuit",
+      "attributes": [
+        {
+          "trait_type": "Chocolate",
+          "value": "Milk"
+        },
+        {
+          "trait_type": "Flavour",
+          "value": "Biscuit"
+        },
+        {
+          "trait_type": "Cocoa content",
+          "value": "32%"
+        },
+        {
+          "trait_type": "Quality",
+          "value": "★"
+        }
+      ]
+    }
+  }
 ]
