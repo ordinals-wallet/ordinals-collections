@@ -1,10 +1,9 @@
 {
-  "name":"Plastica",
-  "slug":"plastica",
-  "supply":"78",
-  "description":"Plastica is a real time endless generative animation of a periodic surface continuously deformed by noise (FBM) with ray-marching rendering that gives a plastic look and behavior.\nThe shapes formed by maximum and minimum of the rendered surfaces, even if completely abstract, can be viewed as something halfway between synthetic and organic matter. The variety of the 23 palettes contributes to this synthetic / organic vision.\nThe rendering is implemented in vanilla Javascript WebGL with GLSL shader. The hash of the blockchain transaction is used to seed the PRNG (Pseudo Random Number generator) giving rise to features variation in the minted pieces.\nRequires a WebGL compatible browser and a recent PC with GPU.",
-  "twitter_link":"https://twitter.com/Waterflowing0",
-  "discord_link":"",
-  "website_link":"",
-  "inscription_icon":"7c8cf3fac6b7418cb5f3a39af01b05a7b926a8746c11d1af83df101c507fb5a9i0"
+  "name": "Plastica",
+  "inscription_icon": "7c8cf3fac6b7418cb5f3a39af01b05a7b926a8746c11d1af83df101c507fb5a9i0",
+  "slug": "plastica",
+  "description": "Plastica is a real time endless generative animation of a periodic surface continuously deformed by noise (FBM) with ray-marching rendering that gives a plastic look and behavior.\nThe shapes formed by maximum and minimum of the rendered surfaces, even if completely abstract, can be viewed as something halfway between synthetic and organic matter. The variety of the 23 palettes contributes to this synthetic / organic vision.\nThe rendering is implemented in vanilla Javascript WebGL with GLSL shader. The hash of the blockchain transaction is used to seed the PRNG (Pseudo Random Number generator) giving rise to features variation in the minted pieces.\nRequires a WebGL compatible browser and a recent PC with GPU.",
+  "twitter_link": "https://twitter.com/Waterflowing0",
+  "discord_link": "",
+  "website_link": ""
 }
