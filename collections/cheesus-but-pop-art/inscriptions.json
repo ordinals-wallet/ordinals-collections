@@ -39,7 +39,7 @@
         {
           "trait_type": "Satribute",
           "value": "Common"
-        },
+        },    
         {
           "trait_type": "Satribute",
           "value": "Vintage"
@@ -2047,6 +2047,34 @@
         {
           "trait_type": "Background",
           "value": "rainbow"
+        },
+        {
+          "trait_type": "Trait",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7530dc73c9fe57350e0fbc8813fb8437827cdd65988e8e1b2bdbb328e64e58b2i0",
+    "meta": {
+      "name": "Cheesus #000001",
+      "attributes": [
+        {
+          "trait_type": "Satribute",
+          "value": "Black Sat"
+        },
+        {
+          "trait_type": "Inscription type",
+          "value": "Classic"
+        },
+        {
+          "trait_type": "Batch number",
+          "value": "7"
+        },
+        {
+          "trait_type": "Background",
+          "value": "another side of cheesus"
         },
         {
           "trait_type": "Trait",
