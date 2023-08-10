@@ -2,7 +2,6 @@
   {
     "id": "a624332af932ff5d2b73eac7c309342b4fce625f92ad91b8f4b1f269ce5578f0i0",
     "meta": {
-      "name": "Umbrella Ordinal #10",
       "attributes": [
         {
           "trait_type": "Background",
@@ -16,13 +15,13 @@
           "trait_type": "Weather",
           "value": "Good"
         }
-      ]
+      ],
+      "name": "Umbrella Ordinal #10"
     }
   },
   {
     "id": "0b02de3ad6d142272cb984c1a1983e2b1b97eaaec05cfdb86d3b5a1de2347dd7i0",
     "meta": {
-      "name": "Umbrella Ordinal #9",
       "attributes": [
         {
           "trait_type": "Background",
@@ -36,13 +35,13 @@
           "trait_type": "Weather",
           "value": "Good"
         }
-      ]
+      ],
+      "name": "Umbrella Ordinal #9"
     }
   },
   {
     "id": "cb57e3dad8ede5776375b14a402ad56e977c37df6916964356cae51fb82ad3d0i0",
     "meta": {
-      "name": "Umbrella Ordinal #8",
       "attributes": [
         {
           "trait_type": "Background",
@@ -56,13 +55,13 @@
           "trait_type": "Weather",
           "value": "Good"
         }
-      ]
+      ],
+      "name": "Umbrella Ordinal #8"
     }
   },
   {
     "id": "424b51cead0be220c555e41c82fe95a2fa4cfa8c7505c3b809ede0d17d914faci0",
     "meta": {
-      "name": "Umbrella Ordinal #7",
       "attributes": [
         {
           "trait_type": "Background",
@@ -76,13 +75,13 @@
           "trait_type": "Weather",
           "value": "Good"
         }
-      ]
+      ],
+      "name": "Umbrella Ordinal #7"
     }
   },
   {
     "id": "6960ad7c7b7bf633dc8abbe0a43067df0ef92d3c98736514be3249fa67ef9a92i0",
     "meta": {
-      "name": "Umbrella Ordinal #6",
       "attributes": [
         {
           "trait_type": "Background",
@@ -96,13 +95,13 @@
           "trait_type": "Weather",
           "value": "Good"
         }
-      ]
+      ],
+      "name": "Umbrella Ordinal #6"
     }
   },
   {
     "id": "fcd36a76f266abe169e56b24b00211fe8461a8feb3908a9a105c6d45fd61d291i0",
     "meta": {
-      "name": "Umbrella Ordinal #5",
       "attributes": [
         {
           "trait_type": "Background",
@@ -116,13 +115,13 @@
           "trait_type": "Weather",
           "value": "Good"
         }
-      ]
+      ],
+      "name": "Umbrella Ordinal #5"
     }
   },
   {
     "id": "91400500cd6bef279c55215cc4dbe9c01bed47aaced3111ad2e542064ddc3306i0",
     "meta": {
-      "name": "Umbrella Ordinal #4",
       "attributes": [
         {
           "trait_type": "Background",
@@ -136,13 +135,13 @@
           "trait_type": "Weather",
           "value": "Good"
         }
-      ]
+      ],
+      "name": "Umbrella Ordinal #4"
     }
   },
   {
     "id": "805561e5add0dc46b1ffafd2e27f0a11c56acbee49fd6655f35b25588bdaf408i0",
     "meta": {
-      "name": "Umbrella Ordinal #3",
       "attributes": [
         {
           "trait_type": "Background",
@@ -156,13 +155,13 @@
           "trait_type": "Weather",
           "value": "Good"
         }
-      ]
+      ],
+      "name": "Umbrella Ordinal #3"
     }
   },
   {
     "id": "d468856226f0eba6fa68b25849ebe40dd833d1c388bde24165adbdcf1babb3a2i0",
     "meta": {
-      "name": "Umbrella Ordinal #2",
       "attributes": [
         {
           "trait_type": "Background",
@@ -176,13 +175,13 @@
           "trait_type": "Weather",
           "value": "Good"
         }
-      ]
+      ],
+      "name": "Umbrella Ordinal #2"
     }
   },
   {
     "id": "c6936b0018a970edffce912067d20dcfc4531421fa91f9120ab681dc14a74dbei0",
     "meta": {
-      "name": "Umbrella Ordinal #1",
       "attributes": [
         {
           "trait_type": "Background",
@@ -196,7 +195,8 @@
           "trait_type": "Weather",
           "value": "Raining"
         }
-      ]
+      ],
+      "name": "Umbrella Ordinal #1"
     }
   }
 ]

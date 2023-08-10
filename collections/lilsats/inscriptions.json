@@ -2,7 +2,6 @@
   {
     "id": "7534a0250bb425ebdc79a8f00ae5f667aedc666314f03cc2556da523c15fc101i0",
     "meta": {
-      "name": "lil sats 1 - mimbo",
       "attributes": [
         {
           "trait_type": "Hands",
@@ -12,13 +11,13 @@
           "trait_type": "Face",
           "value": "cute"
         }
-      ]
+      ],
+      "name": "lil sats 1 - mimbo"
     }
   },
   {
     "id": "a9d5c245d9870b9a12c5ea56e7c2419dbd53b003f20a40703ee38339cf9fc9d4i0",
     "meta": {
-      "name": "lil sats 2 - beebop",
       "attributes": [
         {
           "trait_type": "Hair",
@@ -28,13 +27,13 @@
           "trait_type": "Face",
           "value": "unsure"
         }
-      ]
+      ],
+      "name": "lil sats 2 - beebop"
     }
   },
   {
     "id": "8d9e2418b854d142dfb20b3bf2234e6672be8d04913e5ce5249d8e6f941b352fi0",
     "meta": {
-      "name": "lil sats 3 - jofre",
       "attributes": [
         {
           "trait_type": "Hair",
@@ -44,13 +43,13 @@
           "trait_type": "Face",
           "value": "stoic"
         }
-      ]
+      ],
+      "name": "lil sats 3 - jofre"
     }
   },
   {
     "id": "1042d0db43ce8065993cfe0af8ca8273bf45b292b533e26cc6485f618d10122ci0",
     "meta": {
-      "name": "lil sats 4 - queso",
       "attributes": [
         {
           "trait_type": "Beard",
@@ -60,13 +59,13 @@
           "trait_type": "Face",
           "value": "knowing"
         }
-      ]
+      ],
+      "name": "lil sats 4 - queso"
     }
   },
   {
     "id": "51d86dfdcd48d8e289e348f687599fe6174e68aaedc9187cfd33eca7118e6fa1i0",
     "meta": {
-      "name": "lil sats 5 - blhair",
       "attributes": [
         {
           "trait_type": "Hair",
@@ -76,13 +75,13 @@
           "trait_type": "Face",
           "value": "chew"
         }
-      ]
+      ],
+      "name": "lil sats 5 - blhair"
     }
   },
   {
     "id": "c2832ae26e9a68b7ee6cf7796a002b95453f5af6c8ca20d2a3b62c66eb1885fdi0",
     "meta": {
-      "name": "lil sats 6 - chibada",
       "attributes": [
         {
           "trait_type": "Mexican",
@@ -92,13 +91,13 @@
           "trait_type": "Mustace",
           "value": "glorious"
         }
-      ]
+      ],
+      "name": "lil sats 6 - chibada"
     }
   },
   {
     "id": "20b696bdc2c97156705d9f70894b88d4b4c8d4d5494c7771b45332da3a994c2fi0",
     "meta": {
-      "name": "lil sats 7 - tamshi",
       "attributes": [
         {
           "trait_type": "Gender",
@@ -108,7 +107,8 @@
           "trait_type": "Hair",
           "value": "of jesus"
         }
-      ]
+      ],
+      "name": "lil sats 7 - tamshi"
     }
   }
 ]
