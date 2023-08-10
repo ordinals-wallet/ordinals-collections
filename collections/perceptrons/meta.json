@@ -1,6 +1,7 @@
 {
   "description": "Perceptrons is an experimental attempt to deploy run-time AI on-chain. While many projects have attempted to store AI artworks (outputs from AI models) on-chain, Perceptrons attempts to store the actual AI models themselves (the neural networks that produce the outputs) on-chain. Not only are the models stored on-chain, but the feed-forward algorithm is also stored on-chain. Not merely a static piece of art—you can interact with Perceptrons by asking them to do image recognition tasks. Perceptrons permanently live on the Bitcoin network—ever evolving. They grow. They die. And finally, they’re reborn again in a different form.",
   "discord_link": "https://discord.gg/DcNxNwkf",
+  "icon": "https://turbo.ordinalswallet.com/inscription/preview/af3190a117d4884a437b84e5c86f05f3482c8dd3aa75c859563a6363910d6d3di0",
   "inscription_icon": "af3190a117d4884a437b84e5c86f05f3482c8dd3aa75c859563a6363910d6d3di0",
   "name": "Perceptrons",
   "slug": "perceptrons",
