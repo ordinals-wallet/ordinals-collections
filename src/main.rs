@@ -9,8 +9,14 @@ pub use inscription_id::*;
 pub mod outpoint;
 pub use outpoint::*;
 
+pub mod markets;
+pub use markets::*;
+
 #[tokio::main]
 async fn main() -> Result<()> {
+    //let c = markets::Ordswap::get_collection(&"ovo".to_string()).await?;
+    //collection::write(&c.0, &c.1)?;
+
     collection::reformat()?;
     Ok(())
 }
