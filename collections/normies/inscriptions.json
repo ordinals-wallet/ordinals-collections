@@ -1,614 +1,706 @@
-[{"id":"661fa7175aa99e1883bf29d82b7c98ac327aa92de95c5c71f9c8e862d7d99552i0",
-  "meta":{"name":"Normies #1","attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Orange"
-    },
-    {
-      "trait_type": "Body",
-      "value": " Chad"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Overall"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Face cap 2"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Robot Eyes"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Stick 2"
-    }
-  ]}},
-  {"id":"d39c931041fb3df7a31e00f3751251465aa4236589aee0ffb986ba2e17f50cd1i0",
-    "meta":{"name":"Normies #2",
+[
+  {
+    "id": "661fa7175aa99e1883bf29d82b7c98ac327aa92de95c5c71f9c8e862d7d99552i0",
+    "meta": {
+      "name": "Normies #1",
       "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Orange"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Will"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Blue Shirt"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Black Turban"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Purple Mask"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Stick 2"
+        {
+          "trait_type": "Background",
+          "value": "Orange"
+        },
+        {
+          "trait_type": "Body",
+          "value": " Chad"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Overall"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Face cap 2"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Robot Eyes"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Stick 2"
+        }
+      ]
     }
-  ]}},
-  {"id":"a771b5471f81949e7b5874ae89324f2010ad3d3d52904f193afe070a1ab58d63i0",
-    "meta":{"name":"Normies #3",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Sky Blue"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Red polo"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Face cap"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Robot Eyes"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Stick"
-    }
-  ]}},
-  {"id":"2d492b254492cb57b02fcc963812314f26bc762f5c0fbad7ea2d8772ec8b5207i0",
-    "meta":{"name":"Normies #4",
+  },
+  {
+    "id": "d39c931041fb3df7a31e00f3751251465aa4236589aee0ffb986ba2e17f50cd1i0",
+    "meta": {
+      "name": "Normies #2",
       "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Lime Green"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Will"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Red polo"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Hat 2"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Stick 2"
+        {
+          "trait_type": "Background",
+          "value": "Orange"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Will"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Blue Shirt"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Black Turban"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Purple Mask"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Stick 2"
+        }
+      ]
     }
-  ]
-    }},
-  {"id":"3ecf2d88b3cd9d25cd67264761bca4426a1b104de4517c01f277dcf22112399ai0",
-    "meta":{"name":"Normies #5",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Normal"
-    },
-    {
-      "trait_type": "Body",
-      "value": " Chad"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Shirt n_ Vest 2"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Peaky Blinders Hat"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Cyclops"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Orb Staff"
+  },
+  {
+    "id": "a771b5471f81949e7b5874ae89324f2010ad3d3d52904f193afe070a1ab58d63i0",
+    "meta": {
+      "name": "Normies #3",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Sky Blue"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Zombie"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Red polo"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Face cap"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Robot Eyes"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Stick"
+        }
+      ]
     }
-  ]}},
-  {"id":"c668547fa6525f6166cec8c7a802c5cf567d15aacb2f6d4e391a4cae9fe1e365i0",
-    "meta":{"name":"Normies #6", "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Lime Green"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Anthony"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Overall"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Face cap 2"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Purple Mask"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Orb Staff"
+  },
+  {
+    "id": "2d492b254492cb57b02fcc963812314f26bc762f5c0fbad7ea2d8772ec8b5207i0",
+    "meta": {
+      "name": "Normies #4",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Lime Green"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Will"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Red polo"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Hat 2"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Eye Patch"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Stick 2"
+        }
+      ]
     }
-  ]}},
-  {"id":"2a32cce8ebe4958ab7571ccbc44e2f20246fa281fe874cb1fb6aeff93065f0cci0",
-    "meta":{"name":"Normies #7",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Anthony"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Shirt"
-    },
-    {
-      "trait_type": "Head",
-      "value": "White Turban"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Blue Mask"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Staff"
+  },
+  {
+    "id": "3ecf2d88b3cd9d25cd67264761bca4426a1b104de4517c01f277dcf22112399ai0",
+    "meta": {
+      "name": "Normies #5",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Body",
+          "value": " Chad"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Shirt n_ Vest 2"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Peaky Blinders Hat"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Cyclops"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Orb Staff"
+        }
+      ]
     }
-  ]}},
-  {"id":"083ae0a7af55582ca5f1e386c52668048b9933a3ff97be0e064e77e69b832bf9i0",
-    "meta":{"name":"Normies #8",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Lime Green"
-    },
-    {
-      "trait_type": "Body",
-      "value": " Chad"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Blue Shirt"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Hat 5"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Robot Eyes"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Orb Staff"
+  },
+  {
+    "id": "c668547fa6525f6166cec8c7a802c5cf567d15aacb2f6d4e391a4cae9fe1e365i0",
+    "meta": {
+      "name": "Normies #6",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Lime Green"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Anthony"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Overall"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Face cap 2"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Purple Mask"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Orb Staff"
+        }
+      ]
     }
-  ]}},
-  {"id":"20fe20c77dec7328cd847bb204b4e471c66195260703b445696f872d07a4ecc9i0",
-    "meta":{"name":"Normies #9",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Body",
-      "value": " Chad"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Kasaya"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Scarf 2"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Black Mask"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Pickaxe"
+  },
+  {
+    "id": "2a32cce8ebe4958ab7571ccbc44e2f20246fa281fe874cb1fb6aeff93065f0cci0",
+    "meta": {
+      "name": "Normies #7",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Anthony"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Shirt"
+        },
+        {
+          "trait_type": "Head",
+          "value": "White Turban"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Blue Mask"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Staff"
+        }
+      ]
     }
-  ]}},
-  {"id":"4853b86e592ac13c9a9a00778c9c259dafa0c553a51e1750da6fc1e0a43a7bb1i0",
-    "meta":{"name":"Normies #10",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Anthony"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Blue Shirt"
-    },
-    {
-      "trait_type": "Head",
-      "value": "White Turban"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Blue Mask"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Golden Stick"
+  },
+  {
+    "id": "083ae0a7af55582ca5f1e386c52668048b9933a3ff97be0e064e77e69b832bf9i0",
+    "meta": {
+      "name": "Normies #8",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Lime Green"
+        },
+        {
+          "trait_type": "Body",
+          "value": " Chad"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Blue Shirt"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Hat 5"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Robot Eyes"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Orb Staff"
+        }
+      ]
     }
-  ]}},
-  {"id":"3056a6dd8380975da5eff73e6feac537e5d16533527c00f78d3b109a74e3f90ci0",
-    "meta":{"name":"Normies #11",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Body",
-      "value": " Chad"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Red polo"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Hat"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Medicated"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Stick"
+  },
+  {
+    "id": "20fe20c77dec7328cd847bb204b4e471c66195260703b445696f872d07a4ecc9i0",
+    "meta": {
+      "name": "Normies #9",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Body",
+          "value": " Chad"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Kasaya"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Scarf 2"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Black Mask"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Pickaxe"
+        }
+      ]
     }
-  ]}},
-  {"id":"b6103cd1110ce03c8ec643d523b11b039736ae73172b7dc4912a82b11d360840i0",
-    "meta":{"name":"Normies #12",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Blue Shirt"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Face cap 2"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Medicated"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Stick 2"
+  },
+  {
+    "id": "4853b86e592ac13c9a9a00778c9c259dafa0c553a51e1750da6fc1e0a43a7bb1i0",
+    "meta": {
+      "name": "Normies #10",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Anthony"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Blue Shirt"
+        },
+        {
+          "trait_type": "Head",
+          "value": "White Turban"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Blue Mask"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Golden Stick"
+        }
+      ]
     }
-  ]}},
-  {"id":"8f35245d8a21ebd3cbc9d4e62544a23fae3d42bb48eec1b3b901228247f007fdi0",
-    "meta":{"name":"Normies #13",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Anthony"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Shirt n_ Vest"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Turban"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Medicated"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Stick"
+  },
+  {
+    "id": "3056a6dd8380975da5eff73e6feac537e5d16533527c00f78d3b109a74e3f90ci0",
+    "meta": {
+      "name": "Normies #11",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Body",
+          "value": " Chad"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Red polo"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Hat"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Medicated"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Stick"
+        }
+      ]
     }
-  ]}},
-  {"id":"dbfe1e6b81719a33e4ddc9f9b3de571bab0d148ab41cffdfcae94d28e93f16b2i0",
-    "meta":{"name":"Normies #14",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Orange"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Anthony"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Red Hoodie"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Clouds"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Black Mask"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Staff"
+  },
+  {
+    "id": "b6103cd1110ce03c8ec643d523b11b039736ae73172b7dc4912a82b11d360840i0",
+    "meta": {
+      "name": "Normies #12",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Zombie"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Blue Shirt"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Face cap 2"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Medicated"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Stick 2"
+        }
+      ]
     }
-  ]}},
-  {"id":"39d3f780fa656dd86220e0e9bb1abc6772b08879ff0e0652215c2379e5f39419i0",
-    "meta":{"name":"Normies #15",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Lime Green"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Anthony"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Holiday Fit"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Turban"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Blue Mask"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Orb Staff"
+  },
+  {
+    "id": "8f35245d8a21ebd3cbc9d4e62544a23fae3d42bb48eec1b3b901228247f007fdi0",
+    "meta": {
+      "name": "Normies #13",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Anthony"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Shirt n_ Vest"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Turban"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Medicated"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Stick"
+        }
+      ]
     }
-  ]}},
-  {"id":"af917eaadea6808fa615ae4930d4a4a66749e7491b0be10d7c88bb18686b6c81i0",
-    "meta":{"name":"Normies #16",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Normal"
-    },
-    {
-      "trait_type": "Body",
-      "value": " Chad"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Red polo"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Peaky Blinders Hat"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Eye Patch"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Stick"
+  },
+  {
+    "id": "dbfe1e6b81719a33e4ddc9f9b3de571bab0d148ab41cffdfcae94d28e93f16b2i0",
+    "meta": {
+      "name": "Normies #14",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Orange"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Anthony"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Red Hoodie"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Clouds"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Black Mask"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Staff"
+        }
+      ]
     }
-  ]}},
-  {"id":"c7d109901dd1a4df70ff33c47c974cc2ae2d0a90cec36030e65a8244bbab6ad6i0",
-    "meta":{"name":"Normies #17",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Body",
-      "value": " Chad"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Red Hoodie"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Scarf 2"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Diving Goggles"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Hoe"
+  },
+  {
+    "id": "39d3f780fa656dd86220e0e9bb1abc6772b08879ff0e0652215c2379e5f39419i0",
+    "meta": {
+      "name": "Normies #15",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Lime Green"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Anthony"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Holiday Fit"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Turban"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Blue Mask"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Orb Staff"
+        }
+      ]
     }
-  ]}},
-  {"id":"287755b6665adcf74c09a52d41a2bff30f5ae848bff6834dddbee0df30fc093di0",
-    "meta":{"name":"Normies #18",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Orange"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Zombie"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "White Shirt"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Face cap 2"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Purple Mask"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Staff"
+  },
+  {
+    "id": "af917eaadea6808fa615ae4930d4a4a66749e7491b0be10d7c88bb18686b6c81i0",
+    "meta": {
+      "name": "Normies #16",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Body",
+          "value": " Chad"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Red polo"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Peaky Blinders Hat"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Eye Patch"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Stick"
+        }
+      ]
     }
-  ]}},
-  {"id":"e307198002494a73703421079ec61891a12747504c7f0be3999fb315f16ff2b0i0",
-    "meta":{"name":"Normies #19", "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Normal"
-    },
-    {
-      "trait_type": "Body",
-      "value": " Chad"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Plumber"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Hair warmer 2"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Red Mask"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Stick 2"
+  },
+  {
+    "id": "c7d109901dd1a4df70ff33c47c974cc2ae2d0a90cec36030e65a8244bbab6ad6i0",
+    "meta": {
+      "name": "Normies #17",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Body",
+          "value": " Chad"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Red Hoodie"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Scarf 2"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Diving Goggles"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Hoe"
+        }
+      ]
     }
-  ]}},
-  {"id":"976fbcd6fd457de5544bbe7e26b72324748dad4857622348d752a39ffd1ee5cei0",
-    "meta":{"name":"Normies #20",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Body",
-      "value": " Chad"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Shirt n_ Vest"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Peaky Blinders Hat"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Purple Mask"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Flame Torch"
+  },
+  {
+    "id": "287755b6665adcf74c09a52d41a2bff30f5ae848bff6834dddbee0df30fc093di0",
+    "meta": {
+      "name": "Normies #18",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Orange"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Zombie"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "White Shirt"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Face cap 2"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Purple Mask"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Staff"
+        }
+      ]
     }
-  ]}},
-  {"id":"5a5fb4aceaed3ce7d39c2615988d8dd478524d827625016234a912ff1061e39di0",
-    "meta":{"name":"Normies #21",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Lime Green"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Anthony"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Grey Shirt"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Cap backward"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Blue Mask"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Stick"
+  },
+  {
+    "id": "e307198002494a73703421079ec61891a12747504c7f0be3999fb315f16ff2b0i0",
+    "meta": {
+      "name": "Normies #19",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Body",
+          "value": " Chad"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Plumber"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Hair warmer 2"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Red Mask"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Stick 2"
+        }
+      ]
     }
-  ]}},
-  {"id":"e697eee2c8e7b5032fcdb6ed8f9e606aafa68b645902f805ce575868116bb3fdi0",
-    "meta":{"name":"Normies #22",
-    "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Normal"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Will"
-    },
-    {
-      "trait_type": "Clothes",
-      "value": "Red polo"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Face cap"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Robot Eyes"
-    },
-    {
-      "trait_type": "Weapon",
-      "value": "Hoe"
+  },
+  {
+    "id": "976fbcd6fd457de5544bbe7e26b72324748dad4857622348d752a39ffd1ee5cei0",
+    "meta": {
+      "name": "Normies #20",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Body",
+          "value": " Chad"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Shirt n_ Vest"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Peaky Blinders Hat"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Purple Mask"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Flame Torch"
+        }
+      ]
     }
-  ]}}]
+  },
+  {
+    "id": "5a5fb4aceaed3ce7d39c2615988d8dd478524d827625016234a912ff1061e39di0",
+    "meta": {
+      "name": "Normies #21",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Lime Green"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Anthony"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Grey Shirt"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Cap backward"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Blue Mask"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Stick"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e697eee2c8e7b5032fcdb6ed8f9e606aafa68b645902f805ce575868116bb3fdi0",
+    "meta": {
+      "name": "Normies #22",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Body",
+          "value": "Will"
+        },
+        {
+          "trait_type": "Clothes",
+          "value": "Red polo"
+        },
+        {
+          "trait_type": "Head",
+          "value": "Face cap"
+        },
+        {
+          "trait_type": "Eye",
+          "value": "Robot Eyes"
+        },
+        {
+          "trait_type": "Weapon",
+          "value": "Hoe"
+        }
+      ]
+    }
+  }
+]

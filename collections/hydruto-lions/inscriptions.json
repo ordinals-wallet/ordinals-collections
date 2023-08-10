@@ -1,6 +1,6 @@
 [
   {
-    "id": "FD455DE76872377372AAACAAFE7086C86F378C48673C003FC597486A09952509i0",
+    "id": "fd455de76872377372aaacaafe7086c86f378c48673c003fc597486a09952509i0",
     "meta": {
       "name": "Hydruto Lions 1",
       "attributes": [
@@ -88,7 +88,7 @@
     }
   },
   {
-    "id": "713F38320E4BCB8C9D11BAA42FB531DEB028A432C206D90E54A5C6C7AE507856i0",
+    "id": "713f38320e4bcb8c9d11baa42fb531deb028a432c206d90e54a5c6c7ae507856i0",
     "meta": {
       "name": "Hydruto Lions 3",
       "attributes": [
@@ -176,7 +176,7 @@
     }
   },
   {
-    "id": "1821BDF13068C89FA80028571EE7FF6AE5E86653C6A3992550784656CA6EF687i0",
+    "id": "1821bdf13068c89fa80028571ee7ff6ae5e86653c6a3992550784656ca6ef687i0",
     "meta": {
       "name": "Hydruto Lions 5",
       "attributes": [
@@ -220,7 +220,7 @@
     }
   },
   {
-    "id": "2AC85A97F1B80BAB25D283B856E604ACD386EC15C893CF926D2E53D70B59527Ei0",
+    "id": "2ac85a97f1b80bab25d283b856e604acd386ec15c893cf926d2e53d70b59527ei0",
     "meta": {
       "name": "Hydruto Lions 6",
       "attributes": [
@@ -4397,6 +4397,458 @@
           "value": "None"
         }
       ]
+    }
+  },
+  {
+    "id": "42f3acc06605bc8273e70d77c3181f62c8868deead9f503a3158c564e460eca1i0",
+    "meta": {
+      "name": "Hydruto Warrior 1",
+      "attributes": [
+        {
+          "trait_type": "Accessory",
+          "value": "Sword"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Gray"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Glowing"
+        },
+        {
+          "trait_type": "Fur",
+          "value": "Purple"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "Crown"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cry5"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Brown"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Barefoot"
+        },
+        {
+          "trait_type": "Top",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3e0d54210a2b0f657359a6220d70a0e630ac66ef863348c85d5fafdf3c8f53fdi0",
+    "meta": {
+      "name": "Hydruto Warrior 2",
+      "attributes": [
+        {
+          "trait_type": "Accessory",
+          "value": "Sword"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sand"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Glowing"
+        },
+        {
+          "trait_type": "Fur",
+          "value": "Tiger"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "Hachimaki"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Hangry15"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "White"
+        },
+        {
+          "trait_type": "Top",
+          "value": "Kamishimo Purple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f4cbc49b732ed78df506cd1888283e79956774000b4520656e5207b4e08598a2i0",
+    "meta": {
+      "name": "Hydruto Warrior 3",
+      "attributes": [
+        {
+          "trait_type": "Accessory",
+          "value": "Sword"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Purple"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Glowing"
+        },
+        {
+          "trait_type": "Fur",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "Hachimaki2"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Smirk10"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Brown"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Barefoot"
+        },
+        {
+          "trait_type": "Top",
+          "value": "Kamishimo Green"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c7514266d7945a92022448bb6bdbf44ec5ca1ced6872c9761c8452357f6f1747i0",
+    "meta": {
+      "name": "Hydruto Warrior 4",
+      "attributes": [
+        {
+          "trait_type": "Accessory",
+          "value": "Sword"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Glowing"
+        },
+        {
+          "trait_type": "Fur",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "Hachimaki"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Laugh5"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Teal"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Barefoot"
+        },
+        {
+          "trait_type": "Top",
+          "value": "Kamishimo Purple"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fe78f2e625a53479f52b7e66fdd40166f6f23a6052acaa16e36633be2ea22492i0",
+    "meta": {
+      "name": "Hydruto Warrior 5",
+      "attributes": [
+        {
+          "trait_type": "Accessory",
+          "value": "Sword"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Purple"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Glowing"
+        },
+        {
+          "trait_type": "Fur",
+          "value": "Brown"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "None"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Hangry15"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Barefoot"
+        },
+        {
+          "trait_type": "Top",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4f620c08fddf6939fc0e03425b8c2365ff10a1d1df29e7d6f78e70ee057b3842i0",
+    "meta": {
+      "name": "Hydruto Warrior 6",
+      "attributes": [
+        {
+          "trait_type": "Accessory",
+          "value": "Sword"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Yellow"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Glowing"
+        },
+        {
+          "trait_type": "Fur",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "None"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Smirk10"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Top",
+          "value": "Kamishimo Green"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3f271fa63795b8968547e3232b27ba1aaad653498d3fbfe4c3e16664e14ce5bfi0",
+    "meta": {
+      "name": "Hydruto Warrior 7",
+      "attributes": [
+        {
+          "trait_type": "Accessory",
+          "value": "Sword"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Glowing"
+        },
+        {
+          "trait_type": "Fur",
+          "value": "Purple"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "None"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cry5"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Top",
+          "value": "Purple Shirt"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a7461292d94e78f664f4029e3f803a4d0cd1e31c478f48e5d54122578b392646i0",
+    "meta": {
+      "name": "Hydruto Warrior 8",
+      "attributes": [
+        {
+          "trait_type": "Accessory",
+          "value": "Sword"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sand"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Glowing"
+        },
+        {
+          "trait_type": "Fur",
+          "value": "Green"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "Headband"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Hangry15"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Gray"
+        },
+        {
+          "trait_type": "Top",
+          "value": "Red Shirt"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f418bc8ae51caee95a9e5005f561a6e0390288550187a8d9f3f8cb530c16c05ai0",
+    "meta": {
+      "name": "Hydruto Warrior 9",
+      "attributes": [
+        {
+          "trait_type": "Accessory",
+          "value": "Sword"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sand"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Glowing"
+        },
+        {
+          "trait_type": "Fur",
+          "value": "Pink"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "None"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Smirk10"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Barefoot"
+        },
+        {
+          "trait_type": "Top",
+          "value": "Purple Shirt"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d62c3cd34861e394f457549e8432a56c02bc383155410a21421e8679eb1b7688i0",
+    "meta": {
+      "name": "Hydruto Warrior 10",
+      "attributes": [
+        {
+          "trait_type": "Accessory",
+          "value": "Sword"
+        },
+        {
+          "trait_type": "Background",
+          "value": "Sand"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Glowing"
+        },
+        {
+          "trait_type": "Fur",
+          "value": "Purple"
+        },
+        {
+          "trait_type": "Headwear",
+          "value": "None"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Hangry15"
+        },
+        {
+          "trait_type": "Pants",
+          "value": "Red"
+        },
+        {
+          "trait_type": "Shoes",
+          "value": "Blue"
+        },
+        {
+          "trait_type": "Top",
+          "value": "None"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ab8ed39f9854b234ecfe9d8e8db8bf8699b93348c24dbcd847c889393ddcf177i0",
+    "meta": {
+      "name": "Hydruto Flame Warrior"
+    }
+  },
+  {
+    "id": "ef250b7febc7b09e5b837b2d0373791302955e839e9f953e91bf8392a82c0b25i0",
+    "meta": {
+      "name": "Hydruto Bone Warrior"
     }
   }
 ]

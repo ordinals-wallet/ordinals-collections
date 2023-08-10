@@ -3,8 +3,6 @@
     "id": "67b27e2d15cd3fc44dbdd4069cd3ac1be5cdd16c1a03c1fce79918c6c9b9c9bdi0",
     "meta": {
       "name": "Queen of Cats",
-      "status": "Exotic",
-      "rank": 1,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -25,8 +23,6 @@
     "id": "c4f7f376877c999a13b76a928e0bbfd8d9719e505dba6bea52a31a3789fa2da4i0",
     "meta": {
       "name": "Rat King",
-      "status": "Exotic",
-      "rank": 2,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -47,8 +43,6 @@
     "id": "c39b857b909ca1555d401098685352e0532e93173b4e9edf51497427088cef1di0",
     "meta": {
       "name": "Schadow",
-      "status": "Legendary",
-      "rank": 3,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -69,8 +63,6 @@
     "id": "4ec1b67b18228a034419619dea62b5e92de44ef4bed2e21a35ba46c5b81fd80fi0",
     "meta": {
       "name": "Uncle Scrapes",
-      "status": "Legendary",
-      "rank": 4,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -91,8 +83,6 @@
     "id": "ec94006ce7e2d7ba4961178dd21c42c95c56d7e4c8a14d55774fd69d04e20df6i0",
     "meta": {
       "name": "Swifty Shen",
-      "status": "Epic",
-      "rank": 5,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -113,8 +103,6 @@
     "id": "b7d40cbaa5e81fe49f07623601398348f31d2ac1257f0e6078c17f7b488d44f0i0",
     "meta": {
       "name": "Caret Cake",
-      "status": "Epic",
-      "rank": 6,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -135,8 +123,6 @@
     "id": "1e572ebe80e0b1c634932bedff0efdf0b1025bf45577663a983daf9e9d1c927bi0",
     "meta": {
       "name": "Underscore",
-      "status": "Epic",
-      "rank": 7,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -157,8 +143,6 @@
     "id": "f6ce2dbe3d40eec0618f0cd3500160077e760c8dd146fb544e79cf5bd19814a9i0",
     "meta": {
       "name": "Shorty Shrift",
-      "status": "Epic",
-      "rank": 8,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -179,8 +163,6 @@
     "id": "d305687b81e95536a98a0d6ef770cc1e53dc24e5bd674406086bf8c14a963dc2i0",
     "meta": {
       "name": "Sticky Pete",
-      "status": "Rare",
-      "rank": 9,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -201,8 +183,6 @@
     "id": "58609e7055e0014ad9cdcbf527e39c4bfbcf69f949adab3fd012e40e96be6e80i0",
     "meta": {
       "name": "Sticky Pete",
-      "status": "Rare",
-      "rank": 10,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -223,8 +203,6 @@
     "id": "5bab149a6e90969854bff2ecce31bd21d6e0be724ecaf273cbf292e52606012ai0",
     "meta": {
       "name": "Sticky Pete",
-      "status": "Rare",
-      "rank": 11,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -245,8 +223,6 @@
     "id": "0337188ce5adb83d81ab50808f96e93838300f76de97b25ddfb7ffbda018e6e7i0",
     "meta": {
       "name": "Mo",
-      "status": "Rare",
-      "rank": 12,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -267,8 +243,6 @@
     "id": "1bad178bae1870d5864655a5be278fcd4274b8e4b0a27cbce1950fb554f56538i0",
     "meta": {
       "name": "Mo",
-      "status": "Rare",
-      "rank": 13,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -289,8 +263,6 @@
     "id": "b48db17de376f8a8c0c97b9d34fda23be6d491562001dc7bc6d76224421042ffi0",
     "meta": {
       "name": "Mo",
-      "status": "Rare",
-      "rank": 14,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -311,8 +283,6 @@
     "id": "dcda202260b732c0d5a120ddfad4b0d12e2217c35dbbfcc7685cf068206ca57ci0",
     "meta": {
       "name": "Senju Smith",
-      "status": "Uncommon",
-      "rank": 15,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -333,8 +303,6 @@
     "id": "fcc8c1df7b7e505f0df7238e7b0c0b0c0f453806ef164d426f466401768df589i0",
     "meta": {
       "name": "Senju Smith",
-      "status": "Uncommon",
-      "rank": 16,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -355,8 +323,6 @@
     "id": "03cbcf016637a71f524cf6c8a299e6f707452dd2581b78700e8c9661c83b3d4ai0",
     "meta": {
       "name": "Uzumaki",
-      "status": "Uncommon",
-      "rank": 17,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -377,8 +343,6 @@
     "id": "70ecd29c48fb3da80cb7450716a43aa00704d4b47a966a825b031dd8d9f4873di0",
     "meta": {
       "name": "Uzumaki",
-      "status": "Uncommon",
-      "rank": 18,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -399,8 +363,6 @@
     "id": "589d32358799315bddea42efad9ca7db8606c8faca898703641a7c5baba4c8d0i0",
     "meta": {
       "name": "Collectra",
-      "status": "Uncommon",
-      "rank": 19,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -421,8 +383,6 @@
     "id": "a62a9c2452b8e15328e2f7c59078a37cb103fb2c8f39ee3ec5839cb7d1cd8ef3i0",
     "meta": {
       "name": "Collectra",
-      "status": "Uncommon",
-      "rank": 20,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -443,8 +403,6 @@
     "id": "94df93d1ee8be5c2a16cb40fd9fd24c5400faaaf057fa0704460fc1ba49a2085i0",
     "meta": {
       "name": "Fingers",
-      "status": "Uncommon",
-      "rank": 21,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -465,8 +423,6 @@
     "id": "1e048aae4a065be4113a1d5bc5ea6c58c14855c5c8bfa998fcfb131714c4d188i0",
     "meta": {
       "name": "Fingers",
-      "status": "Uncommon",
-      "rank": 22,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -487,8 +443,6 @@
     "id": "6d3234528522c64d9f66023fb0f1f3a54d76d66448a850dde219b4663fde0b43i0",
     "meta": {
       "name": "Cat Soldier 1",
-      "status": "Common",
-      "rank": 23,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -509,8 +463,6 @@
     "id": "f598a6660ef1bdf1e738ad918b7e2462248d90521cf9a91daed940ca3d28d15di0",
     "meta": {
       "name": "Rat Soldier 1",
-      "status": "Common",
-      "rank": 24,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -531,8 +483,6 @@
     "id": "0a94509810b1957fb42433595eeb5b6bbc310ef42f9078dec692ef8a46537184i0",
     "meta": {
       "name": "Rat Soldier 2",
-      "status": "Common",
-      "rank": 25,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -553,8 +503,6 @@
     "id": "4f30b133aabba607d9895cccab18e58ba8af9545ef131d791a61a7683e6b1a7bi0",
     "meta": {
       "name": "Rat Soldier 3",
-      "status": "Common",
-      "rank": 26,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -575,8 +523,6 @@
     "id": "8ad29e5974bbb8f9fdb133a224bcae0fc773ba522a46d11bafbe0d9b5e90053di0",
     "meta": {
       "name": "Rat Soldier 4",
-      "status": "Common",
-      "rank": 27,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -597,8 +543,6 @@
     "id": "8128a00926342bead6c95548fed37dc0dfc3521e8cbf0fc95ca0a478f149070fi0",
     "meta": {
       "name": "Rat Soldier 5",
-      "status": "Common",
-      "rank": 28,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -619,8 +563,6 @@
     "id": "1cdff1d94386e0f2a320a4bcf3061ab156e6b458ef748e23f81dda34395b2ce6i0",
     "meta": {
       "name": "Cat Soldier 2",
-      "status": "Common",
-      "rank": 29,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -641,8 +583,6 @@
     "id": "c08411f1b6ed6b68ff9154b807525752f4b195054206f73f6f115928e983c8a5i0",
     "meta": {
       "name": "Cat Soldier 3",
-      "status": "Common",
-      "rank": 30,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -663,8 +603,6 @@
     "id": "3e40a302beb00dab043f8cb41aad82dc797eb59b05dc706605a359d606d6f29fi0",
     "meta": {
       "name": "Cat Soldier 4",
-      "status": "Common",
-      "rank": 31,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -685,8 +623,6 @@
     "id": "81d956b760be92e6a484a88a3123b87975422271364b3f2379d1bf21393453f2i0",
     "meta": {
       "name": "Cat Soldier 5",
-      "status": "Common",
-      "rank": 32,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -707,8 +643,6 @@
     "id": "78cbada587f1227bde3447e663eb2f66d6bc3048badd34043e94015f2e9c93dfi0",
     "meta": {
       "name": "Cat Soldier 6",
-      "status": "Common",
-      "rank": 33,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -729,8 +663,6 @@
     "id": "18d15e01152778f264840bec6f93a4025fe1b553512020bd9c653d08c30400e2i0",
     "meta": {
       "name": "Rat Soldier 6",
-      "status": "Common",
-      "rank": 34,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -751,8 +683,6 @@
     "id": "a84b52e69cf2e5ce429eee1a68186bbc0d28a52457e22f7e4cbbb4704491278ai0",
     "meta": {
       "name": "Cat Soldier 7",
-      "status": "Common",
-      "rank": 35,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -773,8 +703,6 @@
     "id": "3103ef77658bcd47975263cb4c14cb45f9060fa786d3cbcb7fb9383506704523i0",
     "meta": {
       "name": "Cat Soldier 8",
-      "status": "Common",
-      "rank": 36,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -795,8 +723,6 @@
     "id": "ffab388898bb0bcc5b558c4a48365bf8ee47afe7445daf8804ca8acebcb7cf55i0",
     "meta": {
       "name": "Rat Soldier 7",
-      "status": "Common",
-      "rank": 37,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -817,8 +743,6 @@
     "id": "dab97a7c095a7111e544db4a0f7076c3e11e60c3533f6888549b35da3b31f1aei0",
     "meta": {
       "name": "Cat Soldier 9",
-      "status": "Common",
-      "rank": 38,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -839,8 +763,6 @@
     "id": "49b1de4c2ed7edca0df5c7ed6a90d63607c4bf327fd3f85d3660849849d4f96bi0",
     "meta": {
       "name": "Cat Soldier 10",
-      "status": "Common",
-      "rank": 39,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -861,8 +783,6 @@
     "id": "276fa8e9ce11722f34b5b81074a48fbc7b23007346eadfc994977252972a0cf7i0",
     "meta": {
       "name": "Rat Soldier 8",
-      "status": "Common",
-      "rank": 40,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -883,8 +803,6 @@
     "id": "eeb42ff961cd11c2150b6b1f079200dc94b8e6a89a2a8f2d7af087a6e72c3943i0",
     "meta": {
       "name": "Cat Soldier 11",
-      "status": "Common",
-      "rank": 41,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -905,8 +823,6 @@
     "id": "4c170203910854f2021dd19d4c691a60ee36a16858a16db6b1060259507181bdi0",
     "meta": {
       "name": "Cat Soldier 12",
-      "status": "Common",
-      "rank": 42,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -927,8 +843,6 @@
     "id": "0c25073501fade9c8ea145f6e1948a40c70663dda7232c6dec06f55d981063cfi0",
     "meta": {
       "name": "Cat Soldier 13",
-      "status": "Common",
-      "rank": 43,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -949,8 +863,6 @@
     "id": "443cbb143a4fbcc88c4892934851e0812fb01be2cd9d8dc0f0fa84d2694ec64ei0",
     "meta": {
       "name": "Rat Soldier 9",
-      "status": "Common",
-      "rank": 44,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -971,8 +883,6 @@
     "id": "5cd1b7f3066ac4c5dee626bb53ff19eec3c3c5d2bbfa03ebc3f17b9055a6c47fi0",
     "meta": {
       "name": "Rat Soldier 10",
-      "status": "Common",
-      "rank": 45,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -993,8 +903,6 @@
     "id": "075a91ad8d4855da5f4daf64dd4bb13b1a958dac0e02f43f0055ddc662a7badci0",
     "meta": {
       "name": "Rat Soldier 11",
-      "status": "Common",
-      "rank": 46,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -1015,8 +923,6 @@
     "id": "2e9a85539e02ff781c84e8ac86ac1b90fda131bddb8edb6e4a3616776e0aabafi0",
     "meta": {
       "name": "Rat Soldier 12",
-      "status": "Common",
-      "rank": 47,
       "attributes": [
         {
           "trait_type": "affiliation",
@@ -1037,8 +943,6 @@
     "id": "3ee71afaebbb9684a96f6b5ced3354b16a239af3c2e24afc12452e01433da984i0",
     "meta": {
       "name": "Rat Soldier 13",
-      "status": "Common",
-      "rank": 48,
       "attributes": [
         {
           "trait_type": "affiliation",
