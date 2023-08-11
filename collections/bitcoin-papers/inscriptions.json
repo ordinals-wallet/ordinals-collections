@@ -1,717 +1,614 @@
 [
-    {
-      "id": "2f1188b7df7e66b61be5658fa3aacc2f97b3aa2c0239cef9d6bdb08a24dac10di0",
-      "meta": {
-        "name": "Bitcoin Paper #42",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "25628bb67dc0f9a1b11c4026ef719551e0314bd6791dbbbb1b413bae0c67a90fi0",
-      "meta": {
-        "name": "Bitcoin Paper #15",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6318ac0a730adb9ceac2b96ed3681a612a1753957754e9e6fcc830b6039d3f1ai0",
-      "meta": {
-        "name": "Bitcoin Paper #49",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Blood Red",
-            "status": "Ultra Rare",
-            "percent": "1.96%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "200daca83e6652faed2d6f715233f4237966eb1bc53727b70750fcf039282922i0",
-      "meta": {
-        "name": "Bitcoin Paper #50",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "15fffaba759205851d23b2d30493f1279f412962bc06b342be44e91e9951171fi0",
-      "meta": {
-        "name": "Bitcoin Paper #1",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3a71df5320f80f23f090a8a475415e0c0a558fb01dbf11c98d70c6014bcc23d6i0",
-      "meta": {
-        "name": "Bitcoin Paper #23",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "22889c44367eca309752ca291b5bdee2ae13a764ccbe68448e462d7d682e3f4di0",
-      "meta": {
-        "name": "Bitcoin Paper #7",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "31bbf3666f36ab6846bac2cb3a6a17f75faa43a01dabde0343094582c726ba23i0",
-      "meta": {
-        "name": "Bitcoin Paper #2",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5e1513a1ccaa576d43de20fc860703519fc7a227a9b8f0aad249812b787ac347i0",
-      "meta": {
-        "name": "Bitcoin Paper #17",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a63d1ac36ce81e1da689ab31d784f41fbaaf7b25d9bb78902bd021f11f78cb5di0",
-      "meta": {
-        "name": "Bitcoin Paper #20",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "86c9948d44b8908d5d703c0957f839fbf91e0ef10ca2ca8490cf7b64b3110687i0",
-      "meta": {
-        "name": "Bitcoin Paper #11",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "84b721565c5ac87dd8c671827c88cebab86108126c589ea24fe806b4848da33ci0",
-      "meta": {
-        "name": "Bitcoin Paper #5",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "53f1e3b2fe4ef604db98d6b38f53d33d6c4cfa491e604cd618282bd491763b31i0",
-      "meta": {
-        "name": "Bitcoin Paper #3",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3f63eca8e664f9fdae41be3048c4c7faebff1c54f0d6a5cc2d15c44aae06d13ci0",
-      "meta": {
-        "name": "Bitcoin Paper #16",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "237223ba47469c3c2e32e5c3e4d52782247418c829d84779130a0130b3dd59cei0",
-      "meta": {
-        "name": "Bitcoin Paper #13",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "34039eca3e6f3c30153ea0e03a8fdb7f05a0f11eeeb501555d413fd145d7e76di0",
-      "meta": {
-        "name": "Bitcoin Paper #10",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Royal Blue",
-            "status": "Ultra Rare",
-            "percent": "1.96%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7d1e98276a328827cbc209a6bd099d673a1bb71b73bc29d4d64db0f78e110e3ai0",
-      "meta": {
-        "name": "Bitcoin Paper #4",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Brown",
-            "status": "Rare",
-            "percent": "7.84%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "131bb0a45ce28bc8109d07c047a458c7060d9153aa49a0e63c8e3006ce34c13di0",
-      "meta": {
-        "name": "Bitcoin Paper #45",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8b8528d6da872992fd1b5096e82667e6d84f2c786936582695df77d14cb92348i0",
-      "meta": {
-        "name": "Bitcoin Paper #6",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "0b40de977fd2e4dafc1a67a338f26f01ec51396b4b5b8497954c1142bdabee4bi0",
-      "meta": {
-        "name": "Bitcoin Paper #25",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "d2011643d13736d9f0fd9b58929cb013e60bdd063daa6cc08dedee7c0c3c404di0",
-      "meta": {
-        "name": "Bitcoin Paper #26",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Brown",
-            "status": "Rare",
-            "percent": "7.84%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "721c318d9527801804dc49d23082b767b78985851263c16ebde6a6449f365a50i0",
-      "meta": {
-        "name": "Bitcoin Paper #27",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "4cc188fd332bad1f7405ea8ebb9e1266594c053a6f1240d65b33016c458f0554i0",
-      "meta": {
-        "name": "Bitcoin Paper #18",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Black",
-            "status": "Slightly More Rare Than Rare",
-            "percent": "5.88%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "8c859eca6f298de1fa0a3b6692f9526a760a8c5c4288a6ea6be9b73530fd0d5ai0",
-      "meta": {
-        "name": "Bitcoin Paper #19",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e762f34bd754ab4c51c1ae6528579ad5ebd6da37bcdff43573c2ad94eec3c161i0",
-      "meta": {
-        "name": "Bitcoin Paper #8",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6e82c131a0dff412dafc8cfd0c3909bfb5413f14cb4b789870465e3750eb6665i0",
-      "meta": {
-        "name": "Bitcoin Paper #46",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "b2a1f8986338d4cc4abe8878542011b928d1c7ea67734d3452730ae625a83e66i0",
-      "meta": {
-        "name": "Bitcoin Paper #9",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "e31d8e1f521ee90cabc4aa7705df1462df441b26700f03b4b160751342bc3c77i0",
-      "meta": {
-        "name": "Bitcoin Paper #28",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Black",
-            "status": "Slightly More Rare Than Rare",
-            "percent": "5.88%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "eed563b931e3d8b0b3aea3f9747e8f68e21ef43ea12cec8c10c96c0384b9f77ci0",
-      "meta": {
-        "name": "Bitcoin Paper #39",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9fdbe059b2b36bb0efa579c41c3f0cb9455815f05c043c5e0962808c1915e781i0",
-      "meta": {
-        "name": "Bitcoin Paper #29",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c5ed748a5e417d127f52e8f9e2c475d77e0d3222ca669b5ae970064d7f5f5699i0",
-      "meta": {
-        "name": "Bitcoin Paper #30",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6cef3cbb651c833fb92a2ed2712e9567353b944b972007bccd93fbfef206fc9ai0",
-      "meta": {
-        "name": "Bitcoin Paper #21",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Brown",
-            "status": "Rare",
-            "percent": "7.84%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "64915ab343dafceec21d73d69a97d9ab168d5ae0fb9a3702b8edb05c0de6409di0",
-      "meta": {
-        "name": "Bitcoin Paper #31",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f33a9a1ee225904b87f5e33225282490c3c6ab59790a06a35cede618f95255a1i0",
-      "meta": {
-        "name": "Bitcoin Paper #32",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "f2e6945e1b2d627e9ceac7cbb897b9b37812acd927aa76971cb7775c0e816fa3i0",
-      "meta": {
-        "name": "Bitcoin Paper #33",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7bb576e04793811c2cbe469648187273857614e38dbd117cd1e9587d68e3b1a7i0",
-      "meta": {
-        "name": "Bitcoin Paper #34",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "5311341b295bb8f495cd755553d75488e2ab6ea8f8dc519aec4de090f7194eafi0",
-      "meta": {
-        "name": "Bitcoin Paper #22",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "9806408c962ce172c509ae0ec4bfcea3338228cce7bb0dbb81c6848c36859bb5i0",
-      "meta": {
-        "name": "Bitcoin Paper #35",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "bdca284a28a66158c11d8880dea8aa4cab5a0ff62ecf01447a8650ca0377dcbci0",
-      "meta": {
-        "name": "Bitcoin Paper #40",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Brown",
-            "status": "Rare",
-            "percent": "7.84%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "a63443c8b1ecb11a7fee3d86cad9b6f3cba6e07f998ad109e2f6c6e519dbeebei0",
-      "meta": {
-        "name": "Bitcoin Paper #36",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "3469ab3ace7f515b764f81358d76a107816aa7084d3ec6375c5fd1f1ec9b4dc7i0",
-      "meta": {
-        "name": "Bitcoin Paper #47",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "06fdf7f90f87d5c01afa0025a167fe0d14e8c4f662a7460ea8c906aa39c3e9cci0",
-      "meta": {
-        "name": "Bitcoin Paper #12",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "657214d6bffdcab534888a9a25e24819cf03cbe7466fcff688d504785db1ebcfi0",
-      "meta": {
-        "name": "Bitcoin Paper #48",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c87ca8c739bf3a6083c8f94c50ac4b33756fca5e766e51b4e47f806154f91cd0i0",
-      "meta": {
-        "name": "Bitcoin Paper #37",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Black",
-            "status": "Slightly More Rare Than Rare",
-            "percent": "5.88%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "6051f1a861dac4c557fd6ff1ab3250708704fc16cd250e00608bb44a89dd8dd4i0",
-      "meta": {
-        "name": "Bitcoin Paper #38",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "32529c6118bb1db93aa25e669da604510dfa49b1a1ec133d5e9f7621f34ffbddi0",
-      "meta": {
-        "name": "Bitcoin Paper #41",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "771a2aa22a01d8249e2c9f8943100a4068a50c931325da97157129cf5c6367dei0",
-      "meta": {
-        "name": "Bitcoin Paper #43",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "7a4760e5f2808bc1240bd9d3cc5824dbcf447ba60f8856588d9ffd0b9ef588efi0",
-      "meta": {
-        "name": "Bitcoin Paper #44",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "abb24308031857048e0d2839e658b447fac985969675e5a0edeaecccc493b0fai0",
-      "meta": {
-        "name": "Bitcoin Paper #14",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "c8218eda110b37642c323f2040f3808238cd130d7bb54e44329c67349d0f28fdi0",
-      "meta": {
-        "name": "Bitcoin Paper #24",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
-    },
-    {
-      "id": "79f52cf4faa9350ed8b427eac52e3a9c7bff07ee6fcf3868feb2dde9ef1d9252i0",
-      "meta": {
-        "name": "Bitcoin Paper #51",
-        "attributes": [
-          {
-            "trait_type": "Color",
-            "value": "Gray",
-            "status": "Common",
-            "percent": "82.35%"
-          }
-        ]
-      }
+  {
+    "id": "2f1188b7df7e66b61be5658fa3aacc2f97b3aa2c0239cef9d6bdb08a24dac10di0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #42"
     }
-    
-]    
+  },
+  {
+    "id": "25628bb67dc0f9a1b11c4026ef719551e0314bd6791dbbbb1b413bae0c67a90fi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #15"
+    }
+  },
+  {
+    "id": "6318ac0a730adb9ceac2b96ed3681a612a1753957754e9e6fcc830b6039d3f1ai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Blood Red"
+        }
+      ],
+      "name": "Bitcoin Paper #49"
+    }
+  },
+  {
+    "id": "200daca83e6652faed2d6f715233f4237966eb1bc53727b70750fcf039282922i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #50"
+    }
+  },
+  {
+    "id": "15fffaba759205851d23b2d30493f1279f412962bc06b342be44e91e9951171fi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #1"
+    }
+  },
+  {
+    "id": "3a71df5320f80f23f090a8a475415e0c0a558fb01dbf11c98d70c6014bcc23d6i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #23"
+    }
+  },
+  {
+    "id": "22889c44367eca309752ca291b5bdee2ae13a764ccbe68448e462d7d682e3f4di0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #7"
+    }
+  },
+  {
+    "id": "31bbf3666f36ab6846bac2cb3a6a17f75faa43a01dabde0343094582c726ba23i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #2"
+    }
+  },
+  {
+    "id": "5e1513a1ccaa576d43de20fc860703519fc7a227a9b8f0aad249812b787ac347i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #17"
+    }
+  },
+  {
+    "id": "a63d1ac36ce81e1da689ab31d784f41fbaaf7b25d9bb78902bd021f11f78cb5di0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #20"
+    }
+  },
+  {
+    "id": "86c9948d44b8908d5d703c0957f839fbf91e0ef10ca2ca8490cf7b64b3110687i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #11"
+    }
+  },
+  {
+    "id": "84b721565c5ac87dd8c671827c88cebab86108126c589ea24fe806b4848da33ci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #5"
+    }
+  },
+  {
+    "id": "53f1e3b2fe4ef604db98d6b38f53d33d6c4cfa491e604cd618282bd491763b31i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #3"
+    }
+  },
+  {
+    "id": "3f63eca8e664f9fdae41be3048c4c7faebff1c54f0d6a5cc2d15c44aae06d13ci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #16"
+    }
+  },
+  {
+    "id": "237223ba47469c3c2e32e5c3e4d52782247418c829d84779130a0130b3dd59cei0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #13"
+    }
+  },
+  {
+    "id": "34039eca3e6f3c30153ea0e03a8fdb7f05a0f11eeeb501555d413fd145d7e76di0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Royal Blue"
+        }
+      ],
+      "name": "Bitcoin Paper #10"
+    }
+  },
+  {
+    "id": "7d1e98276a328827cbc209a6bd099d673a1bb71b73bc29d4d64db0f78e110e3ai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Brown"
+        }
+      ],
+      "name": "Bitcoin Paper #4"
+    }
+  },
+  {
+    "id": "131bb0a45ce28bc8109d07c047a458c7060d9153aa49a0e63c8e3006ce34c13di0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #45"
+    }
+  },
+  {
+    "id": "8b8528d6da872992fd1b5096e82667e6d84f2c786936582695df77d14cb92348i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #6"
+    }
+  },
+  {
+    "id": "0b40de977fd2e4dafc1a67a338f26f01ec51396b4b5b8497954c1142bdabee4bi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #25"
+    }
+  },
+  {
+    "id": "d2011643d13736d9f0fd9b58929cb013e60bdd063daa6cc08dedee7c0c3c404di0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Brown"
+        }
+      ],
+      "name": "Bitcoin Paper #26"
+    }
+  },
+  {
+    "id": "721c318d9527801804dc49d23082b767b78985851263c16ebde6a6449f365a50i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #27"
+    }
+  },
+  {
+    "id": "4cc188fd332bad1f7405ea8ebb9e1266594c053a6f1240d65b33016c458f0554i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Black"
+        }
+      ],
+      "name": "Bitcoin Paper #18"
+    }
+  },
+  {
+    "id": "8c859eca6f298de1fa0a3b6692f9526a760a8c5c4288a6ea6be9b73530fd0d5ai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #19"
+    }
+  },
+  {
+    "id": "e762f34bd754ab4c51c1ae6528579ad5ebd6da37bcdff43573c2ad94eec3c161i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #8"
+    }
+  },
+  {
+    "id": "6e82c131a0dff412dafc8cfd0c3909bfb5413f14cb4b789870465e3750eb6665i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #46"
+    }
+  },
+  {
+    "id": "b2a1f8986338d4cc4abe8878542011b928d1c7ea67734d3452730ae625a83e66i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #9"
+    }
+  },
+  {
+    "id": "e31d8e1f521ee90cabc4aa7705df1462df441b26700f03b4b160751342bc3c77i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Black"
+        }
+      ],
+      "name": "Bitcoin Paper #28"
+    }
+  },
+  {
+    "id": "eed563b931e3d8b0b3aea3f9747e8f68e21ef43ea12cec8c10c96c0384b9f77ci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #39"
+    }
+  },
+  {
+    "id": "9fdbe059b2b36bb0efa579c41c3f0cb9455815f05c043c5e0962808c1915e781i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #29"
+    }
+  },
+  {
+    "id": "c5ed748a5e417d127f52e8f9e2c475d77e0d3222ca669b5ae970064d7f5f5699i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #30"
+    }
+  },
+  {
+    "id": "6cef3cbb651c833fb92a2ed2712e9567353b944b972007bccd93fbfef206fc9ai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Brown"
+        }
+      ],
+      "name": "Bitcoin Paper #21"
+    }
+  },
+  {
+    "id": "64915ab343dafceec21d73d69a97d9ab168d5ae0fb9a3702b8edb05c0de6409di0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #31"
+    }
+  },
+  {
+    "id": "f33a9a1ee225904b87f5e33225282490c3c6ab59790a06a35cede618f95255a1i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #32"
+    }
+  },
+  {
+    "id": "f2e6945e1b2d627e9ceac7cbb897b9b37812acd927aa76971cb7775c0e816fa3i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #33"
+    }
+  },
+  {
+    "id": "7bb576e04793811c2cbe469648187273857614e38dbd117cd1e9587d68e3b1a7i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #34"
+    }
+  },
+  {
+    "id": "5311341b295bb8f495cd755553d75488e2ab6ea8f8dc519aec4de090f7194eafi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #22"
+    }
+  },
+  {
+    "id": "9806408c962ce172c509ae0ec4bfcea3338228cce7bb0dbb81c6848c36859bb5i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #35"
+    }
+  },
+  {
+    "id": "bdca284a28a66158c11d8880dea8aa4cab5a0ff62ecf01447a8650ca0377dcbci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Brown"
+        }
+      ],
+      "name": "Bitcoin Paper #40"
+    }
+  },
+  {
+    "id": "a63443c8b1ecb11a7fee3d86cad9b6f3cba6e07f998ad109e2f6c6e519dbeebei0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #36"
+    }
+  },
+  {
+    "id": "3469ab3ace7f515b764f81358d76a107816aa7084d3ec6375c5fd1f1ec9b4dc7i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #47"
+    }
+  },
+  {
+    "id": "06fdf7f90f87d5c01afa0025a167fe0d14e8c4f662a7460ea8c906aa39c3e9cci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #12"
+    }
+  },
+  {
+    "id": "657214d6bffdcab534888a9a25e24819cf03cbe7466fcff688d504785db1ebcfi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #48"
+    }
+  },
+  {
+    "id": "c87ca8c739bf3a6083c8f94c50ac4b33756fca5e766e51b4e47f806154f91cd0i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Black"
+        }
+      ],
+      "name": "Bitcoin Paper #37"
+    }
+  },
+  {
+    "id": "6051f1a861dac4c557fd6ff1ab3250708704fc16cd250e00608bb44a89dd8dd4i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #38"
+    }
+  },
+  {
+    "id": "32529c6118bb1db93aa25e669da604510dfa49b1a1ec133d5e9f7621f34ffbddi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #41"
+    }
+  },
+  {
+    "id": "771a2aa22a01d8249e2c9f8943100a4068a50c931325da97157129cf5c6367dei0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #43"
+    }
+  },
+  {
+    "id": "7a4760e5f2808bc1240bd9d3cc5824dbcf447ba60f8856588d9ffd0b9ef588efi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #44"
+    }
+  },
+  {
+    "id": "abb24308031857048e0d2839e658b447fac985969675e5a0edeaecccc493b0fai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #14"
+    }
+  },
+  {
+    "id": "c8218eda110b37642c323f2040f3808238cd130d7bb54e44329c67349d0f28fdi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #24"
+    }
+  },
+  {
+    "id": "79f52cf4faa9350ed8b427eac52e3a9c7bff07ee6fcf3868feb2dde9ef1d9252i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Color",
+          "value": "Gray"
+        }
+      ],
+      "name": "Bitcoin Paper #51"
+    }
+  }
+]
