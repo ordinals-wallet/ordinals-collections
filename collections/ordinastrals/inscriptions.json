@@ -1,1 +1,650 @@
-[{"id":"89cd6c14c4cf0f19d160ba5341afbe6138299268297955e09642d116689b640ai0","meta":{"name":"Cypherpunk","attributes":[]}},{"id":"8b90ae83118e7f6d9e24d9786bd7cd2eac49a29c7766cc49042ac3772b5e6bb2i0","meta":{"name":"Orange Pill","attributes":[]}},{"id":"05cc536f9192cdb37c1ccd5670095f7a2f9e74ff82baf0523b39782d0d152bbci0","meta":{"name":"King Pepe","attributes":[]}},{"id":"223f46d3ddd9ecfbe622d54b260ca34a0360c65f1f1c0ac06e2ece98dcc27edci0","meta":{"name":"Diamond Hands","attributes":[]}},{"id":"feea6f1d0ffc3f0e7789370bc0fcb5e9bb4ece2ba5f3abe93a9091c4fc870db9i0","meta":{"name":"Adventure","attributes":[]}},{"id":"8bc6ef077982a8664c037cea7c407d486ca794715fea9e9e1860d0d712067ea9i0","meta":{"name":"Morpheus","attributes":[]}},{"id":"a05d9d111ded2fd6aeb62a94be2df6ec0f87e15359fab7d4e02f308ee668b5f9i0","meta":{"name":"Bubble Gum","attributes":[]}},{"id":"deb30460f9ae90185cb4573edbe86b53435f5f9670daab31034a54586c3414abi0","meta":{"name":"Termor","attributes":[]}},{"id":"e0fb74170991bd13ae52de3f5258fd23ebd99d39c24d4c94a4002c92f479ade5i0","meta":{"name":"Birdz","attributes":[]}},{"id":"002e1e49eb82fcf19cb1d8d4ac51cd3475b2533942ebecc924423bf6d9fbf13di0","meta":{"name":"Hime","attributes":[]}},{"id":"f5bd9b2db32292839bd09c9b38ef3ecd46fbbde0ba3b70ef6d948c9d0a2b5acai0","meta":{"name":"Okinami","attributes":[]}},{"id":"57ae7ef56c4ba7a6b8926aeb3aedf36244c6eec8c70a1eabe75aaea89ccc575fi0","meta":{"name":"Nebula","attributes":[]}},{"id":"d047050a088016a94847cb6ee9b96cbee6326da7b1cc4bd975454f52d9902835i0","meta":{"name":"Shogun","attributes":[]}},{"id":"2c029fc58d46c8ee743235cc9a1ad8b5a399c38c139c76b74458ae4b82f8dd65i0","meta":{"name":"Bawon","attributes":[]}},{"id":"7881a2f40e7d2730ad3c6b5e04379baa0d0ad0c27f561f7b58dce4ea0efe45d5i0","meta":{"name":"Lead","attributes":[]}},{"id":"0c46e013d6caa7a05b2e9294c4e9eefb11bba021fdc393a20ea9359474150e3ai0","meta":{"name":"Joker","attributes":[]}},{"id":"17f8dbfb9516da03b5e1175b984ae171dc0cab7d1cc036287579ea49b7e025fdi0","meta":{"name":"Nite 17","attributes":[]}},{"id":"076bfc46257786bc17501c2216281f3200190f246a2dc429adae90827bb30127i0","meta":{"name":"Arbutus","attributes":[]}},{"id":"ff1e794150038cc354853e9d6b04615042cec4054b69cb07a3342f9fb0ea7ca0i0","meta":{"name":"Elm","attributes":[]}}]
+[
+  {
+    "id": "89cd6c14c4cf0f19d160ba5341afbe6138299268297955e09642d116689b640ai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Cypherpunk"
+    }
+  },
+  {
+    "id": "8b90ae83118e7f6d9e24d9786bd7cd2eac49a29c7766cc49042ac3772b5e6bb2i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Orange Pill"
+    }
+  },
+  {
+    "id": "05cc536f9192cdb37c1ccd5670095f7a2f9e74ff82baf0523b39782d0d152bbci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "King Pepe"
+    }
+  },
+  {
+    "id": "223f46d3ddd9ecfbe622d54b260ca34a0360c65f1f1c0ac06e2ece98dcc27edci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Diamond Hands"
+    }
+  },
+  {
+    "id": "feea6f1d0ffc3f0e7789370bc0fcb5e9bb4ece2ba5f3abe93a9091c4fc870db9i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Adventure"
+    }
+  },
+  {
+    "id": "8bc6ef077982a8664c037cea7c407d486ca794715fea9e9e1860d0d712067ea9i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Morpheus"
+    }
+  },
+  {
+    "id": "a05d9d111ded2fd6aeb62a94be2df6ec0f87e15359fab7d4e02f308ee668b5f9i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Bubble Gum"
+    }
+  },
+  {
+    "id": "deb30460f9ae90185cb4573edbe86b53435f5f9670daab31034a54586c3414abi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Termor-08"
+    }
+  },
+  {
+    "id": "e0fb74170991bd13ae52de3f5258fd23ebd99d39c24d4c94a4002c92f479ade5i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Birdz"
+    }
+  },
+  {
+    "id": "002e1e49eb82fcf19cb1d8d4ac51cd3475b2533942ebecc924423bf6d9fbf13di0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Hime Sama"
+    }
+  },
+  {
+    "id": "f5bd9b2db32292839bd09c9b38ef3ecd46fbbde0ba3b70ef6d948c9d0a2b5acai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "Okinami"
+    }
+  },
+  {
+    "id": "57ae7ef56c4ba7a6b8926aeb3aedf36244c6eec8c70a1eabe75aaea89ccc575fi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Pizza"
+        }
+      ],
+      "name": "Nebula"
+    }
+  },
+  {
+    "id": "d047050a088016a94847cb6ee9b96cbee6326da7b1cc4bd975454f52d9902835i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Pizza"
+        }
+      ],
+      "name": "Shogun"
+    }
+  },
+  {
+    "id": "2c029fc58d46c8ee743235cc9a1ad8b5a399c38c139c76b74458ae4b82f8dd65i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Pizza"
+        }
+      ],
+      "name": "Bawon"
+    }
+  },
+  {
+    "id": "7881a2f40e7d2730ad3c6b5e04379baa0d0ad0c27f561f7b58dce4ea0efe45d5i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Pizza"
+        }
+      ],
+      "name": "Lead"
+    }
+  },
+  {
+    "id": "0c46e013d6caa7a05b2e9294c4e9eefb11bba021fdc393a20ea9359474150e3ai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Pizza"
+        }
+      ],
+      "name": "Joker"
+    }
+  },
+  {
+    "id": "17f8dbfb9516da03b5e1175b984ae171dc0cab7d1cc036287579ea49b7e025fdi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Pizza"
+        }
+      ],
+      "name": "Nite-17"
+    }
+  },
+  {
+    "id": "076bfc46257786bc17501c2216281f3200190f246a2dc429adae90827bb30127i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Arbutus"
+    }
+  },
+  {
+    "id": "ff1e794150038cc354853e9d6b04615042cec4054b69cb07a3342f9fb0ea7ca0i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Pizza"
+        }
+      ],
+      "name": "Elm"
+    }
+  },
+  {
+    "id": "f4b2246f5fcb2c079b8a714513a5a2acebd65127dc006b0ad14a2b4ec8210e06i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Pizza"
+        }
+      ],
+      "name": "Teka"
+    }
+  },
+  {
+    "id": "6761724cd0a42d465efc3ea3ece3cb8790b47fd0f19799d0c257d6df80fcf642i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Pizza"
+        }
+      ],
+      "name": "Azel"
+    }
+  },
+  {
+    "id": "029341de3cc63f7d97f387c76c4ac571b74ceb678cfebb4433a9cf2e325be6f1i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "Tokugawa"
+    }
+  },
+  {
+    "id": "cab9739d3f25df5fba33cc55459ed618ab8153ee0bd43263ad63d32407c4cfb7i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Pizza"
+        }
+      ],
+      "name": "Djoser"
+    }
+  },
+  {
+    "id": "2500904d64efaf298d879a7c9e965a3f9a744dfedbe6f8b0fee32561aad47965i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Pizza"
+        }
+      ],
+      "name": "Nite-24"
+    }
+  },
+  {
+    "id": "36a1fddc83fff823d39bc4eccd7a4068ec53824ea32babc2accee62548d0e194i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Pizza"
+        }
+      ],
+      "name": "V"
+    }
+  },
+  {
+    "id": "bde67b8e2dd4f351a6426688ac10aa3a91c382c4bc50513fd809bea48c5e70d1i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Pizza"
+        }
+      ],
+      "name": "Solaris"
+    }
+  },
+  {
+    "id": "992f6822b6c3c34eb3297cd0d9923bd159c4d77efc0ce3dd1fe78a7be2898182i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Pizza"
+        }
+      ],
+      "name": "Vata"
+    }
+  },
+  {
+    "id": "01911182a249543b3db1fd92b6f61c8f14487c2f3e780e19b83cd836a3d98f1fi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Gaia"
+    }
+  },
+  {
+    "id": "09e5b192265481e1588a174c4808644ce50a10baff06b4c6f93ab3701c55b0ebi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-78"
+        }
+      ],
+      "name": "Termor-29"
+    }
+  },
+  {
+    "id": "ee05f2605c99cf0059472674ceb499f90327f39b50c34b8725e772b70631ce32i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-78"
+        }
+      ],
+      "name": "Veneze"
+    }
+  },
+  {
+    "id": "7be130797971cbcf78e3426d4a438743fabc304498a845dc8a58ef2a951b84efi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-78"
+        }
+      ],
+      "name": "OO"
+    }
+  },
+  {
+    "id": "ac2d9753abc0cd66562601956ba55c25bd3c20d596cf0faabbeb865e133c8e5fi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-78"
+        }
+      ],
+      "name": "Rize"
+    }
+  },
+  {
+    "id": "0a2d16aba9141f016d27117b8c10b0ffe75cace17385f8d33fb13c93f001e800i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Pizza"
+        }
+      ],
+      "name": "Psilly"
+    }
+  },
+  {
+    "id": "a4591d1e0f740a5f3269dd6249526d6e1198b9cf506f4145081c2bce6d8f6e01i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-78"
+        }
+      ],
+      "name": "Sir Gresham"
+    }
+  },
+  {
+    "id": "f9a3d236ba9b0387ea4d9cbc9f8274b4d62c935ff4d3850bbc527eea186948cai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-78"
+        }
+      ],
+      "name": "Sphynx"
+    }
+  },
+  {
+    "id": "4201d78900f30bafb745d9df75e155d44ff386b8d08b5af49210be24c5b3b267i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-78"
+        }
+      ],
+      "name": "Hayek"
+    }
+  },
+  {
+    "id": "59c7bb7b12d0c84842d07207d8dd9626b216de7bc43f030025bb1c684db68686i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-78"
+        }
+      ],
+      "name": "Goki Buri"
+    }
+  },
+  {
+    "id": "b43908f4c8458b7b3c797a6df42950ffcdd7008744aff0ca399e2b77fea4355ei0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-78"
+        }
+      ],
+      "name": "Hirezumi"
+    }
+  },
+  {
+    "id": "ec6d1d7f5b8413355c63b23d8f5b8dde5f0e01dd89a38385b04918a24d8966d2i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-78"
+        }
+      ],
+      "name": "Block"
+    }
+  },
+  {
+    "id": "c1a60f936a4ea592fabda7b538bab482db3349afd3e037756164328067730926i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Pizza"
+        }
+      ],
+      "name": "Metaphor"
+    }
+  },
+  {
+    "id": "728a3fc807e7be2b42bc0fff830d668bc99d0198a0fd5e99c87f9e4a8b2e5ba5i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-78"
+        }
+      ],
+      "name": "Curiosity"
+    }
+  },
+  {
+    "id": "7d3de104d857aa5c6d628b28ee2dfd8fcc323b0a4678417adeb8d8b8aac4e601i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "MadaM"
+    }
+  },
+  {
+    "id": "19421b20ed1ae3ac1a0ed4cf1fadc7f5185a3e4667c66ef9da7bf00531397834i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-78"
+        }
+      ],
+      "name": "Krafter"
+    }
+  },
+  {
+    "id": "420dfa8c1ef2cc07a6f6a94bad55f4773bdb8a2b37ac4c98768f8fa291382a37i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "Enigma"
+    }
+  },
+  {
+    "id": "1641412422aa1e7f543c9825985758d0a7b427b411d935bddfed0ded72307f1ci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-9 & First TX"
+        }
+      ],
+      "name": "The Young One"
+    }
+  },
+  {
+    "id": "34bea0bb197505f63136d4c0780219f685234bcd36508a0b4a976ee83629c262i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-9 & First TX"
+        }
+      ],
+      "name": "Cantillon"
+    }
+  },
+  {
+    "id": "b3df40c796ac69739750bce9f2f7067305be90b99338e6911a3bdf321dad04dci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-9 & First TX"
+        }
+      ],
+      "name": "Avengelina"
+    }
+  },
+  {
+    "id": "76b8e74a23362c5739ea3bfa372848374ff943210a1db9cf2ca232a84242598ai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "Perse Verance"
+    }
+  },
+  {
+    "id": "ebcdc27c1f99bb5a4d99d95140e7b0e117d68043a9468cb2e0a8dc81b54eee2bi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Shape Shifter"
+    }
+  },
+  {
+    "id": "73d794a7e3945938ff9d34e354660c88a70cbe343ed731ad89f2f18b3e9c4699i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Master Dyor"
+    }
+  },
+  {
+    "id": "0727cc62b3af77bc5b56e61d4c80169875799314f1883313b1afcfea677ad6ffi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-78"
+        }
+      ],
+      "name": "Mystery Y"
+    }
+  },
+  {
+    "id": "3f3c7e5d5f0786bbdace374f8f6cc949bddb7097ac359c0c5ff5063c9e7c735di0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-9 & First TX"
+        }
+      ],
+      "name": "Haley"
+    }
+  },
+  {
+    "id": "72e050b3d2644b1f95766a7c4b175cbcddeed547a50658be8790aa0a6f07bdc2i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-9 & First TX"
+        }
+      ],
+      "name": "H#5H"
+    }
+  },
+  {
+    "id": "8535288e4cbccd6388e26cc5aa904cd1e35f5e9fc523fccffe7464c34a0b04fai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-9 & First TX"
+        }
+      ],
+      "name": "Re:Birth"
+    }
+  }
+]

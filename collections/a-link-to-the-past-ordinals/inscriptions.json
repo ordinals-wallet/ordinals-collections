@@ -2,7 +2,6 @@
   {
     "id": "f7f1f8d1a345eb304a3ed2b7fa5a4b8069c8b2e553bd137e87501afd1f0adae8i0",
     "meta": {
-      "name": "Link phase 1",
       "attributes": [
         {
           "trait_type": "Sword pointing",
@@ -24,13 +23,13 @@
           "trait_type": "Hat mid",
           "value": "40"
         }
-      ]
+      ],
+      "name": "Link phase 1"
     }
   },
   {
     "id": "8fba7312ab3afa1e65d3a54a4b12876594ff0f1cb4b54f7409f856dbd52c13dai0",
     "meta": {
-      "name": "Link phase 2",
       "attributes": [
         {
           "trait_type": "Sword down",
@@ -52,13 +51,13 @@
           "trait_type": "Hat mid",
           "value": "30"
         }
-      ]
+      ],
+      "name": "Link phase 2"
     }
   },
   {
     "id": "71715e326a01226586fd18023809569583949dd696cf1a4f0273b23e35545bcbi0",
     "meta": {
-      "name": "Link phase 3",
       "attributes": [
         {
           "trait_type": "Sword forward",
@@ -80,13 +79,13 @@
           "trait_type": "Hat down",
           "value": "20"
         }
-      ]
+      ],
+      "name": "Link phase 3"
     }
   },
   {
     "id": "4f4c2ebc4a229906633f2ea398fcba3ece178304f0b13a55141a10edbdf2dd43i0",
     "meta": {
-      "name": "Link Phase 5",
       "attributes": [
         {
           "trait_type": "Sword swinging down",
@@ -108,13 +107,13 @@
           "trait_type": "hair up",
           "value": "40"
         }
-      ]
+      ],
+      "name": "Link Phase 5"
     }
   },
   {
     "id": "0a763e04ad43931e86380fa481489bd71e046065c04b443d6d0c13d9c93c45a3i0",
     "meta": {
-      "name": "Link To The Past Gif",
       "attributes": [
         {
           "trait_type": "Sword swinging ",
@@ -136,13 +135,13 @@
           "trait_type": "hat wiggling",
           "value": "100"
         }
-      ]
+      ],
+      "name": "Link To The Past Gif"
     }
   },
   {
     "id": "a3dd84871a5601cbf239fea4e9ddddcf1f85cf9d472c7dbad18eb13943dfe528i0",
     "meta": {
-      "name": "Link Phase 4",
       "attributes": [
         {
           "trait_type": "Sword Swinging",
@@ -164,7 +163,8 @@
           "trait_type": "Hat up",
           "value": "40"
         }
-      ]
+      ],
+      "name": "Link Phase 4"
     }
   }
 ]
