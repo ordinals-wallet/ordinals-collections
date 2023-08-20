@@ -2150,5 +2150,33 @@
         }
       ]
     }
+  },
+  {
+    "id": "0e6c0c2d73c21602054328a085d1d9e5f56e519c732745b0ae3b6d46b80ff9b6i0",
+    "meta": {
+      "name": "Cheesus #-fffff1",
+      "attributes": [
+        {
+          "trait_type": "Satribute",
+          "value": "Black Sat"
+        },
+        {
+          "trait_type": "Inscription type",
+          "value": "Cursed"
+        },
+        {
+          "trait_type": "Batch number",
+          "value": "7"
+        },
+        {
+          "trait_type": "Background",
+          "value": "error 404 color not found"
+        },
+        {
+          "trait_type": "Trait",
+          "value": "error 404 cheesus not found"
+        }
+      ]
+    }
   }
 ]
