@@ -1,0 +1,5330 @@
+[
+    {
+      "id": "0f8d144b77e909b82e15a74016be919e46b5e041e948c7c2c4955831bacaa02di0",
+      "meta": {
+        "name": "Block Zero",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Zero"
+          }
+        ]
+      }
+    },
+    {
+      "id": "633215afc87639c2e10ce82fbaf9a443f0878520469811ee3e9de86d6dbc02d7i0",
+      "meta": {
+        "name": "Block Nine",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Nine"
+          }
+        ]
+      }
+    },
+    {
+      "id": "299ef99cc278e5d7ca65f4c29518800b4061d8769b22238f531be060e5c2dcc1i0",
+      "meta": {
+        "name": "Block Seventy-Eight",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Seventy-Eight"
+          }
+        ]
+      }
+    },
+    {
+      "id": "396394512261939b5f5fc7faaeadfc736acc0e908c93923a70b8b84b75a643e8i0",
+      "meta": {
+        "name": "First Halving (Mondrian)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d29dc776fdbf78a807b1798356de936008ad59f4c2bc22a418a112b39195eefei0",
+      "meta": {
+        "name": "First Halving (Gold)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "56cf669fa20c6f2abd48d1f5eb4c89b9bcee26d476a78e256dafa141993f8809i0",
+      "meta": {
+        "name": "First Halving (City)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c8f0c54a2e7fa4b655ef58467120cafe4adf95ee599d2c43d883b8b1a3e76517i0",
+      "meta": {
+        "name": "First Halving (Pyramids)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pyramids"
+          }
+        ]
+      }
+    },
+    {
+      "id": "894c8c42409677c072b5c363e8ee72eb705eff8f9d16ffa29443e25f0cf97d81i0",
+      "meta": {
+        "name": "First Halving (B&W)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7172bed693ee017f175ad68a545f4f111d7b6a46e5072871c56224fe87f59baai0",
+      "meta": {
+        "name": "Second Halving (Mondrian)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2132ea9409dbac5f2d99847fc7512a51fe312f3e22cb144dc084e27ff113a028i0",
+      "meta": {
+        "name": "Second Halving (Gold)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c54cf78f7118a4b4648b81d39f96269f3096fcafb3b43f506f11c29f2a1dbb7ai0",
+      "meta": {
+        "name": "Second Halving (City)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "babef494e4af00e0c66e32aee1b584abb6c3632cdca880196d3e30086c11c09di0",
+      "meta": {
+        "name": "Second Halving (Pyramids)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pyramids"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8e9ee94302e083dd645c8b1c76ec650a741335ba2a628dad2bb1eb49288068a0i0",
+      "meta": {
+        "name": "Second Halving (B&W)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "674e0112dbb390a1e067bcc5f6b229a14dd05d6646d119e2ca11826f598d5c69i0",
+      "meta": {
+        "name": "SegWit Activated (Mondrian)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "69836fdf39c6d4f1a037f60a8a89f0b9d06201f8d6c1e2eaa7245f8250037cb6i0",
+      "meta": {
+        "name": "SegWit Activated (Gold)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b8b0754bac19711b5ca6bd36627eabcebe43db8b7141acdb8dbc725d096766c7i0",
+      "meta": {
+        "name": "SegWit Activated (City)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9979181b2c70b3173f326b18487e1c15e9d0bf3033a79d6e9472fa9d826b21d6i0",
+      "meta": {
+        "name": "SegWit Activated (Pyramids)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pyramids"
+          }
+        ]
+      }
+    },
+    {
+      "id": "429d90ac7a50d1bec71f6f5c0b4b6fb3741e140f00f6f657a9ac7f7c631ecbf6i0",
+      "meta": {
+        "name": "SegWit Activated (B&W)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "81aeb1fb0d88b0723ffd945d46ab25c9a253a52b43d7da65a195e9219c805b52i0",
+      "meta": {
+        "name": "Third Halving (Mondrian)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0b6534dd3b46860dae3e684109b9cbd7cafbec0dfc97f44136627175ec9fd6abi0",
+      "meta": {
+        "name": "Third Halving (Gold)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6e170828415cb43c490813822c5723b67949b93f5b7ffb7bb5da014f21c2e3f1i0",
+      "meta": {
+        "name": "Third Halving (City)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7ef898bd1001d562f619352f5e941b4286200d77d7cd37dc72679ce93f2dc195i0",
+      "meta": {
+        "name": "Third Halving (Pyramids)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pyramids"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f183b3c0f1becbceda5aa536493929d0a5fc24b9c83c0b51313c748f7c549d27i0",
+      "meta": {
+        "name": "Third Halving (B&W)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "526afd0df9c28d02e045f1e19a66265d2e0b0638277314c175a88d6f0d48233bi0",
+      "meta": {
+        "name": "Taproot Activated (Mondrian)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0286cc778ee8beecbed6d9331dbb6f6197c7e30322ed9637a8ddcf4d6ae00989i0",
+      "meta": {
+        "name": "Taproot Activated (Gold)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ab4a3ae6df1f09df74918ed9a4d0f15fb546382f7dcfa3d20b5aa49e881fd9e7i0",
+      "meta": {
+        "name": "Taproot Activated (City)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "260c99cc2870df9cfaa7aa175487d18a2658f25407ef0718095be2b630138b41i0",
+      "meta": {
+        "name": "Taproot Activated (Pyramids)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pyramids"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d9044bf5be65ce38d4df8ac47bb03e2bfde5c3a58f0cc8d6c4313c610f0e63fdi0",
+      "meta": {
+        "name": "Inscription Zero (Mondrian)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1b456654eb7ace1fe13ae46a7ab575f447cd7a0c9b42dbad7dfe6792679a12ebi0",
+      "meta": {
+        "name": "Inscription Zero (Gold)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0ff32f0e607d25cd215e9ab8878f386ee72bbb1eb6a74e115a4169840429773bi0",
+      "meta": {
+        "name": "Inscription Zero (City)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "95ebf79d793e0f47f502780144e3f8c5f9f6080715bbb153e54f565c4f7511e3i0",
+      "meta": {
+        "name": "Inscription Zero (Pyramids)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pyramids"
+          }
+        ]
+      }
+    },
+    {
+      "id": "59ad5ea8f492a4acf2216379e12235987af956c38e1484c5a3c554d2bf6f9530i0",
+      "meta": {
+        "name": "Inscription Zero (B&W)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "53252831c04f219354fdd91067237d373a3adf4bbf492f7f1dc48ff03c20b666i0",
+      "meta": {
+        "name": "One Millionth Inscription (Mondrian)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "55cc7f27d4fb8810ba9f990c8a9e4b070e1d77768d01b904f61473a6d00c1ffai0",
+      "meta": {
+        "name": "One Millionth Inscription (Gold)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "597912a382a35acf3f9fc7be20e9431101a9410af2992e15f34e31ce7ca9ce2ei0",
+      "meta": {
+        "name": "One Millionth Inscription (City)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fe74ae5fd6ebb84d93d5c6de9e6fbb22c1704c489728e7878ff8c1d77fc62cc9i0",
+      "meta": {
+        "name": "One Millionth Inscription (Pyramids)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pyramids"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b033ee6101e74377819e7a7d194832a0aca5a8a64601de462bd806f59167f92fi0",
+      "meta": {
+        "name": "One Millionth Inscription (B&W)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a02a20d9573a07364b16aaec9ac3cdd3d9ae4dec9be6d3b9dd0be3c9d21fa943i0",
+      "meta": {
+        "name": "Ten Millionth Inscription (Mondrian)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c383eb9539960dd80a5d4cfb29d2b263aa3585e26f4d80de9710701d084ee32fi0",
+      "meta": {
+        "name": "Ten Millionth Inscription (Gold)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ffcc844b3c2d8f1ee1713d2e27dc8ad9ae8be7c4ec157d46f585eb9f54989f09i0",
+      "meta": {
+        "name": "Ten Millionth Inscription (City)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "82a565e8c63506e862792d4d334af8ac1d77fb2ccbc2bdeef2f4ca14698b93dei0",
+      "meta": {
+        "name": "Ten Millionth Inscription (Pyramids)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pyramids"
+          }
+        ]
+      }
+    },
+    {
+      "id": "83c102a93b72fcc0ff378d59e5fb6e94619f23e32eac860f793aebde7ce11962i0",
+      "meta": {
+        "name": "Ten Millionth Inscription (B&W)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "343b7e4e79bdf47a972186fc07458781cf989c8851608ca29d301673283901e7i0",
+      "meta": {
+        "name": "Abstract Elements",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Grayscale"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9901f85a0baa590bfad150a92a414db910de500ed7343a0d93086bf34177cd89i0",
+      "meta": {
+        "name": "Asymmetrical Quadrants",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5636f83d4a8955c96ace4e471df58b2bc57bc1746f30f18246f3b6e32a3397aai0",
+      "meta": {
+        "name": "Abstract Vistas",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4507290f4eed16d34edd58e90c045b9b6afa3fbb5b75adff9431bc7de3af8126i0",
+      "meta": {
+        "name": "Cubic Sections",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f70ac96a492b8ade4f894feb65dee2c17d0b9e1eb15b0e6348775c42d2643d47i0",
+      "meta": {
+        "name": "Spectral Scenes",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Ordinal Summer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "71b6295cf75c40c55c4ad2cce5fb74d682ee1d2728307f0ea17afb2fe076822ai0",
+      "meta": {
+        "name": "Cubic Zones",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pepe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "34d3fde5de250ebb6db07acdbe8fe7cd79f2cfd5f30d64e095e2c0f59565ea53i0",
+      "meta": {
+        "name": "Harmonious Sections",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "98ba1e4623201e2cee8d699b92f604f4424a0ec809bb0889c841637350e6c296i0",
+      "meta": {
+        "name": "Ordered Compositions",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "39c1cae3766f7111432570fd4ec3454bd4d96310065792b06a6aab2f96b5b51bi0",
+      "meta": {
+        "name": "Spectral Divisions",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pepe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "63bb198d28ad6b8a3bd0551576bfb317b823e8faf471cdf5d93f347eab61914di0",
+      "meta": {
+        "name": "Linear Grids",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4734c10a805eae21a96fd374fe607a2d43e86163c732d894491ccc67fc3bbe05i0",
+      "meta": {
+        "name": "Linear Spaces",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "24505b36003ccbfc490399bc6be8cbfd4bc3ff3d48e49a27b7ca4de3b137fa8fi0",
+      "meta": {
+        "name": "Impressive Modules",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7c6ad9082f108dc70e14355f6b1a2aebbf5d0c4e65673d1eb60ac6210489cedei0",
+      "meta": {
+        "name": "Distinct Zones",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pepe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a40bd49220c2dd44cc84b2e6e16e0d635172d00b32d5ac1ef43d3b64cb8d6943i0",
+      "meta": {
+        "name": "Bold Segments",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7aad9dfe5dec27f8743a86c59747c4e3664d0783a6a43ebed361525610c75afi0",
+      "meta": {
+        "name": "Linear Domains",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pepe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e7fc922f81e226433832d48356146984c2097aec6d8a3211249f518e7bc73780i0",
+      "meta": {
+        "name": "Complementary Divisions",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1160c05799e0651cdcb0db76db4e1d66153ab04d7356d288568dcdc0337c84d6i0",
+      "meta": {
+        "name": "Blocky Territories",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6898828f163b03f1b849fefa4ae8a75eb47533078b7e9f5a4bd91afd06128102i0",
+      "meta": {
+        "name": "Abstract Modules",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pepe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "97176c31ce8ad5c8619364295ed891a60db2a816290acbd0668eb695fe9c7ca6i0",
+      "meta": {
+        "name": "Blocky Areas",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6f329f9dd6d8a8fd40155df222454b6f31a869ba4171ba36e057955e28f14e47i0",
+      "meta": {
+        "name": "Ordered Areas",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Grayscale"
+          }
+        ]
+      }
+    },
+    {
+      "id": "592faa91eed14da452dd252676d8d925dc77117b63403c7ff169909d17f961afi0",
+      "meta": {
+        "name": "Asymmetirical Assemblies",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d63c4a9bb22f59f37bf3e9e7b21806a3619efd510704b6c1eda4ce71a9ac136ai0",
+      "meta": {
+        "name": "Symmetrical Areas",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7e11e342c2b49af15ef8e0cd347cec500eef680376e11186bdd23a7db7cf22cdi0",
+      "meta": {
+        "name": "Ordered Domains",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9488ebf08d8c3ff0a736379624d8d681b2ff67128d865d1c3424f2bb9dd08a89i0",
+      "meta": {
+        "name": "Geometric Zones",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "33f9d751e1403132e90d1a68d1ad3cb2076386949a1b31b068fdfa98a16733c4i0",
+      "meta": {
+        "name": "Square Regions",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0ccfc81de913af2fe92c9c77ac062d37736ebf8b8c56007548b4088e318b5c27i0",
+      "meta": {
+        "name": "White Quadrants",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Ordinal Summer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b5d593dc669d767d043a62e3ba8a4d6df38d00480f6dff704df07b3591acfdf8i0",
+      "meta": {
+        "name": "Contrasting Assemblies",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pepe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c5b9dd6a5dcd69894eaf379a4aba12b271fc6b6081d4c137cb51c39a1ac0d3f2i0",
+      "meta": {
+        "name": "Harmonious Squares",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9f6813853b22750a281044514724a99478ab6016ff2c83722bd0791a94b29923i0",
+      "meta": {
+        "name": "Geometric Territories",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "007faccf8693967626104262ab4e541b2f79e0e7119a6809f36e447ffca6aad5i0",
+      "meta": {
+        "name": "Concise Arrangements",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5aa39b045f0cab255bd98d3bf8f04a00a3bcc1f07e9fed93ca90f534c412ca78i0",
+      "meta": {
+        "name": "White Segments",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "265ccb1918bfa0a49077c12c3dafb6c5e65862859b5870d40f5c68173be8f1a5i0",
+      "meta": {
+        "name": "White Zones",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ac1d5d2e3b9b198ff42ea4f98cbca7fd570b074f9739dd2ee832589b5e084f40i0",
+      "meta": {
+        "name": "Vivid Divisions",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "148a19d16f607ebfff1e9085e34b5ce05022a4bc216b015deacdcc13ca6425c0i0",
+      "meta": {
+        "name": "Spectral Grids",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Grayscale"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ed55c5afe1b12e51c07becfb36ea6c022a018973d41affdca367e8b6c072beaci0",
+      "meta": {
+        "name": "Harmonious Segments",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "852ce18f27a93922def8253d85e58a598dbb047a7fd221d89421b8ad45a3b78ai0",
+      "meta": {
+        "name": "Ordered Spaces",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "66707fe19dab09ea378482c5870c382495554295dc1aeb0e70ab3dcba16a629di0",
+      "meta": {
+        "name": "Compelling Schemas",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dcbe8a49d9c501d50eac1e26aa6082ea45943959f6e352ac94aeacd46e92bda5i0",
+      "meta": {
+        "name": "Symmetrical Modules",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "26c586dfef13c7697b6b3c288c8d98cb6ecf1ddbc76543dbbc546ae6f75bf798i0",
+      "meta": {
+        "name": "Blocky Scenes",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "742b460b14b3316e9ade23dc7e59f16d59afb0049014c1109fb3bcb823551105i0",
+      "meta": {
+        "name": "Contrasting Arrangements",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4d9ee8ee24a3a3221f07afca755349440c438b65167cab366f01a87f18cd0d5ci0",
+      "meta": {
+        "name": "Minimalistic Designs",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pepe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b5b391168f8b804b38bb657f5968edd64adc08b12eca685de0a55963444adeb2i0",
+      "meta": {
+        "name": "Symmetrical Fields",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Ordinal Summer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13e37f47705bd34e32164c967c89ff940d1b334abcbc17f061f0cf6de482bac8i0",
+      "meta": {
+        "name": "Harmonious Grids",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Ordinal Summer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "562f5937450ddb4fc04bd6425461561516abcd895b64be5d391a3fbc585a954di0",
+      "meta": {
+        "name": "Balanced Rectangles",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fef52c7d03a33267369c9bd889d4a255aec1764e941cf7808673f007f051afbci0",
+      "meta": {
+        "name": "Structured Scenes",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0aced7aa17bacf2bf7202ab07502190d579143b90f319fa0396457e8e8ffb5cai0",
+      "meta": {
+        "name": "Spectral Designs",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1d282da0a432d23e351539aa07b49afb6cf8ccd8d94f21acf7dabd92a61d534ai0",
+      "meta": {
+        "name": "Cubic Squares",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c34f0b349664e7e7dd87ff81b68a30a12d821f5b8cbb0af6f50e4ec18c5d28a1i0",
+      "meta": {
+        "name": "Compelling Fields",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "66b29aa0710b684cf4b2e98e07b316205f8693bc87790ee4bc14701e57402574i0",
+      "meta": {
+        "name": "Cubic Schemas",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pepe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5a5cac2586dfc6d975777f5bc78a70fb75350457e81227045a67e143d495d412i0",
+      "meta": {
+        "name": "Structured Frameworks",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Ordinal Summer"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e460216d80ca2532dda276a54c6745ac6d53f63dc622382f739b549bdbbe9f38i0",
+      "meta": {
+        "name": "Clear Schemas",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Grayscale"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a727a022eebf2957c6318f1d67d6e17e27be948626323323fce3b9675c222b9ei0",
+      "meta": {
+        "name": "Concise Frameworks",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Grayscale"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a40edd37fef0d9319316bf7e57ba249e92a24158fc1818c4a1e22f9fa95d342ai0",
+      "meta": {
+        "name": "Vivid Rectangles",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b5c6d929e05f0178be200296e55753c2c9c54307c2022c585dc88ffe4a5b3a5ci0",
+      "meta": {
+        "name": "Spectral Domains",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pepe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a9df780221b851cc630033b542547de47dfca6c63c706a0960c99658f596094ai0",
+      "meta": {
+        "name": "Abstract Assemblies",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4bcda45066a26e8e3d9d8ce22512c49c2f3aa1fc72e453953d9329a580267b00i0",
+      "meta": {
+        "name": "New Dogeville",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "DaVinci"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d1464b1cdb8a0680c8795f7f5cfeac6b782ab55c2c37934508205b03ce11f621i0",
+      "meta": {
+        "name": "Central Lochtville",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7179b9476405b6679627bc68e2ea9d55b03bceb3120479479a4287cef558cec2i0",
+      "meta": {
+        "name": "Pepeborough",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Neo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9bd3d5b09eb8726e9d07f6b6024377429f647d9ef7a27461337ad9f5e7b2da84i0",
+      "meta": {
+        "name": "Haverville",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Electric Avenue"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ee272d5fcd051d36bba72d949a4f5c365433b36b45caab9fa6bec6c8e6c7498ei0",
+      "meta": {
+        "name": "Central Starsbury",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Electric Avenue"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d6269d13c5c6b53bfbb6711ee1b03479808f4fcda99b2bfab53ca2d339bf12b3i0",
+      "meta": {
+        "name": "Neo Maxibury",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Metropolis"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5bd599f8bb75811c0c14dc79f14f366ea0e5b4c8f813ec9b38f2459732b36e67i0",
+      "meta": {
+        "name": "Oakhaven",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "DaVinci"
+          }
+        ]
+      }
+    },
+    {
+      "id": "975e8e373bd55b97876488d16a536b20fd6b483aae974b9dd30921d8af2bce75i0",
+      "meta": {
+        "name": "Maplehaven",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Neo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "db4bfff2da55e3bc5b17fda1e4c8a82b56e9c466909f81b05704460e16051d99i0",
+      "meta": {
+        "name": "Old Kingsford",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Electric Avenue"
+          }
+        ]
+      }
+    },
+    {
+      "id": "75925b667bab916136031078d8a3edd7b13233296161864b6a33799db3283dcbi0",
+      "meta": {
+        "name": "Grand Lochtport",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Meropolis"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a8ab8c3c984e7863a28f811016619888531e98a074ecaa1028a6a163880b711di0",
+      "meta": {
+        "name": "Oakport",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Electric Avenue"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3e80884fbaa9fa40f8e0181d304346871c0b75165b9b0d08f5fc303d10f00969i0",
+      "meta": {
+        "name": "Edgeport",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Metropolis"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5cea3729e374c4bbf1988a3570f9a45bec23596355a96319b039dd3b7002f2dai0",
+      "meta": {
+        "name": "Oxford",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "DaVinci"
+          }
+        ]
+      }
+    },
+    {
+      "id": "54a1f25155714cb2e1b32d2a17898cd81035710063c83135ba38d95712e2d389i0",
+      "meta": {
+        "name": "Starsborough",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Electric Avenue"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2933527207e556f31b79eab94be07fa6dce99ba1eb420a049be6f27ac66828b8i0",
+      "meta": {
+        "name": "South Edgeville",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Metropolis"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5502100962cc0f34c94cdf9101aa2ad552f3671233271c41375cc37acfa241e9i0",
+      "meta": {
+        "name": "Guinessfield",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "DaVinci"
+          }
+        ]
+      }
+    },
+    {
+      "id": "90eca5870cf17bcebad468f8de984f2bdf79da1002214b2867cd286900bd935fi0",
+      "meta": {
+        "name": "Stonerfield",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "DaVinci"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dcd840e5a31889f3d406d7cbccd4da27a5e8b8a32d887b9a694fbd2e7997e459i0",
+      "meta": {
+        "name": "Queensborough",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Neo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bec30c716d6d485f274c0a41f9b7984d5e86b214f4b2bc0e8a574d3397b2cb44i0",
+      "meta": {
+        "name": "Maxibury",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Neo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4483ab96e7d5f0b7a6e1373b9b79f229f0c33f8cb791ac390463482f8b027440i0",
+      "meta": {
+        "name": "Little Bumbleburg",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Neo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ccd116582c79a5560650ecd61b0f21c388892e253d8de11dddb12d12b44c75c9i0",
+      "meta": {
+        "name": "Kingsfield",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d2dbc5c642babc554d1637021f9ae714c321a76b7fd359b9c2acc41f2f183ec7i0",
+      "meta": {
+        "name": "Starsbury",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Electric Avenue"
+          }
+        ]
+      }
+    },
+    {
+      "id": "977b611910fa390c2776519904a42f06d87b3976a495bfe515ef3df32df4a24fi0",
+      "meta": {
+        "name": "Queensville",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "DaVinci"
+          }
+        ]
+      }
+    },
+    {
+      "id": "71015c33646a893ad16248598ea0fa16882855414a49b7466a1ed9a8b29831bei0",
+      "meta": {
+        "name": "Oakville",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Neo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dc34276b33c3d7f344c94f2585e463d8b3241606d0082a601718741cce6b02dbi0",
+      "meta": {
+        "name": "Kingsville",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Metropolis"
+          }
+        ]
+      }
+    },
+    {
+      "id": "461b30c1b026ef04c35a7d29137f79490eaef697d91cf33fdde19334295df1b5i0",
+      "meta": {
+        "name": "Guinessville",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2b0ea15c033ef12baebba24eb924d92030991555cfa2d08838f5d646358e3c35i0",
+      "meta": {
+        "name": "Crystalhaven",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Metropolis"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3b6c082d9943a85c417d6fbdcd21c65c3593550c6872a704cc481d34a6d30179i0",
+      "meta": {
+        "name": "Pepefield",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a38f9ec17f743abfceb6b9203dc815667f36e773644f3e8dc48ad087a36c09d2i0",
+      "meta": {
+        "name": "Maxiville",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "DaVinci"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8e495bbe3a711a4b5c96ac0edef47108dd473d394d3faece2737c3f666a4f5bfi0",
+      "meta": {
+        "name": "Mapleburg",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Neo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aa8ed541a4bf77b9052d6733624433fb69a3fe24709a15be1dde4c21079e552bi0",
+      "meta": {
+        "name": "Lochtford",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Metropolis"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3b58dab213fe867330414ef812aa978349b86f14215e1f3ddd8f652e5e157f28i0",
+      "meta": {
+        "name": "Nestlebury",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Neo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d13703b1c4657dbb1808585db56c4876e398093e07561ab9d6f01b38132ab973i0",
+      "meta": {
+        "name": "Central Nestleton",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Neo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "410cc8105517b5c4c8431b632c787f73729de4c74b5c9ca9deb9600dc332b505i0",
+      "meta": {
+        "name": "Bumbleville",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Electric Avenue"
+          }
+        ]
+      }
+    },
+    {
+      "id": "34bae9c8424541a285474914c185aba8db53ee15f218e2ddbacaa82268c6e9d4i0",
+      "meta": {
+        "name": "Dogeville",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "DaVinci"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6576f31bf33a1a9aca5bf2e5a293ac075b4e1066f3f015480b72233857b9affai0",
+      "meta": {
+        "name": "Knightsborough",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Neo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7eba8938bd6a28504271a60acf7615641b7947d68fd18a18ad150d3d882c7817i0",
+      "meta": {
+        "name": "Bridgerville",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Metropolis"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f4d906d1420f2394862ea01e5965a5707f0a2ee0f7464d3c96cf2b7f0c42ac58i0",
+      "meta": {
+        "name": "New Dogeport",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f230ccc7b6d7a47812c79ff620852917699bf688f06c5f91af02991c9bca2e53i0",
+      "meta": {
+        "name": "Lochtbury",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Metropolis"
+          }
+        ]
+      }
+    },
+    {
+      "id": "088bb3fdb2608f925ca1bb4e7308a33a1b5ef0abbb65494a0912fae2298ffb4ai0",
+      "meta": {
+        "name": "West Oakville",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7caaa046d26a16ade2cc7e98c9fd274d95cb5fa5efd395beb1f0bdfa5a45ebbfi0",
+      "meta": {
+        "name": "Knightsville",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Electric Avenue"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b29be7532f5471aaa49685ea257a3afd0649d4b9542b4fef35cc584687c70ae3i0",
+      "meta": {
+        "name": "Big Stonerfield",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "DaVinci"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bb62d346e572d7ab671cb4aaf46235876d84d16c93c4242e1893bff7961d0263i0",
+      "meta": {
+        "name": "Nestlehaven",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "DaVinci"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6b78969fbea24df20a90afdf3a150220890e2004f6cc7afc847af90d1bbe6ad8i0",
+      "meta": {
+        "name": "Edgehaven",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Metropolis"
+          }
+        ]
+      }
+    },
+    {
+      "id": "da4d5ad0aa846b4580972e18a5f04417872a4d629b0a6902b3e01a916b00c67ci0",
+      "meta": {
+        "name": "Degenborough",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Electric Avenue"
+          }
+        ]
+      }
+    },
+    {
+      "id": "36614e8657a262d73d50e304d128ffe6b769bb3708a2f4daf0bcf551c3e1eabfi0",
+      "meta": {
+        "name": "South Lochtbury",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Metropolis"
+          }
+        ]
+      }
+    },
+    {
+      "id": "088c97e405c35d4b1b57ccb5049adf6a3901878be7941ab00fc7e7be2964eafci0",
+      "meta": {
+        "name": "Kingsburg",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e4b3effc6c54d981e07f21cc13b0673f94e4ab3c8ee99c081312e71d43994fd6i0",
+      "meta": {
+        "name": "Neo Roxton",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f103761659ee6cc6cbabd791ed0ab52511050387ee41b1c54bab84cc123cd3dfi0",
+      "meta": {
+        "name": "Nestleborough",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "DaVinci"
+          }
+        ]
+      }
+    },
+    {
+      "id": "92932c28bfbf3e0455ee017ed3dcc20dde61a663abc32b58325520a33a1d2b35i0",
+      "meta": {
+        "name": "Degenton",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Electric Avenue"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f67fd2a80b53b42fe0926a6521a70a43300a008666b072acaa9398a76d45ace7i0",
+      "meta": {
+        "name": "Degenbury",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e804cd667c32caeca2cbe1093a673fc40a7a9996ffe6f7cc3aff86fd19e97b5ai0",
+      "meta": {
+        "name": "Mapleborough",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Electric Avenue"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8fced3540a98714368f4d32b58e4b4d7729f6d7bce7b0584b075442745a790b7i0",
+      "meta": {
+        "name": "Starston",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "DaVinci"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e0c93aff421bc38e2a1e979358378fbaee310f780a5af961ea103d80d3774d5ai0",
+      "meta": {
+        "name": "South Dogeburg",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e4938b0a8d1f61cca036fd3623fc371a2f69befb0358917ee1371fd89f3f8123i0",
+      "meta": {
+        "name": "Edgefield",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTCity"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c2b5df7906ed0470541c1eae1b8f196aeb76be95091e3f820a64fb8a9c81d8cei0",
+      "meta": {
+        "name": "Xunohet Jeluyowa: Magical Artifacts",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Faded Sands"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13ab2e26fc463ad5b23d887fb1a4fff9e70c61097d7359cea4d53f95253db688i0",
+      "meta": {
+        "name": "Hu Furodew: Towering Journey",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Purple Dream"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3fabfe8d3e224d9771c180cff0ef2cd5fc3901258392ca6bece7d0e835999546i0",
+      "meta": {
+        "name": "Muradafi Ra: Spectacular Treasure",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Sunset"
+          }
+        ]
+      }
+    },
+    {
+      "id": "892a710494d437bf6aaf5539bbf2baa07268258afead19f9ef58dad82ebcc73bi0",
+      "meta": {
+        "name": "Cuy Cacuwod: Mythical Dunes",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Desert Storm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2a1100d4555db4d1a5b3bb740fd40c1f11a4457be3aa6f70716bbb34d7ea5e1ei0",
+      "meta": {
+        "name": "Yu Xuve: Transfigured Dust",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Sunset"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7df489c6b0110b481e162a8775eeb7030ea1bc4196e1b99127994d3c736cd2ddi0",
+      "meta": {
+        "name": "Samomuy Lopinog: Mysterious Valley",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Jungle"
+          }
+        ]
+      }
+    },
+    {
+      "id": "834dcf55a9c1b8dd6830fb1027345991cf932e36fdb529e822d6216067d69a0di0",
+      "meta": {
+        "name": "Suxetof Fites: Peculiar Tomb",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e13955ccbac9b66c80f452b174d70088ed7f6ebe235c28d5a997adbe2b38eecdi0",
+      "meta": {
+        "name": "Ke Yes: Luminous Expedition",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Jungle"
+          }
+        ]
+      }
+    },
+    {
+      "id": "49f61629d4730b1dfa4b97e40cb34c008ce06432f7a03cfbb2405573c592422ai0",
+      "meta": {
+        "name": "Lo Cacuwod: Celestial Dunes",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Space Trip"
+          }
+        ]
+      }
+    },
+    {
+      "id": "21ded741b2bce9c0821234c4838c0b903d943ac8e06b10fe6faae0d435e1af5bi0",
+      "meta": {
+        "name": "Xunohet Huw: Magical Oasis",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Space Trip"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5a91a3d0054b02f615564832595dbad55574d5a40278a5476032afdd99a45b3di0",
+      "meta": {
+        "name": "Suxetof Rikivade: Peculiar Canyon",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Dusk"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c437d5cb0c82b4fde7d9d2751aa60a0f6e70a76a7a592c715ee3409e62eb183ai0",
+      "meta": {
+        "name": "Lo Bevoq: Celestial Sandstorm",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f07296fdcc1065e3b7beb0bfa3eb54c5329efcf8e5cc54a2aa80610066dcd488i0",
+      "meta": {
+        "name": "Pakamob Toyodej: Ethereal Oasis",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Space Trip"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4a2b4a7ade8372fff3c82f26fddc4dd4137fa662377cd4e5c1842bf0987c6338i0",
+      "meta": {
+        "name": "Joxoxeva Cacuwod: Enigmatic Dunes",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Faded Sands"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7d6db7bba4bc32fbfd72b44acf28f51b03044526946eb8ddd0ab9e21b04b3a90i0",
+      "meta": {
+        "name": "Lo Linafaq: Celestial Sphinx",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Jungle"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b9deb70582ca875c48ac913d192d0b06cc2b9a5fedcf96d4c94b42a503a7afd0i0",
+      "meta": {
+        "name": "Wasori Linafaq: Serene Sphinx",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pastel"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5dc96447ed8f09ced9a5824df5da775db279efbfec0130a8ab76ff963368fefbi0",
+      "meta": {
+        "name": "Vusip Takehug: Timeless Pyramids",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pastel"
+          }
+        ]
+      }
+    },
+    {
+      "id": "764071dbdc9ea935ba29078987a7b7ee2f35ac86c774ada1303bc70213635113i0",
+      "meta": {
+        "name": "Suxetof Toyodej: Peculiar Oasis",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Desert Storm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ba9baf616fe516e3a8c7fc86b76134e786a92cf63964649d0dab2a58d2820dcfi0",
+      "meta": {
+        "name": "Bey Wikazo: Stellar Mysteries",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Dusk"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6285c45002752b689dec9ab95dbfd060907ba165b65d524720f371a83c46db39i0",
+      "meta": {
+        "name": "Kahubito Jeluyowa: Transcendent Artifacts",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Dusk"
+          }
+        ]
+      }
+    },
+    {
+      "id": "660b41e744e740ee73c82879561def48774e8dee02f9118953b4fd01205ddadci0",
+      "meta": {
+        "name": "Qoy Joribeg: Exquisite Aliens",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Dusk"
+          }
+        ]
+      }
+    },
+    {
+      "id": "253208c6842c2b7db5bdd67c911f289983859155f9bc7c5dfe91ae075651ab30i0",
+      "meta": {
+        "name": "Samomuy Yes: Mysterious Expedition",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Purple Dream"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4b99cfc7be1bf0feca9f5f48fbfb4b0cc2ee04366f06231084d89a6226331d6ei0",
+      "meta": {
+        "name": "Xunohet Bevoq: Magical Sandstorm",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Faded Sands"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7cdb6ccd8195531cca3486ff88148b586d527eb3277cab5b8273db32d7a3e73di0",
+      "meta": {
+        "name": "Moximi Rikivade: Breathtaking Canyon",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Dusk"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1698c83ecd989a924acc97c5b0cf43aec981a3e6f2c3b80b689a78f18c8527d9i0",
+      "meta": {
+        "name": "Mem Xuve: Surreal Dust",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Purple Dream"
+          }
+        ]
+      }
+    },
+    {
+      "id": "95fa5c053d2e6f7a33abdb659ad3c30df2a4fec6937faa5c4cb765de389edefai0",
+      "meta": {
+        "name": "Xunohet Di: Magical Ruins",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Space Trip"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c3946695fc556ca0c303ae6d90eccd4b5dbdeb7ed05853c4dcd142cab0f21d58i0",
+      "meta": {
+        "name": "Qoy Cene: Exquisite Civilizations",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Purple Dream"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ae682693f579bd020c03c20716f7bef49ae75e358342beccdaa5a5a1ebaad0edi0",
+      "meta": {
+        "name": "Joxoxeva Lopinog: Enigmatic Valley",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Dusk"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7482f3f89a6af7411df9eeeba6a69bb7ee4099f4e7392e5ef179d81e3a2550edi0",
+      "meta": {
+        "name": "Kahubito Cene: Transcendent Civilizations",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Faded Sands"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cc952ae2abb1bc003878905b3997b2853f2db503a4061bb69e67b984a269c7b0i0",
+      "meta": {
+        "name": "Meduwe Huw: Epic Oasis",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Dusk"
+          }
+        ]
+      }
+    },
+    {
+      "id": "089fe3fb202be4e670e36d42a11d6cd62eafdb51f8fc2289bdd7c439ec3a590ei0",
+      "meta": {
+        "name": "Lomahagi Pa: Stellar Valley",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Jungle"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4f48be3f2ac264740d64983d99bc9b5454cab21724f4006751ebe82848383505i0",
+      "meta": {
+        "name": "Samomuy Hi: Mysterious Nile",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Faded Sands"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6f40be65acd45b650f3c93760cb658d5ccb7f973c3bb90bd98f6f98264de2f81i0",
+      "meta": {
+        "name": "Hu Di: Towering Ruins",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "86794cf8740ecdb7ad5f7ad388384ea43120b22c1d3e320e33c374fd681f8874i0",
+      "meta": {
+        "name": "Jisomez We: Illuminated Sands",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Desert Storm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "07edf0c2ffb0bf112938441752caf5c96c2a1817302c01c369e3335bbe908e33i0",
+      "meta": {
+        "name": "Hu Kebi: Towering Sunset",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Faded Sands"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eff4c0fec64ffd40eee9738fb488ee5ef8ca6e4abe01464ab652e0aa42f55361i0",
+      "meta": {
+        "name": "Meduwe Fihuvit: Epic Wonders",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pastel"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6205c731aed0f52fea0ff23af9f7a07ff18030eb078b74bb6f110c5c4d2434f3i0",
+      "meta": {
+        "name": "Meduwe Cacuwod: Epic Dunes",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Greyscale"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ba056b19235cd4132cfe035f478500ce11f30e725c4753f2d012172ab9d81ba8i0",
+      "meta": {
+        "name": "Wasori Fites: Serene Tomb",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Purple Dream"
+          }
+        ]
+      }
+    },
+    {
+      "id": "43bc29f0e99eb64820f0c4dad62671e0f10d7cb179624a14ada7b7010be270dai0",
+      "meta": {
+        "name": "Jisomez Di: Illuminated Ruins",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Greyscale"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5b78fe19aec9f6a8cc5d2cf268a2ca6032b747c62b1088f8c2a32b140825ed82i0",
+      "meta": {
+        "name": "Mem Ra: Surreal Treasure",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eedfe07946ccfe1bce66c7f98ed8e5834e90ece0986cb6cc49680fef49be5f95i0",
+      "meta": {
+        "name": "Pakamob Mutipu: Ethereal Temples",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pastel"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dcc989bf9744eec3b66efbadec5ec29d8ac71fe6b4725c66534e6d45fde3f642i0",
+      "meta": {
+        "name": "Jisomez Haja: Illuminated Sand",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pastel"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f121c2c9c2a462d5f49ba08de07eb6cb6669a7ec174420efebd82a46bf19e79bi0",
+      "meta": {
+        "name": "Vusip Di: Timeless Ruins",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Space Trip"
+          }
+        ]
+      }
+    },
+    {
+      "id": "105707f43f2d9a78dbcbab09a26f1cc3bdc2f78ef71384eac89aad3224b87c9ci0",
+      "meta": {
+        "name": "Reyereye Yivutona: Immersive Legends",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Purple Dream"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b4c4308b0b109608b6d58c4f35e987c5b862c52d6e9846b0e97a337c03c0ae5ei0",
+      "meta": {
+        "name": "Vigogor Fihuvit: Opulent Wonders",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Space Trip"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cdb36a85e75f9591c94e8b5d051b681399936b3dc687ca81de50385ada0de110i0",
+      "meta": {
+        "name": "Hokazi Lopinog: Majestic Valley",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Dusk"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c748b519f0b149d029789b22fcc31309bb3e38df3ef881b72ae774f2ed597dedi0",
+      "meta": {
+        "name": "Naroguje Na: Sublime Sunrise",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Space Trip"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3716bacb4b369f8cd866f44039a507ae90f6d6be43d72952b5743f74ba258146i0",
+      "meta": {
+        "name": "Xunohet Mutipu: Magical Temples",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Space Trip"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a9fb0ae1604b3da713ac60d39858f297f3f9e52ce231c05bbf6b06be94b31a13i0",
+      "meta": {
+        "name": "Lo Xuve: Celestial Dust",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Purple Dream"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5a43eb5575f8bb20d1d8653a93e99c4bf1e00d4da65549e9c5721da2f7f72606i0",
+      "meta": {
+        "name": "Mem Yivutona: Surreal Legends",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0b705fe04a0ace6e8ea882fb34a4bb3b9d0105ca655f2f8bd515c54ab160c33ei0",
+      "meta": {
+        "name": "Riden Kebi: Dreamlike Sunset",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Sunset"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5c2880e7d488181d2877ccb0fa2dd46628562ca4771b530be22e267d9d097910i0",
+      "meta": {
+        "name": "Vigogor Joribeg: Opulent Aliens",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pastel"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d092234e36267ad884e1b07cc846ec0f388dd46ffe5cc783da8ba2edfd5b14cdi0",
+      "meta": {
+        "name": "Joyit Haja: Mystical Sand",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Sunset"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4aa6f4089f93a55aa701a8d3401ae6d3ea05205149a7f58b1a1d25c2dbec4f5di0",
+      "meta": {
+        "name": "Hu Lopinog: Towering Valley",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Desert Storm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2d42b8fa19dd2eb5188e3d5f05e5b4e8a8bb2f766194f337ad7b1e360b066a61i0",
+      "meta": {
+        "name": "Lo Rikivade: Celestial Canyon",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ancient Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Greyscale"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dc6ef5dbe89deacbaa6d10181f3aaaa64d25a88eee4d6fe01bd281c9e90fba2ei0",
+      "meta": {
+        "name": "Sparkling Whispers",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dde41fe3b7ffd3a950ca38f01bdcfeac2119aac8d49fd9afb33798b4921c2af6i0",
+      "meta": {
+        "name": "Dancing Essence",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold & Gems"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e1c38ca5d510dd601444968ea083ec3aa1f705dc55e96a8a1cef4439340f6386i0",
+      "meta": {
+        "name": "Celestial Infinity",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold & Gems"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9244c3d79a63d59fd022d96b0276701603ab8c6e9def12f2c36e2b1f1b5ff428i0",
+      "meta": {
+        "name": "Mystic Reverie",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9444b443794fdcbb656aa97b2d8a8edbdfeba6957fb4b129a1283c4b762d4a41i0",
+      "meta": {
+        "name": "Iridescent Harmony",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5b75b34bacff0340f887e806063a0d2cf6a8c2fc18c0211acbb7168004d8993ci0",
+      "meta": {
+        "name": "Mesmerizing Enchantment",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0bd93d9c2472626c32fa3b60d97536ebc3d74aba5d0637aefb86bc9d93c42304i0",
+      "meta": {
+        "name": "Dancing Infinity",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4d5b509eab3437d3b8b9ed42d66e70376239f6f011f35729aca440ee00f80deci0",
+      "meta": {
+        "name": "Ethereal Splendor",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1fe978b1196b69c64d3df0f5321976eaf675cebc0de7d587c55bf424571df590i0",
+      "meta": {
+        "name": "Ethereal Mirage",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "40502184b3048ba03aa142c295b7fcef23dd3fe85f87978f31b81aeb5c920eb6i0",
+      "meta": {
+        "name": "Shimmering Symphony",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5a3ca06f33bff81b3e454ccc090596c64ee2649ffbd5dc0dc9cfe4bb14f2d4a9i0",
+      "meta": {
+        "name": "Radiant Mirage",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2336a79e720d9218a73af9b26234bcdd6658e7b7cd7ad39cbdbc4ede43d12754i0",
+      "meta": {
+        "name": "Whirling Essence",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3ba76dee8154d8c2862e6f65ae6be5dfa84d5e66d1d486946bb493ccc9d588d5i0",
+      "meta": {
+        "name": "Dazzling Tranquility",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "83b6c24937aadfbb6bf3fd643352947c5b0ab8669270193228aac3fc3ab48708i0",
+      "meta": {
+        "name": "Gilded Symphony",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1b44a0011980a6c5b3dec9d7f1015aac56ad6e9ab6d24520d4add66c9c15a037i0",
+      "meta": {
+        "name": "Sparkling Splendor",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a5b130159735da55d60c0c8577e99d31f010fc3886cea2325d66c01c8b0e754fi0",
+      "meta": {
+        "name": "Mystic Symphony",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5f0c984d2df048c54180d1af51d0cfde0d18c6522f1b7300f42ba4220d8efaebi0",
+      "meta": {
+        "name": "Enigmatic Harmony",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ac29323582b35301cfcd208e4db408615180e3a747f6bd24465a86850180b3fbi0",
+      "meta": {
+        "name": "Gleaming Euphoria",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5e654ba73ed8cb7f6394a76409f21d42a5e350b45ca34b1c6302181e1ecc0a56i0",
+      "meta": {
+        "name": "Incandescent Cascade",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold & Gems"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b4ae0ab50e044ab82e524eebb0468062242b99eaca4e43cbd5f7c64e4b85f248i0",
+      "meta": {
+        "name": "Gleaming Enchantment",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "45a962bd4453fe49eab92bffb6305fb5cd4917c6f8e0520fba94e70ac473454ci0",
+      "meta": {
+        "name": "Enigmatic Euphoria",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9fdcaf09ae0e64ecdda0161a848aa43a47c9cd42e0eff1cae0ee177dbe1a6d74i0",
+      "meta": {
+        "name": "Iridescent Labyrinth",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold & Gems"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d00cb6955a8f23b085ddd13336b80fb0e2e4ba8a9bd4dd3590e59d571440988di0",
+      "meta": {
+        "name": "Radiant Labyrinth",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold & Gems"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7bbb33ebf9f2917dd34ea2cc5d6ae5b5abf1c081d1982b82626a0efc723d9616i0",
+      "meta": {
+        "name": "Gilded Mirage",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2351d3c884b686d2658d4a78c81f169f5ead929f55c2691f714bf31a68756a09i0",
+      "meta": {
+        "name": "Dancing Twilight",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aae9d42ebf8c8f9cb52f5a15edb4d6d51096e16cb2939fffc655fd6f673e65adi0",
+      "meta": {
+        "name": "Radiant Euphoria",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d30fd05d9f2feeb89eb0a1b170bff4224f43bda460383e26c6a5096c16a610c8i0",
+      "meta": {
+        "name": "Gilded Enchantment",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b989edd3c005c347198725a4934ac8be43d36eaf79f4c19c22920f50e5aa80d1i0",
+      "meta": {
+        "name": "Iridescent Euphoria",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6870229a53b5e037e11c61b81a3f1de218de8fadcf9c45066ca5a237930bddb3i0",
+      "meta": {
+        "name": "Gilded Aurora",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold & Gems"
+          }
+        ]
+      }
+    },
+    {
+      "id": "545fca8fa1d943a719bedd290846823fbdc2c64084e044ddfee0081bd5b57956i0",
+      "meta": {
+        "name": "Sparkling Tranquility",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fe8301796a9d8d23f4a240884adee95e21cf34c4ec4e456ff1392df3982662dfi0",
+      "meta": {
+        "name": "Whirling Whispers",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e4e538b0a212e3dc61b207bfc84db33eddd117c7920368df5642dbe96442d952i0",
+      "meta": {
+        "name": "Enigmatic Symphony",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "17f0578acecaa2ba99a1f834102945572a82dc2bf318dc1d80bcac73d9e6c1b8i0",
+      "meta": {
+        "name": "Celestial Essence",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "228582317789366a84462d4fce65ed7724c782b80d4b128e566f27e7aea3f919i0",
+      "meta": {
+        "name": "Sparkling Infinity",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5747be556e72eda25c548a04f88b3487258938eeef3292a4c1fc6f362ca79701i0",
+      "meta": {
+        "name": "Mesmerizing Twilight",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold "
+          }
+        ]
+      }
+    },
+    {
+      "id": "6e43748c8549bcbcb1085fe462684ba7464407ed2c89ff696e4e1969d192458ei0",
+      "meta": {
+        "name": "Shimmering Reverie",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold & Gems"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5013c5309d360800fd5659c2042e8689edb14d52667389278ce0cc12469be8cei0",
+      "meta": {
+        "name": "Gilded Maze",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7e506de69407f8a85c453ac1f0d0a06363a375d7a9c3fedb2de551e124daca68i0",
+      "meta": {
+        "name": "Shimmering Whispers",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d389feb7e14bef35ec00f7f2ca41d265e7a8f865ea215ab74860395100c38519i0",
+      "meta": {
+        "name": "Enigmatic Tranquility",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "60d6257054f39cd1adc5d223b6b026ad27f602922702216e8ae6b801f5972804i0",
+      "meta": {
+        "name": "Ethereal Whispers",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "79636cff550d988b941e83c40a8cb584e0bdd282b2dac008e6fbe6d3e3846e86i0",
+      "meta": {
+        "name": "Dazzling Labyrinth",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold & Gems"
+          }
+        ]
+      }
+    },
+    {
+      "id": "06bb449e04dda76fc4e1f3b598f34bd31fb6878d5895eb78eb27dc9dc89deb1bi0",
+      "meta": {
+        "name": "Iridescent Illusions",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold & Gems"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aa044ebfe6001581273174f07c9403945de2a826c4fe578a9bbc6af3b2e680c6i0",
+      "meta": {
+        "name": "Gleaming Essence",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "8c71720210d84f80ec8659371cbdf1e831da72200dcb5c4ddaa650c66772fd22i0",
+      "meta": {
+        "name": "Dazzling Aurora",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3a305c69afd8efc542ab620e79b89824043d6c63945116f1977062330488331fi0",
+      "meta": {
+        "name": "Mesmerizing Infinity",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bd9de86fff16b97b19d8fab257fcbe0f502921eb3ce11f7db4ae7c121cd19b1bi0",
+      "meta": {
+        "name": "Surreal Whispers",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "50d9e6d932ea5268d0fcfd2e26739e27c698f218c976ac30ee180d2caf9ce0fbi0",
+      "meta": {
+        "name": "Shimmering Dreams",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f593c6a07e12fd00123bfe366797465c44cde8a38e86a1119a59ed6ae67a33b8i0",
+      "meta": {
+        "name": "Surreal Reverie",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "46a7f42af58b1b59d8f23aef1f83d4e3c19f008a8748209f72ca64a057c30baci0",
+      "meta": {
+        "name": "Mystic Enchantment",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f429dccb625293164f82d6a279511d2c92e06ef54af9e4b1654e11535776d606i0",
+      "meta": {
+        "name": "Gleaming Reverie",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3c2438084f917b748eb431406c71615ce7aab64e8683f9342ef496a91d1094d3i0",
+      "meta": {
+        "name": "Opulent Symphony",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "633ff99b2b4d72def133f5df3f90b29baa1d504767bddcf0290dbd0d00694c71i0",
+      "meta": {
+        "name": "Surreal Enchantment",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0bd4778d51c0e6e271372f9a89b60beb61636c5e67d1b51f464e9752564712c7i0",
+      "meta": {
+        "name": "Sparkling Mirage",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold & Gems"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3b0d369045b9a07e09effd59f8b2ff71600f3b944ac54e639a3ab03609d36b2ai0",
+      "meta": {
+        "name": "Opulent Paradise",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold & Gems"
+          }
+        ]
+      }
+    },
+    {
+      "id": "87371df5ecf414243870ca4afcb258b53518ed7121a31c1f08764277e71e4268i0",
+      "meta": {
+        "name": "Celestial Twilight",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "25071be25001f3c4be2ecba3b2d1fe3dc4f70d74cf85d6bffc53365f1e25f49fi0",
+      "meta": {
+        "name": "Celestial Serpent",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Chromatic"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c6bbc8a50aadad8b5a549bd4b1f072f1cfe4ff677135f8e19af00b295b31b96di0",
+      "meta": {
+        "name": "Whispering Specter",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7e56427ea16f12f49f1e7d3f6728bd29f50812eed8aaa85335a1304f4c7eb10i0",
+      "meta": {
+        "name": "Mysterious Serpent",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2aa0ed074ae16676ed13ba6168c6cfa42f582fbdd5b690ce43256d00807af4efi0",
+      "meta": {
+        "name": "Mystic Beast",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "19d2f60777101e5c49b089173832c57b92aa9ec928c72ad8febfafffb2c5836bi0",
+      "meta": {
+        "name": "Mysterious Umbral",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Bloody"
+          }
+        ]
+      }
+    },
+    {
+      "id": "456f22c473ed0e7713587eba072542df45d7d551644913b0bde465adf34e3008i0",
+      "meta": {
+        "name": "Eternal Whispers",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Bit Ink"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5b0a87768ddd953780fb36a86ebcd48bdca8d020511eeafee35fddf54556a03ci0",
+      "meta": {
+        "name": "Luminescent Murk",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Bit Ink"
+          }
+        ]
+      }
+    },
+    {
+      "id": "61a307393afd9b6b6fe026da91abda2a28a0e843852f6d45e40571635138313ai0",
+      "meta": {
+        "name": "Ethereal Serpent",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bcda970d2a0a6d0449472b36f2eb0556e1a1bae6738d3893c01371a14895f805i0",
+      "meta": {
+        "name": "Harmonic Fox",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2ec0a9e2925e005d555527fea29cb2d018cf83ace8ab35925c308cae7eb4d486i0",
+      "meta": {
+        "name": "Infernal Demon",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2bb3dad764ab21158f7fa42ee33bcc336b5c7fff519795f29b7159cebe812915i0",
+      "meta": {
+        "name": "Shadowed Silhouettes",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0d52e42bc89ed1dc223c16cc2548059f234b76df1c5d27ba5e61c49c5dbd4c17i0",
+      "meta": {
+        "name": "Prismatic Umbral",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4e806f997bcfc5ef9b54bbffc41c3a2c16cb0e3a07499ae0858ec4b58ab48c0ei0",
+      "meta": {
+        "name": "Celestial Butterfly",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0651ead2380d7ebe7583d02b2499d98e97227928e6ccb5d78ac1532611d602f5i0",
+      "meta": {
+        "name": "Spectral Twilight",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7a01c9d11f67f65055f60c965dc2178ecb2a93d2c4a462c7fe3ddf45bb683156i0",
+      "meta": {
+        "name": "Harmonic Silhouettes",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a8c2e0cae32b7800c18d42c409d073220d0987b644d1cc50d188a9eb5b10c63di0",
+      "meta": {
+        "name": "Nocturnal Owl",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "114d4ad27d050412881c8c0c1156fe3fa8f1c479dd9046c364eec19cd8b7e333i0",
+      "meta": {
+        "name": "Translucent Serpent",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fa6c93ef52657248075b076e13932f5504fa8f1c39d2e0cd19e893eb4080566ai0",
+      "meta": {
+        "name": "Enchanted Silhouettes",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Inverse"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6e095dcf70e9d3f4a88af01b3223ccced59987e748164a2647c4a0b9ee249db0i0",
+      "meta": {
+        "name": "Mysterious Shade",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b1298209cfe644e436085ec6cde43bc1d6222b18681e6508d716cccd7e375396i0",
+      "meta": {
+        "name": "Chromatic Moonlight",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f1f0c6043478c95c743dd9e0b2c6c6aee70f5b30afee0f163dba3acfa5be7035i0",
+      "meta": {
+        "name": "Chromatic Jaguar",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4f4dd5af6e65cdbb5dc6f5f513767ae91a044eaf17a86e05a1a063738bd1b23ci0",
+      "meta": {
+        "name": "Infernal Phantom",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "eca369c04c22b2020e9a2175ffe48c9f90de231500cc368ac41fd326409e039ci0",
+      "meta": {
+        "name": "Opalescent Swan",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Chromatic"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ef23634537ce06e546e9f02da3c958e1d87978c81e6649f3ba56d96dab800571i0",
+      "meta": {
+        "name": "Arcane Twilight",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "da4408859900bd88d32ca16e5a793d8da6d2d0aa79a0a4b17ae10bc9876df7cdi0",
+      "meta": {
+        "name": "Enchanted Fiend",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Chromatic"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e20d0ef58001a07fe03a59ec821c9dbaf85ab72e4b1e6afd315a334839e209a7i0",
+      "meta": {
+        "name": "Infernal Shadows",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b54a4793a5ad62615c2a0642218eb88d4f71550226aeacfb655569680181500di0",
+      "meta": {
+        "name": "Surreal Shade",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Chromatic"
+          }
+        ]
+      }
+    },
+    {
+      "id": "15f0f0a15a21233f8b97883e64af63945c7c113e5b3ae57f579e12b1bcc7ab7ai0",
+      "meta": {
+        "name": "Enigmatic Whispers",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "684c5df70ffa263e6b9fd91969cbfc91f6da7474488f9ca07b2ce991b7470ff0i0",
+      "meta": {
+        "name": "Nebula Stain",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Chromatic"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5758a8f1d6df903ba17346fb57f27f4a7304aed6a5779f43d7d1d65ed6fa36bfi0",
+      "meta": {
+        "name": "Prismatic Whispers",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Inverse"
+          }
+        ]
+      }
+    },
+    {
+      "id": "339202eae76cd70f21f23841c6ce743247f91e91ee1644d153a5045d0a5e31bfi0",
+      "meta": {
+        "name": "Ethereal Panther",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Bit Ink"
+          }
+        ]
+      }
+    },
+    {
+      "id": "591c46bdb484c3a8f0e98059c30fffb1fc6a854e58a2202f63b85612157c264di0",
+      "meta": {
+        "name": "Mysterious Butterfly",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b379321a5fe902aaac09b2cc7024ed59f67e38c601a8bbf6775e3094e703c8dfi0",
+      "meta": {
+        "name": "Arcane Darkness",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Chromatic"
+          }
+        ]
+      }
+    },
+    {
+      "id": "133f33dc3af1be91a10f216de04af948506a4e65a74d96dd0466c3246c2e56b8i0",
+      "meta": {
+        "name": "Mystical Panther",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "be31962eaf09581576488d815e64c740452610114e04d7ba47670f28e2a3e35ai0",
+      "meta": {
+        "name": "Opalescent Penumbra",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Chromatic"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5b6f58793c6c277d0e8d1772f4e8b675bdef4629d94ec7a791ed586dff63c247i0",
+      "meta": {
+        "name": "Mysterious Jaguar",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "340ecf300e3b029982ad69193955970c9f57d1767ee35bd4d0d7d730c65e9137i0",
+      "meta": {
+        "name": "Enchanted Panther",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Chromatic"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ab9414ba26969e869ca6f3c0d7be6f9fec5fc6ab8d9da65da359e1e2b49e6c93i0",
+      "meta": {
+        "name": "Lunar Butterfly",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Gold"
+          }
+        ]
+      }
+    },
+    {
+      "id": "548e81d00441ca22d8cb93d5a25cf2f19b2de354c94f0000f7f2656281d2bcbdi0",
+      "meta": {
+        "name": "Obsidian Tiger",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Chromatic"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ccf1f905b68bd58448c21eac2bd5080126a7f19303e44d1c1a6db5fb077158b7i0",
+      "meta": {
+        "name": "Nebulous Wraith",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d37bd635e4927e240ed14b8209b85c41e615185bb1ac017cdd208e78e60b7bc1i0",
+      "meta": {
+        "name": "Spectral Butterfly",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Bit Ink"
+          }
+        ]
+      }
+    },
+    {
+      "id": "9a718dd700a85ef205a203cd4d1989182014e944245a432aa2cb4d55a6237096i0",
+      "meta": {
+        "name": "Nocturnal Shadows",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Inverse"
+          }
+        ]
+      }
+    },
+    {
+      "id": "11a9ee4ca1a47ca40238029a2c4caf01fe89d3e1b076046a1f5a82b3a8d97b78i0",
+      "meta": {
+        "name": "Enigmatic Beast",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1426f270b8413dd48d50b5f1e26c31e49394f3e7d5a82c443143a4bbf9b9f8b4i0",
+      "meta": {
+        "name": "Malevolent Darkness",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bfdb6eea3786df6756c6d8509e1168f9fa5a0d378aa90ebbb6af655f0e98f839i0",
+      "meta": {
+        "name": "Infernal Shade",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cb47883b1966586acde72fefcd155f123c5187831bef2338369fd0dbf23d2442i0",
+      "meta": {
+        "name": "Mystical Butterfly",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "5348daaf455ecc2f1e52200e478ca9f299e4a5d49676e7e11e1ef5cf72a1ad13i0",
+      "meta": {
+        "name": "Mystical Fox",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ff17b32e8f99ef8803eea51dfab00ed1f601c8d7b9b844bb5430b804a9ba6effi0",
+      "meta": {
+        "name": "Infernal Raven",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b64d1ccab1b2876de1870173b02a591e37b6ea02d4ff60332d311af4898a88f0i0",
+      "meta": {
+        "name": "Lunar Moonlight",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6f27b7dea6fa1612e5c988bbcb80be23667fe9e4f125ef364c5a8eab277d22bci0",
+      "meta": {
+        "name": "Nocturnal Abyss",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0cdbafe72fe524160fd98e7d88cec036a6135ec828cffd08c64ace4a568669f2i0",
+      "meta": {
+        "name": "Nebulous Phantom",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "044110e999a4189c264c9e52e4f665499dd8609b62d510753d88a0291fd0db9ci0",
+      "meta": {
+        "name": "Harmonic Phantom",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "28735c4c57dbab89fd6c772afb2053bc9ecca14dd2c299773e7f01fbba27ee33i0",
+      "meta": {
+        "name": "Phantom Shadows",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "53b13eaa39e20a26d50ea7188a79410f5616ea33e692d6527bf733bf51456d6fi0",
+      "meta": {
+        "name": "Midnight Swan",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Inverse"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1a9d15bb40a0e5f00752c1cc4431c6cb60cb4920fbdfe7bc451c3b7e375e8c29i0",
+      "meta": {
+        "name": "Whispering Abyss",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Ink Blocks"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "B&W"
+          }
+        ]
+      }
+    },
+    {
+      "id": "948b05f1f362f733d56ab33860c46c9caef107caa2725e4372ce369df3268016i0",
+      "meta": {
+        "name": "Magical Pepe",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pepe"
+          }
+        ]
+      }
+    },
+    {
+      "id": "be866045e08e0411f39399c9bca1d79aeb55320fe3c7275255459e99fcf681bei0",
+      "meta": {
+        "name": "unNew Roxford",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "unPalette"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3cd4913752017a236889e537c28e4f41b870b48a6148490aec9ab2aa2ecc60d3i0",
+      "meta": {
+        "name": "unZefinaro Xilon: unPeculiar Canyon",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "unPalette"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6577c268e3377211db25a48d17f4c42f6c1a1723022b65fd5c826ededa2aa1dci0",
+      "meta": {
+        "name": "Vivid Compositions",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Mondrian"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pink and Purple"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b9821b01364818d09d8eb2d58a1c76d932b621ede6e8ffb573f0d7e588820385i0",
+      "meta": {
+        "name": "Roxfield",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "City Nights"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pink and Purple"
+          }
+        ]
+      }
+    },
+    {
+      "id": "726860251a347e6adc422e47a3d5a9a16ee5cb5eb0cc0a80a5655ee88850542ci0",
+      "meta": {
+        "name": "Fak Xiyaruri: Majestic Miracle",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Pyramids"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pink and Purple"
+          }
+        ]
+      }
+    },
+    {
+      "id": "602cb74a28a9ebb91bc0348c7b8fd44e07dc83d2a59673914309716ec35af2cbi0",
+      "meta": {
+        "name": "Shimmering Infinity",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Goldoscope"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pink and Purple"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c9e7aa666ce5dab833954407e78d88531d21ab1d74373c56d789ffe8e0ed25cci0",
+      "meta": {
+        "name": "Enigmatic Blots",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Rorschach"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pink and Purple"
+          }
+        ]
+      }
+    },
+    {
+      "id": "f75d08660276fc2b5fa474e748032cccfc268ac16a3c0e380f4886e8a46535a0i0",
+      "meta": {
+        "name": "Uncommmon Sat1932785626000000",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Hitoric"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Pink and Purple"
+          }
+        ]
+      }
+    },
+    {
+      "id": "da471a471676adf99d5279ddfdbb24dd9483df4b8ed43db062f4223578596d86i0",
+      "meta": {
+        "name": "Block 696969",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Red and Black"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3f5f192b4eddcfae1ba39112e3deaa6bf15be3faba7b4fc62e4dbdf5b42ded88i0",
+      "meta": {
+        "name": "OMB Tribute",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "OMB"
+          }
+        ]
+      }
+    },
+    {
+      "id": "884879b7f2f814725838962dce4fd392c5cd6f966ec5a4573bc70141745424bbi0",
+      "meta": {
+        "name": "Uncommon Sat 1935357500000000",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Mondrian"
+          }
+        ]
+      }
+    },
+    {
+      "id": "4f1f8719c34c84687d607089210d292d208d55960e394836213802460d3b49e0i0",
+      "meta": {
+        "name": "DeBlock (Nebula)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Nebula"
+          }
+        ]
+      }
+    },
+    {
+      "id": "05aed9d240ff6bddf24ea291a30b5213f77518228acbe9bb0b21facc3308c5b6i0",
+      "meta": {
+        "name": "DeBlock (Radioactive)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Radioactive"
+          }
+        ]
+      }
+    },
+    {
+      "id": "03991febaf687b931a354e287d6e3101fe2093a47c31f4bb85e997da9ee38553i0",
+      "meta": {
+        "name": "DeBlock (Transcendent)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "Transcendent"
+          }
+        ]
+      }
+    },
+    {
+      "id": "392ec5d2fefacf3e68f99694b2a49565b02d949db038542156181dc92a70d973i0",
+      "meta": {
+        "name": "DeBlock (BTC Orange)",
+        "attributes": [
+          {
+            "trait_type": "Style",
+            "value": "Historic"
+          },
+          {
+            "trait_type": "Palette",
+            "value": "BTC Orange"
+          }
+        ]
+      }
+    }
+  ]
