@@ -2,7 +2,6 @@
   {
     "id": "6e630c2e5575b03be8fc78a77574bdba1c1b9b9f470dba57f37958bca2fe578fi0",
     "meta": {
-      "name": "Genesis Watch",
       "attributes": [
         {
           "trait_type": "Movement",
@@ -24,7 +23,8 @@
           "trait_type": "Dial",
           "value": "Handmade"
         }
-      ]
+      ],
+      "name": "Genesis Watch"
     }
   }
 ]

@@ -1,9 +1,10 @@
 {
-  "name": "Blocktoshi Ordinals",
-  "inscription_icon": "c344c2d25f20dc6a92b100d2ca9f0f8d1e2b058fc4803aa4fa2d67379f5b2650i0",
-  "slug": "blocktoshi-ordinals",
   "description": "1/1 pixel collection created by @pencilx and inscribed on the bitcoin blockchain by @thedevkev_",
-  "twitter_link": "https://twitter.com/BlocktoshiOrds",
   "discord_link": "https://discord.gg/gkTMD2XUeb",
+  "icon": "https://turbo.ordinalswallet.com/inscription/preview/e48bbe679c758678204985119b288e32b6dd3cb509b513d8ef800b3eb8906a32i0",
+  "inscription_icon": "c344c2d25f20dc6a92b100d2ca9f0f8d1e2b058fc4803aa4fa2d67379f5b2650i0",
+  "name": "Blocktoshi Ordinals",
+  "slug": "blocktoshi-ordinals",
+  "twitter_link": "https://twitter.com/BlocktoshiOrds",
   "website_link": "https://blocktoshi-ordinals.vercel.app/"
 }

@@ -2,7 +2,6 @@
   {
     "id": "9b5ad40e4166aa1228c814c1295ecffba541215adafd95bd5ead5b25e342e6f3i0",
     "meta": {
-      "name": "ord_swol#400",
       "attributes": [
         {
           "trait_type": "background",
@@ -12,7 +11,8 @@
           "trait_type": "headgear",
           "value": "bandit"
         }
-      ]
+      ],
+      "name": "ord_swol#400"
     }
   }
 ]
