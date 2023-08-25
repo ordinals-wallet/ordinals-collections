@@ -118,5 +118,53 @@
       ],
       "name": "Logo Android"
     }
+  },
+  {
+    "id": "25e91d45a62d1d74fa315523412e6a24d0558f2e5e9be8cf006638da66320c12i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Logo",
+          "value": "1"
+        }
+      ],
+      "name": "Logo ChatGPT"
+    }
+  },
+  {
+    "id": "bc100ee8acf99cad6a5349c1b9b38e477988925638fdb3364ced6e0c20586f34i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Logo",
+          "value": "1"
+        }
+      ],
+      "name": "Logo Tesla"
+    }
+  },
+  {
+    "id": "665a494f516c658563f5ff4f660f5ddca26998374ebf2b66e44960f77a5104f1i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Logo",
+          "value": "1"
+        }
+      ],
+      "name": "Logo Mastercard"
+    }
+  },
+  {
+    "id": "7b9d979f5e206c8a4a6d94ff3c8bcf491b76a8dff643af7e94ba894f14fb6cf6i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Logo",
+          "value": "1"
+        }
+      ],
+      "name": "Logo SpaceX"
+    }
   }
 ]
