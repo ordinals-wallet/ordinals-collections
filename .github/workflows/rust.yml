@@ -20,11 +20,11 @@ jobs:
         with: 
           node-version: 16
       - name: Pretty-Quick
-        run: npx -p prettier@3.0.2 -p pretty-quick pretty-quick
+        run: npx -p prettier@3.0.2 -p pretty-quick@3.1.3 pretty-quick
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: stefanzweifel/git-auto-commit-action@v4
-        if: ${{ github.event_name == 'push' || github.event_name == 'workflow_dispatch' }}
+        if: ${{ github.event_name == 'pull_request'}}
         with:
           commit_message: "style: format files"
           
