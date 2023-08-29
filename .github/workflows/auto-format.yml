@@ -1,0 +1,25 @@
+name: "auto-format"
+on:
+  pull_request:
+    types: [opened, synchronize]
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+jobs:
+  auto-format:
+    # For development reasons, this action is pinned to the `main` branch.
+    # However, we recommend that you choose a specific release to pin to.
+    # Consult https://github.com/cloudposse/github-action-auto-format/releases for a list of available releases.
+
+    # only run on pull requests so long as they don't come from forks
+    if: ${{ !( (github.event_name == 'pull_request') && (github.event.pull_request.head.repo.full_name != github.repository) ) }}
+    uses: cloudposse/github-action-auto-format/.github/workflows/auto-format-reusable.yml@main
+    with:
+      # Delete "format-tasks:" values as desired to limit the scope of the overall auto-formatting task.
+      format-tasks: |
+        ["readme", "github", "terraform", "context"]
+      # GitHub username to use for automated commits (should be a real GitHub user)
+      bot-name: cloudpossebot
+    secrets:
+      workflow-token: ${{ secrets.TOKEN_WITH_WORKFLOWS_PERMISSION }}
