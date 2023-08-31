@@ -23,7 +23,7 @@ jobs:
 #      with: 
 #        node-version: 16
     - name: Auto-Format with pretty-quick
-#      env: 
+      env: 
 #test1        git_branch_ref: ${{GITHUB_REF#refs/heads/}}
 
         git_branch_ref: ${{github.event.workflow_run.head_sha}}
