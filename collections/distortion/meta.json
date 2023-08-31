@@ -1,9 +1,10 @@
 {
-  "name": "Distortion",
-  "inscription_icon": "a59b331716301f6e2e8a8f09b717ed68b1bc17ae4cb9c8b5b0e7985e60eb5199i0",
-  "slug": "distortion",
   "description": "Distortion is a fully hand-typed 100% on-chain art collection limited to 1,111 pieces. It is designed to be displayed with no external browser libraries (e.g. p5js).",
-  "twitter_link": "https://twitter.com/null_ish",
   "discord_link": "https://discord.gg/VsGxzSh5qW",
+  "icon": "https://turbo.ordinalswallet.com/inscription/preview/a59b331716301f6e2e8a8f09b717ed68b1bc17ae4cb9c8b5b0e7985e60eb5199i0",
+  "inscription_icon": "a59b331716301f6e2e8a8f09b717ed68b1bc17ae4cb9c8b5b0e7985e60eb5199i0",
+  "name": "Distortion",
+  "slug": "distortion",
+  "twitter_link": "https://twitter.com/null_ish",
   "website_link": "https://distortion.nullish.org"
 }
