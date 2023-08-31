@@ -11,7 +11,7 @@ env:
 
 jobs:
 #experimental auto-format starts here
-  auto-format:
+  main:
     runs-on: ubuntu-latest
     defaults:
       run:
