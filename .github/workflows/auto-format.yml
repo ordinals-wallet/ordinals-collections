@@ -1,4 +1,4 @@
-name: Rust
+name: Auto-Format
 
 on:
   push:
@@ -8,10 +8,9 @@ on:
 
 env:
   CARGO_TERM_COLOR: always
-
+  
 jobs:
-#experimental auto-format starts here
-  main:
+  auto-format:
     runs-on: ubuntu-latest
     defaults:
       run:
@@ -69,13 +68,3 @@ jobs:
         if: ${{ github.event_name == 'pull_request'}}
         with:
           commit_message: "style: format files"
-  #experimental auto-format ends here
-  build: 
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v3
-    - name: Build
-      run: cargo build --verbose
-    - name: Run tests
-      run: cargo test --verbose
