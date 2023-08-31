@@ -10,10 +10,8 @@ env:
   CARGO_TERM_COLOR: always
   
 jobs:
-  main:
+  build:
     runs-on: ubuntu-latest
-    outputs:
-      result: ${{ toJSON(steps.changes.outputs) }}
     defaults:
       run:
         shell: bash
