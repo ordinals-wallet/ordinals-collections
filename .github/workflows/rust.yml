@@ -15,17 +15,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    - name: Checkout
-      uses: actions/checkout@v3
+    - uses: actions/checkout@v3
       with:
-        ref: ${{github.event.pull_request.head.sha}}
-#Experimental Auto-format starts here
-#needed?:   - uses: actions/setup-node@v3
-#      with: 
-#        node-version: 16
+        ref: refs/pull/${{ github.event.number }}/head
     - name: Auto-Format with pretty-quick
       env: 
-        git_branch_ref: ${{github.event.pull_request.head.sha}}
+        git_branch_ref:  refs/pull/${{ github.event.number }}/head
       run: npx -p prettier@3.0.2 -p pretty-quick@3.1.3 pretty-quick --staged --branch git_branch_ref
     - name: Commit auto-formatted files
       env:
