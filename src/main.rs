@@ -14,10 +14,7 @@ pub use markets::*;
 
 #[tokio::main]
 async fn main() -> Result<()> {
-    let c = markets::MagicEden::get_collection(&"bitdodos".to_string()).await?;
-    //let c = markets::Ordswap::get_collection(&"ovo".to_string()).await?;
-    //collection::write(&c.0, &c.1)?;
-    //collection::reformat()?;
+    collection::reformat()?;
     Ok(())
 }
 
