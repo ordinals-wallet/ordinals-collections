@@ -23234,7 +23234,6 @@
   {
     "id": "65b8e635a3af60675928cbde990ddf3432ebaa9e6d67d8d87083cd7af3b837f9i0",
     "meta": {
-      "name": "BicoinFish #969",
       "attributes": [
         {
           "trait_type": "Background",
@@ -23252,7 +23251,8 @@
           "trait_type": "Mouth",
           "value": "Tradition Pipe"
         }
-      ]
+      ],
+      "name": "BicoinFish #969"
     }
   }
 ]
