@@ -368,7 +368,7 @@
           "value": "Block-78"
         }
       ],
-      "name": "OO"
+      "name": "00"
     }
   },
   {
@@ -533,7 +533,7 @@
       "attributes": [
         {
           "trait_type": "Satributes",
-          "value": "Block-9 & First TX"
+          "value": "Block-9 ++ First TX"
         }
       ],
       "name": "The Young One"
@@ -545,7 +545,7 @@
       "attributes": [
         {
           "trait_type": "Satributes",
-          "value": "Block-9 & First TX"
+          "value": "Block-9 ++ First TX"
         }
       ],
       "name": "Cantillon"
@@ -557,7 +557,7 @@
       "attributes": [
         {
           "trait_type": "Satributes",
-          "value": "Block-9 & First TX"
+          "value": "Block-9 ++ First TX"
         }
       ],
       "name": "Avengelina"
@@ -617,7 +617,7 @@
       "attributes": [
         {
           "trait_type": "Satributes",
-          "value": "Block-9 & First TX"
+          "value": "Block-9 ++ First TX"
         }
       ],
       "name": "Haley"
@@ -629,7 +629,7 @@
       "attributes": [
         {
           "trait_type": "Satributes",
-          "value": "Block-9 & First TX"
+          "value": "Block-9 ++ First TX"
         }
       ],
       "name": "H#5H"
@@ -641,10 +641,190 @@
       "attributes": [
         {
           "trait_type": "Satributes",
-          "value": "Block-9 & First TX"
+          "value": "Block-9 ++ First TX"
         }
       ],
       "name": "Re:Birth"
+    }
+  },
+  {
+    "id": "60615c1c29ef70d9cdc4bb138727cef84629be8308745635777ec61d81ce4c0ei0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome ++ Vintage"
+        }
+      ],
+      "name": "Cho Cho"
+    }
+  },
+  {
+    "id": "1ac0237a142403d209d71d4031f212915ca464e304a779013b815797b954e8bai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Aeon"
+    }
+  },
+  {
+    "id": "b7e6de63e465ddb97f83c6548b0325925266670355266142ab7577753da9f16ci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "King Aleph"
+    }
+  },
+  {
+    "id": "f43661285c2395c4dbefd4c5b4603646e96200a93ac02ccf7e4fb024e3a8a910i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Dyna:Mi:Te"
+    }
+  },
+  {
+    "id": "653955216d5288f203b2c2bb58acfd63de41d780d57735ffa06ed64290a7d644i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-9 ++ First TX"
+        }
+      ],
+      "name": "Iboga Nano"
+    }
+  },
+  {
+    "id": "e12ec910e0937ec34c828c7a609571a0aa4dbb603c34733308f31df7fbf01ce4i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "W-60"
+    }
+  },
+  {
+    "id": "3f73e5e647af0b9ff0fca8a315b8b540e23ebc8d43bf1af7630b42170029c611i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-78"
+        }
+      ],
+      "name": "Mano Jalpa"
+    }
+  },
+  {
+    "id": "c2d2ebe4048dd09cf31766d930f0d63972b430419163b1c3b193af1b96594e9fi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Block-78"
+        }
+      ],
+      "name": "The Guardian Spirit"
+    }
+  },
+  {
+    "id": "9c00219cd3e793904164760971efc52c9d682f74596e3acbeb7085cbcac657bai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Consensus"
+    }
+  },
+  {
+    "id": "0eb0c2faaeabd0016c4b177db023097b8124ca2c80672fd8d9841b8c33c3d736i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Wakan Tanka"
+    }
+  },
+  {
+    "id": "d9d1bc035e0c3a15802e7c402b3f5bb59df9699a9e8179ea751128d9046a3dfdi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Furu Kane"
+    }
+  },
+  {
+    "id": "2fab79785464075390ca5a54ec29000b4ed3485b312069320ec603cbb2aa96bfi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "S T E L L A R"
+    }
+  },
+  {
+    "id": "185de1158a8fb3088053b8c485fb4aecdce7d6444b7c62a86bec7d2dfd14d161i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": "Lord One"
+    }
+  },
+  {
+    "id": "5f54f3c8c0bafc91379bd7391eccda1c084d96266cf78e4602e7e28bc45ec162i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Palindrome"
+        }
+      ],
+      "name": ""
+    }
+  },
+  {
+    "id": "f470ddc5c1c2455867a12694efd33c74dafbf43d06fa6ec1e3e7d83f16185c0ai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Satributes",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "Shambhala"
     }
   }
 ]
