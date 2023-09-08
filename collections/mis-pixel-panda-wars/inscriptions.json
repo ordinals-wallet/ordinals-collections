@@ -2,689 +2,689 @@
   {
     "id": "e4860e99ad10cd5220ea57bedd9f7d957ea1d18eb69e7372477fa7164234b29bi0",
     "meta": {
-      "name": "Claymore Wielder panda",
       "attributes": [
         {
-          "value": "2",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "2"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Creature",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Creature"
         },
         {
-          "value": "6",
-          "trait_type": "Attack"
+          "trait_type": "Attack",
+          "value": "6"
         },
         {
-          "value": "5",
-          "trait_type": "Defense"
+          "trait_type": "Defense",
+          "value": "5"
         }
-      ]
+      ],
+      "name": "Claymore Wielder panda"
     }
   },
   {
     "id": "8c911e6e4ac48e0e18e965e63e1c92203e6f5b701cd7456ec271e6ce7824dbb3i0",
     "meta": {
-      "name": "Pordon Freeman",
       "attributes": [
         {
-          "value": "5",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "5"
         },
         {
-          "value": "Refractor",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Refractor"
         },
         {
-          "value": "Creature",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Creature"
         },
         {
-          "value": "12",
-          "trait_type": "Attack"
+          "trait_type": "Attack",
+          "value": "12"
         },
         {
-          "value": "12",
-          "trait_type": "Defense"
+          "trait_type": "Defense",
+          "value": "12"
         }
-      ]
+      ],
+      "name": "Pordon Freeman"
     }
   },
   {
     "id": "664d415e69efab968bf5d22fbfa581998a0df140b158b2828983a4b23f2ca0d2i0",
     "meta": {
-      "name": "Blue Gobbler's Sword",
       "attributes": [
         {
-          "value": "1",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "1"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Spell",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Spell"
         }
-      ]
+      ],
+      "name": "Blue Gobbler's Sword"
     }
   },
   {
     "id": "1d54ea927bf62c0f7d55f96f96f1682a4d2d4236f2d4f2963fc661ddbc2b5366i0",
     "meta": {
-      "name": "Ebenezer panda",
       "attributes": [
         {
-          "value": "5",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "5"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Creature",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Creature"
         },
         {
-          "value": "3",
-          "trait_type": "Attack"
+          "trait_type": "Attack",
+          "value": "3"
         },
         {
-          "value": "9",
-          "trait_type": "Defense"
+          "trait_type": "Defense",
+          "value": "9"
         }
-      ]
+      ],
+      "name": "Ebenezer panda"
     }
   },
   {
     "id": "1db7be5a1212c0e23f550a36d4ef38dd30a9e004a58361aecaf885ba5263e56fi0",
     "meta": {
-      "name": "Lab in the Sky",
       "attributes": [
         {
-          "value": "1",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "1"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Building",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Building"
         }
-      ]
+      ],
+      "name": "Lab in the Sky"
     }
   },
   {
     "id": "38e2b93bb6f740ac32399b12c31cd850fd5c9c691b41977ae50dd27965e079a5i0",
     "meta": {
-      "name": "Celestial Sphere",
       "attributes": [
         {
-          "value": "2",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "2"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Spell",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Spell"
         }
-      ]
+      ],
+      "name": "Celestial Sphere"
     }
   },
   {
     "id": "3d57068b5c035a4de98d59ba0ca36aca9ac480f1e23ff501e16fb4aca6bcf6a2i0",
     "meta": {
-      "name": "The Castle of Blue Gobbler",
       "attributes": [
         {
-          "value": "3",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "3"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Building",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Building"
         }
-      ]
+      ],
+      "name": "The Castle of Blue Gobbler"
     }
   },
   {
     "id": "5a8b3c3d09162c0ea2afdc9e7e09c89975abc39368a1850d2621202d1d7961a9i0",
     "meta": {
-      "name": "Greg the Hacker",
       "attributes": [
         {
-          "value": "2",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "2"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Spell",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Spell"
         }
-      ]
+      ],
+      "name": "Greg the Hacker"
     }
   },
   {
     "id": "630f0276058e2cb5bac319c55d31060bc62442ef81d6a0d53b3c9de2635fdb5bi0",
     "meta": {
-      "name": "Meditation panda",
       "attributes": [
         {
-          "value": "1",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "1"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Creature",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Creature"
         },
         {
-          "value": "2",
-          "trait_type": "Attack"
+          "trait_type": "Attack",
+          "value": "2"
         },
         {
-          "value": "7",
-          "trait_type": "Defense"
+          "trait_type": "Defense",
+          "value": "7"
         }
-      ]
+      ],
+      "name": "Meditation panda"
     }
   },
   {
     "id": "6e8e3d7904152cdd73469a27bbc9f6c97c3a229ec30ae53ed7ef56754f36dae2i0",
     "meta": {
-      "name": "Foggy Lake panda",
       "attributes": [
         {
-          "value": "1",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "1"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Creature",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Creature"
         },
         {
-          "value": "3",
-          "trait_type": "Attack"
+          "trait_type": "Attack",
+          "value": "3"
         },
         {
-          "value": "5",
-          "trait_type": "Defense"
+          "trait_type": "Defense",
+          "value": "5"
         }
-      ]
+      ],
+      "name": "Foggy Lake panda"
     }
   },
   {
     "id": "7b27a3182bf9775c1b608b6bf11785ea183c926e846dbab863f7dfb573b2cd44i0",
     "meta": {
-      "name": "First Sunrise Plot",
       "attributes": [
         {
-          "value": "1",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "1"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Building",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Building"
         }
-      ]
+      ],
+      "name": "First Sunrise Plot"
     }
   },
   {
     "id": "8dd312fb6678f1ca783682cce89a4db3bae8cf6f6777f4f28534c6ae470d7c10i0",
     "meta": {
-      "name": "Hatamoto panda",
       "attributes": [
         {
-          "value": "2",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "2"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Creature",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Creature"
         },
         {
-          "value": "4",
-          "trait_type": "Attack"
+          "trait_type": "Attack",
+          "value": "4"
         },
         {
-          "value": "8",
-          "trait_type": "Defense"
+          "trait_type": "Defense",
+          "value": "8"
         }
-      ]
+      ],
+      "name": "Hatamoto panda"
     }
   },
   {
     "id": "91a4f0d5aa9bd9f15cfbfc36d68574f7fff17a2430876c0c295b6dfa03590a3ei0",
     "meta": {
-      "name": "Shizoku panda",
       "attributes": [
         {
-          "value": "2",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "2"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Creature",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Creature"
         },
         {
-          "value": "3",
-          "trait_type": "Attack"
+          "trait_type": "Attack",
+          "value": "3"
         },
         {
-          "value": "9",
-          "trait_type": "Defense"
+          "trait_type": "Defense",
+          "value": "9"
         }
-      ]
+      ],
+      "name": "Shizoku panda"
     }
   },
   {
     "id": "9c3085306bcbcab1ffe4048fd820bfa91930d77ac377b278056b2067c92f4c5bi0",
     "meta": {
-      "name": "Greg the Hacker",
       "attributes": [
         {
-          "value": "2",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "2"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Spell",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Spell"
         }
-      ]
+      ],
+      "name": "Greg the Hacker"
     }
   },
   {
     "id": "b06dc88a46fc3871b668ffbe183caffdab4e14f2779298343938c7a1b66aa6f8i0",
     "meta": {
-      "name": "Conqueror panda",
       "attributes": [
         {
-          "value": "1",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "1"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Creature",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Creature"
         },
         {
-          "value": "2",
-          "trait_type": "Attack"
+          "trait_type": "Attack",
+          "value": "2"
         },
         {
-          "value": "6",
-          "trait_type": "Defense"
+          "trait_type": "Defense",
+          "value": "6"
         }
-      ]
+      ],
+      "name": "Conqueror panda"
     }
   },
   {
     "id": "b8d6de25c79c0edd35b6ca2d8b2b4764dcb38b37d3ace45c5403ce269f4c7084i0",
     "meta": {
-      "name": "Furtive Winze",
       "attributes": [
         {
-          "value": "2",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "2"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Building",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Building"
         }
-      ]
+      ],
+      "name": "Furtive Winze"
     }
   },
   {
     "id": "be7848799539d42c112b7665c9cf398fd384790b79b9968846b33ef5302c7cc3i0",
     "meta": {
-      "name": "Sommelier panda",
       "attributes": [
         {
-          "value": "1",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "1"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Creature",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Creature"
         },
         {
-          "value": "1",
-          "trait_type": "Attack"
+          "trait_type": "Attack",
+          "value": "1"
         },
         {
-          "value": "7",
-          "trait_type": "Defense"
+          "trait_type": "Defense",
+          "value": "7"
         }
-      ]
+      ],
+      "name": "Sommelier panda"
     }
   },
   {
     "id": "da8b9e77ad95ff25ab17fbeff0b788e998b6eaedf62fb154c3ed3e6e8f4309c2i0",
     "meta": {
-      "name": "Nitrogen Artifact",
       "attributes": [
         {
-          "value": "2",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "2"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Spell",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Spell"
         }
-      ]
+      ],
+      "name": "Nitrogen Artifact"
     }
   },
   {
     "id": "dd6e16df03d769c683751ad944c0f98093118eaa66c7631e4f60c91688e8f1b9i0",
     "meta": {
-      "name": "EOD panda",
       "attributes": [
         {
-          "value": "1",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "1"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Creature",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Creature"
         },
         {
-          "value": "0",
-          "trait_type": "Attack"
+          "trait_type": "Attack",
+          "value": "0"
         },
         {
-          "value": "8",
-          "trait_type": "Defense"
+          "trait_type": "Defense",
+          "value": "8"
         }
-      ]
+      ],
+      "name": "EOD panda"
     }
   },
   {
     "id": "e0326a2c345b341ed0ad3e92d7c75c4e5b7cb541c297d853c45e5a7336fc7c77i0",
     "meta": {
-      "name": "Blue Gobbler's Sword",
       "attributes": [
         {
-          "value": "1",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "1"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Spell",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Spell"
         }
-      ]
+      ],
+      "name": "Blue Gobbler's Sword"
     }
   },
   {
     "id": "e29574a57a4f1fab1d07a47333607edb2f8e680a23c55e57c289e294e6749426i0",
     "meta": {
-      "name": "Goddess Pele the panda",
       "attributes": [
         {
-          "value": "3",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "3"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Creature",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Creature"
         },
         {
-          "value": "6",
-          "trait_type": "Attack"
+          "trait_type": "Attack",
+          "value": "6"
         },
         {
-          "value": "6",
-          "trait_type": "Defense"
+          "trait_type": "Defense",
+          "value": "6"
         }
-      ]
+      ],
+      "name": "Goddess Pele the panda"
     }
   },
   {
     "id": "ea1364eb1a35b7f89b16779c5f811eb031c6007b8a738154cbcefbb91a2f4131i0",
     "meta": {
-      "name": "Hobgoblin panda",
       "attributes": [
         {
-          "value": "2",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "2"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Creature",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Creature"
         },
         {
-          "value": "3",
-          "trait_type": "Attack"
+          "trait_type": "Attack",
+          "value": "3"
         },
         {
-          "value": "7",
-          "trait_type": "Defense"
+          "trait_type": "Defense",
+          "value": "7"
         }
-      ]
+      ],
+      "name": "Hobgoblin panda"
     }
   },
   {
     "id": "ec7cabf0ee30d92210ccae168b34a8eb9b2deab3ce4b946a237cceacf6edef84i0",
     "meta": {
-      "name": "Celestial Sphere",
       "attributes": [
         {
-          "value": "2",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "2"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Spell",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Spell"
         }
-      ]
+      ],
+      "name": "Celestial Sphere"
     }
   },
   {
     "id": "eca48e01662f8593ab437f44c485737d09a99b65a5de7627a4fb4e2a33204b30i0",
     "meta": {
-      "name": "Tachimukau panda",
       "attributes": [
         {
-          "value": "1",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "1"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Creature",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Creature"
         },
         {
-          "value": "1",
-          "trait_type": "Attack"
+          "trait_type": "Attack",
+          "value": "1"
         },
         {
-          "value": "5",
-          "trait_type": "Defense"
+          "trait_type": "Defense",
+          "value": "5"
         }
-      ]
+      ],
+      "name": "Tachimukau panda"
     }
   },
   {
     "id": "f492724dde3ccfcac7a74f81a0e42b74ced1af576adbb0f47fa7c4dd20cec394i0",
     "meta": {
-      "name": "Pyrotechnics panda",
       "attributes": [
         {
-          "value": "2",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "2"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Creature",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Creature"
         },
         {
-          "value": "3",
-          "trait_type": "Attack"
+          "trait_type": "Attack",
+          "value": "3"
         },
         {
-          "value": "6",
-          "trait_type": "Defense"
+          "trait_type": "Defense",
+          "value": "6"
         }
-      ]
+      ],
+      "name": "Pyrotechnics panda"
     }
   },
   {
     "id": "fe42e5efe24c118d4c837cf55ed463d25adfefee7e29bde9c2ca5485223c2702i0",
     "meta": {
-      "name": "Rainbow Radiation",
       "attributes": [
         {
-          "value": "1",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "1"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Spell",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Spell"
         }
-      ]
+      ],
+      "name": "Rainbow Radiation"
     }
   },
   {
     "id": "fef8a7347754f890a2425c33c00b86986a015896e6c2843d0aab0f5741e7e2b7i0",
     "meta": {
-      "name": "Claymore Wielder panda",
       "attributes": [
         {
-          "value": "2",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "2"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Creature",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Creature"
         },
         {
-          "value": "4",
-          "trait_type": "Attack"
+          "trait_type": "Attack",
+          "value": "4"
         },
         {
-          "value": "5",
-          "trait_type": "Defense"
+          "trait_type": "Defense",
+          "value": "5"
         }
-      ]
+      ],
+      "name": "Claymore Wielder panda"
     }
   },
   {
     "id": "ffb96de5a5ecac38582e89e0e0cde501ea382b5b897c82d83a9e6804e0e33632i0",
     "meta": {
-      "name": "Senreity panda",
       "attributes": [
         {
-          "value": "2",
-          "trait_type": "Action Points"
+          "trait_type": "Action Points",
+          "value": "2"
         },
         {
-          "value": "Blue Plains",
-          "trait_type": "Landscape"
+          "trait_type": "Landscape",
+          "value": "Blue Plains"
         },
         {
-          "value": "Creature",
-          "trait_type": "Card Type"
+          "trait_type": "Card Type",
+          "value": "Creature"
         },
         {
-          "value": "2",
-          "trait_type": "Attack"
+          "trait_type": "Attack",
+          "value": "2"
         },
         {
-          "value": "10",
-          "trait_type": "Defense"
+          "trait_type": "Defense",
+          "value": "10"
         }
-      ]
+      ],
+      "name": "Senreity panda"
     }
   }
 ]

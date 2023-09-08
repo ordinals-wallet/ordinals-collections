@@ -2,22 +2,21 @@
   {
     "id": "f1651b9c843d20200052e2b9a7f93874df786ab3edbca9f64f75328d1d612d4bi0",
     "meta": {
-      "name": "BTC Boring Punks",
       "attributes": [
         {
-          "value": "Ape",
-          "trait_type": "Type"
+          "trait_type": "Type",
+          "value": "Ape"
         },
         {
-          "value": "Special",
-          "trait_type": "Skin Tone"
+          "trait_type": "Skin Tone",
+          "value": "Special"
         },
         {
-          "value": "Cap Forward",
-          "trait_type": "Hat"
+          "trait_type": "Hat",
+          "value": "Cap Forward"
         }
       ],
-      "high_res_img_url": "https://bitcoinord.mypinata.cloud/ipfs/QmRnxPSikeWezhHmoy6EGV9a9B369dDLpGFxopKMKyLyaG/372.png"
+      "name": "BTC Boring Punks"
     }
   }
 ]

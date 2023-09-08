@@ -2,51 +2,49 @@
   {
     "id": "2ac26394bffddc4563fed71ef3b5ab0f83ea6800edf77997c5405081ff084327i0",
     "meta": {
-      "name": "CoolSmiley #1",
       "attributes": [
         {
-          "value": "lightpurple",
-          "trait_type": "background"
+          "trait_type": "background",
+          "value": "lightpurple"
         },
         {
-          "value": "greenface",
-          "trait_type": "face"
+          "trait_type": "face",
+          "value": "greenface"
         },
         {
-          "value": "stareyes",
-          "trait_type": "eyes"
+          "trait_type": "eyes",
+          "value": "stareyes"
         },
         {
-          "value": "smilemouth",
-          "trait_type": "mouth"
+          "trait_type": "mouth",
+          "value": "smilemouth"
         }
       ],
-      "high_res_img_url": "https://ipfs.io/ipfs/QmNqSC3CncC1Ad4hStYcjdQMGqY75ANakLJeVYgzvU4zKn/1.png"
+      "name": "CoolSmiley #1"
     }
   },
   {
     "id": "b6cfbe62203db83610de0862aea6da2c6d9471b659ed0ec1c84dbfd67795cf3ei0",
     "meta": {
-      "name": "CoolSmiley #2",
       "attributes": [
         {
-          "value": "brown",
-          "trait_type": "background"
+          "trait_type": "background",
+          "value": "brown"
         },
         {
-          "value": "greenface",
-          "trait_type": "face"
+          "trait_type": "face",
+          "value": "greenface"
         },
         {
-          "value": "eggeyes",
-          "trait_type": "eyes"
+          "trait_type": "eyes",
+          "value": "eggeyes"
         },
         {
-          "value": "blockmouth",
-          "trait_type": "mouth"
+          "trait_type": "mouth",
+          "value": "blockmouth"
         }
       ],
-      "high_res_img_url": "https://ipfs.io/ipfs/QmNqSC3CncC1Ad4hStYcjdQMGqY75ANakLJeVYgzvU4zKn/2.png"
+      "name": "CoolSmiley #2"
     }
   }
 ]
