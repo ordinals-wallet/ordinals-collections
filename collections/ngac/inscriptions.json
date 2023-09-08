@@ -1,0 +1,584 @@
+[
+  {
+    "id": "089a85853cb5a2ab168cfe992416299be1fd04ce07cca655ae4c6eb59ff65190i0",
+    "meta": {
+      "name": "Momonyan_secretary",
+      "attributes": [
+        {
+          "value": "Momonyan",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Secretary",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Super_strength",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Heavy_drinker",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Airhead",
+          "trait_type": "CHARACTER_TYPE3"
+        },
+        {
+          "value": "Day-dreamer",
+          "trait_type": "WEEK_POINT"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/momonyan_secretary1.png"
+    }
+  },
+  {
+    "id": "3e4a433fdaad59cfa64773eae2492af09177eb0b33ea6cdf9799201470ad377ei0",
+    "meta": {
+      "name": "Shiramata_secretary",
+      "attributes": [
+        {
+          "value": "Shiratama",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Secretary",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Tsundere",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Cutesy",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Cheeks_when_angry_inflate",
+          "trait_type": "CHARACTER_TYPE3"
+        },
+        {
+          "value": "Jealousy",
+          "trait_type": "WEEK_POINT"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/shiratama_secretary1.png"
+    }
+  },
+  {
+    "id": "60ad0dfccadf94480a0dfdcffcc5c0ab7a83a0e912f2dafdeaeb052c76c8d2cai0",
+    "meta": {
+      "name": "Soranosuke_engineer",
+      "attributes": [
+        {
+          "value": "Soranosuke",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Engineer",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Knowledgeable",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Crazy_glasses",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Indoor",
+          "trait_type": "CHARACTER_TYPE3"
+        },
+        {
+          "value": "Motion_deaf",
+          "trait_type": "WEEK_POINT"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/soranosuke_engineer1.png"
+    }
+  },
+  {
+    "id": "6faedc1f1e8b921a694c83eb0c5655970edcd9be5cf01c65133dc34089758e9di0",
+    "meta": {
+      "name": "Azuki_engineer",
+      "attributes": [
+        {
+          "value": "Azuki",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Engineer",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Let's_decide_together",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Let's_decide_together",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Let's_decide_together",
+          "trait_type": "CHARACTER_TYPE1"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/azuki_engineer1.png"
+    }
+  },
+  {
+    "id": "7afde78c515b35896d3bde27f2ec871823efe80808d158668c4567b4a1b7f981i0",
+    "meta": {
+      "name": "Kagemaru_engineer",
+      "attributes": [
+        {
+          "value": "Kagemaru",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Engineer",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Mischievous",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Crafty",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Nerd",
+          "trait_type": "CHARACTER_TYPE3"
+        },
+        {
+          "value": "Shy_person",
+          "trait_type": "WEEK_POINT"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/kagemaru_engineer1.png"
+    }
+  },
+  {
+    "id": "90365ea190588582fa7ec1e70684f11d24f5af81c12d07b91fc4cce5dc532958i0",
+    "meta": {
+      "name": "Azuki_secretary",
+      "attributes": [
+        {
+          "value": "Azuki",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Secretary",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Let's_decide_together",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Let's_decide_together",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Let's_decide_together",
+          "trait_type": "CHARACTER_TYPE1"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/azuki_secretary1.png"
+    }
+  },
+  {
+    "id": "beca804f420ce3234f343e4311f9091d536723b77b2010c5665ee6977ba6603fi0",
+    "meta": {
+      "name": "Nyanmaru_secretary",
+      "attributes": [
+        {
+          "value": "Nyanmaru",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Secretary",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Innocent",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Resilient",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Miracle_lucky",
+          "trait_type": "CHARACTER_TYPE3"
+        },
+        {
+          "value": "Disorientation",
+          "trait_type": "WEEK_POINT"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/nyanmaru_secretary1.png"
+    }
+  },
+  {
+    "id": "c64fd086266980ba760b61f3b9b9ea2ced533be8e260e1dda54b172f4289bec8i0",
+    "meta": {
+      "name": "Soranosuke_secretary",
+      "attributes": [
+        {
+          "value": "Soranosuke",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Secretary",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Knowledgeable",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Crazy_glasses",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Indoor",
+          "trait_type": "CHARACTER_TYPE3"
+        },
+        {
+          "value": "Motion_deaf",
+          "trait_type": "WEEK_POINT"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/soranosuke_secretary1.png"
+    }
+  },
+  {
+    "id": "dd5be18a9b9b1a7c0e6e329ce9be31e8031566e00db4e387c7f413e925ac00e6i0",
+    "meta": {
+      "name": "Momonyan_engineer",
+      "attributes": [
+        {
+          "value": "Momonyan",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Engineer",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Super_strength",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Heavy_drinker",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Airhead",
+          "trait_type": "CHARACTER_TYPE3"
+        },
+        {
+          "value": "Day-dreamer",
+          "trait_type": "WEEK_POINT"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/momonyan_engineer1.png"
+    }
+  },
+  {
+    "id": "0092d797b64a99fb7bae97b126f7ccedc223f7fc44b0011f57b8efe48e9ae4ffi0",
+    "meta": {
+      "name": "Shiramata_engineer",
+      "attributes": [
+        {
+          "value": "Shiratama",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Secretary",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Tsundere",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Cutesy",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Cheeks_when_angry_inflate",
+          "trait_type": "CHARACTER_TYPE3"
+        },
+        {
+          "value": "Jealousy",
+          "trait_type": "WEEK_POINT"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/shiratama_engineer1.png"
+    }
+  },
+  {
+    "id": "2b5f641f8571e2191dba61316ea353415bc04d0ed1c2c3ccfcd3b7fab2f95879i0",
+    "meta": {
+      "name": "Nyanmaru_engineer",
+      "attributes": [
+        {
+          "value": "Nyanmaru",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Engineer",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Innocent",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Resilient",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Miracle_lucky",
+          "trait_type": "CHARACTER_TYPE3"
+        },
+        {
+          "value": "Disorientation",
+          "trait_type": "WEEK_POINT"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/nyanmaru_engineer1.png"
+    }
+  },
+  {
+    "id": "31c0def69f8923ddc3d7507444723dfab755771a7c509be889b6574386a6403fi0",
+    "meta": {
+      "name": "Shiramata_illustrator",
+      "attributes": [
+        {
+          "value": "Shiratama",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Secretary",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Tsundere",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Cutesy",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Cheeks_when_angry_inflate",
+          "trait_type": "CHARACTER_TYPE3"
+        },
+        {
+          "value": "Jealousy",
+          "trait_type": "WEEK_POINT"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/shiratama_illustrator1.png"
+    }
+  },
+  {
+    "id": "49b7bb62e21147bfe619e4c64ac62787eb69220879e1ba457b6be7ac08f880a9i0",
+    "meta": {
+      "name": "Azuki_illustrator",
+      "attributes": [
+        {
+          "value": "Azuki",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Illustrator",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Let's_decide_together",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Let's_decide_together",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Let's_decide_together",
+          "trait_type": "CHARACTER_TYPE1"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/azuki_illustrator1.png"
+    }
+  },
+  {
+    "id": "7a5439f5c9fd9ee1c4573ad346c7e913fbd4556818b19f9acfdc2a803b1765eai0",
+    "meta": {
+      "name": "Soranosuke_illustrator",
+      "attributes": [
+        {
+          "value": "Soranosuke",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Illustrator",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Knowledgeable",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Crazy_glasses",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Indoor",
+          "trait_type": "CHARACTER_TYPE3"
+        },
+        {
+          "value": "Motion_deaf",
+          "trait_type": "WEEK_POINT"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/soranosuke_illustrator1.png"
+    }
+  },
+  {
+    "id": "834d54e7b08f87227d982d8418d01aa3fc2d06c6f0f67d0089392f7d3c908dfei0",
+    "meta": {
+      "name": "Nyanmaru_illustrator",
+      "attributes": [
+        {
+          "value": "Nyanmaru",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Illustrator",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Innocent",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Resilient",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Miracle_lucky",
+          "trait_type": "CHARACTER_TYPE3"
+        },
+        {
+          "value": "Disorientation",
+          "trait_type": "WEEK_POINT"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/nyanmaru_illustrator1.png"
+    }
+  },
+  {
+    "id": "8575995f8cf339b04f703879771a5cae6a1779e04a448965e219a197e2673a92i0",
+    "meta": {
+      "name": "Kagemaru_secretary",
+      "attributes": [
+        {
+          "value": "Kagemaru",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Secretary",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Mischievous",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Crafty",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Nerd",
+          "trait_type": "CHARACTER_TYPE3"
+        },
+        {
+          "value": "Shy_person",
+          "trait_type": "WEEK_POINT"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/kagemaru_secretary1.png"
+    }
+  },
+  {
+    "id": "d482ce2d12cdcd4d7477e4a966de5c5b265f65332722bc6fcaf59ee6f762d3e8i0",
+    "meta": {
+      "name": "Momonyan_illustrator",
+      "attributes": [
+        {
+          "value": "Momonyan",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Secretary",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Super_strength",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Heavy_drinker",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Airhead",
+          "trait_type": "CHARACTER_TYPE3"
+        },
+        {
+          "value": "Day-dreamer",
+          "trait_type": "WEEK_POINT"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/momonyan_illustrator1.png"
+    }
+  },
+  {
+    "id": "e853f67940022c6f95e3f35519658a919e05bf0850bfb446805060b55750ba79i0",
+    "meta": {
+      "name": "Kagemaru_illustrator",
+      "attributes": [
+        {
+          "value": "Kagemaru",
+          "trait_type": "NAME"
+        },
+        {
+          "value": "Illustrator",
+          "trait_type": "ROLL"
+        },
+        {
+          "value": "Mischievous",
+          "trait_type": "CHARACTER_TYPE1"
+        },
+        {
+          "value": "Crafty",
+          "trait_type": "CHARACTER_TYPE2"
+        },
+        {
+          "value": "Nerd",
+          "trait_type": "CHARACTER_TYPE3"
+        },
+        {
+          "value": "Shy_person",
+          "trait_type": "WEEK_POINT"
+        }
+      ],
+      "high_res_img_url": "https://nft-mint.xyz/data/ngac/kagemaru_illustrator1.png"
+    }
+  }
+]

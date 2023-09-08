@@ -1,0 +1,50 @@
+[
+  {
+    "id": "04ee22ba11d7d3bc3fea60e8d130169e43ab8dabdc97310e2a4fd11f44c8176ai0",
+    "meta": {
+      "name": "Blockchain",
+      "attributes": [
+        {
+          "value": "Blockchain",
+          "trait_type": "Text"
+        },
+        {
+          "value": "Japanese",
+          "trait_type": "Language"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8443f9b65bd7c18cef12c0228b02616daa2c1e9679c1c13b3b6bb1c8ddac23adi0",
+    "meta": {
+      "name": "Bitcoin",
+      "attributes": [
+        {
+          "value": "Bitcoin",
+          "trait_type": "Text"
+        },
+        {
+          "value": "Japanese",
+          "trait_type": "Language"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c925ab7f67e99771f136542fd9e63639bc10ea24aa9bd038e5181c9052d73a2ci0",
+    "meta": {
+      "name": "Satoshi Nakamoto",
+      "attributes": [
+        {
+          "value": "Satoshi Nakamoto",
+          "trait_type": "Text"
+        },
+        {
+          "value": "Japanese",
+          "trait_type": "Language"
+        }
+      ]
+    }
+  }
+]
