@@ -1,1 +1,122 @@
-[{"id":"08d8c8afa61c9c6db6ac2db39c380365a905e258c20402f2e6e739054b0bf373i0","meta":{"name":"NAKAGON x1.0","attributes":[]}},{"id":"dbff2c0ef3bd6aa799b8d22d888c958666363b6119e80fcf46f1c2804b1eeebai0","meta":{"name":"NAKAGON x1.1","attributes":[]}},{"id":"3c55be8a6a0f45fb767b4990a41cf2357d16c0cfca0714284b231e431e297ce2i0","meta":{"name":"NAKAGON x1.2","attributes":[]}},{"id":"1fd06677a0f2669dcae60bd67a0c73306cff8724e791222e65a27bcb08268fb0i0","meta":{"name":"NAKAGON x1.3","attributes":[]}},{"id":"6046b62e96e73300c774fb502c3615f514c4648326757e5b530c666b4b81c09fi0","meta":{"name":"NAKAGON x1.4","attributes":[]}},{"id":"c5c931e7d0646de08c2ed26c1b054bf7c9e3cdc5f4ce63f31adb40cff6744d11i0","meta":{"name":"NAKAGON x1.5","attributes":[]}},{"id":"caaf879394eec5e1b7adb1bfd776c0a2f28efc04d8208d608e5bf27f90feb947i0","meta":{"name":"NAKAGON x1.6","attributes":[]}},{"id":"faccf57f390901f72481225817bddf7927e99e21a9235b0b7492f8e0fa08de4fi0","meta":{"name":"NAKAGON x1.7","attributes":[]}},{"id":"5ea81924c4169d2a8f44fa0d8fe28c85023005ac920663f437d42d34ed5ecfc9i0","meta":{"name":"NAKAGON x1.8","attributes":[]}},{"id":"4e9015111f9fb4caae6777b077c909b662195aff9601cf483feabb5c96faef0ci0","meta":{"name":"NAKAGON x1.9","attributes":[]}}]
+[
+  {
+    "id": "08d8c8afa61c9c6db6ac2db39c380365a905e258c20402f2e6e739054b0bf373i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "COMMON"
+        }
+      ],
+      "name": "Nuke button"
+    }
+  },
+  {
+    "id": "dbff2c0ef3bd6aa799b8d22d888c958666363b6119e80fcf46f1c2804b1eeebai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "UNCOMMON"
+        }
+      ],
+      "name": "Limitless"
+    }
+  },
+  {
+    "id": "3c55be8a6a0f45fb767b4990a41cf2357d16c0cfca0714284b231e431e297ce2i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "RARE"
+        }
+      ],
+      "name": "Bullish perfection"
+    }
+  },
+  {
+    "id": "1fd06677a0f2669dcae60bd67a0c73306cff8724e791222e65a27bcb08268fb0i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "RARE"
+        }
+      ],
+      "name": "Limited pendulum"
+    }
+  },
+  {
+    "id": "6046b62e96e73300c774fb502c3615f514c4648326757e5b530c666b4b81c09fi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "EXOTIC"
+        }
+      ],
+      "name": "Red point"
+    }
+  },
+  {
+    "id": "c5c931e7d0646de08c2ed26c1b054bf7c9e3cdc5f4ce63f31adb40cff6744d11i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "EPIC"
+        }
+      ],
+      "name": "Tick clock"
+    }
+  },
+  {
+    "id": "caaf879394eec5e1b7adb1bfd776c0a2f28efc04d8208d608e5bf27f90feb947i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "COMMON"
+        }
+      ],
+      "name": "Broken"
+    }
+  },
+  {
+    "id": "faccf57f390901f72481225817bddf7927e99e21a9235b0b7492f8e0fa08de4fi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "LEGENDARY"
+        }
+      ],
+      "name": "Trinity"
+    }
+  },
+  {
+    "id": "5ea81924c4169d2a8f44fa0d8fe28c85023005ac920663f437d42d34ed5ecfc9i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "UNCOMMON"
+        }
+      ],
+      "name": "Atomic bond"
+    }
+  },
+  {
+    "id": "4e9015111f9fb4caae6777b077c909b662195aff9601cf483feabb5c96faef0ci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "EPIC"
+        }
+      ],
+      "name": "Kaos"
+    }
+  }
+]

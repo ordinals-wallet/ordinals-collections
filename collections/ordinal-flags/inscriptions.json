@@ -2,9 +2,6 @@
   {
     "id": "19125a9b299c657df945128a76ea0a4549fddafcd08a76207999af374f743e28i0",
     "meta": {
-      "name": "andalucia",
-	  "status": "Meteor",
-	  "rank":"2",
       "attributes": [
         {
           "trait_type": "coords",
@@ -33,16 +30,18 @@
         {
           "trait_type": "capital",
           "value": "Sevilla"
+        },
+        {
+          "trait_type": "rank",
+          "value": "2"
         }
-      ]
+      ],
+      "name": "andalucia"
     }
   },
   {
     "id": "c178e0266123d1405e88ecb6b9dbb3d960de8a386d8e26262aa4ebeda17710e8i0",
     "meta": {
-      "name": "aragon",
-	  "status": "Comet",
-	  "rank":"4",
       "attributes": [
         {
           "trait_type": "coords",
@@ -71,16 +70,18 @@
         {
           "trait_type": "capital",
           "value": "Zaragoza"
+        },
+        {
+          "trait_type": "rank",
+          "value": "4"
         }
-      ]
+      ],
+      "name": "aragon"
     }
   },
   {
     "id": "1cebe08acdf1b81ef753c5d417d97bfc85fc17395e8e9668693407d22f595fc2i0",
     "meta": {
-      "name": "asturias",
-	  "status": "Asteroid",
-	  "rank":"10",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -109,16 +110,18 @@
         {
           "trait_type": "capital",
           "value": "Oviedo"
+        },
+        {
+          "trait_type": "rank",
+          "value": "10"
         }
-      ]
+      ],
+      "name": "asturias"
     }
   },
   {
     "id": "9368a1424c494cefe1629a827b99f0d6e3f9d90c1d4630f643220065054fe10di0",
     "meta": {
-      "name": "canarias",
-	  "status": "Moon ",
-	  "rank":"13",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -147,16 +150,18 @@
         {
           "trait_type": "capital",
           "value": "Las Palmas de Gran Canaria,Santa Cruz de Tenerife"
+        },
+        {
+          "trait_type": "rank",
+          "value": "13"
         }
-      ]
+      ],
+      "name": "canarias"
     }
   },
   {
     "id": "93ae6f51135bd9cecdcdf9a3cd870843245a797dcd9d3de24b0140aec0c05eedi0",
     "meta": {
-      "name": "cantabria",
-	  "status": "Red Dwarf",
-	  "rank":"15",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -185,16 +190,18 @@
         {
           "trait_type": "capital",
           "value": "Santander"
+        },
+        {
+          "trait_type": "rank",
+          "value": "15"
         }
-      ]
+      ],
+      "name": "cantabria"
     }
   },
   {
     "id": "498f7f17f5ed7cf9bfb3fc9d2e4680f2b29d694154c6fe7fb6c200c53634ea70i0",
     "meta": {
-      "name": "castillalamancha",
-	  "status": "White Dwarf",
-	  "rank":"3",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -223,16 +230,18 @@
         {
           "trait_type": "capital",
           "value": "Toledo"
+        },
+        {
+          "trait_type": "rank",
+          "value": "3"
         }
-      ]
+      ],
+      "name": "castillalamancha"
     }
   },
   {
     "id": "0ebd967a0189e499b1ff0297abec10423696fcc1007d55ada67d9dde8a411598i0",
     "meta": {
-      "name": "castillayleon",
-	  "status": "Brown Dwarf",
-	  "rank":"1",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -261,16 +270,18 @@
         {
           "trait_type": "capital",
           "value": "Valladolid"
+        },
+        {
+          "trait_type": "rank",
+          "value": "1"
         }
-      ]
+      ],
+      "name": "castillayleon"
     }
   },
   {
     "id": "a2dfa9671478bd7f3cc03700d5061c9ba96c739ea41ff1e4b884a9590044bca7i0",
     "meta": {
-      "name": "catalunya",
-	  "status": "Nebula",
-	  "rank":"6",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -299,16 +310,18 @@
         {
           "trait_type": "capital",
           "value": "Barcelona"
+        },
+        {
+          "trait_type": "rank",
+          "value": "6"
         }
-      ]
+      ],
+      "name": "catalunya"
     }
   },
   {
     "id": "1d15fd9f3d34c7b1564cd5da21d61e35dab4f0e67c1aa0637786ffdf2f719e1ci0",
     "meta": {
-      "name": "ceuta",
-	  "status": "Pulsar",
-	  "rank":"19",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -339,18 +352,16 @@
           "value": "Ceuta"
         },
         {
-          "trait_type": "size",
+          "trait_type": "rank",
           "value": "19"
         }
-      ]
+      ],
+      "name": "ceuta"
     }
   },
   {
     "id": "b5ffcec19d6e1447d6271d0d92ef7d7862fa259106c0405b5895da4a595dac7fi0",
     "meta": {
-      "name": "extemadura",
-	  "status": "Supernova",
-	  "rank":"5",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -379,16 +390,18 @@
         {
           "trait_type": "capital",
           "value": "Mérida"
+        },
+        {
+          "trait_type": "rank",
+          "value": "5"
         }
-      ]
+      ],
+      "name": "extremadura"
     }
   },
   {
     "id": "7536c635b2fcc40760bb16a4edb1a021625bbdd422029085ad7cf41390c265a1i0",
     "meta": {
-      "name": "galicia",
-	  "status": "Hypernova",
-	  "rank":"7",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -417,16 +430,18 @@
         {
           "trait_type": "capital",
           "value": "La Coruña"
+        },
+        {
+          "trait_type": "rank",
+          "value": "7"
         }
-      ]
+      ],
+      "name": "galicia"
     }
   },
   {
     "id": "a5036aba3c0c19b4ec1cecfa73e8953b6ed1b1a70a303dc98e06ee19dfb95ecai0",
     "meta": {
-      "name": "islasbaleares",
-	  "status": "Black Hole",
-	  "rank":"17",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -455,16 +470,18 @@
         {
           "trait_type": "capital",
           "value": "Palma"
+        },
+        {
+          "trait_type": "rank",
+          "value": "17"
         }
-      ]
+      ],
+      "name": "islasbaleares"
     }
   },
   {
     "id": "311e5face033652b3c35bd40a4f8010d643c47b86c9beffa01d55b1475e66b81i0",
     "meta": {
-      "name": "larioja",
-	  "status": "Binary Star",
-	  "rank":"16",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -493,16 +510,18 @@
         {
           "trait_type": "capital",
           "value": "Logroño"
+        },
+        {
+          "trait_type": "rank",
+          "value": "16"
         }
-      ]
+      ],
+      "name": "larioja"
     }
   },
   {
     "id": "272f38a7b3e9a3e2aba78be65bd5b222d35cc02d870eb7d32313bfa937f3cd99i0",
     "meta": {
-      "name": "comunidaddemadrid",
-	  "status": "Star Cluster",
-	  "rank":"12",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -531,16 +550,18 @@
         {
           "trait_type": "capital",
           "value": "Madrid"
+        },
+        {
+          "trait_type": "rank",
+          "value": "12"
         }
-      ]
+      ],
+      "name": "comunidaddemadrid"
     }
   },
   {
     "id": "8cb1eecd50e9354c114fff380e22e0bb68b6c9baaf438a5a5082c50166a4b266i0",
     "meta": {
-      "name": "melilla",
-	  "status": "Galaxy",
-	  "rank":"18",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -569,16 +590,22 @@
         {
           "trait_type": "capital",
           "value": "Melilla"
+        },
+        {
+          "trait_type": "rank",
+          "value": "xxx"
+        },
+        {
+          "trait_type": "status",
+          "value": "xxx"
         }
-      ]
+      ],
+      "name": "melilla"
     }
   },
   {
     "id": "4f5fe1f3260b53d7669ff352e3738312696dfaeab9983be78af48aff275b826di0",
     "meta": {
-      "name": "regiondemurcia",
-	  "status": "Quasar",
-	  "rank":"9",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -607,16 +634,18 @@
         {
           "trait_type": "capital",
           "value": "Murcia"
+        },
+        {
+          "trait_type": "rank",
+          "value": "9"
         }
-      ]
+      ],
+      "name": "regiondemurcia"
     }
   },
   {
     "id": "1232a64e15e0391eb3ae2466eda498092c73c0575d1b5c42b4d6e3ac7da2ecb3i0",
     "meta": {
-      "name": "comunidadforaldenavarra",
-	  "status": "Pulsar Planet",
-	  "rank":"11",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -645,16 +674,18 @@
         {
           "trait_type": "capital",
           "value": "Pamplona"
+        },
+        {
+          "trait_type": "rank",
+          "value": "11"
         }
-      ]
+      ],
+      "name": "comunidadforaldenavarra"
     }
   },
   {
     "id": "685bb157af1d6ccf6975c50e9f71675b0f53e802e9c70a28b313e04a25f26bc6i0",
     "meta": {
-      "name": "euskadi",
-	  "status": "Dark Matter",
-	  "rank":"14",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -683,16 +714,18 @@
         {
           "trait_type": "capital",
           "value": "Vitoria-Gasteiz"
+        },
+        {
+          "trait_type": "rank",
+          "value": "14"
         }
-      ]
+      ],
+      "name": "euskadi"
     }
   },
   {
     "id": "2ddc5a39271825352e7ac393e0a88397be7aaf4f3ba1fb827f58bedf7e3dcd54i0",
     "meta": {
-      "name": "comunidadvalenciana",
-	  "status": "Universe",
-	  "rank":"8",	  
       "attributes": [
         {
           "trait_type": "coords",
@@ -721,8 +754,13 @@
         {
           "trait_type": "capital",
           "value": "Valencia"
+        },
+        {
+          "trait_type": "rank",
+          "value": "8"
         }
-      ]
+      ],
+      "name": "comunidadvalenciana"
     }
   }
 ]
