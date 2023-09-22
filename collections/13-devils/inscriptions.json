@@ -2,11 +2,10 @@
   {
     "id": "e8d7bf13b66b61f71443245392fb38e9598e6b393b2b670aff9a39d676ad8c3ei0",
     "meta": {
-      "name": "Wicked Bill",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 504801
+          "value": "504801"
         },
         {
           "trait_type": "id",
@@ -14,15 +13,15 @@
         },
         {
           "trait_type": "head",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "body",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "color",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "gradient",
@@ -36,17 +35,17 @@
           "trait_type": "random_tiles",
           "value": "1_3_1_3_1_2_0_3_3_2_2_0_3_0_2_3_2_0_3_2_0_3_1_1_3_3_2_0_2_3_2_3_1_0_0_3_1_3_3_3_2_1_2_3_3_2_2_1_0_3_2_2_0_2_3_1_0_2_2_1_1_3_1_0_3_3_0_0_2_0_3_3_0_1_3_1_2_0"
         }
-      ]
+      ],
+      "name": "Wicked Bill"
     }
   },
   {
     "id": "a32cd4438cbf86969b3088670e59c48c2e55d5bf0b296d2287dc70c5c6c5acc6i0",
     "meta": {
-      "name": "Fiery Bill",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 504803
+          "value": "504803"
         },
         {
           "trait_type": "id",
@@ -54,15 +53,15 @@
         },
         {
           "trait_type": "head",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "body",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "color",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "gradient",
@@ -76,17 +75,17 @@
           "trait_type": "random_tiles",
           "value": "1_0_0_1_2_2_3_0_1_0_1_2_3_2_3_0_3_3_1_0_2_2_3_0_2_0_2_0_3_0_0_0_0_3_3_3_1_3_0_0_2_2_3_3_2_2_1_0_0_0_2_2_1_3_1_3_2_2_3_0_1_3_2_1_0_1_0_1_0_3_0_1_0_0_3_1_1_1_3_2_1_0"
         }
-      ]
+      ],
+      "name": "Fiery Bill"
     }
   },
   {
     "id": "a105f172145ef213796cfe274e2827200802914b8320c2de16c16aa8feaa6ef8i0",
     "meta": {
-      "name": "Twisted Bill",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 504802
+          "value": "504802"
         },
         {
           "trait_type": "id",
@@ -94,15 +93,15 @@
         },
         {
           "trait_type": "head",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "body",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "color",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "gradient",
@@ -116,17 +115,17 @@
           "trait_type": "random_tiles",
           "value": "3_3_0_0_0_0_1_0_3_1_0_0_0_0_2_3_1_0_0_2_0_0_1_1_0_2_2_1_1_0_1_0_3_2_3_2_3_2_2_2_1_2_3_3_0_1_3_0_2_3_2_3_3_2_0_0_1_1_2_1_1_3_1_0_0_2_1_3_0_2_1_0_0_2_0_1_3_0_3_0_1_3_2"
         }
-      ]
+      ],
+      "name": "Twisted Bill"
     }
   },
   {
     "id": "63daa31026547cfc18214ee1c057c9559e29afb1ef88af54137cb1657ec2f3bai0",
     "meta": {
-      "name": "Cryptic Bill",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505274
+          "value": "505274"
         },
         {
           "trait_type": "id",
@@ -134,15 +133,15 @@
         },
         {
           "trait_type": "head",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "body",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "color",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "gradient",
@@ -156,17 +155,17 @@
           "trait_type": "random_tiles",
           "value": "0_0_1_1_1_2_0_2_0_3_3_2_2_2_3_2_0_1_3_2_0_3_2_2_3_3_2_0_3_2_2_2_0_3_2_3_3_1_1_1_3_0_1_2_3_1_0_1_1_3_1_2_0_0_3_3_1_1_0_3_2_1_2_3_3_3_0_3_2_0_2_2_3_3_1_0_1_1_0_0_0"
         }
-      ]
+      ],
+      "name": "Cryptic Bill"
     }
   },
   {
     "id": "9e8440cbb7a4bc33c96b41cbfdaa60207c0726f8af6f9d16d83dd1fb3269ed2ei0",
     "meta": {
-      "name": "Shadowy Bill",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505271
+          "value": "505271"
         },
         {
           "trait_type": "id",
@@ -174,15 +173,15 @@
         },
         {
           "trait_type": "head",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "body",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "color",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "gradient",
@@ -196,17 +195,17 @@
           "trait_type": "random_tiles",
           "value": "1_1_1_0_3_3_2_0_0_0_3_3_3_2_1_3_0_1_2_3_3_3_3_0_2_0_2_2_1_0_2_3_1_2_2_3_2_3_1_2_0_1_3_0_3_3_0_0_2_0_2_1_1_3_2_2_0_2_3_1_0_1_2_1_2_1_3_2_0_0_1_0_0_0_3_1_3_0_0_3_1_0_0"
         }
-      ]
+      ],
+      "name": "Shadowy Bill"
     }
   },
   {
     "id": "29b8162bd763f797d7fe67746ede06f00e740a4a4f7173bb2ce3f1169d5831f6i0",
     "meta": {
-      "name": "Sinister Bill",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505276
+          "value": "505276"
         },
         {
           "trait_type": "id",
@@ -214,15 +213,15 @@
         },
         {
           "trait_type": "head",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "body",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "color",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "gradient",
@@ -236,17 +235,17 @@
           "trait_type": "random_tiles",
           "value": "3_1_2_3_2_3_0_3_2_2_1_1_0_2_1_2_0_1_3_2_0_0_2_2_1_1_1_3_1_2_0_2_3_2_0_3_1_1_3_0_2_1_2_2_0_0_1_3_1_0_0_1_0_1_0_2_1_2_2_3_2_0_3_1_0_3_2_3_1_1_0_0_2_2_3_2_0_3_0_0_2_0_2_3_3_0"
         }
-      ]
+      ],
+      "name": "Sinister Bill"
     }
   },
   {
     "id": "1902459b85fcca774da12f2ae81bcead751628905275aab152164e65a727214fi0",
     "meta": {
-      "name": "Nebulous Bill",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505275
+          "value": "505275"
         },
         {
           "trait_type": "id",
@@ -254,15 +253,15 @@
         },
         {
           "trait_type": "head",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "body",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "color",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "gradient",
@@ -276,17 +275,17 @@
           "trait_type": "random_tiles",
           "value": "3_3_2_1_3_3_0_2_1_1_2_3_0_2_3_1_1_3_2_2_3_2_3_0_0_0_1_3_0_1_3_0_1_3_3_1_2_3_2_3_3_1_1_1_2_2_3_2_3_0_0_3_3_3_2_0_2_3_3_1_1_1_0_3_2_1_0"
         }
-      ]
+      ],
+      "name": "Nebulous Bill"
     }
   },
   {
     "id": "85c7cd2abdcf50b4922e801d32f2592b4496317b2341b2bd752be7ba0952a86di0",
     "meta": {
-      "name": "Eldritch Bill",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505310
+          "value": "505310"
         },
         {
           "trait_type": "id",
@@ -294,15 +293,15 @@
         },
         {
           "trait_type": "head",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "body",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "color",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "gradient",
@@ -316,17 +315,17 @@
           "trait_type": "random_tiles",
           "value": "1_1_1_0_2_1_0_2_1_0_1_2_1_2_2_1_1_0_1_0_2_2_3_3_2_2_0_3_2_3_1_1_1_2_0_0_1_2_2_2_1_1_3_3_1_1_3_1_1_3_1_3_2_3_2_3_1_1_2_1_2_2_2_1_2_1_2_0_0_1_0_2_2_1"
         }
-      ]
+      ],
+      "name": "Eldritch Bill"
     }
   },
   {
     "id": "1dd4de700cfdbb23bbe1a35cc70f750667942dba29357b077f8e9eb198f6a2bfi0",
     "meta": {
-      "name": "Lurking Bill",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505272
+          "value": "505272"
         },
         {
           "trait_type": "id",
@@ -334,15 +333,15 @@
         },
         {
           "trait_type": "head",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "body",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "color",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "gradient",
@@ -356,17 +355,17 @@
           "trait_type": "random_tiles",
           "value": "3_0_0_2_1_1_0_0_3_0_0_1_2_1_2_0_2_3_1_0_0_1_3_0_3_2_3_3_2_0_3_1_2_0_2_2_2_0_3_3_1_3_2_3_3_2_0_1_2_0_2_0_1_2_0_2_2_0_2_3_3_3_1_0_2_3_2_1_3_1_3_1_1_0_1_0_1"
         }
-      ]
+      ],
+      "name": "Lurking Bill"
     }
   },
   {
     "id": "63afeffc4a0afda72393f2f4185c161215b6711251989c12d5e6471035564c83i0",
     "meta": {
-      "name": "Ruthless Bill",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505309
+          "value": "505309"
         },
         {
           "trait_type": "id",
@@ -374,15 +373,15 @@
         },
         {
           "trait_type": "head",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "body",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "color",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "gradient",
@@ -396,17 +395,17 @@
           "trait_type": "random_tiles",
           "value": "0_3_2_2_3_0_1_3_1_0_3_0_2_2_2_2_1_1_2_2_0_0_0_3_3_3_1_1_2_1_0_1_1_2_3_3_0_2_2_2_1_2_0_1_3_0_3_1_0_2_0_3_2_0_0_3_0_3_0_2_3_3_3_1_3_1_0_2_0"
         }
-      ]
+      ],
+      "name": "Ruthless Bill"
     }
   },
   {
     "id": "af25c9118e436e06f1068315dd2ad2e1a7d78ff5909f02181982727bf11b1c85i0",
     "meta": {
-      "name": "Devious Bill",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505273
+          "value": "505273"
         },
         {
           "trait_type": "id",
@@ -414,15 +413,15 @@
         },
         {
           "trait_type": "head",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "body",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "color",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "gradient",
@@ -436,17 +435,17 @@
           "trait_type": "random_tiles",
           "value": "1_2_0_2_1_0_2_3_1_2_1_1_0_0_1_2_2_3_3_1_0_3_0_3_3_3_2_0_3_2_2_0_2_0_0_1_1_0_0_3_3_3_1_2_0_0_0_2_0_3_3_1_0_3_1_3_1_1_1_0_3_0_3_3_1_0_0_1_1"
         }
-      ]
+      ],
+      "name": "Devious Bill"
     }
   },
   {
     "id": "c79fbb3ff0b256fbadc25e2c3beaad9d3619deefde06ac2b1ce3f0d13e40e68ei0",
     "meta": {
-      "name": "Enigmatic Bill",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505308
+          "value": "505308"
         },
         {
           "trait_type": "id",
@@ -454,15 +453,15 @@
         },
         {
           "trait_type": "head",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "body",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "color",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "gradient",
@@ -476,17 +475,17 @@
           "trait_type": "random_tiles",
           "value": "0_2_2_0_0_1_3_3_1_2_1_0_2_2_2_0_2_3_3_0_3_3_1_3_0_1_3_1_2_0_2_3_0_0_2_1_0_1_0_2_2_2_1_2_3_2_2_3_1_1_1_2_1_0_2_0_3_0_3_0_0_0_0"
         }
-      ]
+      ],
+      "name": "Enigmatic Bill"
     }
   },
   {
     "id": "79835a077a93d932491c4a6c36275ddf5a06fdf3b3ae6e7a1941ac6aa8e323dai0",
     "meta": {
-      "name": "Infernal Bill",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505270
+          "value": "505270"
         },
         {
           "trait_type": "id",
@@ -494,15 +493,15 @@
         },
         {
           "trait_type": "head",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "body",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "color",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "gradient",
@@ -516,17 +515,17 @@
           "trait_type": "random_tiles",
           "value": "1_1_2_3_3_1_3_2_2_0_1_3_2_1_1_2_3_2_2_1_2_1_3_1_2_2_3_2_1_3_1_3_1_3_2_3_1_0_2_1_1_2_3_1_1_2_3_1_0_1_0_3_0_0_0_2_0_3_3_1_3_0_2_1_2_3_0_0_3_2_1_3_0_1_1_2_0_0_0_1"
         }
-      ]
+      ],
+      "name": "Infernal Bill"
     }
   },
   {
     "id": "166034057423ec14b53d4c5814daed233b34b33174ca327269921a59f3b7ec8ai0",
     "meta": {
-      "name": "Wicked Larry",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505425
+          "value": "505425"
         },
         {
           "trait_type": "id",
@@ -534,15 +533,15 @@
         },
         {
           "trait_type": "head",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "body",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "color",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "gradient",
@@ -556,17 +555,17 @@
           "trait_type": "random_tiles",
           "value": "3_1_3_1_2_3_3_1_3_2_0_3_1_3_3_1_2_0_3_3_3_0_3_1_2_3_1_2_1_3_0_2_1_2_0_0_0_3_0_3_2_0_3_0_3_0_3_2_3_3_1_0_1_1_2_0_2_0_0_1_0_1_1_3_1_0_1_2_2_2_0_0_0_2_1_0_2_2_1"
         }
-      ]
+      ],
+      "name": "Wicked Larry"
     }
   },
   {
     "id": "4a777e1b25871edd08d936ddd1346e6fccb4607dca51f7a144fe05ee2cf64976i0",
     "meta": {
-      "name": "Fiery Larry",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505433
+          "value": "505433"
         },
         {
           "trait_type": "id",
@@ -574,15 +573,15 @@
         },
         {
           "trait_type": "head",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "body",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "color",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "gradient",
@@ -596,17 +595,17 @@
           "trait_type": "random_tiles",
           "value": "2_2_2_2_0_1_1_0_0_3_0_0_3_1_0_2_1_3_0_2_1_3_3_0_3_2_1_0_2_2_3_1_3_1_2_1_0_2_3_3_2_2_2_3_1_0_0_2_1_0_0_2_2_1_3_1_0_1_3_2_0_0_3_0_3_0_2_2_0_2_1_0_2_3_3_0_0_2_0_3"
         }
-      ]
+      ],
+      "name": "Fiery Larry"
     }
   },
   {
     "id": "537fcce2aeab59610aa1c9dfe2c1d6674634860a15cb37c9656f770ea221f383i0",
     "meta": {
-      "name": "Twisted Larry",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505430
+          "value": "505430"
         },
         {
           "trait_type": "id",
@@ -614,15 +613,15 @@
         },
         {
           "trait_type": "head",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "body",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "color",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "gradient",
@@ -636,17 +635,17 @@
           "trait_type": "random_tiles",
           "value": "3_3_2_2_1_2_3_1_3_2_1_3_3_0_1_1_1_1_3_3_0_1_2_3_3_2_2_2_3_1_0_0_0_2_2_2_0_1_2_3_1_2_1_2_0_1_3_2_1_1_3_1_3_0_0_1_1_1_2_1_2_1_3_2_3_2_3_1_2_2_3_0_3_2_3"
         }
-      ]
+      ],
+      "name": "Twisted Larry"
     }
   },
   {
     "id": "b3070772c543f33652955061f20ff095ae770cfab983d3a69d7f466ea82ba84ci0",
     "meta": {
-      "name": "Cryptic Larry",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505434
+          "value": "505434"
         },
         {
           "trait_type": "id",
@@ -654,15 +653,15 @@
         },
         {
           "trait_type": "head",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "body",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "color",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "gradient",
@@ -676,17 +675,17 @@
           "trait_type": "random_tiles",
           "value": "1_0_2_0_3_3_3_3_3_1_1_1_1_0_3_0_3_1_2_0_3_1_0_0_0_1_2_3_0_3_2_2_2_2_2_2_1_3_0_1_1_1_1_2_1_0_3_0_0_3_0_2_3_3_0_0_2_0_0_1_2_0_0_1_3_0_3_0_2_1"
         }
-      ]
+      ],
+      "name": "Cryptic Larry"
     }
   },
   {
     "id": "2728543a8b875e91466ce988d9654ed3939709d53dba49ddebeb1a5b163399a3i0",
     "meta": {
-      "name": "Shadowy Larry",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505426
+          "value": "505426"
         },
         {
           "trait_type": "id",
@@ -694,15 +693,15 @@
         },
         {
           "trait_type": "head",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "body",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "color",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "gradient",
@@ -716,17 +715,17 @@
           "trait_type": "random_tiles",
           "value": "3_1_3_1_0_3_1_2_0_0_0_0_2_1_2_0_0_3_1_1_3_2_0_1_2_0_0_1_3_3_2_0_2_0_1_1_1_0_0_2_0_2_1_3_1_0_3_1_0_3_3_1_0_2_3_1_0_0_3_0_2_2_0_1_0_1_1_2_2_0_0_0_2_0_0_3_3_0_3_0_2_2_2"
         }
-      ]
+      ],
+      "name": "Shadowy Larry"
     }
   },
   {
     "id": "4206e840180907d27d17bafb4bdb68bed260cd05b7693799395936df6b53e188i0",
     "meta": {
-      "name": "Sinister Larry",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505428
+          "value": "505428"
         },
         {
           "trait_type": "id",
@@ -734,15 +733,15 @@
         },
         {
           "trait_type": "head",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "body",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "color",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "gradient",
@@ -756,17 +755,17 @@
           "trait_type": "random_tiles",
           "value": "1_2_2_0_2_2_0_1_3_0_3_3_2_0_3_0_0_3_0_0_0_1_3_1_1_0_2_1_1_1_0_1_2_3_0_0_3_3_2_3_2_2_0_1_3_1_0_0_2_0_2_0_2_0_1_1_0_1_0_1_1_1_1_2_0_0_1_2_0_0_0_0_3_2_3_1_2_2_2_3_3"
         }
-      ]
+      ],
+      "name": "Sinister Larry"
     }
   },
   {
     "id": "24aec788f92cc17d1f0e493a88eb74c4e11110c48c55851f2777825fedcddeedi0",
     "meta": {
-      "name": "Nebulous Larry",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505427
+          "value": "505427"
         },
         {
           "trait_type": "id",
@@ -774,15 +773,15 @@
         },
         {
           "trait_type": "head",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "body",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "color",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "gradient",
@@ -796,17 +795,17 @@
           "trait_type": "random_tiles",
           "value": "2_1_1_2_0_2_1_1_1_2_2_2_0_3_0_2_2_1_3_2_2_1_0_0_0_2_3_2_2_1_3_0_3_1_3_1_0_3_3_3_1_1_1_3_1_3_3_1_0_0_1_3_2_1_1_3_3_3_3_1_0_3_3_3_2_0_1_1_3_3_3"
         }
-      ]
+      ],
+      "name": "Nebulous Larry"
     }
   },
   {
     "id": "a6fa63af6004721c6a66d331d12f69b392d9c64c4c9540af499c25e860b2d2a4i0",
     "meta": {
-      "name": "Eldritch Larry",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505431
+          "value": "505431"
         },
         {
           "trait_type": "id",
@@ -814,15 +813,15 @@
         },
         {
           "trait_type": "head",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "body",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "color",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "gradient",
@@ -836,17 +835,17 @@
           "trait_type": "random_tiles",
           "value": "2_3_0_0_2_1_1_0_0_3_1_0_2_3_3_0_2_0_2_0_2_2_3_2_3_0_3_0_0_2_1_1_2_0_0_1_3_3_3_1_1_3_1_1_3_0_0_3_1_0_3_3_1_0_0_1_2_0_1_3_3_1_0"
         }
-      ]
+      ],
+      "name": "Eldritch Larry"
     }
   },
   {
     "id": "52e3009becd09e26c3ae3bf118e68bc0af4d7756b26b5a1f1035846c8bd48785i0",
     "meta": {
-      "name": "Lurking Larry",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505435
+          "value": "505435"
         },
         {
           "trait_type": "id",
@@ -854,15 +853,15 @@
         },
         {
           "trait_type": "head",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "body",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "color",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "gradient",
@@ -876,17 +875,17 @@
           "trait_type": "random_tiles",
           "value": "1_1_2_1_0_2_0_2_3_2_2_3_0_1_0_3_0_2_2_3_3_3_1_0_2_0_1_1_0_1_3_3_0_3_0_3_1_2_1_0_3_1_2_0_2_3_1_1_3_3_0_0_0_3_2_2_3_1_0_0_1_0_0_3_0_1_0_2"
         }
-      ]
+      ],
+      "name": "Lurking Larry"
     }
   },
   {
     "id": "e450d16946b45acaba547f784a25b0f75f42511fea10f850b246dd21102a6a54i0",
     "meta": {
-      "name": "Ruthless Larry",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505436
+          "value": "505436"
         },
         {
           "trait_type": "id",
@@ -894,15 +893,15 @@
         },
         {
           "trait_type": "head",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "body",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "color",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "gradient",
@@ -916,17 +915,17 @@
           "trait_type": "random_tiles",
           "value": "0_0_0_3_3_0_0_3_0_3_0_0_1_2_3_1_3_0_2_3_1_0_0_2_1_0_2_1_2_2_0_1_2_0_3_1_0_3_3_1_2_2_1_0_3_0_2_2_0_3_2_3_3_0_0_3_0_3_3_0_1_3_3_1_2_2_3_1_1_0_0_1_0_0_3_2_1_2_0_0"
         }
-      ]
+      ],
+      "name": "Ruthless Larry"
     }
   },
   {
     "id": "a1c3dbfab4930ce08ac013101a08673c12f3b395ca891d89a6ea94147007ba2fi0",
     "meta": {
-      "name": "Devious Larry",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505429
+          "value": "505429"
         },
         {
           "trait_type": "id",
@@ -934,15 +933,15 @@
         },
         {
           "trait_type": "head",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "body",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "color",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "gradient",
@@ -956,17 +955,17 @@
           "trait_type": "random_tiles",
           "value": "2_3_3_0_1_1_0_3_2_1_2_1_0_2_0_2_0_3_1_0_3_2_1_2_1_0_3_0_0_3_0_0_0_2_3_0_0_1_0_2_1_2_2_1_2_3_0_2_1_1_3_2_0_3_3_1_1_2_2_3_3_0_1_2_0_1_1_1_0_1_1_2_1_2"
         }
-      ]
+      ],
+      "name": "Devious Larry"
     }
   },
   {
     "id": "e479110bf17ab5e2261ba73fca80ea63f2bd103ba297311d61e825e553cc34aai0",
     "meta": {
-      "name": "Enigmatic Larry",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505424
+          "value": "505424"
         },
         {
           "trait_type": "id",
@@ -974,15 +973,15 @@
         },
         {
           "trait_type": "head",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "body",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "color",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "gradient",
@@ -996,17 +995,17 @@
           "trait_type": "random_tiles",
           "value": "1_3_2_0_1_2_0_3_3_2_3_2_1_2_1_0_3_1_1_1_0_0_0_0_0_2_1_1_0_2_3_2_3_3_2_1_3_1_1_2_3_2_2_2_0_0_2_0_0_1_1_2_1_1_3_0_0_1_3_3_2_1_3_1_3_1_3_1_1_2_3_2_2_2_2_3_3_1_0"
         }
-      ]
+      ],
+      "name": "Enigmatic Larry"
     }
   },
   {
     "id": "5cdc1c0e5e1188a109b8493593580ba2fb8a36936a3b041174ab1ddbfc31a630i0",
     "meta": {
-      "name": "Infernal Larry",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 505432
+          "value": "505432"
         },
         {
           "trait_type": "id",
@@ -1014,15 +1013,15 @@
         },
         {
           "trait_type": "head",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "body",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "color",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "gradient",
@@ -1036,17 +1035,17 @@
           "trait_type": "random_tiles",
           "value": "1_1_0_3_1_0_3_2_2_3_1_0_0_2_0_3_1_1_2_2_1_3_1_1_2_1_3_2_2_2_1_0_2_2_0_1_3_1_3_2_0_2_1_1_3_3_0_1_2_0_1_2_1_0_1_2_1_2_2_0_0_3_1_1_1_2_2_1_3_1_2_0_2_3_2"
         }
-      ]
+      ],
+      "name": "Infernal Larry"
     }
   },
   {
     "id": "9162436bb7912ea53b42aa174dfffbe7eb162edd9396fa12d97f6639ad636f6ai0",
     "meta": {
-      "name": "Wicked Linus",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 509555
+          "value": "509555"
         },
         {
           "trait_type": "id",
@@ -1054,15 +1053,15 @@
         },
         {
           "trait_type": "head",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "body",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "color",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "gradient",
@@ -1076,17 +1075,17 @@
           "trait_type": "random_tiles",
           "value": "3_1_0_3_2_1_2_2_1_2_1_2_1_3_2_1_3_1_2_3_3_2_0_0_3_0_3_3_0_1_2_3_1_2_0_2_1_0_2_1_3_1_0_0_3_0_3_2_2_0_1_3_0_0_1_2_2_1_0_3_3_0_1"
         }
-      ]
+      ],
+      "name": "Wicked Linus"
     }
   },
   {
     "id": "07cf46ec65f883d97c72c0448fcd1cee5cfca8b21fa8617134092c903773070ai0",
     "meta": {
-      "name": "Fiery Linus",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 509549
+          "value": "509549"
         },
         {
           "trait_type": "id",
@@ -1094,15 +1093,15 @@
         },
         {
           "trait_type": "head",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "body",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "color",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "gradient",
@@ -1116,17 +1115,17 @@
           "trait_type": "random_tiles",
           "value": "0_3_1_1_0_3_1_3_2_3_3_3_1_0_3_1_0_3_3_0_2_0_1_0_2_1_3_2_2_2_3_2_0_0_2_3_0_2_2_2_0_1_0_3_2_3_3_2_0_3_1_2_3_1_2_2_2_2_1_1_1_2_1_1_0_3_3_3_1_2_0_0_1_2_0_1_3_3_0_1_2"
         }
-      ]
+      ],
+      "name": "Fiery Linus"
     }
   },
   {
     "id": "9ce515b5865af52b4346d765261e8205b949c9eb91372b09ad72aeaa46f5c0f7i0",
     "meta": {
-      "name": "Twisted Linus",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 509548
+          "value": "509548"
         },
         {
           "trait_type": "id",
@@ -1134,15 +1133,15 @@
         },
         {
           "trait_type": "head",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "body",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "color",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "gradient",
@@ -1156,17 +1155,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_0_3_2_2_0_3_0_0_2_2_3_3_0_2_3_2_1_0_0_3_3_0_2_3_2_2_0_0_3_0_1_0_1_1_2_1_2_0_2_3_1_1_3_1_3_0_1_1_0_3_2_2_3_1_0_2_3_1_1_2_3_0_3_3_0_1_2_3_0_2_1_0_3_2_2_0_1_3_0_3_3_3_0"
         }
-      ]
+      ],
+      "name": "Twisted Linus"
     }
   },
   {
     "id": "68037d0d7e63d06df8789c2d355c78fa7e1b8bbc02834d73c972afaec224d8a4i0",
     "meta": {
-      "name": "Cryptic Linus",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 509551
+          "value": "509551"
         },
         {
           "trait_type": "id",
@@ -1174,15 +1173,15 @@
         },
         {
           "trait_type": "head",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "body",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "color",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "gradient",
@@ -1196,17 +1195,17 @@
           "trait_type": "random_tiles",
           "value": "3_0_0_2_2_3_0_0_2_1_2_2_2_3_3_2_0_2_3_0_3_0_0_3_3_0_1_0_0_3_0_0_2_3_3_0_0_1_2_2_1_1_0_2_1_1_0_3_2_2_0_3_1_2_0_3_3_1_0_3_0_3_2_2_2_0_3_1_3_1_2_0_2_0_2_3_3_1_2_0"
         }
-      ]
+      ],
+      "name": "Cryptic Linus"
     }
   },
   {
     "id": "4d7a290a5ea26f48ac10dc6424fdc630feb4ad6194c8153f74ff94734bb9ecf2i0",
     "meta": {
-      "name": "Shadowy Linus",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 509547
+          "value": "509547"
         },
         {
           "trait_type": "id",
@@ -1214,15 +1213,15 @@
         },
         {
           "trait_type": "head",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "body",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "color",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "gradient",
@@ -1236,17 +1235,17 @@
           "trait_type": "random_tiles",
           "value": "2_3_3_0_2_3_2_2_3_1_2_2_1_2_1_1_1_2_3_0_2_2_1_2_2_2_2_0_3_1_2_0_1_3_3_0_0_2_1_0_3_0_2_2_1_1_1_1_0_2_0_0_1_1_0_0_3_3_2_2_0_1_3_2_0_2_2_2_1"
         }
-      ]
+      ],
+      "name": "Shadowy Linus"
     }
   },
   {
     "id": "d2acbc44072be413ea86650b80c7cb16b2e8b63e4f3704668ba1b36777c3cf60i0",
     "meta": {
-      "name": "Sinister Linus",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 509545
+          "value": "509545"
         },
         {
           "trait_type": "id",
@@ -1254,15 +1253,15 @@
         },
         {
           "trait_type": "head",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "body",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "color",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "gradient",
@@ -1276,17 +1275,17 @@
           "trait_type": "random_tiles",
           "value": "2_2_3_2_3_0_0_2_2_0_2_3_0_0_0_0_2_1_1_1_0_3_3_2_3_2_1_3_1_3_2_2_2_1_1_0_2_0_1_1_3_2_0_2_1_0_0_0_2_0_0_2_0_3_2_0_0_3_3_3_1_1_3_1_0_1_2_2_0_0_2_3_0_3_3_3_0_1_0"
         }
-      ]
+      ],
+      "name": "Sinister Linus"
     }
   },
   {
     "id": "6673583f317c6a22316e9402fc40b8865fd7ca08d224955b0872701792673da2i0",
     "meta": {
-      "name": "Nebulous Linus",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 509554
+          "value": "509554"
         },
         {
           "trait_type": "id",
@@ -1294,15 +1293,15 @@
         },
         {
           "trait_type": "head",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "body",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "color",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "gradient",
@@ -1316,17 +1315,17 @@
           "trait_type": "random_tiles",
           "value": "3_1_1_1_1_1_0_2_1_1_3_0_2_0_0_0_1_3_1_2_2_3_1_3_3_1_1_2_1_2_3_1_0_2_3_3_0_2_2_1_3_1_0_0_3_1_1_1_2_1_0_2_0_0_3_3_2_1_3_1_1_1_2_2_3_2_2_0_1_2_3_3_0_2_1_0_3"
         }
-      ]
+      ],
+      "name": "Nebulous Linus"
     }
   },
   {
     "id": "97e55e531145c353f55d2e0a6e6be957b6d1d7d774baf089579f933669f965e0i0",
     "meta": {
-      "name": "Eldritch Linus",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 509546
+          "value": "509546"
         },
         {
           "trait_type": "id",
@@ -1334,15 +1333,15 @@
         },
         {
           "trait_type": "head",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "body",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "color",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "gradient",
@@ -1356,17 +1355,17 @@
           "trait_type": "random_tiles",
           "value": "1_1_1_1_3_2_0_1_3_1_1_2_0_0_0_0_2_1_0_1_0_0_0_0_2_1_0_1_0_1_2_1_2_1_0_3_2_0_1_0_1_1_0_1_0_0_2_1_0_1_3_3_1_1_0_3_0_2_1_0_1_0_2_0_2_0_3_2_3_2_1_2_2_2_3_2_0_3"
         }
-      ]
+      ],
+      "name": "Eldritch Linus"
     }
   },
   {
     "id": "5142bde96e810c9c5dd94ee841fbaf8c7c06b36533d24a1fba5ca17900a6caf1i0",
     "meta": {
-      "name": "Lurking Linus",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 509552
+          "value": "509552"
         },
         {
           "trait_type": "id",
@@ -1374,15 +1373,15 @@
         },
         {
           "trait_type": "head",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "body",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "color",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "gradient",
@@ -1396,17 +1395,17 @@
           "trait_type": "random_tiles",
           "value": "0_1_1_1_1_1_1_2_3_2_0_0_0_2_2_3_0_2_3_0_0_1_0_1_3_2_0_3_1_0_1_2_2_1_1_3_2_1_0_3_2_1_3_0_3_2_0_0_1_1_3_2_3_0_3_2_1_3_3_1_2_3_0_0_3_2_2_2_1_3_0_0_2_3_1_3_0_2_1_0"
         }
-      ]
+      ],
+      "name": "Lurking Linus"
     }
   },
   {
     "id": "d4c0d9c6c47baf427aab3e7ebe7fdbb9aab21a3aac7a0774ece5c6fd972eafdfi0",
     "meta": {
-      "name": "Ruthless Linus",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 509544
+          "value": "509544"
         },
         {
           "trait_type": "id",
@@ -1414,15 +1413,15 @@
         },
         {
           "trait_type": "head",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "body",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "color",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "gradient",
@@ -1436,17 +1435,17 @@
           "trait_type": "random_tiles",
           "value": "1_1_2_0_1_0_3_0_2_3_3_1_3_0_2_0_1_2_0_1_2_3_3_2_2_3_0_0_1_3_2_3_0_0_0_0_0_2_1_1_1_0_2_0_0_0_3_3_0_1_1_1_2_0_2_0_1_2_3_0_1_3_2_1_3_1_1_1_1_2_1_3_3_0_2_1_1_1_1_0"
         }
-      ]
+      ],
+      "name": "Ruthless Linus"
     }
   },
   {
     "id": "f40fc59f9f23099eebd598ecf18e84a1c37cfc3bb8dffc444686a740cd8b4864i0",
     "meta": {
-      "name": "Devious Linus",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 509543
+          "value": "509543"
         },
         {
           "trait_type": "id",
@@ -1454,15 +1453,15 @@
         },
         {
           "trait_type": "head",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "body",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "color",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "gradient",
@@ -1476,17 +1475,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_3_1_0_0_1_0_1_2_2_1_0_2_3_1_1_0_0_2_0_1_0_3_1_1_0_2_2_3_0_1_1_0_2_1_3_1_1_0_0_1_0_1_1_3_2_0_1_3_2_1_0_0_0_1_0_1_0_0_2_2_0_1_2_1_2_0_0_3_0_2_3_1_3_1_0_2_2_0_1_2_2"
         }
-      ]
+      ],
+      "name": "Devious Linus"
     }
   },
   {
     "id": "57226958462d843a0267dc266c38ce3dd80a0bd7254811a05f4dd8e99239b58ei0",
     "meta": {
-      "name": "Enigmatic Linus",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 509550
+          "value": "509550"
         },
         {
           "trait_type": "id",
@@ -1494,15 +1493,15 @@
         },
         {
           "trait_type": "head",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "body",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "color",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "gradient",
@@ -1516,17 +1515,17 @@
           "trait_type": "random_tiles",
           "value": "3_0_3_1_3_1_2_0_3_3_0_2_2_3_1_1_0_0_0_0_2_2_1_2_0_2_0_2_2_2_0_3_2_2_0_3_0_2_1_3_3_0_1_2_2_0_2_0_2_1_0_3_0_1_1_2_2_3_1_0_3_2_3_1_1_1_1_3_2_3_1_3_3_3_2_2_0_0_0_2"
         }
-      ]
+      ],
+      "name": "Enigmatic Linus"
     }
   },
   {
     "id": "6e2078b16a34e2e0746c2272b468c770942b6ba6f9be64546fcc333632a67d18i0",
     "meta": {
-      "name": "Infernal Linus",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 509553
+          "value": "509553"
         },
         {
           "trait_type": "id",
@@ -1534,15 +1533,15 @@
         },
         {
           "trait_type": "head",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "body",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "color",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "gradient",
@@ -1556,17 +1555,17 @@
           "trait_type": "random_tiles",
           "value": "2_2_1_3_1_0_2_0_3_1_0_3_1_1_0_2_0_2_0_0_1_0_2_3_3_3_0_1_3_2_3_0_0_1_3_2_2_3_3_2_0_1_1_1_1_2_2_0_3_1_0_1_2_1_3_3_2_3_1_1_0_2_0_1_2_0_2_0_0_1_1"
         }
-      ]
+      ],
+      "name": "Infernal Linus"
     }
   },
   {
     "id": "e8de493b0b75e3d0aae336cf1a8f6087db657c245edcd853ba90467d19fb0284i0",
     "meta": {
-      "name": "Wicked Tim",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511014
+          "value": "511014"
         },
         {
           "trait_type": "id",
@@ -1574,15 +1573,15 @@
         },
         {
           "trait_type": "head",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "body",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "color",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "gradient",
@@ -1596,17 +1595,17 @@
           "trait_type": "random_tiles",
           "value": "1_0_0_0_3_3_1_2_0_3_0_1_0_0_0_2_3_2_2_1_3_3_1_2_3_3_2_3_3_2_1_1_0_1_0_0_3_2_3_0_2_0_0_2_0_2_0_3_3_0_2_2_1_0_1_3_2_1_1_0_3_2_0_0_2_3_3_0_0_1_3_1_3_2_1_3_3_3_2_0_3_2"
         }
-      ]
+      ],
+      "name": "Wicked Tim"
     }
   },
   {
     "id": "7bef4640e4c459bd0118ac2cda2a2bea20ad4f9204d8b5b21cd1acbedf9887afi0",
     "meta": {
-      "name": "Fiery Tim",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 510880
+          "value": "510880"
         },
         {
           "trait_type": "id",
@@ -1614,15 +1613,15 @@
         },
         {
           "trait_type": "head",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "body",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "color",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "gradient",
@@ -1636,17 +1635,17 @@
           "trait_type": "random_tiles",
           "value": "2_3_2_0_2_3_2_1_3_1_1_1_3_1_3_0_2_2_0_2_1_2_3_3_0_1_1_1_1_2_3_3_0_0_1_0_0_1_1_3_2_1_0_3_2_3_3_3_1_3_3_3_3_3_2_3_0_0_3_2_3_1_2_3_3_1_0_3_0_3_2_2"
         }
-      ]
+      ],
+      "name": "Fiery Tim"
     }
   },
   {
     "id": "15ed3b0f76d92921afa72d6abf3bf68d101b666bf44ed76e3204c593d20da09ai0",
     "meta": {
-      "name": "Twisted Tim",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511011
+          "value": "511011"
         },
         {
           "trait_type": "id",
@@ -1654,15 +1653,15 @@
         },
         {
           "trait_type": "head",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "body",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "color",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "gradient",
@@ -1676,17 +1675,17 @@
           "trait_type": "random_tiles",
           "value": "0_3_1_3_2_3_2_1_0_0_0_1_3_2_1_1_2_2_3_2_2_3_1_2_1_0_3_0_0_3_0_1_1_1_0_2_3_1_2_3_2_1_1_0_3_2_1_1_2_1_1_0_0_3_2_1_0_3_3_2_1"
         }
-      ]
+      ],
+      "name": "Twisted Tim"
     }
   },
   {
     "id": "e7330f7d0fb902590e0951391236224c85b3b5db03e6bb806d7cd86c034bcc1bi0",
     "meta": {
-      "name": "Cryptic Tim",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 510879
+          "value": "510879"
         },
         {
           "trait_type": "id",
@@ -1694,15 +1693,15 @@
         },
         {
           "trait_type": "head",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "body",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "color",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "gradient",
@@ -1716,17 +1715,17 @@
           "trait_type": "random_tiles",
           "value": "2_1_3_0_0_3_1_0_2_0_0_2_1_2_3_0_1_2_1_2_0_1_2_0_3_1_0_0_2_0_0_1_2_3_1_2_2_0_3_3_1_3_2_3_2_2_0_0_0_2_1_0_1_0_3_3_2_3_0_2_2_0_1_3_3_0_3_1_0_3_3_3_3_1_1_2_0_2"
         }
-      ]
+      ],
+      "name": "Cryptic Tim"
     }
   },
   {
     "id": "528cd4b73cbc4b89e45346518919d73d0ad04c6213d8c76ddcad206a20c2ef1ai0",
     "meta": {
-      "name": "Shadowy Tim",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511013
+          "value": "511013"
         },
         {
           "trait_type": "id",
@@ -1734,15 +1733,15 @@
         },
         {
           "trait_type": "head",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "body",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "color",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "gradient",
@@ -1756,17 +1755,17 @@
           "trait_type": "random_tiles",
           "value": "0_2_3_1_2_3_3_0_0_3_3_0_3_1_1_3_2_0_0_3_2_1_1_2_0_1_2_0_2_1_2_0_2_2_2_1_2_2_2_1_2_0_1_3_1_0_2_1_0_2_1_0_3_3_1_1_0_2_3_2_2_0_0_2_1_3_2_0_2_3_1_3_0_2_2_2_0_0_2_2_1"
         }
-      ]
+      ],
+      "name": "Shadowy Tim"
     }
   },
   {
     "id": "f383451e82ef954d10d0c41800fce22e19b1378be80ce4644ecba08da6367a64i0",
     "meta": {
-      "name": "Sinister Tim",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511015
+          "value": "511015"
         },
         {
           "trait_type": "id",
@@ -1774,15 +1773,15 @@
         },
         {
           "trait_type": "head",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "body",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "color",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "gradient",
@@ -1796,17 +1795,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_0_1_0_0_2_0_1_1_0_3_0_3_3_3_1_3_3_1_0_2_2_1_1_0_3_0_3_0_1_0_1_0_0_0_2_2_0_2_1_0_2_0_1_3_2_1_3_0_3_2_1_1_3_2_3_0_3_1_1_0_3_3_1_3"
         }
-      ]
+      ],
+      "name": "Sinister Tim"
     }
   },
   {
     "id": "b0d0ce31a87023a95e0485effe7e7c412068e7fed783e564c373a33c9306a0fdi0",
     "meta": {
-      "name": "Nebulous Tim",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511016
+          "value": "511016"
         },
         {
           "trait_type": "id",
@@ -1814,15 +1813,15 @@
         },
         {
           "trait_type": "head",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "body",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "color",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "gradient",
@@ -1836,17 +1835,17 @@
           "trait_type": "random_tiles",
           "value": "2_3_1_3_2_0_3_3_2_3_2_0_3_0_1_1_0_0_1_0_0_3_2_3_1_3_2_1_3_0_2_3_1_1_1_3_3_1_3_3_0_1_2_2_1_1_0_3_2_3_0_3_0_1_3_2_3_2_2_2_1_2_0_1_0_1_3_3_1_3_3_1_0_3_0_3_2_3_0_1_3_0"
         }
-      ]
+      ],
+      "name": "Nebulous Tim"
     }
   },
   {
     "id": "6cdecfa8b40aa1d33edd1162c6985325e0965411f826004e6aca130d9cf54546i0",
     "meta": {
-      "name": "Eldritch Tim",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511008
+          "value": "511008"
         },
         {
           "trait_type": "id",
@@ -1854,15 +1853,15 @@
         },
         {
           "trait_type": "head",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "body",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "color",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "gradient",
@@ -1876,17 +1875,17 @@
           "trait_type": "random_tiles",
           "value": "0_1_2_0_0_3_1_2_3_0_1_2_1_0_0_2_0_0_3_3_2_2_2_3_0_0_0_0_0_1_0_3_1_0_3_3_1_2_0_3_1_3_3_1_0_0_1_2_1_0_0_0_1_0_2_3_0_1_0_2_0_1_0_2_3_1_1_0_0_3_0"
         }
-      ]
+      ],
+      "name": "Eldritch Tim"
     }
   },
   {
     "id": "1b0506dbc54d923c712d52127154ff2d0d8c540f4115dd497767934a25dea7abi0",
     "meta": {
-      "name": "Lurking Tim",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511010
+          "value": "511010"
         },
         {
           "trait_type": "id",
@@ -1894,15 +1893,15 @@
         },
         {
           "trait_type": "head",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "body",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "color",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "gradient",
@@ -1916,17 +1915,17 @@
           "trait_type": "random_tiles",
           "value": "3_2_3_0_3_0_0_1_1_2_0_3_0_0_1_0_2_3_2_0_3_1_1_3_3_1_3_1_3_1_1_3_0_2_1_2_1_3_0_0_1_3_2_0_3_2_3_2_0_0_2_3_1_3"
         }
-      ]
+      ],
+      "name": "Lurking Tim"
     }
   },
   {
     "id": "7308b9d9091ec837e487f0053765e3a91db28f1511c15eba5b58a1db320864b7i0",
     "meta": {
-      "name": "Ruthless Tim",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511009
+          "value": "511009"
         },
         {
           "trait_type": "id",
@@ -1934,15 +1933,15 @@
         },
         {
           "trait_type": "head",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "body",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "color",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "gradient",
@@ -1956,17 +1955,17 @@
           "trait_type": "random_tiles",
           "value": "1_1_2_1_3_2_3_3_3_1_3_0_3_1_3_1_3_1_0_2_2_2_2_0_2_1_3_2_3_0_2_1_1_3_0_1_1_1_0_0_1_1_1_0_0_1_3_2_3_1_0_1_1_0_2_2_3_1_1_2_2_0_2_2_3_1_2_0_3_1_3_0_3_0_2_1_0_1_3_1_0_2_3"
         }
-      ]
+      ],
+      "name": "Ruthless Tim"
     }
   },
   {
     "id": "f4647e52a9c9bb5c8f3861156e6be56c9061001d4e416c68fcb46528716be638i0",
     "meta": {
-      "name": "Devious Tim",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511017
+          "value": "511017"
         },
         {
           "trait_type": "id",
@@ -1974,15 +1973,15 @@
         },
         {
           "trait_type": "head",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "body",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "color",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "gradient",
@@ -1996,17 +1995,17 @@
           "trait_type": "random_tiles",
           "value": "1_2_1_2_2_2_3_2_1_3_3_2_0_2_0_1_1_3_2_0_2_1_1_1_1_0_3_1_1_0_0_0_1_2_3_2_2_2_0_0_0_0_0_0_2_3_3_1_1_2_1_1_2_3_3_1_2_0_0_3_1_1_1_3_0_1_2_2_3"
         }
-      ]
+      ],
+      "name": "Devious Tim"
     }
   },
   {
     "id": "f05dfd897c8a8c0394f035c71b39508cffa687bbf20f369bd9a7aefd2c7d176ei0",
     "meta": {
-      "name": "Enigmatic Tim",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511012
+          "value": "511012"
         },
         {
           "trait_type": "id",
@@ -2014,15 +2013,15 @@
         },
         {
           "trait_type": "head",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "body",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "color",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "gradient",
@@ -2036,17 +2035,17 @@
           "trait_type": "random_tiles",
           "value": "2_2_3_0_3_1_0_0_1_3_1_3_2_1_0_1_1_2_3_2_1_1_2_2_3_3_3_2_1_0_2_3_0_0_0_0_2_3_2_2_2_1_2_1_0_2_3_2_0_0_1_1_3_1_0_2_1_1_1_3_1_1_1_2_1"
         }
-      ]
+      ],
+      "name": "Enigmatic Tim"
     }
   },
   {
     "id": "9fa3704636254a9c00e4ba5ed37b1f058690ade28d0b031ae2b741e6e2360765i0",
     "meta": {
-      "name": "Infernal Tim",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 510878
+          "value": "510878"
         },
         {
           "trait_type": "id",
@@ -2054,15 +2053,15 @@
         },
         {
           "trait_type": "head",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "body",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "color",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "gradient",
@@ -2076,17 +2075,17 @@
           "trait_type": "random_tiles",
           "value": "0_3_1_3_2_0_2_0_0_1_2_0_3_2_1_0_0_3_2_2_0_1_3_1_3_3_0_3_1_0_3_3_3_0_1_2_1_3_3_0_3_1_3_1_1_3_3_2_3_3_3_0_1_3_3_3_1_1_0_1_1_1_1_3_1_0_2_1_2_3_1_0_1_2"
         }
-      ]
+      ],
+      "name": "Infernal Tim"
     }
   },
   {
     "id": "e2662a90a12bbd2a9ac5b943796a8906881873ff2528920a0ec148977040a423i0",
     "meta": {
-      "name": "Wicked Ada",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511081
+          "value": "511081"
         },
         {
           "trait_type": "id",
@@ -2094,15 +2093,15 @@
         },
         {
           "trait_type": "head",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "body",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "color",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "gradient",
@@ -2116,17 +2115,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_3_0_1_1_3_3_1_1_2_0_3_2_3_1_3_1_0_3_1_3_2_0_3_1_1_1_0_3_0_0_3_1_3_0_3_0_1_0_0_0_3_1_1_1_1_0_1_1_0_1_1_3_2_3_0_0_2_1_0_0_2_2_1_2_0_1_3_1_2_2_2_1_1_1_3_0_0"
         }
-      ]
+      ],
+      "name": "Wicked Ada"
     }
   },
   {
     "id": "97008e916eb2e76e285cbce5ac53948fd0a391178ffa3f7bf32d0ce4667a043fi0",
     "meta": {
-      "name": "Fiery Ada",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511093
+          "value": "511093"
         },
         {
           "trait_type": "id",
@@ -2134,15 +2133,15 @@
         },
         {
           "trait_type": "head",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "body",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "color",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "gradient",
@@ -2156,17 +2155,17 @@
           "trait_type": "random_tiles",
           "value": "0_1_2_0_0_1_0_0_0_3_2_3_3_1_0_1_0_1_1_2_0_0_3_3_0_3_1_2_3_0_2_0_0_3_0_2_1_0_1_2_2_0_2_3_2_3_1_3_3_3_3_1_2_2_1_0_1_2_3_3_0_0_2_1_0_3_3_2_2_0_2_0_1_3_3_1_3_2_2"
         }
-      ]
+      ],
+      "name": "Fiery Ada"
     }
   },
   {
     "id": "d1145dec8940125418987ea451e593d1742167b9c307ee586f5588caf5a896aei0",
     "meta": {
-      "name": "Twisted Ada",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511079
+          "value": "511079"
         },
         {
           "trait_type": "id",
@@ -2174,15 +2173,15 @@
         },
         {
           "trait_type": "head",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "body",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "color",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "gradient",
@@ -2196,17 +2195,17 @@
           "trait_type": "random_tiles",
           "value": "3_1_1_2_0_2_3_0_1_2_0_1_3_2_2_2_0_2_1_0_2_1_1_3_2_1_1_2_0_3_1_2_1_0_3_0_1_0_0_3_1_0_2_0_2_2_1_1_1_0_1_2_1_2_0_0_0_2_3_3_1_3_2_0_2_1_2_1_1_0_2_2_1_1_0"
         }
-      ]
+      ],
+      "name": "Twisted Ada"
     }
   },
   {
     "id": "9e6b2eade654f3788f4ef8fc9e182590001891e75f6bd1f7944516a8571c2d8ci0",
     "meta": {
-      "name": "Cryptic Ada",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511085
+          "value": "511085"
         },
         {
           "trait_type": "id",
@@ -2214,15 +2213,15 @@
         },
         {
           "trait_type": "head",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "body",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "color",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "gradient",
@@ -2236,17 +2235,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_1_2_0_0_0_1_1_3_0_3_1_3_2_2_0_0_1_0_1_0_1_3_1_0_1_3_0_1_2_2_2_1_1_3_1_2_2_0_0_1_2_1_1_3_0_2_3_3_2_3_1_2_3_0_0_3_3_2_3_0_1_3_0_0_1_0_0_1_0_0_0_2_3_1_3_3_1_1_1_3"
         }
-      ]
+      ],
+      "name": "Cryptic Ada"
     }
   },
   {
     "id": "19c4a8a58a776bf8a4ed1a84bb6d536c60678285496ea478cc5dc962505d5794i0",
     "meta": {
-      "name": "Shadowy Ada",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511091
+          "value": "511091"
         },
         {
           "trait_type": "id",
@@ -2254,15 +2253,15 @@
         },
         {
           "trait_type": "head",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "body",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "color",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "gradient",
@@ -2276,17 +2275,17 @@
           "trait_type": "random_tiles",
           "value": "1_2_0_0_0_0_1_2_1_1_2_2_0_0_0_1_1_1_2_1_2_2_0_1_1_2_2_2_0_0_2_0_0_2_0_0_3_1_2_3_1_0_1_3_2_3_1_2_0_2_1_2_0_0_3_3_1_0_3_1_2_1_3_2_3_0_0_3_3_0_2_0_2_2_1_2_0"
         }
-      ]
+      ],
+      "name": "Shadowy Ada"
     }
   },
   {
     "id": "b25fad8cd1ed277af48a018657db3f7bef87c740ca174df533c5d5a608381f7bi0",
     "meta": {
-      "name": "Sinister Ada",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511086
+          "value": "511086"
         },
         {
           "trait_type": "id",
@@ -2294,15 +2293,15 @@
         },
         {
           "trait_type": "head",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "body",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "color",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "gradient",
@@ -2316,17 +2315,17 @@
           "trait_type": "random_tiles",
           "value": "0_1_2_1_2_0_3_3_3_0_2_0_3_0_0_1_3_3_0_2_0_0_2_0_1_1_2_3_0_0_1_1_3_2_3_2_1_2_2_2_0_2_1_0_3_0_2_1_1_3_2_0_3_0_2_1_3_1_1_3_1_3_2_2_0_3_0_0_3_3_0_1_2"
         }
-      ]
+      ],
+      "name": "Sinister Ada"
     }
   },
   {
     "id": "bbad91073880139524745c726c1b4bea3037afc30554ee65cc1caa48a064625bi0",
     "meta": {
-      "name": "Nebulous Ada",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511090
+          "value": "511090"
         },
         {
           "trait_type": "id",
@@ -2334,15 +2333,15 @@
         },
         {
           "trait_type": "head",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "body",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "color",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "gradient",
@@ -2356,17 +2355,17 @@
           "trait_type": "random_tiles",
           "value": "2_3_3_3_3_1_2_2_0_3_2_0_2_0_1_0_2_1_0_2_3_2_2_1_2_0_0_0_3_0_3_0_0_3_2_2_2_0_0_0_3_1_1_3_3_3_0_1_2_2_1_1_1_2_0_1_1_3_1_1_2_1_2_3_3_3_0_3_0"
         }
-      ]
+      ],
+      "name": "Nebulous Ada"
     }
   },
   {
     "id": "be56d58a4239df294905e2492fce929a79d4f946afe7e94c154dd61bf3b8af3ci0",
     "meta": {
-      "name": "Eldritch Ada",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511089
+          "value": "511089"
         },
         {
           "trait_type": "id",
@@ -2374,15 +2373,15 @@
         },
         {
           "trait_type": "head",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "body",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "color",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "gradient",
@@ -2396,17 +2395,17 @@
           "trait_type": "random_tiles",
           "value": "3_2_3_1_1_2_0_1_3_1_0_0_0_2_2_3_3_2_1_1_3_3_1_1_2_1_1_3_1_1_0_1_0_0_1_3_1_3_2_0_3_3_0_0_1_1_2_3_3_2_0_2_0_3_2_3_3_0_3_0_3_2_2_3_1_3_0_1_0_2_3_2_0_0_2_1_0_1_3_1_2_1_0"
         }
-      ]
+      ],
+      "name": "Eldritch Ada"
     }
   },
   {
     "id": "643408aa88b31f49a8060687a7c85686d5af1205002cb2e0bfff2e06642a7428i0",
     "meta": {
-      "name": "Lurking Ada",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511084
+          "value": "511084"
         },
         {
           "trait_type": "id",
@@ -2414,15 +2413,15 @@
         },
         {
           "trait_type": "head",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "body",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "color",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "gradient",
@@ -2436,17 +2435,17 @@
           "trait_type": "random_tiles",
           "value": "1_1_1_1_0_2_3_1_0_1_2_0_1_1_3_2_2_3_1_2_3_0_1_2_2_2_2_2_2_1_3_2_2_2_1_3_3_2_0_1_3_0_1_2_3_0_2_3_1_2_0_3_1_3_0_1_1_3_3_1_0_1_2_2_0_1_1_3_2_1_3_1_3_3_2_0_2_2_1_0"
         }
-      ]
+      ],
+      "name": "Lurking Ada"
     }
   },
   {
     "id": "ae87fa95f1e34b412efd32f0e0e72d89c1b250dcb334dccdab4ed0161debce4ai0",
     "meta": {
-      "name": "Ruthless Ada",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511077
+          "value": "511077"
         },
         {
           "trait_type": "id",
@@ -2454,15 +2453,15 @@
         },
         {
           "trait_type": "head",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "body",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "color",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "gradient",
@@ -2476,17 +2475,17 @@
           "trait_type": "random_tiles",
           "value": "1_1_2_2_0_3_3_1_3_1_1_2_0_1_0_0_0_0_0_2_1_3_3_3_1_3_2_1_2_1_3_3_1_3_0_3_3_1_1_2_2_3_1_1_0_2_0_0_0_1_0_0_2_2_3_1_0_2_1_2_1_0_1_0_0_0_3_1_2_0_2_2_1_1"
         }
-      ]
+      ],
+      "name": "Ruthless Ada"
     }
   },
   {
     "id": "5a5cf766eaa49ec009e4786fe173222547eddb0e5e438160d5fd3f4a1ac331cdi0",
     "meta": {
-      "name": "Devious Ada",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511094
+          "value": "511094"
         },
         {
           "trait_type": "id",
@@ -2494,15 +2493,15 @@
         },
         {
           "trait_type": "head",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "body",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "color",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "gradient",
@@ -2516,17 +2515,17 @@
           "trait_type": "random_tiles",
           "value": "2_2_0_0_1_2_0_0_0_3_2_1_1_3_3_0_2_3_3_2_3_1_2_1_0_3_1_2_3_1_3_3_3_3_0_3_2_1_3_1_3_1_3_0_0_3_0_0_2_1_0_3_1_2_1_1_2_3_2_3_3_0_0_2_3_3_1_1_2_0_1_3_1_1_1_2"
         }
-      ]
+      ],
+      "name": "Devious Ada"
     }
   },
   {
     "id": "f61af299f988460dcc97bdbee7ffc258188147229cd97fed24a909fb7cb9b0e0i0",
     "meta": {
-      "name": "Enigmatic Ada",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511092
+          "value": "511092"
         },
         {
           "trait_type": "id",
@@ -2534,15 +2533,15 @@
         },
         {
           "trait_type": "head",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "body",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "color",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "gradient",
@@ -2556,17 +2555,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_3_3_3_2_1_0_3_2_0_3_3_1_1_3_0_1_0_0_2_2_1_1_3_1_0_2_2_3_0_3_3_2_3_2_1_0_0_2_3_3_0_1_0_1_0_1_3_2_3_0_1_2_0_1_1_0_2_2_1_2_0_2_3_2_0_2_2_1_0_1_3_1_1_1_3_1_3_1"
         }
-      ]
+      ],
+      "name": "Enigmatic Ada"
     }
   },
   {
     "id": "4436d72960df7daf3f5fe5da79139d012f7da53ae601c0bf7b92f3f109dfc245i0",
     "meta": {
-      "name": "Infernal Ada",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511075
+          "value": "511075"
         },
         {
           "trait_type": "id",
@@ -2574,15 +2573,15 @@
         },
         {
           "trait_type": "head",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "body",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "color",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "gradient",
@@ -2596,17 +2595,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_2_2_0_1_0_0_2_2_1_2_0_1_1_0_2_2_3_0_2_0_2_2_2_2_2_0_3_0_3_0_2_0_0_2_3_3_0_2_0_1_3_0_1_1_1_2_0_2_1_2_0_2_2_1_3_3_0_1_0_0_2_3_0_2_0_3_3_2_0_1_2_1_1_2_2_2"
         }
-      ]
+      ],
+      "name": "Infernal Ada"
     }
   },
   {
     "id": "ff331d79846d3f3fefebd3d37298f7d96dd891b78617536fc7a68758b12341c1i0",
     "meta": {
-      "name": "Wicked Elon",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511284
+          "value": "511284"
         },
         {
           "trait_type": "id",
@@ -2614,15 +2613,15 @@
         },
         {
           "trait_type": "head",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "body",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "color",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "gradient",
@@ -2636,17 +2635,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_2_1_0_0_3_1_3_1_2_3_3_1_0_3_3_1_1_0_0_1_2_3_1_3_0_3_1_3_1_2_2_1_0_2_0_3_1_0_2_2_1_2_1_2_1_1_1_0_0_2_1_1_3_3_1_0_0_1_0_2_3_0_0_0_0_2_2_3_3_3_3_0_1_0_1_1_1_2_1"
         }
-      ]
+      ],
+      "name": "Wicked Elon"
     }
   },
   {
     "id": "897fd21792b595f6c185dd31eaa94aa68e2a535f41c8a820f70aac2e2c5b221ei0",
     "meta": {
-      "name": "Fiery Elon",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511280
+          "value": "511280"
         },
         {
           "trait_type": "id",
@@ -2654,15 +2653,15 @@
         },
         {
           "trait_type": "head",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "body",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "color",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "gradient",
@@ -2676,17 +2675,17 @@
           "trait_type": "random_tiles",
           "value": "3_0_0_0_2_1_0_1_0_2_2_0_2_3_0_2_3_1_1_0_1_0_3_3_1_3_1_1_2_1_2_1_0_1_1_2_3_0_0_2_3_1_0_3_3_0_1_0_3_1_2_1_3_0_2_3_2_2_3_0_1_3_1_0_3_3_0_1_0_0_1_1_1_3_1_3_0_3_2_2_3_3_1"
         }
-      ]
+      ],
+      "name": "Fiery Elon"
     }
   },
   {
     "id": "c706c3e642bc4d450604a6f655005e1b0eed6cedd633a2063b416c9ce68dfc1fi0",
     "meta": {
-      "name": "Twisted Elon",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511283
+          "value": "511283"
         },
         {
           "trait_type": "id",
@@ -2694,15 +2693,15 @@
         },
         {
           "trait_type": "head",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "body",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "color",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "gradient",
@@ -2716,17 +2715,17 @@
           "trait_type": "random_tiles",
           "value": "2_3_0_3_3_2_0_2_0_1_0_3_0_1_1_0_0_3_1_2_1_2_2_1_2_0_3_0_3_0_1_1_2_3_1_3_0_1_3_2_2_3_1_0_2_0_2_2_3_1_3_2_3_3_2_0_1_0_2_2_3_1_1_0_0_3_1_0_2_2_0_0_0_1_1_3_0_0_2_1_0_2_2"
         }
-      ]
+      ],
+      "name": "Twisted Elon"
     }
   },
   {
     "id": "39fe31879ffc080d1e82ffb83de2f820c6e8f76aa84adb2be5a824cbbd23e156i0",
     "meta": {
-      "name": "Cryptic Elon",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511281
+          "value": "511281"
         },
         {
           "trait_type": "id",
@@ -2734,15 +2733,15 @@
         },
         {
           "trait_type": "head",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "body",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "color",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "gradient",
@@ -2756,17 +2755,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_3_0_0_2_1_1_1_1_0_0_0_3_1_3_1_0_3_1_0_2_2_1_2_0_2_3_1_0_1_1_2_0_0_0_1_3_3_1_0_3_3_2_2_0_3_2_2_0_3_1_0_3_0_0_0_1_1_1_0_2_1_3_3_0_1_1_0_1_3_2_2_2_2_0_0_0_1_2_0_0_0_3"
         }
-      ]
+      ],
+      "name": "Cryptic Elon"
     }
   },
   {
     "id": "38f653976ce9a9a4435caf83c0a23403ed3fca547883110caa1145c4fde90162i0",
     "meta": {
-      "name": "Shadowy Elon",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511278
+          "value": "511278"
         },
         {
           "trait_type": "id",
@@ -2774,15 +2773,15 @@
         },
         {
           "trait_type": "head",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "body",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "color",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "gradient",
@@ -2796,17 +2795,17 @@
           "trait_type": "random_tiles",
           "value": "2_1_2_0_1_2_1_0_1_0_0_0_0_3_3_2_0_0_2_2_0_1_3_2_0_3_1_3_2_1_0_2_0_0_1_1_2_2_0_0_3_1_1_1_0_3_0_1_2_3_2_1_3_0_1_3_1_3_0_1_3_0_2_0_2_0_2_3_2_3_2_0_0_3_0_3_1_0_3_3"
         }
-      ]
+      ],
+      "name": "Shadowy Elon"
     }
   },
   {
     "id": "3bda75c0b58e72871d1fca466a26cf11cbcc85a92503d9f7c9f1348f823cdb73i0",
     "meta": {
-      "name": "Sinister Elon",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511279
+          "value": "511279"
         },
         {
           "trait_type": "id",
@@ -2814,15 +2813,15 @@
         },
         {
           "trait_type": "head",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "body",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "color",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "gradient",
@@ -2836,17 +2835,17 @@
           "trait_type": "random_tiles",
           "value": "3_0_3_0_0_3_0_3_2_0_0_0_3_0_1_2_1_0_2_0_2_3_2_2_1_0_2_0_3_0_2_2_1_2_1_2_2_0_3_1_2_2_1_0_3_0_2_1_0_2_3_1_0_2_1_2_0_2_2_1_1_2_2_0_0_0_2_3_0_1_1_0_1_0_2_2_1"
         }
-      ]
+      ],
+      "name": "Sinister Elon"
     }
   },
   {
     "id": "dd1cba3410e955337bbc09a9ff3fea1c9f8793400390e57b9bc160a4538600a1i0",
     "meta": {
-      "name": "Nebulous Elon",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511282
+          "value": "511282"
         },
         {
           "trait_type": "id",
@@ -2854,15 +2853,15 @@
         },
         {
           "trait_type": "head",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "body",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "color",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "gradient",
@@ -2876,17 +2875,17 @@
           "trait_type": "random_tiles",
           "value": "0_2_0_3_3_1_0_2_1_2_2_0_1_2_1_0_2_1_2_1_1_2_2_3_0_0_3_0_3_2_0_3_2_0_3_3_3_1_2_3_1_2_0_0_3_0_2_0_0_3_3_1_2_3_1_1_2_2_2_1_3_0_3_1_2_3_0_0_3_3_2_1_2_2_3_1_1_1_3_2_3_2_3_0"
         }
-      ]
+      ],
+      "name": "Nebulous Elon"
     }
   },
   {
     "id": "6e9d35c1bf93b4fc661e0257be1cdd3e998bd1c995b39171b80fb020e605b589i0",
     "meta": {
-      "name": "Eldritch Elon",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511541
+          "value": "511541"
         },
         {
           "trait_type": "id",
@@ -2894,15 +2893,15 @@
         },
         {
           "trait_type": "head",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "body",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "color",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "gradient",
@@ -2916,17 +2915,17 @@
           "trait_type": "random_tiles",
           "value": "1_0_2_3_0_0_0_2_1_3_3_2_3_3_0_1_3_2_3_1_2_2_1_0_2_0_1_3_3_2_2_3_3_2_2_1_0_1_2_0_1_0_1_2_2_1_0_2_2_1_2_3_0_0_1_0_2_2_1_3_3_3_3_2_1_2_3_0_1_1_2_3_0_3_2_2_3_0_0_0"
         }
-      ]
+      ],
+      "name": "Eldritch Elon"
     }
   },
   {
     "id": "372ecbf1b73144a2de55210e07a0690fa087cf43f2a23d9aa251f6b620ca6ba1i0",
     "meta": {
-      "name": "Lurking Elon",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511538
+          "value": "511538"
         },
         {
           "trait_type": "id",
@@ -2934,15 +2933,15 @@
         },
         {
           "trait_type": "head",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "body",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "color",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "gradient",
@@ -2956,17 +2955,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_1_2_0_3_2_2_3_3_1_0_2_0_2_1_3_3_2_3_3_1_0_1_1_2_2_1_1_1_0_1_2_1_1_2_1_3_0_0_1_3_2_1_2_0_0_0_3_3_1_1_3_0_0_3_0_0_2_3_3_2_1_0_2_2_2_2_2_0_0_0_0_2_1_1_0_0_0_1_2_0_0"
         }
-      ]
+      ],
+      "name": "Lurking Elon"
     }
   },
   {
     "id": "7fdc40a403cdfd0249a7443a8e1e02b3f7881bf18a0a8f85c3f05e4d93af07dfi0",
     "meta": {
-      "name": "Ruthless Elon",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511540
+          "value": "511540"
         },
         {
           "trait_type": "id",
@@ -2974,15 +2973,15 @@
         },
         {
           "trait_type": "head",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "body",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "color",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "gradient",
@@ -2996,17 +2995,17 @@
           "trait_type": "random_tiles",
           "value": "2_2_3_3_0_0_2_1_0_3_0_2_3_3_3_0_0_2_0_1_2_2_1_1_2_0_0_1_3_1_3_3_3_0_1_2_1_1_0_1_2_0_2_1_3_0_1_0_3_2_1_0_0_3_3_0_3_2_0_1_0_3_2_3_2_3_3_1_2_2_2_1_3_1_1_0_1_0_0_0"
         }
-      ]
+      ],
+      "name": "Ruthless Elon"
     }
   },
   {
     "id": "1d0a80ccdb3ca08620cd81350418a3217c72be9e179028fa09a00bfcc2a72593i0",
     "meta": {
-      "name": "Devious Elon",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511539
+          "value": "511539"
         },
         {
           "trait_type": "id",
@@ -3014,15 +3013,15 @@
         },
         {
           "trait_type": "head",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "body",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "color",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "gradient",
@@ -3036,17 +3035,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_0_3_0_0_1_0_1_1_0_1_0_0_1_3_2_0_3_3_2_3_1_0_2_0_3_0_2_3_1_0_1_2_2_2_3_1_2_1_0_3_1_2_1_3_0_3_3_3_2_3_3_2_3_1_2_3_0_0_2_3_2_0"
         }
-      ]
+      ],
+      "name": "Devious Elon"
     }
   },
   {
     "id": "32a2c30b270d65435b8906de31559d92aa5ae6bc4d656fac1c979f374c45cfbei0",
     "meta": {
-      "name": "Enigmatic Elon",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511537
+          "value": "511537"
         },
         {
           "trait_type": "id",
@@ -3054,15 +3053,15 @@
         },
         {
           "trait_type": "head",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "body",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "color",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "gradient",
@@ -3076,17 +3075,17 @@
           "trait_type": "random_tiles",
           "value": "3_1_1_2_1_0_3_2_3_1_1_3_3_0_0_1_0_3_3_0_0_3_0_3_0_2_3_1_0_1_1_1_2_2_2_1_2_1_0_1_2_1_0_1_0_2_0_1_0_3_3_1_0_3_2_1_0_2_1_2_0_0_2_3_0_1_0_2_3_1_1_1_3_3_1_0_1_0_0_3_1"
         }
-      ]
+      ],
+      "name": "Enigmatic Elon"
     }
   },
   {
     "id": "c3b620593173f84bd01234fe8c90f26d270c3e1bf31032e138c8d44934f62409i0",
     "meta": {
-      "name": "Infernal Elon",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511536
+          "value": "511536"
         },
         {
           "trait_type": "id",
@@ -3094,15 +3093,15 @@
         },
         {
           "trait_type": "head",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "body",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "color",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "gradient",
@@ -3116,17 +3115,17 @@
           "trait_type": "random_tiles",
           "value": "1_3_0_1_1_1_1_2_3_2_0_3_0_2_2_2_3_2_3_1_2_3_3_0_3_2_0_1_0_0_1_1_2_2_2_1_2_2_3_2_2_3_3_3_2_0_1_2_3_0_1_2_3_1_0_1_2_2_1_0_3_2_0_1_3_1_1_0_2_1_3_1_0_3_3_3_1_0_3_1_1_2_0"
         }
-      ]
+      ],
+      "name": "Infernal Elon"
     }
   },
   {
     "id": "0fa6903f888e5ec82f1be69baef9b11482b6ff86ede7498463d589003ddd3abbi0",
     "meta": {
-      "name": "Wicked Sergey",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511581
+          "value": "511581"
         },
         {
           "trait_type": "id",
@@ -3134,15 +3133,15 @@
         },
         {
           "trait_type": "head",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "body",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "color",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "gradient",
@@ -3156,17 +3155,17 @@
           "trait_type": "random_tiles",
           "value": "0_3_2_3_0_2_0_3_1_1_2_3_3_1_2_2_1_2_2_3_2_2_2_1_0_0_2_0_3_2_1_2_0_1_0_2_3_1_0_3_0_2_3_0_3_0_0_0_1_1_1_0_0_0_1_3_2_2_1_1_1_2_2_3_0_2_3_0_1_3_1_0_2_2_2_2_2_2_0_0_2"
         }
-      ]
+      ],
+      "name": "Wicked Sergey"
     }
   },
   {
     "id": "7511de4fca8877209f8944f6de169a7be3df477aced6576710da8e149d4cf165i0",
     "meta": {
-      "name": "Fiery Sergey",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511577
+          "value": "511577"
         },
         {
           "trait_type": "id",
@@ -3174,15 +3173,15 @@
         },
         {
           "trait_type": "head",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "body",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "color",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "gradient",
@@ -3196,17 +3195,17 @@
           "trait_type": "random_tiles",
           "value": "1_1_1_1_0_2_3_3_2_2_2_0_2_1_1_2_0_3_2_2_1_2_0_2_3_2_0_0_3_2_2_0_0_0_3_2_2_1_2_2_2_2_3_0_0_3_0_3_2_0_1_2_3_1_1_3_3_2_3_2_2_0_2_0_1_0_0_3_2_1_3_3_1_2"
         }
-      ]
+      ],
+      "name": "Fiery Sergey"
     }
   },
   {
     "id": "247ff0802be446e7c3e2d59b1e65b566badea7f1084d3298b6ad83d9117b5864i0",
     "meta": {
-      "name": "Twisted Sergey",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511571
+          "value": "511571"
         },
         {
           "trait_type": "id",
@@ -3214,15 +3213,15 @@
         },
         {
           "trait_type": "head",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "body",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "color",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "gradient",
@@ -3236,17 +3235,17 @@
           "trait_type": "random_tiles",
           "value": "3_3_3_0_2_3_3_1_1_2_1_3_1_3_2_2_0_3_2_1_2_1_3_2_1_2_3_2_3_3_0_1_1_0_0_3_1_3_3_3_3_2_0_1_1_3_0_0_2_2_3_3_2_3_2_0_1_2_1_3"
         }
-      ]
+      ],
+      "name": "Twisted Sergey"
     }
   },
   {
     "id": "b038546650c169d2f29044f7049929ad70b4713ac07104b4dc5812ae2246f926i0",
     "meta": {
-      "name": "Cryptic Sergey",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511583
+          "value": "511583"
         },
         {
           "trait_type": "id",
@@ -3254,15 +3253,15 @@
         },
         {
           "trait_type": "head",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "body",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "color",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "gradient",
@@ -3276,17 +3275,17 @@
           "trait_type": "random_tiles",
           "value": "1_3_3_0_2_2_0_3_1_2_1_1_3_2_0_3_0_0_0_2_1_2_2_2_1_3_1_3_2_2_0_0_2_2_0_2_0_1_0_0_2_2_1_3_1_0_1_2_3_0_0_1_0_1_3_0_2_0_0_0_0_3_0_2_0_3_1_0_3_3_2_3_2_2_0_1_2_2_1_1"
         }
-      ]
+      ],
+      "name": "Cryptic Sergey"
     }
   },
   {
     "id": "6be7437a4995c53a87e7298695da17338a13a589ace60c3af90865c24d1294b8i0",
     "meta": {
-      "name": "Shadowy Sergey",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511573
+          "value": "511573"
         },
         {
           "trait_type": "id",
@@ -3294,15 +3293,15 @@
         },
         {
           "trait_type": "head",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "body",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "color",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "gradient",
@@ -3316,17 +3315,17 @@
           "trait_type": "random_tiles",
           "value": "1_1_0_0_3_2_0_1_3_0_3_0_1_3_3_0_3_0_3_2_0_2_1_0_1_1_1_3_3_3_3_2_0_0_3_1_2_1_1_0_0_1_3_0_1_2_2_2_1_0_1_1_2_1_3_2_0_2_2_3_3_1_3_2_3_1_0_2_0_3_3_1_3_3_0_0_0_2"
         }
-      ]
+      ],
+      "name": "Shadowy Sergey"
     }
   },
   {
     "id": "fccb47b334f971ed43eb3aa564c226c0213997b9775c9f55afff40f664c867fdi0",
     "meta": {
-      "name": "Sinister Sergey",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511579
+          "value": "511579"
         },
         {
           "trait_type": "id",
@@ -3334,15 +3333,15 @@
         },
         {
           "trait_type": "head",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "body",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "color",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "gradient",
@@ -3356,17 +3355,17 @@
           "trait_type": "random_tiles",
           "value": "1_1_3_2_3_2_3_2_1_3_2_2_3_2_1_3_3_2_0_1_1_3_1_1_3_1_1_0_0_1_3_1_2_3_2_0_1_1_1_3_1_1_0_2_3_0_0_0_2_0_1_0_2_2_0_3_3_1_1_0_3_3_3_1_1_2_3_1_2_1_2_3_3_2_1_1"
         }
-      ]
+      ],
+      "name": "Sinister Sergey"
     }
   },
   {
     "id": "fc792115845883ea60740a12e94f74a9971d84715ab639aea78ab0fa99eebd74i0",
     "meta": {
-      "name": "Nebulous Sergey",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511576
+          "value": "511576"
         },
         {
           "trait_type": "id",
@@ -3374,15 +3373,15 @@
         },
         {
           "trait_type": "head",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "body",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "color",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "gradient",
@@ -3396,17 +3395,17 @@
           "trait_type": "random_tiles",
           "value": "0_0_2_3_0_1_3_0_0_1_1_1_0_2_3_1_2_3_0_0_3_2_1_1_1_0_0_2_2_3_1_2_3_2_3_0_2_0_0_0_1_0_3_1_2_1_2_2_0_1_1_2_3_1_1_0_1_2_1_2_0_1_0_2_0_2_0_1_0_3_0_2_2_2_1_0_2_1_1_1_2_1_3"
         }
-      ]
+      ],
+      "name": "Nebulous Sergey"
     }
   },
   {
     "id": "f9317de09d7cac7bf6a20ac2240e0267c37b6a7a676a1bfa692a410714cd9452i0",
     "meta": {
-      "name": "Eldritch Sergey",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511575
+          "value": "511575"
         },
         {
           "trait_type": "id",
@@ -3414,15 +3413,15 @@
         },
         {
           "trait_type": "head",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "body",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "color",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "gradient",
@@ -3436,17 +3435,17 @@
           "trait_type": "random_tiles",
           "value": "3_2_3_3_2_0_0_1_1_2_1_2_2_3_2_1_2_1_1_0_0_2_3_3_2_3_3_3_1_0_3_2_0_2_2_1_1_2_0_1_3_0_2_1_0_3_2_0_3_1_3_0_1_0_3_3_0_2_0_3_1_0_2_0_3_2_3_0_3_0_2_1_2_1_3_1_3_3_3_0_2"
         }
-      ]
+      ],
+      "name": "Eldritch Sergey"
     }
   },
   {
     "id": "684580b883d4c8ff1f3ab1d689947dbe891553c7fc2cdfec5faf59919f001299i0",
     "meta": {
-      "name": "Lurking Sergey",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511578
+          "value": "511578"
         },
         {
           "trait_type": "id",
@@ -3454,15 +3453,15 @@
         },
         {
           "trait_type": "head",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "body",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "color",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "gradient",
@@ -3476,17 +3475,17 @@
           "trait_type": "random_tiles",
           "value": "1_3_3_1_3_0_3_2_3_0_1_2_1_2_1_3_2_2_3_1_2_2_1_2_3_2_3_3_2_2_0_3_0_1_3_1_1_2_2_1_3_1_2_3_3_0_0_2_2_0_0_3_1_2_0_3_0_2_2_2_3_3_0_0_1_3_3_1_0_0_2_2_1_0_0_0_0_2_3"
         }
-      ]
+      ],
+      "name": "Lurking Sergey"
     }
   },
   {
     "id": "06209e61afe87b0cfb6c1eb984c526a6a4fc34bc31f3ba70bdcfaeb969b1eb55i0",
     "meta": {
-      "name": "Ruthless Sergey",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511580
+          "value": "511580"
         },
         {
           "trait_type": "id",
@@ -3494,15 +3493,15 @@
         },
         {
           "trait_type": "head",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "body",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "color",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "gradient",
@@ -3516,17 +3515,17 @@
           "trait_type": "random_tiles",
           "value": "0_2_2_0_1_2_1_3_1_1_3_3_0_1_0_1_3_3_3_2_3_0_3_1_1_2_1_3_1_0_3_3_0_2_3_3_0_0_3_1_3_1_1_0_0_0_1_3_2_3_0_2_2_2_1_1_1_1_3_0_1_0_0_1_0_0_2_2_1_2_2_0_1_3_1_2_2_3_3_3"
         }
-      ]
+      ],
+      "name": "Ruthless Sergey"
     }
   },
   {
     "id": "659a7821785c7fba87adbe916b63886695271b510841c4f38d713412da463f7ai0",
     "meta": {
-      "name": "Devious Sergey",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511572
+          "value": "511572"
         },
         {
           "trait_type": "id",
@@ -3534,15 +3533,15 @@
         },
         {
           "trait_type": "head",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "body",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "color",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "gradient",
@@ -3556,17 +3555,17 @@
           "trait_type": "random_tiles",
           "value": "1_3_0_1_3_1_0_0_3_3_2_1_1_2_2_2_0_1_1_2_2_0_3_3_1_3_3_1_2_1_0_3_3_3_3_2_0_1_2_2_0_1_1_1_1_0_1_1_1_3_2_1_2_1_1_2_1_3_3_0_1_0_0_2_0_3_2_3_2_1_3_0_0_0_0_1_1_2_3_1"
         }
-      ]
+      ],
+      "name": "Devious Sergey"
     }
   },
   {
     "id": "582e91c46c758eb1bc7e381e85174fa846ab39814d07d7da8e8b878b8f259f2bi0",
     "meta": {
-      "name": "Enigmatic Sergey",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511582
+          "value": "511582"
         },
         {
           "trait_type": "id",
@@ -3574,15 +3573,15 @@
         },
         {
           "trait_type": "head",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "body",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "color",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "gradient",
@@ -3596,17 +3595,17 @@
           "trait_type": "random_tiles",
           "value": "1_0_1_3_0_0_0_2_3_1_1_3_3_2_2_2_1_2_1_2_1_1_2_3_0_0_1_0_2_1_0_1_0_1_0_2_3_2_3_2_3_3_3_3_1_3_3_2_2_1_0_2_1_0_3_0_3_2_1_2_2_3_2_0_1_1_0_2_0_1_0_2_0_3_2_2_2_3_1_3_2_0_1_2_1_0_0"
         }
-      ]
+      ],
+      "name": "Enigmatic Sergey"
     }
   },
   {
     "id": "b9ab6a556c9508083076683b6acfcbb1727ee48d52d87aba2d8f4be2b772d5efi0",
     "meta": {
-      "name": "Infernal Sergey",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 511574
+          "value": "511574"
         },
         {
           "trait_type": "id",
@@ -3614,15 +3613,15 @@
         },
         {
           "trait_type": "head",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "body",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "color",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "gradient",
@@ -3636,17 +3635,17 @@
           "trait_type": "random_tiles",
           "value": "0_3_1_0_2_3_1_0_0_1_3_3_2_0_1_3_3_2_0_2_2_1_0_2_0_0_2_2_2_3_3_2_1_3_1_3_3_3_2_0_1_2_3_1_0_0_3_2_3_0_0_3_0_1_0_2_0_1_3_0_3_0_0_3_1_1_1_0_0_2_3_2_2_1_2_0_1_3_2"
         }
-      ]
+      ],
+      "name": "Infernal Sergey"
     }
   },
   {
     "id": "7333d1ef18e5b33ea06ab167f4a7dfa82fc0866262c661b6cf6ac27c103bf625i0",
     "meta": {
-      "name": "Wicked Zelda",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512274
+          "value": "512274"
         },
         {
           "trait_type": "id",
@@ -3654,15 +3653,15 @@
         },
         {
           "trait_type": "head",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "body",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "color",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "gradient",
@@ -3676,17 +3675,17 @@
           "trait_type": "random_tiles",
           "value": "2_2_1_0_3_0_1_3_1_0_1_0_0_3_2_1_2_0_0_2_1_1_0_1_0_0_1_3_2_2_2_2_0_1_3_1_0_2_2_1_3_2_2_1_0_2_2_1_2_1_0_3_2_3_1_3_2_0_1_2_3_1_0_1_1_3_3_3_0_2_1_3_3_2_3_0_1_3_1_1_3"
         }
-      ]
+      ],
+      "name": "Wicked Zelda"
     }
   },
   {
     "id": "0d3099ac18c89dd330728636de3184d2996112f3fd6f038a9e66ef02ae0cbde5i0",
     "meta": {
-      "name": "Fiery Zelda",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512267
+          "value": "512267"
         },
         {
           "trait_type": "id",
@@ -3694,15 +3693,15 @@
         },
         {
           "trait_type": "head",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "body",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "color",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "gradient",
@@ -3716,17 +3715,17 @@
           "trait_type": "random_tiles",
           "value": "0_3_1_0_0_1_3_2_0_1_3_2_0_1_1_2_0_0_1_3_2_2_2_0_1_2_0_0_1_1_3_3_2_3_3_3_0_1_3_3_2_3_0_2_0_0_0_0_0_1_3_2_2_2_0_1_3_3_1_2_0_2_1_3_3_0_1_1_1_3_0_1"
         }
-      ]
+      ],
+      "name": "Fiery Zelda"
     }
   },
   {
     "id": "0da58f60a712a04d4916285ef8b73ecbb3523bcec3a613cedda39aed05d8e722i0",
     "meta": {
-      "name": "Twisted Zelda",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512276
+          "value": "512276"
         },
         {
           "trait_type": "id",
@@ -3734,15 +3733,15 @@
         },
         {
           "trait_type": "head",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "body",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "color",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "gradient",
@@ -3756,17 +3755,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_1_2_0_1_1_1_2_1_0_1_0_3_0_0_2_0_3_2_2_2_0_3_0_1_2_0_0_3_0_2_0_1_2_2_3_2_3_2_0_1_2_1_3_2_3_2_2_3_3_3_1_1_2_3_2_3_1_2_0_2_1_1_1_2_0_1_1_1_3_1_3_3_0_2_0_2_0_0_1_3_0_3"
         }
-      ]
+      ],
+      "name": "Twisted Zelda"
     }
   },
   {
     "id": "046ab4fc98f6aa02b05750c7e6361dfae94b23c14e8e6c7efb096dfcaf3631b8i0",
     "meta": {
-      "name": "Cryptic Zelda",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512273
+          "value": "512273"
         },
         {
           "trait_type": "id",
@@ -3774,15 +3773,15 @@
         },
         {
           "trait_type": "head",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "body",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "color",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "gradient",
@@ -3796,17 +3795,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_1_3_0_2_0_1_1_3_2_3_3_3_3_3_2_3_0_0_1_2_2_2_2_1_2_0_1_3_3_0_1_1_1_1_3_0_3_1_2_3_2_1_1_1_3_3_0_1_1_1_0_2_1_3_0_3_0_1_2_0_1_0"
         }
-      ]
+      ],
+      "name": "Cryptic Zelda"
     }
   },
   {
     "id": "de4c2783c979bed2e8b365d795e50131d273b91d12d224a48648bbb6e5b2c5bbi0",
     "meta": {
-      "name": "Shadowy Zelda",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512270
+          "value": "512270"
         },
         {
           "trait_type": "id",
@@ -3814,15 +3813,15 @@
         },
         {
           "trait_type": "head",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "body",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "color",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "gradient",
@@ -3836,17 +3835,17 @@
           "trait_type": "random_tiles",
           "value": "2_3_3_3_1_1_3_3_3_2_3_2_3_1_0_2_3_2_3_2_0_3_1_2_1_0_0_1_3_0_1_1_2_1_3_1_0_0_0_2_0_2_3_0_2_2_3_3_1_0_0_1_1_0"
         }
-      ]
+      ],
+      "name": "Shadowy Zelda"
     }
   },
   {
     "id": "af54872cf00e22a8656ba79c11df212fce951dc6d5abdd205e7cfc5d68604524i0",
     "meta": {
-      "name": "Sinister Zelda",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512275
+          "value": "512275"
         },
         {
           "trait_type": "id",
@@ -3854,15 +3853,15 @@
         },
         {
           "trait_type": "head",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "body",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "color",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "gradient",
@@ -3876,17 +3875,17 @@
           "trait_type": "random_tiles",
           "value": "0_2_2_2_3_3_0_0_0_3_0_1_0_1_1_1_3_1_2_3_2_3_1_0_0_3_0_2_2_3_1_1_2_0_1_0_3_2_0_3_2_0_3_0_0_2_1_1_2_2_0_2_3_0_2_1_2_2_1_1_0_3_0_2_3_3_2_1_3_1_1_2_1_2_3_0_2_2_2_0_2"
         }
-      ]
+      ],
+      "name": "Sinister Zelda"
     }
   },
   {
     "id": "985ddc12631fdb22ed480f7ed4119c0f365ea1ac5507a1e13515c1f56861a0e6i0",
     "meta": {
-      "name": "Nebulous Zelda",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512268
+          "value": "512268"
         },
         {
           "trait_type": "id",
@@ -3894,15 +3893,15 @@
         },
         {
           "trait_type": "head",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "body",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "color",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "gradient",
@@ -3916,17 +3915,17 @@
           "trait_type": "random_tiles",
           "value": "3_1_0_1_0_0_0_3_2_3_1_3_2_1_0_2_1_0_1_0_2_1_3_2_1_0_1_0_2_1_3_3_2_0_3_2_3_0_0_0_0_3_2_3_0_1_3_2_2_2_2_2_0_2_3_1_3_2_0_0_3_1_3_1_2_2_3_2_1_0_2_3"
         }
-      ]
+      ],
+      "name": "Nebulous Zelda"
     }
   },
   {
     "id": "1ffc755d1bc982b26d5974295857146f807fae6606e49e8ce403baedeb9a4bf1i0",
     "meta": {
-      "name": "Eldritch Zelda",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512271
+          "value": "512271"
         },
         {
           "trait_type": "id",
@@ -3934,15 +3933,15 @@
         },
         {
           "trait_type": "head",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "body",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "color",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "gradient",
@@ -3956,17 +3955,17 @@
           "trait_type": "random_tiles",
           "value": "2_1_2_1_0_1_1_2_2_0_2_3_0_2_1_1_1_3_3_0_2_3_0_0_2_0_1_1_0_3_0_2_1_1_0_0_3_2_3_2_0_2_0_1_0_1_1_1_1_0_3_2_0_3_3_0_0_1_1_1_3_0_2_2_1_1_1"
         }
-      ]
+      ],
+      "name": "Eldritch Zelda"
     }
   },
   {
     "id": "49f26d2d234b0ab5d8eaec63b4804ddb31e0913d505140c65efa618572a26780i0",
     "meta": {
-      "name": "Lurking Zelda",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512269
+          "value": "512269"
         },
         {
           "trait_type": "id",
@@ -3974,15 +3973,15 @@
         },
         {
           "trait_type": "head",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "body",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "color",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "gradient",
@@ -3996,17 +3995,17 @@
           "trait_type": "random_tiles",
           "value": "1_1_1_1_2_0_1_1_1_3_0_2_1_2_2_2_0_2_1_1_0_2_2_2_2_0_0_3_3_2_1_0_1_3_3_0_2_3_0_1_2_3_0_3_1_0_2_3_1_1_3_0_1_0_3_3_0_1_3_1_0_1_3_0_0_2_0_3_1_2_0_2_2_3_3_3_0_0_1_1_3_2_2"
         }
-      ]
+      ],
+      "name": "Lurking Zelda"
     }
   },
   {
     "id": "6485b28c3126a7bf4db43e043f3743872e6bd9a8efd6f8dca141baebc9ff2050i0",
     "meta": {
-      "name": "Ruthless Zelda",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512279
+          "value": "512279"
         },
         {
           "trait_type": "id",
@@ -4014,15 +4013,15 @@
         },
         {
           "trait_type": "head",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "body",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "color",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "gradient",
@@ -4036,17 +4035,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_2_0_1_1_2_2_3_1_3_0_1_2_0_0_2_0_3_2_2_1_0_3_2_0_3_0_2_1_0_0_2_0_3_0_0_0_1_2_0_0_1_3_3_1_0_3_0_3_2_0_2_1_3_0_3_2_0_2_2_0_2_1"
         }
-      ]
+      ],
+      "name": "Ruthless Zelda"
     }
   },
   {
     "id": "b1da351cbc0c03627dc932ed60240005a53b7a9de678923a4796ff6ba9edd6dci0",
     "meta": {
-      "name": "Devious Zelda",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512278
+          "value": "512278"
         },
         {
           "trait_type": "id",
@@ -4054,15 +4053,15 @@
         },
         {
           "trait_type": "head",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "body",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "color",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "gradient",
@@ -4076,17 +4075,17 @@
           "trait_type": "random_tiles",
           "value": "2_2_2_2_2_1_2_0_0_0_2_1_1_0_1_1_0_1_2_2_2_0_3_0_3_0_3_3_3_2_2_1_2_2_1_2_3_3_3_1_2_2_1_0_1_1_2_2_2_3_0_3_2_3_3_0_1_3_2_2_0_3_3_0_1_0_1_2_2_3_1_1_0_1_0_0_3_0_1_3_0_2_1"
         }
-      ]
+      ],
+      "name": "Devious Zelda"
     }
   },
   {
     "id": "200227743540de777c0f8a0ae8b24090440e6fb9989950bfc4d930854d975f47i0",
     "meta": {
-      "name": "Enigmatic Zelda",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512272
+          "value": "512272"
         },
         {
           "trait_type": "id",
@@ -4094,15 +4093,15 @@
         },
         {
           "trait_type": "head",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "body",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "color",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "gradient",
@@ -4116,17 +4115,17 @@
           "trait_type": "random_tiles",
           "value": "0_0_2_0_0_0_2_3_3_3_3_0_1_2_3_1_1_2_1_2_3_2_3_3_1_1_2_1_0_0_2_1_1_1_3_3_1_1_1_0_3_3_3_2_0_0_1_2_3_3_3_1_1_1_2_1_2_2_0_2_2_1_0_1_3_1_2"
         }
-      ]
+      ],
+      "name": "Enigmatic Zelda"
     }
   },
   {
     "id": "0ff7db702842c7abd8407bf9c7b253ba84a841df38ee6d96e7d8c4009475ffb2i0",
     "meta": {
-      "name": "Infernal Zelda",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512277
+          "value": "512277"
         },
         {
           "trait_type": "id",
@@ -4134,15 +4133,15 @@
         },
         {
           "trait_type": "head",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "body",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "color",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "gradient",
@@ -4156,17 +4155,17 @@
           "trait_type": "random_tiles",
           "value": "1_2_0_3_1_1_0_3_1_2_0_3_1_1_3_2_2_0_1_2_2_2_1_0_0_2_2_3_2_1_1_1_0_2_1_0_1_3_0_1_1_0_3_2_2_2_2_1_0_3_3_3_2_2_0_2_3_2_0_2_3_1_1_3_0_1_1"
         }
-      ]
+      ],
+      "name": "Infernal Zelda"
     }
   },
   {
     "id": "1c5d2a5149c33f453959d825872f9b24f70ab12b8b2a65d5ec7abff95068906bi0",
     "meta": {
-      "name": "Wicked Grace",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512388
+          "value": "512388"
         },
         {
           "trait_type": "id",
@@ -4174,15 +4173,15 @@
         },
         {
           "trait_type": "head",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "body",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "color",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "gradient",
@@ -4196,17 +4195,17 @@
           "trait_type": "random_tiles",
           "value": "2_1_3_3_0_1_2_0_2_1_2_0_1_2_0_3_0_3_0_3_1_2_0_0_1_1_1_1_2_0_3_1_0_2_3_3_2_2_3_0_0_3_3_2_3_0_2_2_0_2_2_0_1_1_2_3_3_1_2_3_3_0_3_1_0_3_0_1_0_2_0_0_3_3_3_2_2"
         }
-      ]
+      ],
+      "name": "Wicked Grace"
     }
   },
   {
     "id": "2619e02c230d32c0c2c126c898f47bbbe7e97bed7c407a342c2f45c2bf57cef8i0",
     "meta": {
-      "name": "Fiery Grace",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512387
+          "value": "512387"
         },
         {
           "trait_type": "id",
@@ -4214,15 +4213,15 @@
         },
         {
           "trait_type": "head",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "body",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "color",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "gradient",
@@ -4236,17 +4235,17 @@
           "trait_type": "random_tiles",
           "value": "1_2_1_2_1_2_3_1_2_0_0_2_1_1_0_3_2_2_2_0_2_3_1_0_3_2_0_2_3_3_1_0_0_0_2_3_2_1_0_3_3_2_1_0_3_3_3_2_0_0_1_1_3_3_1_0_0_1_0_1_2_3_1_1_2_2_3_2_3_2_2_2_2_0_0_0_1_2_1_3"
         }
-      ]
+      ],
+      "name": "Fiery Grace"
     }
   },
   {
     "id": "bccfcc88c7a6d23da9ac8914ff24f208e08bc94e17130ab2af4a05962800563bi0",
     "meta": {
-      "name": "Twisted Grace",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512380
+          "value": "512380"
         },
         {
           "trait_type": "id",
@@ -4254,15 +4253,15 @@
         },
         {
           "trait_type": "head",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "body",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "color",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "gradient",
@@ -4276,17 +4275,17 @@
           "trait_type": "random_tiles",
           "value": "0_1_1_3_3_2_0_2_1_2_1_0_2_1_1_0_0_0_1_3_3_2_1_2_2_1_1_3_1_1_3_2_2_1_2_1_1_1_1_1_1_0_0_2_2_2_2_3_0_1_0_0_0_3_0_2_3_2_3_1_1_2_3_1_1_0_3_3_3_0_0_3_2_1_3_3_1_0_3_2_3_3_3"
         }
-      ]
+      ],
+      "name": "Twisted Grace"
     }
   },
   {
     "id": "e38df8a06c89a71c69d6aa64ddf415b015dc01ad3e4e3aa1e89cb3337082602fi0",
     "meta": {
-      "name": "Cryptic Grace",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512390
+          "value": "512390"
         },
         {
           "trait_type": "id",
@@ -4294,15 +4293,15 @@
         },
         {
           "trait_type": "head",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "body",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "color",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "gradient",
@@ -4316,17 +4315,17 @@
           "trait_type": "random_tiles",
           "value": "2_1_2_1_2_2_1_2_3_0_3_2_0_2_3_0_3_0_1_1_2_1_3_2_3_3_0_0_1_1_1_2_2_2_3_2_1_0_1_1_3_3_3_0_1_1_0_0_2_3_1_0_2_0_0_0_1_2_1_2_1_2_1_3_2_2_2_1_1_3_1_3_3_2_0_2_1_3_1_3_0_0_1"
         }
-      ]
+      ],
+      "name": "Cryptic Grace"
     }
   },
   {
     "id": "1db0ff5b17a3469d9dbc29e698f82c6335fa51ca7efc3f6a12b295c43c0e40ddi0",
     "meta": {
-      "name": "Shadowy Grace",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512391
+          "value": "512391"
         },
         {
           "trait_type": "id",
@@ -4334,15 +4333,15 @@
         },
         {
           "trait_type": "head",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "body",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "color",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "gradient",
@@ -4356,17 +4355,17 @@
           "trait_type": "random_tiles",
           "value": "1_3_2_1_1_1_3_1_2_1_1_2_1_3_1_1_1_0_3_1_1_1_1_2_0_2_3_3_3_3_3_0_0_1_0_1_1_0_2_3_3_0_2_2_0_2_1_3_2_0_1_1_0_2_0_1_3_3_2_1_2_3_2_1_0_3_1_2_0_0_0_3_2_3_1_3_2_0_3_2_0_0"
         }
-      ]
+      ],
+      "name": "Shadowy Grace"
     }
   },
   {
     "id": "940bcb80ea142b73cf965d43213be7e70765e067e61935dd7ea14c249a637cb5i0",
     "meta": {
-      "name": "Sinister Grace",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512381
+          "value": "512381"
         },
         {
           "trait_type": "id",
@@ -4374,15 +4373,15 @@
         },
         {
           "trait_type": "head",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "body",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "color",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "gradient",
@@ -4396,17 +4395,17 @@
           "trait_type": "random_tiles",
           "value": "0_0_2_1_0_3_2_3_0_2_2_3_3_1_1_1_3_1_1_0_0_1_2_3_1_2_0_1_0_2_0_1_1_3_3_3_0_0_1_1_3_3_1_2_1_3_0_1_3_0_0_1_1_0_1_3_2_3_1_2_1_1_3_1_2_3_2_0_0_3_3"
         }
-      ]
+      ],
+      "name": "Sinister Grace"
     }
   },
   {
     "id": "94bee75d5f6d272994fcea5dbe7aa82e040f87bdfac4635b526a8fa0a6856821i0",
     "meta": {
-      "name": "Nebulous Grace",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512383
+          "value": "512383"
         },
         {
           "trait_type": "id",
@@ -4414,15 +4413,15 @@
         },
         {
           "trait_type": "head",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "body",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "color",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "gradient",
@@ -4436,17 +4435,17 @@
           "trait_type": "random_tiles",
           "value": "0_0_2_2_0_2_2_2_3_2_1_3_1_2_0_0_3_0_0_3_0_2_0_0_0_1_0_0_0_0_3_0_2_1_2_1_2_2_1_2_2_0_0_1_2_0_1_2_0_2_2_1_2_2_0_1_0_3_2_0_3_0_3_3_2_0_1"
         }
-      ]
+      ],
+      "name": "Nebulous Grace"
     }
   },
   {
     "id": "4afcd1ce4f5ef51c0dc5ceaf5749378dd59bddff6f80794ced35f9aa0a5f7f36i0",
     "meta": {
-      "name": "Eldritch Grace",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512386
+          "value": "512386"
         },
         {
           "trait_type": "id",
@@ -4454,15 +4453,15 @@
         },
         {
           "trait_type": "head",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "body",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "color",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "gradient",
@@ -4476,17 +4475,17 @@
           "trait_type": "random_tiles",
           "value": "3_2_0_2_1_3_3_2_2_3_2_3_3_2_2_3_1_1_3_2_0_1_2_1_1_3_3_1_0_3_3_1_2_3_0_1_1_1_2_0_1_1_0_0_3_1_0_2_1_2_3_0_1_3_1_0_3_3_3_0_0_2_1_0_2_3"
         }
-      ]
+      ],
+      "name": "Eldritch Grace"
     }
   },
   {
     "id": "ae55341518af8d1edb829979a26c919383ccf173fc32861a827d8f3d3a9112b5i0",
     "meta": {
-      "name": "Lurking Grace",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512389
+          "value": "512389"
         },
         {
           "trait_type": "id",
@@ -4494,15 +4493,15 @@
         },
         {
           "trait_type": "head",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "body",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "color",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "gradient",
@@ -4516,17 +4515,17 @@
           "trait_type": "random_tiles",
           "value": "3_3_1_1_0_3_0_1_1_0_2_0_2_3_0_1_0_3_0_3_0_3_1_0_3_0_3_2_3_0_3_0_1_2_0_1_0_1_2_1_3_1_2_0_3_2_2_2_2_2_1_0_3_0_1_0_2_0_3_2_2_3_1_2_0_2_0_1_1_3_0_3_2_1_2_1_3"
         }
-      ]
+      ],
+      "name": "Lurking Grace"
     }
   },
   {
     "id": "385383796883e35a479cc36359e656905829841b3c426f4e2dd5b217eb812defi0",
     "meta": {
-      "name": "Ruthless Grace",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512392
+          "value": "512392"
         },
         {
           "trait_type": "id",
@@ -4534,15 +4533,15 @@
         },
         {
           "trait_type": "head",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "body",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "color",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "gradient",
@@ -4556,17 +4555,17 @@
           "trait_type": "random_tiles",
           "value": "0_1_3_3_2_1_3_2_2_3_3_2_1_2_1_2_3_3_1_0_0_2_0_1_0_1_0_0_1_3_0_0_3_2_1_3_0_0_0_3_2_0_1_2_2_2_3_1_2_1_3_0_2_3_1_0_2_1_2_3_0_3_3_0_1_1_3_0_2_1_0"
         }
-      ]
+      ],
+      "name": "Ruthless Grace"
     }
   },
   {
     "id": "b889076de0e0d1e498306e1c2d3428d82d1aafb6f3e9201aebb8e6cd8e93bea4i0",
     "meta": {
-      "name": "Devious Grace",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512384
+          "value": "512384"
         },
         {
           "trait_type": "id",
@@ -4574,15 +4573,15 @@
         },
         {
           "trait_type": "head",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "body",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "color",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "gradient",
@@ -4596,17 +4595,17 @@
           "trait_type": "random_tiles",
           "value": "1_3_1_0_0_0_2_1_0_1_2_1_3_2_3_0_0_2_2_1_2_1_0_3_3_1_0_0_3_0_0_1_3_3_3_1_3_3_0_0_3_2_3_1_3_0_1_3_0_1_0_2_0_3_2_0_0_3_2_0_2_2_0_1_1_2_3_1_0_1_0_0_3_3_0_2"
         }
-      ]
+      ],
+      "name": "Devious Grace"
     }
   },
   {
     "id": "31bdf44858d1b9c6e43b9c7b8d417e4dc3cda72852d1f4278088a58ba745d96bi0",
     "meta": {
-      "name": "Enigmatic Grace",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512382
+          "value": "512382"
         },
         {
           "trait_type": "id",
@@ -4614,15 +4613,15 @@
         },
         {
           "trait_type": "head",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "body",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "color",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "gradient",
@@ -4636,17 +4635,17 @@
           "trait_type": "random_tiles",
           "value": "0_3_1_2_2_0_3_0_1_2_1_2_3_0_2_2_3_1_2_3_0_0_3_2_1_3_2_2_2_1_1_1_1_0_3_2_0_1_3_0_1_3_0_0_1_3_0_2_3_2_2_2_3_0_3_2_1_3_2_3_1_2_0_3_1_0_0_0_3_1_0_1_1_0_1_2"
         }
-      ]
+      ],
+      "name": "Enigmatic Grace"
     }
   },
   {
     "id": "0f7269b100a9965a5b6d20d9269527b49b0e651079d1f671fd083f4cd777a7eci0",
     "meta": {
-      "name": "Infernal Grace",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512385
+          "value": "512385"
         },
         {
           "trait_type": "id",
@@ -4654,15 +4653,15 @@
         },
         {
           "trait_type": "head",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "body",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "color",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "gradient",
@@ -4676,17 +4675,17 @@
           "trait_type": "random_tiles",
           "value": "2_1_0_1_1_0_3_1_1_0_0_2_0_1_1_2_3_2_2_1_0_0_3_1_0_2_2_1_2_2_1_2_3_0_2_3_1_3_3_2_0_1_0_2_3_0_2_0_2_0_0_2_3_3_1_0_3_1_1_2_2_2_0_1_2_2_0_3_3"
         }
-      ]
+      ],
+      "name": "Infernal Grace"
     }
   },
   {
     "id": "a339b11247f746a66a662aeda4c18b64f9b5c11a0d2124bd2780a15b2a22f3d4i0",
     "meta": {
-      "name": "Wicked Lara",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512597
+          "value": "512597"
         },
         {
           "trait_type": "id",
@@ -4694,15 +4693,15 @@
         },
         {
           "trait_type": "head",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "body",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "color",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "gradient",
@@ -4716,17 +4715,17 @@
           "trait_type": "random_tiles",
           "value": "0_2_2_2_1_2_2_3_2_2_3_2_3_3_0_3_3_1_1_2_2_0_1_2_1_0_3_2_3_0_1_0_1_2_1_1_3_1_1_0_1_0_1_2_1_1_1_2_3_2_2_2_2_2_2_0_1_3_3_2_1_2_0_1_2_2_1_2_0_0_0_3_1_1_2_2_1_2"
         }
-      ]
+      ],
+      "name": "Wicked Lara"
     }
   },
   {
     "id": "002178d7b592d07ba445971af3c1e85eab5f45b0ed113731c17830b0f7580c68i0",
     "meta": {
-      "name": "Fiery Lara",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512593
+          "value": "512593"
         },
         {
           "trait_type": "id",
@@ -4734,15 +4733,15 @@
         },
         {
           "trait_type": "head",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "body",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "color",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "gradient",
@@ -4756,17 +4755,17 @@
           "trait_type": "random_tiles",
           "value": "3_0_2_1_2_0_1_2_0_1_0_3_1_0_2_0_3_0_2_3_1_3_1_1_0_0_0_2_2_2_0_0_2_3_0_1_1_3_3_0_3_2_0_3_1_1_1_3_2_2_0_3_3_0_2_1_0_2_1_2_1_2_2_3_0_3_3_3_1_0_1_3_0_0_3_1_3_3_1_1_0"
         }
-      ]
+      ],
+      "name": "Fiery Lara"
     }
   },
   {
     "id": "a6cc5b6912cdb4e4c23b490cc90a452accc282c0cfaac1d5e7099d1e3939952bi0",
     "meta": {
-      "name": "Twisted Lara",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512588
+          "value": "512588"
         },
         {
           "trait_type": "id",
@@ -4774,15 +4773,15 @@
         },
         {
           "trait_type": "head",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "body",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "color",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "gradient",
@@ -4796,17 +4795,17 @@
           "trait_type": "random_tiles",
           "value": "1_1_3_2_1_1_2_2_2_2_1_2_0_1_3_1_0_3_1_3_3_3_1_1_0_0_3_1_0_1_1_0_1_0_3_0_0_1_2_3_3_1_0_2_2_1_1_1_2_0_2_2_1_3_0_0_0_1_3_0_0_2_3_1_3_3_3_0_1_0"
         }
-      ]
+      ],
+      "name": "Twisted Lara"
     }
   },
   {
     "id": "f9f3f90b4649c12b0a620468ecbb092e8895b0d58b0115292a3e5c8e1b1cc3b2i0",
     "meta": {
-      "name": "Cryptic Lara",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512592
+          "value": "512592"
         },
         {
           "trait_type": "id",
@@ -4814,15 +4813,15 @@
         },
         {
           "trait_type": "head",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "body",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "color",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "gradient",
@@ -4836,17 +4835,17 @@
           "trait_type": "random_tiles",
           "value": "3_3_3_1_3_1_3_2_3_1_2_0_0_3_1_3_3_2_1_1_3_1_2_1_2_3_3_0_3_1_2_1_0_2_2_1_1_2_3_1_2_1_2_0_0_2_0_3_2_1_3_3_3_0_2_2_3_0_3_0_1_0_2_3_1_1_3_0_0_0_0_3_3_1_1_0_3"
         }
-      ]
+      ],
+      "name": "Cryptic Lara"
     }
   },
   {
     "id": "46ec64374455f4f8018799a7f4a215a70782bc141e1fc390e31b7c3d8b48093ei0",
     "meta": {
-      "name": "Shadowy Lara",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512586
+          "value": "512586"
         },
         {
           "trait_type": "id",
@@ -4854,15 +4853,15 @@
         },
         {
           "trait_type": "head",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "body",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "color",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "gradient",
@@ -4876,17 +4875,17 @@
           "trait_type": "random_tiles",
           "value": "1_3_2_1_3_1_1_0_0_2_1_2_1_1_2_2_0_1_0_2_0_0_0_1_2_1_1_2_3_3_0_0_2_1_0_1_0_1_2_0_1_0_2_1_3_0_2_2_2_1_3_2_2_0_3_1_1_3_3_1_0_2_2_0_2_2_2_1_1_1_2_2_1_0_1_3_0_1_0_3"
         }
-      ]
+      ],
+      "name": "Shadowy Lara"
     }
   },
   {
     "id": "7bd6c166a555cdc95d51caf07bad06d9b0ca6be08ae4e2965f61e78d2612063ei0",
     "meta": {
-      "name": "Sinister Lara",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512587
+          "value": "512587"
         },
         {
           "trait_type": "id",
@@ -4894,15 +4893,15 @@
         },
         {
           "trait_type": "head",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "body",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "color",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "gradient",
@@ -4916,17 +4915,17 @@
           "trait_type": "random_tiles",
           "value": "0_1_1_2_3_3_3_0_1_0_1_0_0_0_2_0_2_0_3_0_2_0_0_0_1_3_2_1_0_2_1_0_0_0_3_2_1_2_3_0_1_0_0_2_0_0_1_2_2_2_3_3_0_1_2_1_2_0_0_2_2_2_1_3_1_2_3_2_0_2_0_0_0_3_1_1_2_0_3_1_1_3_3_3_2_0"
         }
-      ]
+      ],
+      "name": "Sinister Lara"
     }
   },
   {
     "id": "a0d4b649c2543cfee94bb602c1141f22e663ca057d4819f739d034bfcd4cfb1ai0",
     "meta": {
-      "name": "Nebulous Lara",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512589
+          "value": "512589"
         },
         {
           "trait_type": "id",
@@ -4934,15 +4933,15 @@
         },
         {
           "trait_type": "head",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "body",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "color",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "gradient",
@@ -4956,17 +4955,17 @@
           "trait_type": "random_tiles",
           "value": "1_3_2_2_0_0_3_2_2_2_1_3_0_0_2_0_3_0_3_3_3_0_1_0_2_2_0_0_0_2_2_2_0_2_2_2_0_0_2_1_0_1_2_0_1_2_3_0_2_2_1_0_3_2_0_2_0_2_1_2_0_1_0_1_1_3"
         }
-      ]
+      ],
+      "name": "Nebulous Lara"
     }
   },
   {
     "id": "a7d493c65348a80495336603e768f5b5c681e88ea2a810d3cb0d3ae441155d48i0",
     "meta": {
-      "name": "Eldritch Lara",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512585
+          "value": "512585"
         },
         {
           "trait_type": "id",
@@ -4974,15 +4973,15 @@
         },
         {
           "trait_type": "head",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "body",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "color",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "gradient",
@@ -4996,17 +4995,17 @@
           "trait_type": "random_tiles",
           "value": "3_2_1_0_3_1_3_2_1_1_0_1_2_3_0_2_0_0_0_0_1_1_1_2_2_1_3_2_1_3_0_2_3_0_0_0_2_1_0_3_0_3_3_3_3_3_2_2_0_0_2_3_1_1_0_0_2_0_2_1_0_2_0_1_2_3_2_1_2_0_2_0_0_2_1_3_0_2"
         }
-      ]
+      ],
+      "name": "Eldritch Lara"
     }
   },
   {
     "id": "5bc5ee7b7f4a2bbf8dedaa1c1ff2db8ee31365ae15a6e48874b82a02b9ac81b4i0",
     "meta": {
-      "name": "Lurking Lara",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512591
+          "value": "512591"
         },
         {
           "trait_type": "id",
@@ -5014,15 +5013,15 @@
         },
         {
           "trait_type": "head",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "body",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "color",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "gradient",
@@ -5036,17 +5035,17 @@
           "trait_type": "random_tiles",
           "value": "1_3_3_1_2_2_1_3_0_1_2_3_1_3_0_0_0_0_0_1_2_0_3_3_0_3_0_0_3_2_1_3_0_2_1_2_2_3_2_0_3_2_3_2_2_3_3_2_2_3_0_0_3_0_0_3_2_2_1_2_1_1_2_0_3_3_3_2_2_1_3_2_3_3_2_0_1_1_2_2_0_2_3_1"
         }
-      ]
+      ],
+      "name": "Lurking Lara"
     }
   },
   {
     "id": "106720297a995cdef1b971a7c7e996e3f892a44ae48ddf21be1b72794dbb9bb0i0",
     "meta": {
-      "name": "Ruthless Lara",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512594
+          "value": "512594"
         },
         {
           "trait_type": "id",
@@ -5054,15 +5053,15 @@
         },
         {
           "trait_type": "head",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "body",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "color",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "gradient",
@@ -5076,17 +5075,17 @@
           "trait_type": "random_tiles",
           "value": "0_0_1_1_1_2_0_2_0_3_2_0_1_0_3_2_0_3_1_2_3_0_1_2_3_2_3_2_0_0_3_2_3_1_0_1_0_3_3_3_0_0_2_0_2_3_0_1_2_0_0_0_0_2_1_0_3_2_1"
         }
-      ]
+      ],
+      "name": "Ruthless Lara"
     }
   },
   {
     "id": "9d5e10efb58a20113310b516dbccabf0af523eb8582902f1f5b17f8451c4a2bai0",
     "meta": {
-      "name": "Devious Lara",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512595
+          "value": "512595"
         },
         {
           "trait_type": "id",
@@ -5094,15 +5093,15 @@
         },
         {
           "trait_type": "head",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "body",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "color",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "gradient",
@@ -5116,17 +5115,17 @@
           "trait_type": "random_tiles",
           "value": "0_1_3_2_3_1_2_2_1_1_1_1_1_3_2_0_1_1_1_3_3_3_3_2_1_0_0_2_3_1_0_0_2_1_3_2_2_0_0_1_1_1_0_3_1_3_1_0_0_3_1_2_3_2_2_2_0_0_3_2_0_2_2_1_1_0_0_1_2_2_1_0_0"
         }
-      ]
+      ],
+      "name": "Devious Lara"
     }
   },
   {
     "id": "83daa5426f2b69b1c79c6485063e6c831fea94a0d58faf7621236315d3d11dd9i0",
     "meta": {
-      "name": "Enigmatic Lara",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512596
+          "value": "512596"
         },
         {
           "trait_type": "id",
@@ -5134,15 +5133,15 @@
         },
         {
           "trait_type": "head",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "body",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "color",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "gradient",
@@ -5156,17 +5155,17 @@
           "trait_type": "random_tiles",
           "value": "2_2_1_0_1_1_1_0_2_3_1_3_2_1_2_2_0_1_3_0_2_0_2_3_0_0_1_3_1_1_0_3_3_2_2_0_1_3_1_3_1_1_3_1_2_2_2_3_3_3_0_2_0_1_0_1_1_2_2_2_2_3_3_3_3_1_3_0_2_1"
         }
-      ]
+      ],
+      "name": "Enigmatic Lara"
     }
   },
   {
     "id": "f6452924330470dfa82287701cd5f0b4bc7eaecbfe4363022858bcc93305666di0",
     "meta": {
-      "name": "Infernal Lara",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512590
+          "value": "512590"
         },
         {
           "trait_type": "id",
@@ -5174,15 +5173,15 @@
         },
         {
           "trait_type": "head",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "body",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "color",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "gradient",
@@ -5196,17 +5195,17 @@
           "trait_type": "random_tiles",
           "value": "2_1_0_1_3_3_1_2_3_0_2_1_2_1_0_3_1_2_3_1_2_2_2_0_1_0_0_0_0_2_3_3_3_1_3_3_1_3_2_0_0_1_2_2_2_3_3_0_0_3_1_0_3_0_0_1_0_2_3_3_3_2_0_3_0_2_2_3_2_1_2_1_0_1_0_0_2_1_0_0_1_1"
         }
-      ]
+      ],
+      "name": "Infernal Lara"
     }
   },
   {
     "id": "12a6dbf484f3bf9e2a8078ef90c92973ea139bb2b3b39e9715712ad97aea506ci0",
     "meta": {
-      "name": "Wicked Jeff",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512913
+          "value": "512913"
         },
         {
           "trait_type": "id",
@@ -5214,15 +5213,15 @@
         },
         {
           "trait_type": "head",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "body",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "color",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "gradient",
@@ -5236,17 +5235,17 @@
           "trait_type": "random_tiles",
           "value": "3_0_2_0_2_1_2_2_0_1_3_0_2_0_0_0_0_0_0_0_0_2_2_0_3_0_3_2_3_3_1_0_1_3_0_0_1_1_2_2_0_0_2_3_0_0_3_2_1_0_0_2_3_0_3_2_2_1_2_3_3_1_1_3_1_2_1_0_1_2_2_0_2_2_0_3_3_3_2_1_0"
         }
-      ]
+      ],
+      "name": "Wicked Jeff"
     }
   },
   {
     "id": "9b24e56ae37c36fd6239ab484557dbfdb813553885a686244bbdd00668258d23i0",
     "meta": {
-      "name": "Fiery Jeff",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512912
+          "value": "512912"
         },
         {
           "trait_type": "id",
@@ -5254,15 +5253,15 @@
         },
         {
           "trait_type": "head",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "body",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "color",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "gradient",
@@ -5276,17 +5275,17 @@
           "trait_type": "random_tiles",
           "value": "0_0_0_0_2_3_0_3_2_3_3_2_3_2_2_0_0_3_2_2_1_3_2_1_1_2_3_0_2_2_3_3_1_0_3_0_2_0_3_0_1_1_0_0_0_3_0_3_3_2_2_2_0_3_3_3_0_1_2_0_3_3_2_0_2_3_3_0_2_2_3_0_3_2_0_3_2_2_1_1"
         }
-      ]
+      ],
+      "name": "Fiery Jeff"
     }
   },
   {
     "id": "40fa2af5249e711578129ce9b2eeb1cdee607d2c6f4f237411c606f9b72e8bcfi0",
     "meta": {
-      "name": "Twisted Jeff",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512909
+          "value": "512909"
         },
         {
           "trait_type": "id",
@@ -5294,15 +5293,15 @@
         },
         {
           "trait_type": "head",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "body",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "color",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "gradient",
@@ -5316,17 +5315,17 @@
           "trait_type": "random_tiles",
           "value": "1_0_1_0_0_1_3_3_0_0_1_3_0_3_2_2_1_1_3_2_3_1_0_1_2_0_1_0_2_1_1_0_1_1_2_1_2_2_3_1_1_3_0_2_1_3_1_1_2_2_3_3_3_2_3_1_3_2_3_1_3_2_2_2_3_2_0_1_3_0_3_3_2_0_3_1_0_3_0_3_1_3"
         }
-      ]
+      ],
+      "name": "Twisted Jeff"
     }
   },
   {
     "id": "d3e56786ff172773242b8a6a0a46afc1b5f2e593af820deb1abfcd5f85890a18i0",
     "meta": {
-      "name": "Cryptic Jeff",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512906
+          "value": "512906"
         },
         {
           "trait_type": "id",
@@ -5334,15 +5333,15 @@
         },
         {
           "trait_type": "head",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "body",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "color",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "gradient",
@@ -5356,17 +5355,17 @@
           "trait_type": "random_tiles",
           "value": "1_0_1_1_1_1_3_3_1_1_3_3_0_3_2_3_0_0_3_1_0_0_3_2_1_2_1_3_0_2_1_0_2_3_3_1_3_0_1_0_0_2_1_0_3_0_3_2_0_1_0_0_1_0_2_2_2_3_3_1_0_3_2_2_0_2_1_0_3_2_1_3_2_3_0_0_2"
         }
-      ]
+      ],
+      "name": "Cryptic Jeff"
     }
   },
   {
     "id": "a826f4f5efc9524b9d4ff998ff3e245b49a584947159432573336d0f85958647i0",
     "meta": {
-      "name": "Shadowy Jeff",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512915
+          "value": "512915"
         },
         {
           "trait_type": "id",
@@ -5374,15 +5373,15 @@
         },
         {
           "trait_type": "head",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "body",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "color",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "gradient",
@@ -5396,17 +5395,17 @@
           "trait_type": "random_tiles",
           "value": "1_1_1_2_3_2_0_2_3_1_1_1_0_2_0_2_0_0_0_0_1_0_1_1_3_1_2_2_1_0_2_0_3_2_3_3_0_3_2_0_2_3_2_2_2_2_0_1"
         }
-      ]
+      ],
+      "name": "Shadowy Jeff"
     }
   },
   {
     "id": "994f25169274cca2f56af122d2dc0bd632381e918dfc0b61b14db97d5538052fi0",
     "meta": {
-      "name": "Sinister Jeff",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512914
+          "value": "512914"
         },
         {
           "trait_type": "id",
@@ -5414,15 +5413,15 @@
         },
         {
           "trait_type": "head",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "body",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "color",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "gradient",
@@ -5436,17 +5435,17 @@
           "trait_type": "random_tiles",
           "value": "0_2_3_2_2_3_1_1_1_0_2_0_0_0_0_2_0_3_0_1_3_1_3_3_0_1_2_3_1_0_3_1_2_0_0_1_0_3_3_1_0_3_1_2_2_2_3_2_3_0_0_3_0_2_2_3_1_3_3_2_1_3_1_0_3_0_0_2_0_0_1_2_1_3_3_0_0_1_0_3_3_0_2"
         }
-      ]
+      ],
+      "name": "Sinister Jeff"
     }
   },
   {
     "id": "c546e10be7add2a66a7441c50719286cde6def9bfc1368d6d6569709d5d5d71di0",
     "meta": {
-      "name": "Nebulous Jeff",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512910
+          "value": "512910"
         },
         {
           "trait_type": "id",
@@ -5454,15 +5453,15 @@
         },
         {
           "trait_type": "head",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "body",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "color",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "gradient",
@@ -5476,17 +5475,17 @@
           "trait_type": "random_tiles",
           "value": "2_1_1_0_2_3_2_3_2_2_3_0_0_1_0_2_3_0_0_3_0_0_0_0_1_0_0_2_1_2_3_3_1_3_3_3_3_1_0_1_2_0_2_0_1_1_1_3_3_2_0_1_0_0_0_2_0_1_2_1_3_3_2_0_2_1_1_1_1_3_1_0_3_2_3_0_0_2_0"
         }
-      ]
+      ],
+      "name": "Nebulous Jeff"
     }
   },
   {
     "id": "0bdce0812e93c91f5efe0df92e9cab24db4c8c295295875976132f182e0f494bi0",
     "meta": {
-      "name": "Eldritch Jeff",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512911
+          "value": "512911"
         },
         {
           "trait_type": "id",
@@ -5494,15 +5493,15 @@
         },
         {
           "trait_type": "head",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "body",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "color",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "gradient",
@@ -5516,17 +5515,17 @@
           "trait_type": "random_tiles",
           "value": "3_1_2_3_0_3_1_3_2_1_0_0_2_1_0_3_3_0_1_2_0_2_1_0_2_1_0_0_3_0_3_0_0_1_0_2_0_2_2_2_2_0_1_1_1_2_0_1_2_0_0_2_1_2_3_3_1_1_3_3_2_3_3_2_0_3_2_0_3_1_3_2_1_1_0_2_3"
         }
-      ]
+      ],
+      "name": "Eldritch Jeff"
     }
   },
   {
     "id": "4a8590284e64fd02c3c957880b76a83fa2a786bb47e3e5de4f973679dfc697aai0",
     "meta": {
-      "name": "Lurking Jeff",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512905
+          "value": "512905"
         },
         {
           "trait_type": "id",
@@ -5534,15 +5533,15 @@
         },
         {
           "trait_type": "head",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "body",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "color",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "gradient",
@@ -5556,17 +5555,17 @@
           "trait_type": "random_tiles",
           "value": "3_3_2_1_2_3_0_0_1_2_3_3_0_0_2_3_1_1_1_2_1_3_1_2_0_3_3_3_1_2_0_3_2_1_0_0_3_3_3_2_1_2_2_1_2_2_0_2_3_2_1_2_3_3_0_1_1_2_0_3_2_1_0_1_0_3_0_3_1_0_0_1_2_2_3_0_1_1_3_3_1"
         }
-      ]
+      ],
+      "name": "Lurking Jeff"
     }
   },
   {
     "id": "d9dd1e7dd72154902bed797c617bdc8156b67dc8ff852fd7f4dde093bdf4f01fi0",
     "meta": {
-      "name": "Ruthless Jeff",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512916
+          "value": "512916"
         },
         {
           "trait_type": "id",
@@ -5574,15 +5573,15 @@
         },
         {
           "trait_type": "head",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "body",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "color",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "gradient",
@@ -5596,17 +5595,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_0_0_0_3_3_2_0_3_0_2_0_3_1_1_3_3_2_2_1_3_1_2_1_1_0_3_2_0_2_0_3_2_1_0_0_0_0_1_0_1_0_1_0_1_2_3_2_1_1_3_0_3_0_0_1_1_0_2_3_3_2_1_2_2_2_2_3_3_1_3_3_2_2_3_3"
         }
-      ]
+      ],
+      "name": "Ruthless Jeff"
     }
   },
   {
     "id": "2810cd39d0e2e05b19f9cb1d3938af5b192c278839b7427a092122f73401d053i0",
     "meta": {
-      "name": "Devious Jeff",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512904
+          "value": "512904"
         },
         {
           "trait_type": "id",
@@ -5614,15 +5613,15 @@
         },
         {
           "trait_type": "head",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "body",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "color",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "gradient",
@@ -5636,17 +5635,17 @@
           "trait_type": "random_tiles",
           "value": "3_2_3_0_0_2_2_2_0_0_3_1_3_2_3_3_1_3_1_2_3_1_2_2_3_0_0_3_1_2_3_2_0_2_1_2_3_3_0_2_0_0_1_2_2_1_1_2_3_3_0_2_0_1_1_2_1_3_1_3_0_0_1_1_0_2_3_1_2_1_2_3_2_3_3"
         }
-      ]
+      ],
+      "name": "Devious Jeff"
     }
   },
   {
     "id": "f5cdd6308338b80926767076d6fbdd547c7df48ba20030e0c41d29d04fc4d67fi0",
     "meta": {
-      "name": "Enigmatic Jeff",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512907
+          "value": "512907"
         },
         {
           "trait_type": "id",
@@ -5654,15 +5653,15 @@
         },
         {
           "trait_type": "head",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "body",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "color",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "gradient",
@@ -5676,17 +5675,17 @@
           "trait_type": "random_tiles",
           "value": "0_2_2_2_3_3_2_3_2_1_3_0_2_0_3_0_3_0_1_0_3_0_1_3_2_3_0_1_0_3_3_2_1_2_3_2_0_0_1_2_1_2_1_1_2_3_2_1_3_0_1_1_2_2_0_1_3_3_1_2_0_0_3_2_3_1_3_2_2_3_1_1_0_3_3_3_0_2_2_1_2_0_1_1"
         }
-      ]
+      ],
+      "name": "Enigmatic Jeff"
     }
   },
   {
     "id": "0580017e12a5cfe7f45ff6398b36b576a52681875009288a67ba13c6bb1583b7i0",
     "meta": {
-      "name": "Infernal Jeff",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 512908
+          "value": "512908"
         },
         {
           "trait_type": "id",
@@ -5694,15 +5693,15 @@
         },
         {
           "trait_type": "head",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "body",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "color",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "gradient",
@@ -5716,17 +5715,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_0_2_1_1_0_3_3_1_1_2_1_2_1_0_0_0_2_1_1_3_1_0_1_0_1_0_2_0_1_0_3_1_2_0_1_3_1_0_2_2_1_2_2_0_3_1_1_3_3_3_1_3_2_3_2_2_0_1_2_1_0_3_1_3_1_2_0_3_0_0_2_2_3_2_1"
         }
-      ]
+      ],
+      "name": "Infernal Jeff"
     }
   },
   {
     "id": "4a003234a3ceaf9bf611d8095a12187cd7471741ca10ea03450e1964784966e5i0",
     "meta": {
-      "name": "Wicked Hedy",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513047
+          "value": "513047"
         },
         {
           "trait_type": "id",
@@ -5734,15 +5733,15 @@
         },
         {
           "trait_type": "head",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "body",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "color",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "gradient",
@@ -5756,17 +5755,17 @@
           "trait_type": "random_tiles",
           "value": "0_1_1_1_3_3_1_0_2_2_3_2_3_0_1_1_1_3_2_3_0_1_3_2_3_0_2_2_1_1_3_3_3_0_1_1_2_3_1_1_0_0_2_2_3_1_3_2_0_0_0_1_2_3_0_1_0_0_1_0_1_1_0_0_1_2_0_3_1_1_1_2_0_0_0_3_3_2_0"
         }
-      ]
+      ],
+      "name": "Wicked Hedy"
     }
   },
   {
     "id": "43159b5dd82e7240026e2428b16f01923d877f1fa5076e026d3c8fb186cf5d00i0",
     "meta": {
-      "name": "Fiery Hedy",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513052
+          "value": "513052"
         },
         {
           "trait_type": "id",
@@ -5774,15 +5773,15 @@
         },
         {
           "trait_type": "head",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "body",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "color",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "gradient",
@@ -5796,17 +5795,17 @@
           "trait_type": "random_tiles",
           "value": "3_2_0_3_0_0_1_1_3_3_1_0_2_2_2_2_3_3_0_2_2_2_0_2_1_3_3_0_0_0_1_3_1_1_2_1_3_1_0_0_2_0_3_1_2_1_0_3_0_1_3_1_0_0_1_0_1_0_0_0_2_0_2_0_2_1_0_0_0_2_1_0_3_1_1_2_0_0_3_3_1"
         }
-      ]
+      ],
+      "name": "Fiery Hedy"
     }
   },
   {
     "id": "c3b201f703e67915b776164d65f32fc63414be26026e73c30c4f1612884df6bfi0",
     "meta": {
-      "name": "Twisted Hedy",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513050
+          "value": "513050"
         },
         {
           "trait_type": "id",
@@ -5814,15 +5813,15 @@
         },
         {
           "trait_type": "head",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "body",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "color",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "gradient",
@@ -5836,17 +5835,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_3_3_1_3_1_3_2_1_1_1_0_2_1_1_2_0_1_2_1_1_0_1_2_1_3_1_2_1_3_2_3_1_3_3_3_3_3_0_1_3_1_3_3_2_2_2_2_2_2_1_1_3_2_0_3_2_3_0_3_1_3_0_1_0_0_3_1_0_0_0_2_3_2_0_0_1"
         }
-      ]
+      ],
+      "name": "Twisted Hedy"
     }
   },
   {
     "id": "f213852820d96137d267582498c1ed28b98cd351bdb5ea5efc01be4742c94078i0",
     "meta": {
-      "name": "Cryptic Hedy",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513053
+          "value": "513053"
         },
         {
           "trait_type": "id",
@@ -5854,15 +5853,15 @@
         },
         {
           "trait_type": "head",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "body",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "color",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "gradient",
@@ -5876,17 +5875,17 @@
           "trait_type": "random_tiles",
           "value": "3_0_2_1_1_1_0_0_1_2_2_0_0_3_2_2_2_0_0_2_3_3_2_0_3_0_3_3_1_0_1_3_0_1_0_3_0_3_2_1_2_2_0_0_1_1_2_3_1_3_1_3_2_0_3_2"
         }
-      ]
+      ],
+      "name": "Cryptic Hedy"
     }
   },
   {
     "id": "4f1ee2adcd2ee36c58dba45be1d432d9cece12b2e08a3f61c9973107bb912721i0",
     "meta": {
-      "name": "Shadowy Hedy",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513046
+          "value": "513046"
         },
         {
           "trait_type": "id",
@@ -5894,15 +5893,15 @@
         },
         {
           "trait_type": "head",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "body",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "color",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "gradient",
@@ -5916,17 +5915,17 @@
           "trait_type": "random_tiles",
           "value": "0_2_2_1_0_0_1_3_2_2_0_3_0_2_2_0_1_2_1_2_3_2_1_2_0_1_0_0_1_2_2_2_3_2_3_1_3_3_1_3_3_2_2_0_3_1_1_0_0_0_1_3_3_2_2_3_0_1_1_2_0_0_3_3_1_3_3_1_1_1_1_1_0_3_3_0_2_3_1_2_3"
         }
-      ]
+      ],
+      "name": "Shadowy Hedy"
     }
   },
   {
     "id": "37a91e215b617f216960181e6635ead149508e7066d5c395b446e5a131451badi0",
     "meta": {
-      "name": "Sinister Hedy",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513054
+          "value": "513054"
         },
         {
           "trait_type": "id",
@@ -5934,15 +5933,15 @@
         },
         {
           "trait_type": "head",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "body",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "color",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "gradient",
@@ -5956,17 +5955,17 @@
           "trait_type": "random_tiles",
           "value": "2_3_1_0_2_2_3_2_3_2_0_1_0_0_3_2_0_3_0_1_0_2_3_3_3_3_2_1_3_1_0_3_1_1_3_1_1_2_2_3_3_1_3_1_0_2_3_2_2_2_2_1_2_0_3_1_2_3_2_1_0_1_1_2_2_2_1_0_0_2_2_0_1_3_0_0_3_0_0_3_2_1_3_3"
         }
-      ]
+      ],
+      "name": "Sinister Hedy"
     }
   },
   {
     "id": "604a327d8e5dd4c243f40342eeee503cdca01df73189f467e10c1d6097d459f2i0",
     "meta": {
-      "name": "Nebulous Hedy",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513051
+          "value": "513051"
         },
         {
           "trait_type": "id",
@@ -5974,15 +5973,15 @@
         },
         {
           "trait_type": "head",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "body",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "color",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "gradient",
@@ -5996,17 +5995,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_1_0_2_1_0_2_2_3_2_2_3_0_3_2_3_2_0_1_1_3_1_0_2_3_1_2_1_1_1_1_0_1_3_0_2_1_1_1_3_3_0_0_1_3_0_1_2_1_0_0_2_2_0_0_2_3_3_2_0_0_3_3_2_0_0_0_3_1_1_1_3_0_0_2_2"
         }
-      ]
+      ],
+      "name": "Nebulous Hedy"
     }
   },
   {
     "id": "35de0ec9d58dfa2a3304fefa58b9328e5f4ecb52b23020b4b0b8778f6f3086e3i0",
     "meta": {
-      "name": "Eldritch Hedy",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513043
+          "value": "513043"
         },
         {
           "trait_type": "id",
@@ -6014,15 +6013,15 @@
         },
         {
           "trait_type": "head",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "body",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "color",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "gradient",
@@ -6036,17 +6035,17 @@
           "trait_type": "random_tiles",
           "value": "3_3_1_1_1_1_3_2_3_1_0_0_2_2_2_3_2_3_0_1_1_2_2_2_2_3_1_1_0_0_2_0_3_0_3_2_2_3_1_1_1_0_3_1_1_2_3_3_3_0_1_1_0_0_1_1_0_3_0_1_2_0_0_1_1_3_1_2_2_1_2_3_0_0_2"
         }
-      ]
+      ],
+      "name": "Eldritch Hedy"
     }
   },
   {
     "id": "ec029441ef7490c4d626af678913ed425b9683de4fa5f55ad8798bf857291208i0",
     "meta": {
-      "name": "Lurking Hedy",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513049
+          "value": "513049"
         },
         {
           "trait_type": "id",
@@ -6054,15 +6053,15 @@
         },
         {
           "trait_type": "head",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "body",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "color",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "gradient",
@@ -6076,17 +6075,17 @@
           "trait_type": "random_tiles",
           "value": "0_3_1_2_0_1_0_2_1_1_0_3_0_2_2_2_2_2_1_2_3_2_2_3_0_1_0_1_0_3_0_2_0_0_3_0_3_3_1_1_3_3_1_3_3_0_0_3_1_1_1_0_1_0_3_0_2_1_2_3_2_2_2_1_0_0_3_0_3_1_1_1_2_3"
         }
-      ]
+      ],
+      "name": "Lurking Hedy"
     }
   },
   {
     "id": "143462cdb10868b176b3ec2a0f2a06750579c079b6b19c731759011e3b0a4e07i0",
     "meta": {
-      "name": "Ruthless Hedy",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513048
+          "value": "513048"
         },
         {
           "trait_type": "id",
@@ -6094,15 +6093,15 @@
         },
         {
           "trait_type": "head",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "body",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "color",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "gradient",
@@ -6116,17 +6115,17 @@
           "trait_type": "random_tiles",
           "value": "2_2_1_3_2_3_1_3_3_2_2_2_2_1_0_1_3_0_3_1_2_0_0_1_3_2_1_2_2_0_1_0_3_2_0_0_2_3_3_1_3_0_0_1_1_1_1_3_3_2_0_0_1_1_1_1_1_1_3_3_1_1_2_3_0_2_3_2_0_1_2_0_2_3_3_1_0_0_0_2_3_0"
         }
-      ]
+      ],
+      "name": "Ruthless Hedy"
     }
   },
   {
     "id": "7108f058dca5b2b890d95995ea8d11e80fc276c9b0c2fc90d13392e0bebfd0a5i0",
     "meta": {
-      "name": "Devious Hedy",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513042
+          "value": "513042"
         },
         {
           "trait_type": "id",
@@ -6134,15 +6133,15 @@
         },
         {
           "trait_type": "head",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "body",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "color",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "gradient",
@@ -6156,17 +6155,17 @@
           "trait_type": "random_tiles",
           "value": "2_3_2_2_0_2_1_1_3_3_1_3_2_1_2_1_0_0_0_2_1_3_1_1_3_1_1_2_1_2_1_0_3_2_0_3_1_0_3_0_2_0_2_2_2_2_2_2_0_2_0_2_3_2_3_0_3_0_1_0_3_0_3_3_0_0_2_0_0_1_3_2_0_3_3_0_3_1_0"
         }
-      ]
+      ],
+      "name": "Devious Hedy"
     }
   },
   {
     "id": "832843db718a87f0e915dcd0f05f043d8d3a9c9a4215470f098684116770727bi0",
     "meta": {
-      "name": "Enigmatic Hedy",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513044
+          "value": "513044"
         },
         {
           "trait_type": "id",
@@ -6174,15 +6173,15 @@
         },
         {
           "trait_type": "head",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "body",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "color",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "gradient",
@@ -6196,17 +6195,17 @@
           "trait_type": "random_tiles",
           "value": "0_0_2_1_0_3_2_1_1_2_1_0_1_0_1_1_1_0_1_3_2_2_0_2_1_3_3_2_1_1_2_2_2_1_3_1_1_0_1_0_1_1_1_0_3_2_0_1_1_0_3_1_3_1_3_2_1_0_0_1_3_2_2_2_1_2_1_3_3_1_2_0_2_0_1_0"
         }
-      ]
+      ],
+      "name": "Enigmatic Hedy"
     }
   },
   {
     "id": "9d8ffdf952296d25e0bb8e04f30159ba59f790130f27f252282429680ee70bf0i0",
     "meta": {
-      "name": "Infernal Hedy",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513045
+          "value": "513045"
         },
         {
           "trait_type": "id",
@@ -6214,15 +6213,15 @@
         },
         {
           "trait_type": "head",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "body",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "color",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "gradient",
@@ -6236,17 +6235,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_0_3_3_1_1_1_1_3_0_0_1_1_3_3_1_1_0_3_3_1_2_1_2_2_0_1_2_0_3_2_1_2_0_2_3_0_2_1_0_0_1_3_2_2_2_3_2_2_3_1_2_1_0_2_0_1_2_1_0_1_0_1_2_2_0_0_2_2_2_1_0_1_3_3_0_0_2_1_0_0"
         }
-      ]
+      ],
+      "name": "Infernal Hedy"
     }
   },
   {
     "id": "634c7add78a5dd661b466dc80faccfcba2705c6865a7f87f86bbee77ec6d40b0i0",
     "meta": {
-      "name": "Wicked Satoshi",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513265
+          "value": "513265"
         },
         {
           "trait_type": "id",
@@ -6254,15 +6253,15 @@
         },
         {
           "trait_type": "head",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "body",
-          "value": 0
+          "value": "0"
         },
         {
           "trait_type": "color",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "gradient",
@@ -6276,17 +6275,17 @@
           "trait_type": "random_tiles",
           "value": "1_3_0_3_0_3_2_2_2_1_2_1_3_1_0_0_3_3_3_2_0_3_1_1_3_0_0_2_3_0_0_0_0_1_1_2_2_1_3_3_0_2_0_2_1_0_2_2_2_1_2_2_3_1_2_1_2_3_0_0_2_2_2"
         }
-      ]
+      ],
+      "name": "Wicked Satoshi"
     }
   },
   {
     "id": "8a34795c0b9710abfaa2c7d0abb0e5ca1f19ff53132c7acdc0c16f1202a2dd63i0",
     "meta": {
-      "name": "Fiery Satoshi",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513266
+          "value": "513266"
         },
         {
           "trait_type": "id",
@@ -6294,15 +6293,15 @@
         },
         {
           "trait_type": "head",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "body",
-          "value": 1
+          "value": "1"
         },
         {
           "trait_type": "color",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "gradient",
@@ -6316,17 +6315,17 @@
           "trait_type": "random_tiles",
           "value": "0_2_1_3_2_1_1_1_1_2_2_3_0_3_2_1_2_1_0_2_1_2_1_0_1_3_0_0_2_2_0_1_1_3_2_1_0_3_0_0_0_2_0_3_0_0_2_0_1_3_3_1_0_1_3_0_1_1_2_1_1_0_2_2_0"
         }
-      ]
+      ],
+      "name": "Fiery Satoshi"
     }
   },
   {
     "id": "895004934e0e367cf093ab2594a25186e2a1b5361062798582740f923889ee13i0",
     "meta": {
-      "name": "Twisted Satoshi",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513256
+          "value": "513256"
         },
         {
           "trait_type": "id",
@@ -6334,15 +6333,15 @@
         },
         {
           "trait_type": "head",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "body",
-          "value": 10
+          "value": "10"
         },
         {
           "trait_type": "color",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "gradient",
@@ -6356,17 +6355,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_2_3_2_1_1_1_1_0_2_1_2_3_2_3_2_2_1_0_3_2_1_1_2_0_3_2_2_1_2_1_2_0_0_3_2_0_2_1_2_2_0_1_1_0_1_2_2_2_3_0_0_1_0_2_3_0_1_1_3_3_1_2_1_0_3_3_3_0_3_2_2_1_1_3_2_2_1_3_0"
         }
-      ]
+      ],
+      "name": "Twisted Satoshi"
     }
   },
   {
     "id": "ab1e4c49e68b99277324d0a0e054a50c1a49efa9fc5450235e28436068417707i0",
     "meta": {
-      "name": "Cryptic Satoshi",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513268
+          "value": "513268"
         },
         {
           "trait_type": "id",
@@ -6374,15 +6373,15 @@
         },
         {
           "trait_type": "head",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "body",
-          "value": 11
+          "value": "11"
         },
         {
           "trait_type": "color",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "gradient",
@@ -6396,17 +6395,17 @@
           "trait_type": "random_tiles",
           "value": "3_3_1_0_1_2_2_2_1_1_3_2_1_3_2_1_0_0_2_3_2_2_1_0_2_1_0_1_2_2_0_2_1_0_3_1_2_2_3_1_2_0_1_1_1_2_1_3_2_1_0_2_1_2_0_2_0_1_3_0_0_0_2_0_1_2_3_0_3_2_2_3"
         }
-      ]
+      ],
+      "name": "Cryptic Satoshi"
     }
   },
   {
     "id": "d9afcb25a836fb0f2179fd23e977d2647e180584fe52196bb8f161682676c8b9i0",
     "meta": {
-      "name": "Shadowy Satoshi",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513261
+          "value": "513261"
         },
         {
           "trait_type": "id",
@@ -6414,15 +6413,15 @@
         },
         {
           "trait_type": "head",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "body",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "color",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "gradient",
@@ -6436,17 +6435,17 @@
           "trait_type": "random_tiles",
           "value": "1_0_0_3_3_1_2_3_0_2_2_2_3_0_0_2_3_1_2_2_3_3_2_3_3_1_3_2_3_2_0_1_1_0_0_3_1_1_0_1_0_3_3_0_1_0_2_3_2_0_0_2_2_3_1_0_2_3_3_0_0_3_0_0_2_0_2_3_1_0_0_0_3_0_0_3_3_0"
         }
-      ]
+      ],
+      "name": "Shadowy Satoshi"
     }
   },
   {
     "id": "c36a3e723ff65d46a963475b89aa844674e34ae1cf349fb434d1d0d40402e542i0",
     "meta": {
-      "name": "Sinister Satoshi",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513263
+          "value": "513263"
         },
         {
           "trait_type": "id",
@@ -6454,15 +6453,15 @@
         },
         {
           "trait_type": "head",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "body",
-          "value": 2
+          "value": "2"
         },
         {
           "trait_type": "color",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "gradient",
@@ -6476,17 +6475,17 @@
           "trait_type": "random_tiles",
           "value": "3_1_2_3_0_1_0_2_2_2_2_1_1_1_1_0_0_1_0_2_1_0_1_0_2_1_1_1_1_0_0_1_1_2_0_0_0_1_2_2_1_3_3_2_3_3_1_3_3_3_1_0_0_0_3_0_2_0_3_0_2_3_3_3_1_0_1_1_1_0_1_0_0_1_0_3_3_0"
         }
-      ]
+      ],
+      "name": "Sinister Satoshi"
     }
   },
   {
     "id": "9e39bd12db1ff5e505b58113eb5eeddeb4f85840eb766e1f10be10e547510936i0",
     "meta": {
-      "name": "Nebulous Satoshi",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513264
+          "value": "513264"
         },
         {
           "trait_type": "id",
@@ -6494,15 +6493,15 @@
         },
         {
           "trait_type": "head",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "body",
-          "value": 3
+          "value": "3"
         },
         {
           "trait_type": "color",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "gradient",
@@ -6516,17 +6515,17 @@
           "trait_type": "random_tiles",
           "value": "0_2_1_0_1_0_1_1_0_1_3_3_2_3_0_0_0_0_2_2_0_0_1_3_0_2_2_3_2_0_0_3_1_3_0_0_0_3_2_2_2_3_2_0_0_3_2_1_3_1_0_1_1_3_3_1_0_0_0_3_1_0_1_1_1_3_3_2_1_0_0_0_0_1_1_3_1_0_2"
         }
-      ]
+      ],
+      "name": "Nebulous Satoshi"
     }
   },
   {
     "id": "616913dcf28087ee6c2540701c81f9a2d9d1b02b4a56ef7667c16dd5090c9c19i0",
     "meta": {
-      "name": "Eldritch Satoshi",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513257
+          "value": "513257"
         },
         {
           "trait_type": "id",
@@ -6534,15 +6533,15 @@
         },
         {
           "trait_type": "head",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "body",
-          "value": 4
+          "value": "4"
         },
         {
           "trait_type": "color",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "gradient",
@@ -6556,17 +6555,17 @@
           "trait_type": "random_tiles",
           "value": "2_0_2_1_0_1_0_1_0_0_0_3_2_0_1_0_2_2_3_1_1_3_3_3_2_3_3_1_1_3_2_2_1_2_1_2_2_3_3_3_0_0_1_2_1_0_2_2_1_2_2_0_2_2_1_3_3_2_0_1_2_3_2_2_1_2_0_1_2_2_2_1_1_1_3_1_1_1_2_3_0_1_1"
         }
-      ]
+      ],
+      "name": "Eldritch Satoshi"
     }
   },
   {
     "id": "62a771738bd4d3f2d6ec5902aede10313b485ee89d804a513ce33cbefa73674ai0",
     "meta": {
-      "name": "Lurking Satoshi",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513262
+          "value": "513262"
         },
         {
           "trait_type": "id",
@@ -6574,15 +6573,15 @@
         },
         {
           "trait_type": "head",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "body",
-          "value": 5
+          "value": "5"
         },
         {
           "trait_type": "color",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "gradient",
@@ -6596,17 +6595,17 @@
           "trait_type": "random_tiles",
           "value": "1_0_1_2_2_2_1_1_0_2_0_2_2_1_1_2_1_0_1_3_3_0_2_1_1_3_1_2_3_2_0_3_0_1_1_0_1_0_3_0_1_2_0_0_3_1_0_3_1_3_1_0_1_1_1_2_0_2_3_0_2_1_3_2_0_1_0_1_2_1_1_0_0_0_3_3_2_3_2_1_1_1"
         }
-      ]
+      ],
+      "name": "Lurking Satoshi"
     }
   },
   {
     "id": "fe97de91acc0d432c4dbb3184af4de08c21126183b2c605b2a53da363b68d3d5i0",
     "meta": {
-      "name": "Ruthless Satoshi",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513267
+          "value": "513267"
         },
         {
           "trait_type": "id",
@@ -6614,15 +6613,15 @@
         },
         {
           "trait_type": "head",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "body",
-          "value": 6
+          "value": "6"
         },
         {
           "trait_type": "color",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "gradient",
@@ -6636,17 +6635,17 @@
           "trait_type": "random_tiles",
           "value": "0_1_1_2_1_0_0_2_2_2_1_0_1_0_0_1_2_0_1_1_3_3_1_2_1_2_2_0_3_0_0_3_1_3_2_2_1_0_3_1_0_0_0_3_1_2_0_1_0_1_0_0_2_2"
         }
-      ]
+      ],
+      "name": "Ruthless Satoshi"
     }
   },
   {
     "id": "fd33d0c607050a48fb414ddee1b619c0ddab1c1bd2502e89d61b61ac05454a03i0",
     "meta": {
-      "name": "Devious Satoshi",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513260
+          "value": "513260"
         },
         {
           "trait_type": "id",
@@ -6654,15 +6653,15 @@
         },
         {
           "trait_type": "head",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "body",
-          "value": 7
+          "value": "7"
         },
         {
           "trait_type": "color",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "gradient",
@@ -6676,17 +6675,17 @@
           "trait_type": "random_tiles",
           "value": "1_2_2_0_0_1_2_3_2_0_2_3_0_3_0_2_1_0_1_1_0_1_2_1_0_3_1_1_0_2_2_1_2_1_3_0_1_1_2_3_2_3_0_2_1_3_2_2_0_3_3_1_0_1_2_0_3_1_2_1_3_1_0_3_2_3_2_3_1_1_0_0_3_1_2_3_0_3_3"
         }
-      ]
+      ],
+      "name": "Devious Satoshi"
     }
   },
   {
     "id": "171cd1e41a91675a7d0859e9b4048156c08a298e447d85776b8d8f8393d120e4i0",
     "meta": {
-      "name": "Enigmatic Satoshi",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513258
+          "value": "513258"
         },
         {
           "trait_type": "id",
@@ -6694,15 +6693,15 @@
         },
         {
           "trait_type": "head",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "body",
-          "value": 8
+          "value": "8"
         },
         {
           "trait_type": "color",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "gradient",
@@ -6716,17 +6715,17 @@
           "trait_type": "random_tiles",
           "value": "0_2_2_3_0_0_3_1_2_1_1_1_1_2_0_0_2_0_2_2_1_0_2_1_2_2_1_0_1_0_3_2_1_3_1_0_1_3_2_0_3_3_2_1_2_2_2_1_1_3_3_2_2_3_1_2_2_1_0_0_0_0_2_3_2_3_1_2_1_0_2_2_0_2_1_2_2"
         }
-      ]
+      ],
+      "name": "Enigmatic Satoshi"
     }
   },
   {
     "id": "0272badecbdcb8cfa3337c4e38729aea61492b084600474899a0477ece878e64i0",
     "meta": {
-      "name": "Infernal Satoshi",
       "attributes": [
         {
           "trait_type": "number",
-          "value": 513259
+          "value": "513259"
         },
         {
           "trait_type": "id",
@@ -6734,15 +6733,15 @@
         },
         {
           "trait_type": "head",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "body",
-          "value": 9
+          "value": "9"
         },
         {
           "trait_type": "color",
-          "value": 12
+          "value": "12"
         },
         {
           "trait_type": "gradient",
@@ -6756,7 +6755,8 @@
           "trait_type": "random_tiles",
           "value": "3_3_1_2_3_3_0_2_0_1_1_2_1_1_1_2_0_1_2_3_3_1_1_1_1_2_1_1_3_2_0_3_0_2_1_2_3_0_2_0_0_0_0_0_2_1_1_0_1_2_0_3_0_1_0_0_1_0_1_0_1_2_2_1_2_1_0_3_3_2_0_0_1_3_3_0_3_1_0_3_0_2"
         }
-      ]
+      ],
+      "name": "Infernal Satoshi"
     }
   }
 ]

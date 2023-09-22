@@ -1,548 +1,522 @@
 [
-    {
-        "id": "99844960354a904b91f5204175e8a4e7f1e475c64971edf739edb1ff538a9b23i0",
-        "meta": {
-            "name": "Hash && Dot #0 (Genesis)",
-            "attributes": 
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "0"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "0"
-                }
-            ]
+  {
+    "id": "99844960354a904b91f5204175e8a4e7f1e475c64971edf739edb1ff538a9b23i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "0"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "0"
         }
-    },
-    {
-        "id": "99ac078f6a15c8119a913fee20d52259a9e121ad5d0cafdbc7c8a3e105e655ebi0",
-        "meta": {
-            "name": "Hash && Dot #1",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "25"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.591"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "3"
-                }
-            ]
-        }
-    },
-    {
-        "id": "d42608a3b000d8988a70d4fe69a85894dc937edb21b3744783e8cef63536faf0i0",
-        "meta": {
-            "name": "Hash && Dot #2",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "25"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.494"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "1"
-                }
-            ]
-        }
-    },
-    {
-        "id": "9e2525b51f2df82244080ccfb3367fb9c5b810ba10de57303a2cf4c464a7f8b3i0",
-        "meta": {
-            "name": "Hash && Dot #3",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "22"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.317"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "1"
-                }
-            ]
-        }
-    },
-    {
-        "id": "5473d822fec72839d8a40d183b5060f13633dd461ca7075e97899bc761f4dc03i0",
-        "meta": {
-            "name": "Hash && Dot #4",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "24"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.440"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "2"
-                }
-            ]
-        }
-    },
-    {
-        "id": "29e688c5c0421b17f1e8ba9cf8dc733c0d1e905ffe3a497e700101cf7167df11i0",
-        "meta": {
-            "name": "Hash && Dot #5",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "21"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.244"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "1"
-                }
-            ]
-        }
-    },
-    {
-        "id": "4bd8448da7e76bbeb8e32ef724d8b70aa5fe526cde77fee41633730c4e61ab8ei0",
-        "meta": {
-            "name": "Hash && Dot #6",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "24"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.627"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "1"
-                }
-            ]
-        }
-    },
-    {
-        "id": "1670874dcd08ee829294ded51e13dc25fad369a2c7fb0c44cb929de3b975047fi0",
-        "meta": {
-            "name": "Hash && Dot #7",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "25"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.383"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "3"
-                }
-            ]
-        }
-    },
-    {
-        "id": "6b0a408e8fc36a1c3c6ab841aa06f35926b65087a909992c38f7fa9d6ea19676i0",
-        "meta": {
-            "name": "Hash && Dot #8",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "25"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.495"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "2"
-                }
-            ]
-        }
-    },
-    {
-        "id": "61aa41def3734e5bb99cf415436b9b1b51a5016d074d850c5c134e249f0bde2di0",
-        "meta": {
-            "name": "Hash && Dot #9",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "26"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.506"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "9"
-                }
-            ]
-        }
-    },
-    {
-        "id": "44dd53146c87a6809accacb23360d13f4d507dc7e4775a5ecd27178872624330i0",
-        "meta": {
-            "name": "Hash && Dot #10",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "25"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.440"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "2"
-                }
-            ]
-        }
-    },
-    {
-        "id": "f9cb5e392a819859d1c64ec9fc9be5a0d20465a3cd52ceaa0bb2d3cd9035d378i0",
-        "meta": {
-            "name": "Hash && Dot #11",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "25"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.536"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "2"
-                }
-            ]
-        }
-    },
-    {
-        "id": "a28021e7eaf6948abc12698ffd9b83cba8e1cf96f3873950b2c3853209b4e43ci0",
-        "meta": {
-            "name": "Hash && Dot #12",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "26"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.588"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "1"
-                }
-            ]
-        }
-    },
-    {
-        "id": "18f11f2125bd50a3f0b1d13c7c7c8b6d1a5e02ad7aef6a2993450ee51273ba8ai0",
-        "meta": {
-            "name": "Hash && Dot #13",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "20"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.311"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "2"
-                }
-            ]
-        }
-    },
-    {
-        "id": "e0c7bc3fb80f8d5021518a1a4d5a70dda2d70c9e05263df791b75b36e6e87274i0",
-        "meta": {
-            "name": "Hash && Dot #14",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "23"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.356"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "1"
-                }
-            ]
-        }
-    },
-    {
-        "id": "50763c16bf50b0569b050c2b56b5169f3812288e8c8be4b053c0824631b5e52ci0",
-        "meta": {
-            "name": "Hash && Dot #15",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "25"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.331"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "2"
-                }
-            ]
-        }
-    },
-    {
-        "id": "37b602a52bab8dd54a0051bb8f3339d8739a9bb32cfc28ce394b16b908537a20i0",
-        "meta": {
-            "name": "Hash && Dot #16",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "24"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.383"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "1"
-                }
-            ]
-        }
-    },
-    {
-        "id": "a4e8e2414b4bb80b2750f5926533f891fe274ccaf5585b1c526a20ed6e5fd3edi0",
-        "meta": {
-            "name": "Hash && Dot #17",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "26"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.496"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "2"
-                }
-            ]
-        }
-    },
-    {
-        "id": "3108e1a2089f7b89f5bc099da30fc00bb4fcf10165166b7df3e5b7c6fbec535bi0",
-        "meta": {
-            "name": "Hash && Dot #18",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "25"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.487"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "2"
-                }
-            ]
-        }
-    },
-    {
-        "id": "915d593124f846b0aca21fbb8202e6e866bce1deffeb2535b663dbed1bd059c5i0",
-        "meta": {
-            "name": "Hash && Dot #19",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "25"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.322"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "1"
-                }
-            ]
-        }
-    },
-    {
-        "id": "db1ccbabb5b2be4f1d444f9a32f16fac5c0b092f336b4ff4c19a35a19e0099a8i0",
-        "meta": {
-            "name": "Hash && Dot #20",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "24"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.469"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "3"
-                }
-            ]
-        }
-    },
-    {
-        "id": "9b4e848bedd673141ca2044d0cde2355bcbf314fba8ecb739b8b42bdfb4e53b1i0",
-        "meta": {
-            "name": "Hash && Dot #21",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "26"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.373"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "3"
-                }
-            ]
-        }
-    },
-    {
-        "id": "3179c137a22a7e7521a67d3f489bf1925bb3bda2f3f81bf4ad1b9f56af4c91c3i0",
-        "meta": {
-            "name": "Hash && Dot #22",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "26"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.508"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "2"
-                }
-            ]
-        }
-    },
-    {
-        "id": "8d0465ee175f656bca4e6b7f25d210fb9230205665f9044acf950bddb6adab7bi0",
-        "meta": {
-            "name": "Hash && Dot #23",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "24"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.392"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "2"
-                }
-            ]
-        }
-    },
-    {
-        "id": "58da949f89c732c52001441735915a3f9cbc092eb21e6f673891fe50ac301136i0",
-        "meta": {
-            "name": "Hash && Dot #24",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "24"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.413"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "2"
-                }
-            ]
-        }
-    },
-    {
-        "id": "487342f9654a0f00e779d47b7cf7c1cc87df97532e71c9e41ab93b2834aa69aai0",
-        "meta": {
-            "name": "Hash && Dot #25",
-            "attributes":
-            [
-                {
-                    "trait_type": "Colors",
-                    "value": "25"
-                },
-                {
-                    "trait_type": "Density",
-                    "value": "0.356"
-                },
-                {
-                    "trait_type": "Quadrants",
-                    "value": "2"
-                }
-            ]
-        }
+      ],
+      "name": "Hash && Dot #0 (Genesis)"
     }
+  },
+  {
+    "id": "99ac078f6a15c8119a913fee20d52259a9e121ad5d0cafdbc7c8a3e105e655ebi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "25"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.591"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "3"
+        }
+      ],
+      "name": "Hash && Dot #1"
+    }
+  },
+  {
+    "id": "d42608a3b000d8988a70d4fe69a85894dc937edb21b3744783e8cef63536faf0i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "25"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.494"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "1"
+        }
+      ],
+      "name": "Hash && Dot #2"
+    }
+  },
+  {
+    "id": "9e2525b51f2df82244080ccfb3367fb9c5b810ba10de57303a2cf4c464a7f8b3i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "22"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.317"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "1"
+        }
+      ],
+      "name": "Hash && Dot #3"
+    }
+  },
+  {
+    "id": "5473d822fec72839d8a40d183b5060f13633dd461ca7075e97899bc761f4dc03i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "24"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.440"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "2"
+        }
+      ],
+      "name": "Hash && Dot #4"
+    }
+  },
+  {
+    "id": "29e688c5c0421b17f1e8ba9cf8dc733c0d1e905ffe3a497e700101cf7167df11i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "21"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.244"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "1"
+        }
+      ],
+      "name": "Hash && Dot #5"
+    }
+  },
+  {
+    "id": "4bd8448da7e76bbeb8e32ef724d8b70aa5fe526cde77fee41633730c4e61ab8ei0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "24"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.627"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "1"
+        }
+      ],
+      "name": "Hash && Dot #6"
+    }
+  },
+  {
+    "id": "1670874dcd08ee829294ded51e13dc25fad369a2c7fb0c44cb929de3b975047fi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "25"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.383"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "3"
+        }
+      ],
+      "name": "Hash && Dot #7"
+    }
+  },
+  {
+    "id": "6b0a408e8fc36a1c3c6ab841aa06f35926b65087a909992c38f7fa9d6ea19676i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "25"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.495"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "2"
+        }
+      ],
+      "name": "Hash && Dot #8"
+    }
+  },
+  {
+    "id": "61aa41def3734e5bb99cf415436b9b1b51a5016d074d850c5c134e249f0bde2di0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "26"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.506"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "9"
+        }
+      ],
+      "name": "Hash && Dot #9"
+    }
+  },
+  {
+    "id": "44dd53146c87a6809accacb23360d13f4d507dc7e4775a5ecd27178872624330i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "25"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.440"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "2"
+        }
+      ],
+      "name": "Hash && Dot #10"
+    }
+  },
+  {
+    "id": "f9cb5e392a819859d1c64ec9fc9be5a0d20465a3cd52ceaa0bb2d3cd9035d378i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "25"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.536"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "2"
+        }
+      ],
+      "name": "Hash && Dot #11"
+    }
+  },
+  {
+    "id": "a28021e7eaf6948abc12698ffd9b83cba8e1cf96f3873950b2c3853209b4e43ci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "26"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.588"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "1"
+        }
+      ],
+      "name": "Hash && Dot #12"
+    }
+  },
+  {
+    "id": "18f11f2125bd50a3f0b1d13c7c7c8b6d1a5e02ad7aef6a2993450ee51273ba8ai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "20"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.311"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "2"
+        }
+      ],
+      "name": "Hash && Dot #13"
+    }
+  },
+  {
+    "id": "e0c7bc3fb80f8d5021518a1a4d5a70dda2d70c9e05263df791b75b36e6e87274i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "23"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.356"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "1"
+        }
+      ],
+      "name": "Hash && Dot #14"
+    }
+  },
+  {
+    "id": "50763c16bf50b0569b050c2b56b5169f3812288e8c8be4b053c0824631b5e52ci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "25"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.331"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "2"
+        }
+      ],
+      "name": "Hash && Dot #15"
+    }
+  },
+  {
+    "id": "37b602a52bab8dd54a0051bb8f3339d8739a9bb32cfc28ce394b16b908537a20i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "24"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.383"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "1"
+        }
+      ],
+      "name": "Hash && Dot #16"
+    }
+  },
+  {
+    "id": "a4e8e2414b4bb80b2750f5926533f891fe274ccaf5585b1c526a20ed6e5fd3edi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "26"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.496"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "2"
+        }
+      ],
+      "name": "Hash && Dot #17"
+    }
+  },
+  {
+    "id": "3108e1a2089f7b89f5bc099da30fc00bb4fcf10165166b7df3e5b7c6fbec535bi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "25"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.487"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "2"
+        }
+      ],
+      "name": "Hash && Dot #18"
+    }
+  },
+  {
+    "id": "915d593124f846b0aca21fbb8202e6e866bce1deffeb2535b663dbed1bd059c5i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "25"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.322"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "1"
+        }
+      ],
+      "name": "Hash && Dot #19"
+    }
+  },
+  {
+    "id": "db1ccbabb5b2be4f1d444f9a32f16fac5c0b092f336b4ff4c19a35a19e0099a8i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "24"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.469"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "3"
+        }
+      ],
+      "name": "Hash && Dot #20"
+    }
+  },
+  {
+    "id": "9b4e848bedd673141ca2044d0cde2355bcbf314fba8ecb739b8b42bdfb4e53b1i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "26"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.373"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "3"
+        }
+      ],
+      "name": "Hash && Dot #21"
+    }
+  },
+  {
+    "id": "3179c137a22a7e7521a67d3f489bf1925bb3bda2f3f81bf4ad1b9f56af4c91c3i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "26"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.508"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "2"
+        }
+      ],
+      "name": "Hash && Dot #22"
+    }
+  },
+  {
+    "id": "8d0465ee175f656bca4e6b7f25d210fb9230205665f9044acf950bddb6adab7bi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "24"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.392"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "2"
+        }
+      ],
+      "name": "Hash && Dot #23"
+    }
+  },
+  {
+    "id": "58da949f89c732c52001441735915a3f9cbc092eb21e6f673891fe50ac301136i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "24"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.413"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "2"
+        }
+      ],
+      "name": "Hash && Dot #24"
+    }
+  },
+  {
+    "id": "487342f9654a0f00e779d47b7cf7c1cc87df97532e71c9e41ab93b2834aa69aai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Colors",
+          "value": "25"
+        },
+        {
+          "trait_type": "Density",
+          "value": "0.356"
+        },
+        {
+          "trait_type": "Quadrants",
+          "value": "2"
+        }
+      ],
+      "name": "Hash && Dot #25"
+    }
+  }
 ]
