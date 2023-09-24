@@ -1,8 +1,0 @@
-notebooks/*
-.pytest_cache/*
-env/*
-tests/__pycache__/*
-scripts/*
-.DS_Store
-target/
-temp.txt
