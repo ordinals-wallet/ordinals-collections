@@ -1,1 +1,30 @@
-[{"id": "8c9745e7aa18f1e11711e2a7c85706e2147230c0d1889876598200c2a21fcfaei0", "meta": {"name": "Bitcoin Dude #1", "attributes": []}}, {"id": "cca01a178c6fdcd779ed6bffb120ce1c8c428ca7b813a73f1566a26616d7d334i0", "meta": {"name": "Bitcoin Dude #2", "attributes": []}}, {"id": "a4e55fe62e46bfa414100fa424132744082f7b252f5b88ecb70efb60e40245e1i0", "meta": {"name": "Bitcoin Dude #3", "attributes": []}}, {"id": "afeb0944ce55846838f42b0ef7bcd8d00a4d6135ce934ec66eae94205fb99d3di0", "meta": {"name": "Bitcoin Dude #4", "attributes": []}}]
+[
+  {
+    "id": "8c9745e7aa18f1e11711e2a7c85706e2147230c0d1889876598200c2a21fcfaei0",
+    "meta": {
+      "attributes": [],
+      "name": "Bitcoin Dude #1"
+    }
+  },
+  {
+    "id": "cca01a178c6fdcd779ed6bffb120ce1c8c428ca7b813a73f1566a26616d7d334i0",
+    "meta": {
+      "attributes": [],
+      "name": "Bitcoin Dude #2"
+    }
+  },
+  {
+    "id": "a4e55fe62e46bfa414100fa424132744082f7b252f5b88ecb70efb60e40245e1i0",
+    "meta": {
+      "attributes": [],
+      "name": "Bitcoin Dude #3"
+    }
+  },
+  {
+    "id": "afeb0944ce55846838f42b0ef7bcd8d00a4d6135ce934ec66eae94205fb99d3di0",
+    "meta": {
+      "attributes": [],
+      "name": "Bitcoin Dude #4"
+    }
+  }
+]

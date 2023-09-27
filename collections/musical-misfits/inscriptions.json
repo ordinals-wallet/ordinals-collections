@@ -1,902 +1,1202 @@
 [
-{
-"id": "ad4311f483317d29ce454daa7309ef6759ddeccde7304aae5a1493e644f96984i0",
-"meta": {
-"name": "#001: Flats Still Have Curves",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "f55c7e93f0657156865a80a78343009a9301f36ebaf74f6bf91f4e8419d6d3e6i0",
-"meta": {
-"name": "#001: Flats Still Have Curves",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "f706f03b734c4d9ea66c793fb67bfafdaadb92444a4ccdb78e813083cde8c588i0",
-"meta": {
-"name": "#001: Flats Still Have Curves",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "83f421e4162b1448a9ef60a269107faa2405f6c664fa57bb7b5ccb64a48d0d78i0",
-"meta": {
-"name": "#001: Flats Still Have Curves",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "e8351f65911fc881477ef8a73d91d1be953f57d6bb0c25f01c27fdff26e1849ci0",
-"meta": {
-"name": "#002: Here Comes Treble",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "2c8faf4991b98e5c2bfe91a3e3fbcf84e54e5c344c4c56b240f1f15af0477bcbi0",
-"meta": {
-"name": "#002: Here Comes Treble",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "0d62902b8474b4b8b0dde1f7de09bc37c14d0de09718ec78c6af39430321b5aai0",
-"meta": {
-"name": "#002: Here Comes Treble",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "404706e59323dd38f8744ff1bac5c0e4600ee2e05c09a97314d991ee781d3617i0",
-"meta": {
-"name": "#002: Here Comes Treble",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "30e2fd6071789a151fe1c9ad66083212fc20bb450f537c351361866f03f6262fi0",
-"meta": {
-"name": "#003: Lookin' Sharp",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "2f6f4f45282e8a0b1c61e6dedbe2e7dc03a97da8fdc0c4883a0b16ec40a82424i0",
-"meta": {
-"name": "#003: Lookin' Sharp",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "3b6edf9d9cf743426a4186b492379c1919c5ae1c6e98970a2c82ff1aea2244b5i0",
-"meta": {
-"name": "#003: Lookin' Sharp",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "dd59c1496400b92670bd0d94e3368c4b949216336b6117271808fafb8d7259bbi0",
-"meta": {
-"name": "#003: Lookin' Sharp",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "90e9fab7aace91cb0384a95bbbc072bd5aba37aa223a0b66f6fb6c68edc6a2f3i0",
-"meta": {
-"name": "#004: Brace For Impact!",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "e49c188d6d75330a6f12c04827b0ed7722637542ca7fecb8a03b01ce5e4abe11i0",
-"meta": {
-"name": "#004: Brace For Impact!",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "642b8b33ddffccfa91000a442b06bc4e2978d72d7714fbbd0f34d3e9f80046eai0",
-"meta": {
-"name": "#004: Brace For Impact!",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "2d277516de2eb4d442632fe858676abb2b6c24d89a76b058d058dec24819da52i0",
-"meta": {
-"name": "#004: Brace For Impact!",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "7d1834ffe8c24075fc88f5518b9ec2956443f99dd526abf9b39bb8a7f18d1785i0",
-"meta": {
-"name": "#005: Foreign Accent",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "318dce356d52a2ca0a4a6af90ea99c147b7a7de6faf5324a551d5381a9c8eaddi0",
-"meta": {
-"name": "#005: Foreign Accent",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "dfe40ff4e993199eed15c388d4af90227d25e311660e0434639fafbeca319061i0",
-"meta": {
-"name": "#005: Foreign Accent",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "f8778dd42f548bd8c8d8d48a9ebe915ec7abf0f8c9b9d39993b74f6b4668f343i0",
-"meta": {
-"name": "#005: Foreign Accent",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "d2d786b0eab0d09aab490d181c50ead2a64ba7352946233ee412b0573a7427d8i0",
-"meta": {
-"name": "#006: A Well Deserved Rest",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "c0950db55cb1302a90c8b4ab7ebe3a1f45d962d2048f8f3b5aea06b4ee59dd85i0",
-"meta": {
-"name": "#006: A Well Deserved Rest",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "7beecf93a31a3d6ad2b7f1e7d211b3e523826d9327dfc20b9439e8358dacf387i0",
-"meta": {
-"name": "#006: A Well Deserved Rest",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "4ad96c5d346de77a3985a9958d04c47723d00caf6beb5a018ff9bbf36d2e385ei0",
-"meta": {
-"name": "#006: A Well Deserved Rest",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "8297aa9b628c054f63765b8c7907f5ec698d81ad064a67f5a2f1f114f3ec49a6i0",
-"meta": {
-"name": "#007: Metro-Gnome",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "b3b9046aa726c7674e954779c28c2cdd73d17bb33aa9d7934c730b39f6aa3975i0",
-"meta": {
-"name": "#007: Metro-Gnome",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "876461336feb805f25fd36150343b76a20f708cb5f39e4b4b3eabbce0d423a74i0",
-"meta": {
-"name": "#007: Metro-Gnome",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "8d10743571a4fdf4d34887e9dfd2e11b37c90d6ee3905fc668ff585db46699f6i0",
-"meta": {
-"name": "#007: Metro-Gnome",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "5cc5a8984569760af2bf5dd307ca38173354528a7d8dd28c51270988345d395ci0",
-"meta": {
-"name": "#008: He's a Natural",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "dc517ab395909f5e6e55016d025398c5585c3b9fe8fde56a96608f44f7420363i0",
-"meta": {
-"name": "#008: He's a Natural",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "3072b17d173cc75cec64d32d2e2681d2e8f1c955fe588247001c917d23b830c8i0",
-"meta": {
-"name": "#008: He's a Natural",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "24a1afe1cd69e7888143de913f4bd3bf5d08c3f38246c1e04e66413f12959692i0",
-"meta": {
-"name": "#008: He's a Natural",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "e62df5c1b1d4097abc080010e1b06d9bee02f1a984e65bc08e6f05ad8e5ee551i0",
-"meta": {
-"name": "#009: Staff Party",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "4d5dbf091a2f1a46994d8841c2c883d7101eb42c8063f29495fde39a2ac7a40bi0",
-"meta": {
-"name": "#009: Staff Party",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "d6c48555c8f079ce451a805a6b1641e694c0782beaf3ae70966fff2a323dacc1i0",
-"meta": {
-"name": "#009: Staff Party",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "edee5c02f0064e1fb982a4c6a07a5a9e0bfefb98f9571822ee277052904ea108i0",
-"meta": {
-"name": "#009: Staff Party",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "e44f20fac2beda41c5f8e93f393b5c4c641d4ce26419c440ae799c37f679f51ci0",
-"meta": {
-"name": "#010: Ace of Bass",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "85e6e45f5f417269d18b1f905bde32efb5c82101256f441be6d3437ac490e5a8i0",
-"meta": {
-"name": "#010: Ace of Bass",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "658abb8115b228d08b3a8c0895230733e887c9de5eba85f1abee6f50b056fa07i0",
-"meta": {
-"name": "#010: Ace of Bass",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "a15f2914e776aec5da2be60c593957681a777d7270a373e4b306170cb42fe0d6i0",
-"meta": {
-"name": "#010: Ace of Bass",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "2bbdb6ac1ba3b4bfa343471596e9c62fc39f43332b410d75fb1ace22e1c5d4b6i0",
-"meta": {
-"name": "#011: Oh, Hi Marcato",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "62827e2fc1cdd753c0ec8ebdd4c722835afb609f261effc3e20cc3abfe8c70fdi0",
-"meta": {
-"name": "#011: Oh, Hi Marcato",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "4c5d73ab1592ef837d30848689c886713e31c9569c76bb0e5c5e9d01dcc880d5i0",
-"meta": {
-"name": "#011: Oh, Hi Marcato",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "d77e3284731c499dfdfd4dd66f00e99ef1b322a954d63d2ef4a333473aaefb37i0",
-"meta": {
-"name": "#011: Oh, Hi Marcato",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "c44187f1bd0e5736c798914f5d691a342dbca0943e57b8ab5259d56cc8c81841i0",
-"meta": {
-"name": "#012: Arpeggio Hall",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "082ab669d71951e540962669dc7c311cbf759ce83c51bf0186282055a3d93937i0",
-"meta": {
-"name": "#012: Arpeggio Hall",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "55e4f756e956902a5774424b4588ab8c3babd04386d013521d499b55a1303ecfi0",
-"meta": {
-"name": "#012: Arpeggio Hall",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "211b5aed286f2d16760b454cf2ee90257a11526d99757a2cc2a8f28d0efbed26i0",
-"meta": {
-"name": "#012: Arpeggio Hall",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "eabe00a906bf2bd0cfa20ca3c8e6b4f9a2e755955cdaad75b5dcf3ce44e3f6e0i0",
-"meta": {
-"name": "#013: The Da Vinci Coda",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "43d5d49457e2798963ad6096f3b35cd0b865eb2f8578aca5328af2b12fc8fd81i0",
-"meta": {
-"name": "#013: The Da Vinci Coda",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "6bb19e1cf8bab0f9efca90700d3f70f6f49876a0e004f5e55ade050e323145f8i0",
-"meta": {
-"name": "#013: The Da Vinci Coda",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "1f0de24f0ecaf769a80ae27e3f0d9c36abcc84197b3bc96c35837dee64386faai0",
-"meta": {
-"name": "#013: The Da Vinci Coda",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "7b80ebfc6174798eadeb56f1c23090aee8705813c570807bf5365e0a6484e26di0",
-"meta": {
-"name": "#014: This Cat is a Bad M.F.",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "a2a14b32e613aecb2d797a52ea857fe7cceedde58702a64bcf64b5ea5332f952i0",
-"meta": {
-"name": "#014: This Cat is a Bad M.F.",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "e732a838ba340a2175e96af002c60defa4f78470cc2c1e98dfd4cd7990c298ddi0",
-"meta": {
-"name": "#014: This Cat is a Bad M.F.",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "02cb3d8ebfcec2d2dddaef212f95f10631bdcaa380ab2d94547af24b906ffba5i0",
-"meta": {
-"name": "#014: This Cat is a Bad M.F.",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "786081bae9e8aaa96fe266f452116d29964feac4ce7b28cb7ed7ef70ccceca41i0",
-"meta": {
-"name": "#015: Segno to Drugs",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "9168fc625fdeb925388baf10f06875674c7b66f54f15ce628b58f5f4a1c38de7i0",
-"meta": {
-"name": "#015: Segno to Drugs",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "091b31d4823a106c88d6b774930ed99ae290aa20d87de5fdf76b9834a6971ee4i0",
-"meta": {
-"name": "#015: Segno to Drugs",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "e9de1ef45b9b8835e0dca50a1b2519a7bed5f3471dc311a55434063631f274d7i0",
-"meta": {
-"name": "#015: Segno to Drugs",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "f2d76d5f054cdc57718c52bc50d930422adf393ea041257d692a9862c45e2ab9i0",
-"meta": {
-"name": "#016: C Clef, C Clef Run",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "db97aafa23c03306806d6fad7a4963e02c753da751ca25306db7282385b96f39i0",
-"meta": {
-"name": "#016: C Clef, C Clef Run",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "20522a23cb3254f49da028b5db04a0f62056868fa358228ee7f0ceecd05349e5i0",
-"meta": {
-"name": "#016: C Clef, C Clef Run",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "17d99658e548d94c7f6e189dc1783cd4bbffa32404f455351b1ac66a99b7ecfbi0",
-"meta": {
-"name": "#016: C Clef, C Clef Run",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "c1d483bb84e594f83d2bfdfe68a91e92d392168f865c6018dd4a19b0b38b20a7i0",
-"meta": {
-"name": "#017: Amazing Grace Note",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "448a2ef517ab6df8c7acd9b153d57d1c000a8d71e8b19b34680cd5e4ee7b413fi0",
-"meta": {
-"name": "#017: Amazing Grace Note",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "a86c0fa86a793d152a780c6970474b8e7d4690c4decbc29735b2e34d5f72202ai0",
-"meta": {
-"name": "#017: Amazing Grace Note",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "f93a29d67d609ecb2cf261f87f0338bcb2339cb12052ca642bb1242eaa8dc814i0",
-"meta": {
-"name": "#017: Amazing Grace Note",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "6d68fe02c39949a54a9bb87d6a7b6b3673d387f522a453dab8d378541c19fe71i0",
-"meta": {
-"name": "#018: Slurred Speech",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "0211d505506d32fe6e0a8d94ad823dc0dad52e00109e8d49804fd3c8c6f6a8dbi0",
-"meta": {
-"name": "#018: Slurred Speech",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "78da4fad0bea633edce50cb128b322aff1c2b2eb3d2480463bc2f2f2cb8c44a9i0",
-"meta": {
-"name": "#018: Slurred Speech",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "62450eb026adb35d4169d39055b21d719cc0f7277936aa4262bc8bf4efed6333i0",
-"meta": {
-"name": "#018: Slurred Speech",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "86e08b6df2321778fdca29caf3eb485c6d54d2b07ccb3bb2310e1b8a1d53cda8i0",
-"meta": {
-"name": "#019: Measure Twice, Cut Once",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "06ba5ae629c145919f626ad7138c966ad4c19fa03781f288a9f6c5e77f24162ei0",
-"meta": {
-"name": "#019: Measure Twice, Cut Once",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "5e58d1bd850bb22e3c078b82cbf911f47458a8310cdcdd4c212f38d5e41dc421i0",
-"meta": {
-"name": "#019: Measure Twice, Cut Once",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "218421f10054f152ef816bfdfb1f6324a7de4689ba7c47ef58748f9038768962i0",
-"meta": {
-"name": "#019: Measure Twice, Cut Once",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "62143541d2761b7c1878eba47d795aa933bba34c3f002c6caa1b310a73b89fbbi0",
-"meta": {
-"name": "#020: Tipping the Scales",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "ca963919056068bd20ebaf4be58a91737e1b4df7ed155a19ef189fcb3074bec5i0",
-"meta": {
-"name": "#020: Tipping the Scales",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "16902d859f41bebc3a7f418bc1376ec71219020f8e213cc64421a9c2dee62affi0",
-"meta": {
-"name": "#020: Tipping the Scales",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "192ce9c0a5ec9065319d4262b84913de42b37a347288a0b8e2bc38cac257ae85i0",
-"meta": {
-"name": "#020: Tipping the Scales",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "4b7d59684ede72133b3f81f0d2319a0777d4cf8015b02d8e9073553440860fd0i0",
-"meta": {
-"name": "#021: Back to Da Capo",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "1fcf6396b3ce9379c26d8411521898afcf8eae06b7552cc340a435414a953c11i0",
-"meta": {
-"name": "#021: Back to Da Capo",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "1fae0ec632ce38dc59eda0ef9ac4d588c8fcbff3624155160d2e92999f4b1184i0",
-"meta": {
-"name": "#021: Back to Da Capo",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "bc2f32ce69e132a68cb65cfeb138684ce59e35790ca57d8ca7f68b4affa7bfcei0",
-"meta": {
-"name": "#021: Back to Da Capo",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "0c4d42c6daae376233026a086040275bc377abe0a94d8d47afa2c0c0be77987ei0",
-"meta": {
-"name": "#022: AeroPause",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "494093261d64e6e96a18ba6b12b7ca7893a94b36ed64da6d06effb1c2bcabb40i0",
-"meta": {
-"name": "#022: AeroPause",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "e822e5eb8ef5332de472c9deb9d453fdf8167c9c0397315ab0376aa6a9124266i0",
-"meta": {
-"name": "#022: AeroPause",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "75b0411636e126abda7ac341f902ea8ae89448cc50662fa48e41aa1bf653fa8ai0",
-"meta": {
-"name": "#022: AeroPause",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "b8819bc64f9ac4da6076ed0fac79414f5aeb01d8f0600fce1467da71e2a18f42i0",
-"meta": {
-"name": "#023: It's My Forte",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "2ac59837aa3da3d8a4a1eb8559795ef0ff9e1715c70c75bcf23d1530084abb42i0",
-"meta": {
-"name": "#023: It's My Forte",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "a9925cc09e7e44c524a53bbabead657028afe33894ed396f5b6ac1cca4f4db7fi0",
-"meta": {
-"name": "#023: It's My Forte",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "b3e1ba2899773e85004c0dd71c00d555b100a887570bc901eb5df583665de291i0",
-"meta": {
-"name": "#023: It's My Forte",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "5acec69293c46f267aa4282c972457ec7a1ceac59f2b0707e3516e28e7ab48c8i0",
-"meta": {
-"name": "#024: Quid Pro Allegro",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "60b23ceeb5a72fadd20d694eb7ca1b7b2ef66d5bf7cfcc29addcc68ab7b6f3dbi0",
-"meta": {
-"name": "#024: Quid Pro Allegro",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "8cfe4e75e6c5c7645f89682253b149bc42d51996d8e95dea2a696fe89389bcd7i0",
-"meta": {
-"name": "#024: Quid Pro Allegro",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "430a71cc5ddaa8159cef6f0342ae331f5a5af27de670accebff4b7915247eff5i0",
-"meta": {
-"name": "#024: Quid Pro Allegro",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-},{
-"id": "861bff3796afb10a785cc75b5806f9a2ec96fde5fcd603067ab805c651f308c8i0",
-"meta": {
-"name": "#025: Series 1 Setlist",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Common"
-}]
-}
-},{
-"id": "ec78066cedfaf2ec913139773287ae4d246f98464bbd68a79687eb0c6488f0fci0",
-"meta": {
-"name": "#025: Series 1 Setlist",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Uncommon"
-}]
-}
-},{
-"id": "dfbb913e6d50de45b124d7a9c81275f4f1476e5098e526c31bab55cc00d21832i0",
-"meta": {
-"name": "#025: Series 1 Setlist",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Rare"
-}]
-}
-},{
-"id": "6ae382f09ef4177023f3a0d9350652ae27eee1d3e97893525efb40fa7d648ad6i0",
-"meta": {
-"name": "#025: Series 1 Setlist",
-"attributes": [{
-"trait_type": "Rarity",
-"value": "Mythical"
-}]
-}
-}]
+  {
+    "id": "ad4311f483317d29ce454daa7309ef6759ddeccde7304aae5a1493e644f96984i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#001: Flats Still Have Curves"
+    }
+  },
+  {
+    "id": "f55c7e93f0657156865a80a78343009a9301f36ebaf74f6bf91f4e8419d6d3e6i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#001: Flats Still Have Curves"
+    }
+  },
+  {
+    "id": "f706f03b734c4d9ea66c793fb67bfafdaadb92444a4ccdb78e813083cde8c588i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#001: Flats Still Have Curves"
+    }
+  },
+  {
+    "id": "83f421e4162b1448a9ef60a269107faa2405f6c664fa57bb7b5ccb64a48d0d78i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#001: Flats Still Have Curves"
+    }
+  },
+  {
+    "id": "e8351f65911fc881477ef8a73d91d1be953f57d6bb0c25f01c27fdff26e1849ci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#002: Here Comes Treble"
+    }
+  },
+  {
+    "id": "2c8faf4991b98e5c2bfe91a3e3fbcf84e54e5c344c4c56b240f1f15af0477bcbi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#002: Here Comes Treble"
+    }
+  },
+  {
+    "id": "0d62902b8474b4b8b0dde1f7de09bc37c14d0de09718ec78c6af39430321b5aai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#002: Here Comes Treble"
+    }
+  },
+  {
+    "id": "404706e59323dd38f8744ff1bac5c0e4600ee2e05c09a97314d991ee781d3617i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#002: Here Comes Treble"
+    }
+  },
+  {
+    "id": "30e2fd6071789a151fe1c9ad66083212fc20bb450f537c351361866f03f6262fi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#003: Lookin' Sharp"
+    }
+  },
+  {
+    "id": "2f6f4f45282e8a0b1c61e6dedbe2e7dc03a97da8fdc0c4883a0b16ec40a82424i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#003: Lookin' Sharp"
+    }
+  },
+  {
+    "id": "3b6edf9d9cf743426a4186b492379c1919c5ae1c6e98970a2c82ff1aea2244b5i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#003: Lookin' Sharp"
+    }
+  },
+  {
+    "id": "dd59c1496400b92670bd0d94e3368c4b949216336b6117271808fafb8d7259bbi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#003: Lookin' Sharp"
+    }
+  },
+  {
+    "id": "90e9fab7aace91cb0384a95bbbc072bd5aba37aa223a0b66f6fb6c68edc6a2f3i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#004: Brace For Impact!"
+    }
+  },
+  {
+    "id": "e49c188d6d75330a6f12c04827b0ed7722637542ca7fecb8a03b01ce5e4abe11i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#004: Brace For Impact!"
+    }
+  },
+  {
+    "id": "642b8b33ddffccfa91000a442b06bc4e2978d72d7714fbbd0f34d3e9f80046eai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#004: Brace For Impact!"
+    }
+  },
+  {
+    "id": "2d277516de2eb4d442632fe858676abb2b6c24d89a76b058d058dec24819da52i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#004: Brace For Impact!"
+    }
+  },
+  {
+    "id": "7d1834ffe8c24075fc88f5518b9ec2956443f99dd526abf9b39bb8a7f18d1785i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#005: Foreign Accent"
+    }
+  },
+  {
+    "id": "318dce356d52a2ca0a4a6af90ea99c147b7a7de6faf5324a551d5381a9c8eaddi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#005: Foreign Accent"
+    }
+  },
+  {
+    "id": "dfe40ff4e993199eed15c388d4af90227d25e311660e0434639fafbeca319061i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#005: Foreign Accent"
+    }
+  },
+  {
+    "id": "f8778dd42f548bd8c8d8d48a9ebe915ec7abf0f8c9b9d39993b74f6b4668f343i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#005: Foreign Accent"
+    }
+  },
+  {
+    "id": "d2d786b0eab0d09aab490d181c50ead2a64ba7352946233ee412b0573a7427d8i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#006: A Well Deserved Rest"
+    }
+  },
+  {
+    "id": "c0950db55cb1302a90c8b4ab7ebe3a1f45d962d2048f8f3b5aea06b4ee59dd85i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#006: A Well Deserved Rest"
+    }
+  },
+  {
+    "id": "7beecf93a31a3d6ad2b7f1e7d211b3e523826d9327dfc20b9439e8358dacf387i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#006: A Well Deserved Rest"
+    }
+  },
+  {
+    "id": "4ad96c5d346de77a3985a9958d04c47723d00caf6beb5a018ff9bbf36d2e385ei0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#006: A Well Deserved Rest"
+    }
+  },
+  {
+    "id": "8297aa9b628c054f63765b8c7907f5ec698d81ad064a67f5a2f1f114f3ec49a6i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#007: Metro-Gnome"
+    }
+  },
+  {
+    "id": "b3b9046aa726c7674e954779c28c2cdd73d17bb33aa9d7934c730b39f6aa3975i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#007: Metro-Gnome"
+    }
+  },
+  {
+    "id": "876461336feb805f25fd36150343b76a20f708cb5f39e4b4b3eabbce0d423a74i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#007: Metro-Gnome"
+    }
+  },
+  {
+    "id": "8d10743571a4fdf4d34887e9dfd2e11b37c90d6ee3905fc668ff585db46699f6i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#007: Metro-Gnome"
+    }
+  },
+  {
+    "id": "5cc5a8984569760af2bf5dd307ca38173354528a7d8dd28c51270988345d395ci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#008: He's a Natural"
+    }
+  },
+  {
+    "id": "dc517ab395909f5e6e55016d025398c5585c3b9fe8fde56a96608f44f7420363i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#008: He's a Natural"
+    }
+  },
+  {
+    "id": "3072b17d173cc75cec64d32d2e2681d2e8f1c955fe588247001c917d23b830c8i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#008: He's a Natural"
+    }
+  },
+  {
+    "id": "24a1afe1cd69e7888143de913f4bd3bf5d08c3f38246c1e04e66413f12959692i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#008: He's a Natural"
+    }
+  },
+  {
+    "id": "e62df5c1b1d4097abc080010e1b06d9bee02f1a984e65bc08e6f05ad8e5ee551i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#009: Staff Party"
+    }
+  },
+  {
+    "id": "4d5dbf091a2f1a46994d8841c2c883d7101eb42c8063f29495fde39a2ac7a40bi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#009: Staff Party"
+    }
+  },
+  {
+    "id": "d6c48555c8f079ce451a805a6b1641e694c0782beaf3ae70966fff2a323dacc1i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#009: Staff Party"
+    }
+  },
+  {
+    "id": "edee5c02f0064e1fb982a4c6a07a5a9e0bfefb98f9571822ee277052904ea108i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#009: Staff Party"
+    }
+  },
+  {
+    "id": "e44f20fac2beda41c5f8e93f393b5c4c641d4ce26419c440ae799c37f679f51ci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#010: Ace of Bass"
+    }
+  },
+  {
+    "id": "85e6e45f5f417269d18b1f905bde32efb5c82101256f441be6d3437ac490e5a8i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#010: Ace of Bass"
+    }
+  },
+  {
+    "id": "658abb8115b228d08b3a8c0895230733e887c9de5eba85f1abee6f50b056fa07i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#010: Ace of Bass"
+    }
+  },
+  {
+    "id": "a15f2914e776aec5da2be60c593957681a777d7270a373e4b306170cb42fe0d6i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#010: Ace of Bass"
+    }
+  },
+  {
+    "id": "2bbdb6ac1ba3b4bfa343471596e9c62fc39f43332b410d75fb1ace22e1c5d4b6i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#011: Oh, Hi Marcato"
+    }
+  },
+  {
+    "id": "62827e2fc1cdd753c0ec8ebdd4c722835afb609f261effc3e20cc3abfe8c70fdi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#011: Oh, Hi Marcato"
+    }
+  },
+  {
+    "id": "4c5d73ab1592ef837d30848689c886713e31c9569c76bb0e5c5e9d01dcc880d5i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#011: Oh, Hi Marcato"
+    }
+  },
+  {
+    "id": "d77e3284731c499dfdfd4dd66f00e99ef1b322a954d63d2ef4a333473aaefb37i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#011: Oh, Hi Marcato"
+    }
+  },
+  {
+    "id": "c44187f1bd0e5736c798914f5d691a342dbca0943e57b8ab5259d56cc8c81841i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#012: Arpeggio Hall"
+    }
+  },
+  {
+    "id": "082ab669d71951e540962669dc7c311cbf759ce83c51bf0186282055a3d93937i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#012: Arpeggio Hall"
+    }
+  },
+  {
+    "id": "55e4f756e956902a5774424b4588ab8c3babd04386d013521d499b55a1303ecfi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#012: Arpeggio Hall"
+    }
+  },
+  {
+    "id": "211b5aed286f2d16760b454cf2ee90257a11526d99757a2cc2a8f28d0efbed26i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#012: Arpeggio Hall"
+    }
+  },
+  {
+    "id": "eabe00a906bf2bd0cfa20ca3c8e6b4f9a2e755955cdaad75b5dcf3ce44e3f6e0i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#013: The Da Vinci Coda"
+    }
+  },
+  {
+    "id": "43d5d49457e2798963ad6096f3b35cd0b865eb2f8578aca5328af2b12fc8fd81i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#013: The Da Vinci Coda"
+    }
+  },
+  {
+    "id": "6bb19e1cf8bab0f9efca90700d3f70f6f49876a0e004f5e55ade050e323145f8i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#013: The Da Vinci Coda"
+    }
+  },
+  {
+    "id": "1f0de24f0ecaf769a80ae27e3f0d9c36abcc84197b3bc96c35837dee64386faai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#013: The Da Vinci Coda"
+    }
+  },
+  {
+    "id": "7b80ebfc6174798eadeb56f1c23090aee8705813c570807bf5365e0a6484e26di0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#014: This Cat is a Bad M.F."
+    }
+  },
+  {
+    "id": "a2a14b32e613aecb2d797a52ea857fe7cceedde58702a64bcf64b5ea5332f952i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#014: This Cat is a Bad M.F."
+    }
+  },
+  {
+    "id": "e732a838ba340a2175e96af002c60defa4f78470cc2c1e98dfd4cd7990c298ddi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#014: This Cat is a Bad M.F."
+    }
+  },
+  {
+    "id": "02cb3d8ebfcec2d2dddaef212f95f10631bdcaa380ab2d94547af24b906ffba5i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#014: This Cat is a Bad M.F."
+    }
+  },
+  {
+    "id": "786081bae9e8aaa96fe266f452116d29964feac4ce7b28cb7ed7ef70ccceca41i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#015: Segno to Drugs"
+    }
+  },
+  {
+    "id": "9168fc625fdeb925388baf10f06875674c7b66f54f15ce628b58f5f4a1c38de7i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#015: Segno to Drugs"
+    }
+  },
+  {
+    "id": "091b31d4823a106c88d6b774930ed99ae290aa20d87de5fdf76b9834a6971ee4i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#015: Segno to Drugs"
+    }
+  },
+  {
+    "id": "e9de1ef45b9b8835e0dca50a1b2519a7bed5f3471dc311a55434063631f274d7i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#015: Segno to Drugs"
+    }
+  },
+  {
+    "id": "f2d76d5f054cdc57718c52bc50d930422adf393ea041257d692a9862c45e2ab9i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#016: C Clef, C Clef Run"
+    }
+  },
+  {
+    "id": "db97aafa23c03306806d6fad7a4963e02c753da751ca25306db7282385b96f39i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#016: C Clef, C Clef Run"
+    }
+  },
+  {
+    "id": "20522a23cb3254f49da028b5db04a0f62056868fa358228ee7f0ceecd05349e5i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#016: C Clef, C Clef Run"
+    }
+  },
+  {
+    "id": "17d99658e548d94c7f6e189dc1783cd4bbffa32404f455351b1ac66a99b7ecfbi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#016: C Clef, C Clef Run"
+    }
+  },
+  {
+    "id": "c1d483bb84e594f83d2bfdfe68a91e92d392168f865c6018dd4a19b0b38b20a7i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#017: Amazing Grace Note"
+    }
+  },
+  {
+    "id": "448a2ef517ab6df8c7acd9b153d57d1c000a8d71e8b19b34680cd5e4ee7b413fi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#017: Amazing Grace Note"
+    }
+  },
+  {
+    "id": "a86c0fa86a793d152a780c6970474b8e7d4690c4decbc29735b2e34d5f72202ai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#017: Amazing Grace Note"
+    }
+  },
+  {
+    "id": "f93a29d67d609ecb2cf261f87f0338bcb2339cb12052ca642bb1242eaa8dc814i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#017: Amazing Grace Note"
+    }
+  },
+  {
+    "id": "6d68fe02c39949a54a9bb87d6a7b6b3673d387f522a453dab8d378541c19fe71i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#018: Slurred Speech"
+    }
+  },
+  {
+    "id": "0211d505506d32fe6e0a8d94ad823dc0dad52e00109e8d49804fd3c8c6f6a8dbi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#018: Slurred Speech"
+    }
+  },
+  {
+    "id": "78da4fad0bea633edce50cb128b322aff1c2b2eb3d2480463bc2f2f2cb8c44a9i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#018: Slurred Speech"
+    }
+  },
+  {
+    "id": "62450eb026adb35d4169d39055b21d719cc0f7277936aa4262bc8bf4efed6333i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#018: Slurred Speech"
+    }
+  },
+  {
+    "id": "86e08b6df2321778fdca29caf3eb485c6d54d2b07ccb3bb2310e1b8a1d53cda8i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#019: Measure Twice, Cut Once"
+    }
+  },
+  {
+    "id": "06ba5ae629c145919f626ad7138c966ad4c19fa03781f288a9f6c5e77f24162ei0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#019: Measure Twice, Cut Once"
+    }
+  },
+  {
+    "id": "5e58d1bd850bb22e3c078b82cbf911f47458a8310cdcdd4c212f38d5e41dc421i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#019: Measure Twice, Cut Once"
+    }
+  },
+  {
+    "id": "218421f10054f152ef816bfdfb1f6324a7de4689ba7c47ef58748f9038768962i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#019: Measure Twice, Cut Once"
+    }
+  },
+  {
+    "id": "62143541d2761b7c1878eba47d795aa933bba34c3f002c6caa1b310a73b89fbbi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#020: Tipping the Scales"
+    }
+  },
+  {
+    "id": "ca963919056068bd20ebaf4be58a91737e1b4df7ed155a19ef189fcb3074bec5i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#020: Tipping the Scales"
+    }
+  },
+  {
+    "id": "16902d859f41bebc3a7f418bc1376ec71219020f8e213cc64421a9c2dee62affi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#020: Tipping the Scales"
+    }
+  },
+  {
+    "id": "192ce9c0a5ec9065319d4262b84913de42b37a347288a0b8e2bc38cac257ae85i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#020: Tipping the Scales"
+    }
+  },
+  {
+    "id": "4b7d59684ede72133b3f81f0d2319a0777d4cf8015b02d8e9073553440860fd0i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#021: Back to Da Capo"
+    }
+  },
+  {
+    "id": "1fcf6396b3ce9379c26d8411521898afcf8eae06b7552cc340a435414a953c11i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#021: Back to Da Capo"
+    }
+  },
+  {
+    "id": "1fae0ec632ce38dc59eda0ef9ac4d588c8fcbff3624155160d2e92999f4b1184i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#021: Back to Da Capo"
+    }
+  },
+  {
+    "id": "bc2f32ce69e132a68cb65cfeb138684ce59e35790ca57d8ca7f68b4affa7bfcei0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#021: Back to Da Capo"
+    }
+  },
+  {
+    "id": "0c4d42c6daae376233026a086040275bc377abe0a94d8d47afa2c0c0be77987ei0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#022: AeroPause"
+    }
+  },
+  {
+    "id": "494093261d64e6e96a18ba6b12b7ca7893a94b36ed64da6d06effb1c2bcabb40i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#022: AeroPause"
+    }
+  },
+  {
+    "id": "e822e5eb8ef5332de472c9deb9d453fdf8167c9c0397315ab0376aa6a9124266i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#022: AeroPause"
+    }
+  },
+  {
+    "id": "75b0411636e126abda7ac341f902ea8ae89448cc50662fa48e41aa1bf653fa8ai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#022: AeroPause"
+    }
+  },
+  {
+    "id": "b8819bc64f9ac4da6076ed0fac79414f5aeb01d8f0600fce1467da71e2a18f42i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#023: It's My Forte"
+    }
+  },
+  {
+    "id": "2ac59837aa3da3d8a4a1eb8559795ef0ff9e1715c70c75bcf23d1530084abb42i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#023: It's My Forte"
+    }
+  },
+  {
+    "id": "a9925cc09e7e44c524a53bbabead657028afe33894ed396f5b6ac1cca4f4db7fi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#023: It's My Forte"
+    }
+  },
+  {
+    "id": "b3e1ba2899773e85004c0dd71c00d555b100a887570bc901eb5df583665de291i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#023: It's My Forte"
+    }
+  },
+  {
+    "id": "5acec69293c46f267aa4282c972457ec7a1ceac59f2b0707e3516e28e7ab48c8i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#024: Quid Pro Allegro"
+    }
+  },
+  {
+    "id": "60b23ceeb5a72fadd20d694eb7ca1b7b2ef66d5bf7cfcc29addcc68ab7b6f3dbi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#024: Quid Pro Allegro"
+    }
+  },
+  {
+    "id": "8cfe4e75e6c5c7645f89682253b149bc42d51996d8e95dea2a696fe89389bcd7i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#024: Quid Pro Allegro"
+    }
+  },
+  {
+    "id": "430a71cc5ddaa8159cef6f0342ae331f5a5af27de670accebff4b7915247eff5i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#024: Quid Pro Allegro"
+    }
+  },
+  {
+    "id": "861bff3796afb10a785cc75b5806f9a2ec96fde5fcd603067ab805c651f308c8i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        }
+      ],
+      "name": "#025: Series 1 Setlist"
+    }
+  },
+  {
+    "id": "ec78066cedfaf2ec913139773287ae4d246f98464bbd68a79687eb0c6488f0fci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Uncommon"
+        }
+      ],
+      "name": "#025: Series 1 Setlist"
+    }
+  },
+  {
+    "id": "dfbb913e6d50de45b124d7a9c81275f4f1476e5098e526c31bab55cc00d21832i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        }
+      ],
+      "name": "#025: Series 1 Setlist"
+    }
+  },
+  {
+    "id": "6ae382f09ef4177023f3a0d9350652ae27eee1d3e97893525efb40fa7d648ad6i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        }
+      ],
+      "name": "#025: Series 1 Setlist"
+    }
+  }
+]
