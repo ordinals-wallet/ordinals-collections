@@ -14,7 +14,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -42,7 +42,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -70,7 +70,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -98,7 +98,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -126,7 +126,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -154,7 +154,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -182,7 +182,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -210,7 +210,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -238,7 +238,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -266,7 +266,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -294,7 +294,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -322,7 +322,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -350,7 +350,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -378,7 +378,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -406,7 +406,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -434,7 +434,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -462,7 +462,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -490,7 +490,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -518,7 +518,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -546,7 +546,7 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
@@ -574,11 +574,515 @@
         },
         {
           "trait_type": "SUPPLY",
-          "value": "21"
+          "value": "39"
         },
         {
           "trait_type": "EDITION",
           "value": "21"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d095af99b12cd7816f40323077376e621c4c552c5a6f038e76b4f0df09d8bf02i0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "22"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "237d20b73b23654c6a51352586f1a0c9f4cb6cf2e66402961863b7391fbb1e18i0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "23"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "673e40352071ef38ea6d167758da1243556e7c4f4a535b70de5cf8fa97587f1bi0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "24"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ccbcbda7a96ea94b4164c5bf829819756adac581619bd21b1072f6ac7e04c81di0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "25"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "166fba3e4c51ae8a855930f2c2af02580db5b3623fc6f3adb0d3c7a07fe3f728i0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "26"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fa3ea801cb0a0b014aceb601b3c05f5521ec64654953ace80a33e92b0939da54i0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "27"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bfaeb7299f2f06e425751a2a8a5fdef7b193d0f0118d91f23ce83616ebc05a56i0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "28"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9d896c4f18fe8ff3ec865173a413f99fb982234669ae5ea7e8a9d82259e2d258i0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "29"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1190db7febef7363caee84fdc1c3e78993868e4475345687bdf4c52b4b2c9568i0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "30"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c68925a7dde3cef98eb1dcce49f0eadf7e07f9c76913509a7c393610d6395880i0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "31"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "89e676408fbb8be1a1a5959ee853910cb690b4a37e8a3bf56997e6bef601fb87i0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "32"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0e2e65270e518e919ab8c85f7c807b0767de803bdcd78b89d33f874accc65ea0i0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "33"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7796e64e1a93946cefb648ee52d1cc00e2d5bcec98c0bf61e7dec21192cabfaai0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "34"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e23195a760d8402dc6aa52d86f4bc2e592a697fc955ab6d731c67d478821e0b1i0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "35"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1e6a41dfe04e18b374ca32773de8952b61559c01b156328a29df36f9ed6d22bfi0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "36"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c76345b041ecea24f6c5285afbb88f2803a5a5dc3ab31da3a9925d044e8df9c3i0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "37"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1a3588315889e1f87bd2643ec112355e5596b4f8ceadd1512c5132a9f63344c4i0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "38"
+        },
+        {
+          "trait_type": "SATRIBUTES",
+          "value": "PIZZA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0dfc61acaadf8e57b49f7c67c45628dbf09a41d1832f8d2b1494a0f5630736efi0",
+    "meta": {
+      "name": "Feeling Lucky",
+      "attributes": [
+        {
+          "trait_type": "CREATOR",
+          "value": "TWICK"
+        },
+        {
+          "trait_type": "CREATOR",
+          "value": "THEBENMEADOWS"
+        },
+        {
+          "trait_type": "SUPPLY",
+          "value": "39"
+        },
+        {
+          "trait_type": "EDITION",
+          "value": "39"
         },
         {
           "trait_type": "SATRIBUTES",
