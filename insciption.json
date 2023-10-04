@@ -1,0 +1,221 @@
+// inscriptions.json
+
+[
+  {
+    "id": "d41fbf0be065ad83250e5e2dcb238e2fe08d4a45fd813d4dbe0af0ce5adfd380i0",
+    "meta": {
+      "name": "Witch",
+      "attributes": []
+    }
+  },
+  {
+    "id": "97c77170bb3dd9fb1630c3902b4d75b3e02a0e56b91520e0eed9771445d01d6ci0",
+    "meta": {
+      "name": "Zombie",
+      "attributes": []
+    }
+  },
+  {
+    "id": "5fec00e7c991e70fa50af276afc321092f6434a40534b873c027a49824efefe6i0",
+    "meta": {
+      "name": "Cooper",
+      "attributes": []
+    }
+  },
+  {
+    "id": "916fa2e87fd370a470afacd77d3db3d30d2c91aba73b5e7338c6a9f9c013aad9i0",
+    "meta": {
+      "name": "Cyclops",
+      "attributes": []
+    }
+  },
+  {
+    "id": "8a6e8fee65a206feb66db2e37203362a1671e6b32919772d3409b3d2bd630fddi0",
+    "meta": {
+      "name": "Gargoyle",
+      "attributes": []
+    }
+  },
+  {
+    "id": "868d0bb71f622f6e9f473246576fcdbac8d23b66ed959caa60fdefc8e227dbc8i0",
+    "meta": {
+      "name": "Mom",
+      "attributes": []
+    }
+  },
+  {
+    "id": "0a4f7cd4d1f84e7433fe58e526dd7d23848994c07da63b640b24c96f62dc3284i0",
+    "meta": {
+      "name": "Spider",
+      "attributes": []
+    }
+  },
+  {
+    "id": "a9fc17f0ea31e9c6b4e282cd1baf296269f5181cb139de2a3e46133df0ec2ec2i0",
+    "meta": {
+      "name": "Poe",
+      "attributes": []
+    }
+  },
+  {
+    "id": "cb156fc99e4232593cae8419c9c99c703560d8f807c8e088b8f5e5982edf90afi0",
+    "meta": {
+      "name": "Vampire",
+      "attributes": []
+    }
+  },
+  {
+    "id": "6c93982f8ffc72b7c52630cef8ba395106b39ea1dfb912c3b94ff80bfb0813bfi0",
+    "meta": {
+      "name": "Medusa",
+      "attributes": []
+    }
+  },
+  {
+    "id": "0acf8f0a678e9896826031c2dbd00d58772c3ed1d1546c7f3d906f970833a7ffi0",
+    "meta": {
+      "name": "Twins",
+      "attributes": []
+    }
+  },
+  {
+    "id": "7bdc09a671f12198ef38b9d961de47148b470fee6cda7e788036b0eb4d682fb2i0",
+    "meta": {
+      "name": "Samara",
+      "attributes": []
+    }
+  },
+  {
+    "id": "12bdd33bcbcc0801cedc56da6d55cc71e2428cff41c28c6f479b866d95de123fi0",
+    "meta": {
+      "name": "Jason",
+      "attributes": []
+    }
+  },
+  {
+    "id": "06b4a0e431acf679e76285410e5555534186fef67cb136e8aa3c847438ac07f1i0",
+    "meta": {
+      "name": "Chuck",
+      "attributes": []
+    }
+  },
+  {
+    "id": "31b6ec4e7d81c05a1f05327fa3af4524301a01ba23a6ec3461f170f2c5543767i0",
+    "meta": {
+      "name": "Pazuzu",
+      "attributes": []
+    }
+  },
+  {
+    "id": "dc2fddcc2a39e7d1f7b953852f402eb0dfc55a8678a9d9bf3623fe96f37d88ebi0",
+    "meta": {
+      "name": "Creature",
+      "attributes": []
+    }
+  },
+  {
+    "id": "9edfbcb2bd50c596b55767d7a1b3ff662e776885fb46f6ff879e7559c60f2966i0",
+    "meta": {
+      "name": "Pennywise",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2aec92e088c8aa4d007c0592f268ba2ef5234cea1f46dba17676dab4eb9cb5b0i0",
+    "meta": {
+      "name": "Ghost Face",
+      "attributes": []
+    }
+  },
+  {
+    "id": "8128837a2359cea99edcfea14f8ec1b1e64a4f506515906db53226e09692054ci0",
+    "meta": {
+      "name": "Hannibal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "8e2bf30edf8bd5d85b2ab96969df62cf2d61e36c989ff60cea8d92d7223ca09ai0",
+    "meta": {
+      "name": "Shaun",
+      "attributes": []
+    }
+  },
+  {
+    "id": "e57e452eb036c14104e8c03a155d4b074a28c471409ba1faf9b5c308e80ca72di0",
+    "meta": {
+      "name": "Freddy",
+      "attributes": []
+    }
+  },
+  {
+    "id": "3d81b75f0c69304caa07e3a81bab4712be5ce9e501a2fb548e85c03c9ba01d21i0",
+    "meta": {
+      "name": "Reanimator",
+      "attributes": []
+    }
+  },
+  {
+    "id": "36822f258f12a1b3cfdf4f935533a1e7206284bbdc3b5459f037adef6ffebc70i0",
+    "meta": {
+      "name": "T-Zero",
+      "attributes": []
+    }
+  },
+  {
+    "id": "118e2cf99558ef543d3e2255e7f65dadef028f005de25759edeb07e567cfda21i0",
+    "meta": {
+      "name": "Mutant",
+      "attributes": []
+    }
+  },
+  {
+    "id": "b7e6a720586eecceea0ab828ba771305d9c2db11f5bb722e9966f2c5ecc340b8i0",
+    "meta": {
+      "name": "Regan",
+      "attributes": []
+    }
+  },
+  {
+    "id": "a73a7aa2321f3e5062e9e7f8316f05502717e18760310cc606a07f9e6ef3b40ai0",
+    "meta": {
+      "name": "Ghost",
+      "attributes": []
+    }
+  },
+  {
+    "id": "0592cf423d083adf5c10ef3b01e02c75b678ad6463b4bb20078f45b2250b6ba4i0",
+    "meta": {
+      "name": "Carrie",
+      "attributes": []
+    }
+  },
+  {
+    "id": "50c810ee96645b82591bff1701b3fdadd71362995c4c8f7c5652c5cc2a4d0904i0",
+    "meta": {
+      "name": "Werewolf",
+      "attributes": []
+    }
+  },
+  {
+    "id": "66e5fa2c6fca01a78ef460ded25488253668c0e66de30bd5e7c33989bb30d6aai0",
+    "meta": {
+      "name": "Mike",
+      "attributes": []
+    }
+  },
+  {
+    "id": "1420706443cfe899e1050fac5c61b45671c95f68d16ff3845693da8a9243840ai0",
+    "meta": {
+      "name": "Mummy",
+      "attributes": []
+    }
+  },
+  {
+    "id": "fe1f2b05f3c75e0c854a3ca840b9556302a56f62d1eee412bd9cdacd0d81d4bei0",
+    "meta": {
+      "name": "Jack",
+      "attributes": []
+    }
+  }
+]
