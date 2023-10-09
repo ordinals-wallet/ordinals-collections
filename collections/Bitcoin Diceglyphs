@@ -1,0 +1,758 @@
+// meta.json
+
+{
+  "name": "Bitcoin Diceglyphs",
+  "slug": "Bitcoin-Diceglyphs",
+  "supply": "465",
+  "description": "The collection contains unique collectible Inscriptions Dice images of outstanding figures of the Crypto Currency Industry & Film Industry. In the collection, each person appears once. Dice-Art created by using Script, The maximum number of INSCRIPTIONS on BITCOIN ever minted will be 465.",
+  "twitter_link": "https://x.com/diceglyphs",
+  "discord_link": "https://discord.gg/v4pdh2Zq",
+  "website_link": "https://diceglyphs.com/",
+  "inscription_icon": "8dea1982d1c320cf26b79c65d8a62b29e9531b76c66800d25790d282c5088b84i0"
+}
+// inscriptions.json
+
+[
+  {
+    "id": "8dea1982d1c320cf26b79c65d8a62b29e9531b76c66800d25790d282c5088b84i0",
+    "meta": {
+      "name": "Satoshi Nakamoto",
+      "attributes": []
+    }
+  },
+  {
+    "id": "f5292c1b44d7254cb7c8e6181a9966195043976d55b3d3c1dc03523f18a24a3ai0",
+    "meta": {
+      "name": "Vitalik Buterin",
+      "attributes": []
+    }
+  },
+  {
+    "id": "bd878c55ea3e46e83115440b7fa7f3d48da7a25ae191f5c0beeaf8abf874d822i0",
+    "meta": {
+      "name": "Changpeng Zhao",
+      "attributes": []
+    }
+  },
+  {
+    "id": "3200a583d9f8969b5df8dbd4e4642bcca976e572cc6e11ac80a9195bd1a22959i0",
+    "meta": {
+      "name": "Justin Sun",
+      "attributes": []
+    }
+  },
+  {
+    "id": "1fedebe3c24fb7187d4a38dd6a9d135c34d1546f0fcfce956666e9ebec4a74a9i0",
+    "meta": {
+      "name": "Tim Draper",
+      "attributes": []
+    }
+  },
+  {
+    "id": "58969f6d6ca63e8997bb5bf5182fb435d859c313f1c9ac1251e1e115f06af52fi0",
+    "meta": {
+      "name": "Hal Finney",
+      "attributes": []
+    }
+  },
+  {
+    "id": "d2b5b8d0ea0363486acd7bf5dc7ec1d93f69a74b69d1b6ca77ddad1fb7827682i0",
+    "meta": {
+      "name": "Arthur Hayes",
+      "attributes": []
+    }
+  },
+  {
+    "id": "b8a9a72ebdc58b3746f2136914e717914dda8b762fc2a1c34e42ebd7808d9e17i0",
+    "meta": {
+      "name": "Ricardo Spagni",
+      "attributes": []
+    }
+  },
+  {
+    "id": "30cdf196358f3e49481f1b542a7ccb9edbefa9a8a5712fe1f2fe95936fd0c71ei0",
+    "meta": {
+      "name": "Roger Ver",
+      "attributes": []
+    }
+  },
+  {
+    "id": "ea79418711cda644db7bb5bc2d67cda3131b54d6926d042bf3f76d8c4a432c24i0",
+    "meta": {
+      "name": "Pavel Durov",
+      "attributes": []
+    }
+  },
+  {
+    "id": "188282a75d2aeb525a27c7a7014e116ffe70184e9ee6e9812e79b0b87c198727i0",
+    "meta": {
+      "name": "Cameron Winklevoss",
+      "attributes": []
+    }
+  },
+  {
+    "id": "4fc9947f5ee5165fc9a66695df17f37486749d8bff233b8d3714f039ad519754i0",
+    "meta": {
+      "name": "Daniel Larimer",
+      "attributes": []
+    }
+  },
+  {
+    "id": "0342b677c86968732824b344d6de18172c86af7b215ddf42d00515406bfab155i0",
+    "meta": {
+      "name": "Gavin Wood",
+      "attributes": []
+    }
+  },
+  {
+    "id": "20b89cc03601c2083ffcd1ca8b3b2fc648dd3c07258cc215654bf62aced5b059i0",
+    "meta": {
+      "name": "Charles Hoskinson",
+      "attributes": []
+    }
+  },
+  {
+    "id": "e79241812c88dd8c36dd2e68960c313df42659d78e5c309f86d91e3f69bc6d5ai0",
+    "meta": {
+      "name": "Barry Silbert",
+      "attributes": []
+    }
+  },
+  {
+    "id": "c352f405ea0a777ae01a5acb879f3171ca5e87209c0402a5ce0246228262e37di0",
+    "meta": {
+      "name": "Hayden Adams",
+      "attributes": []
+    }
+  },
+  {
+    "id": "16e58721ddf597e585044cc6b185cc1fa9fb866a3e9114068403bf0d999a4f7fi0",
+    "meta": {
+      "name": "Chris Larsen",
+      "attributes": []
+    }
+  },
+  {
+    "id": "fb0bd2e54a0a73093762c601a13f6993502306bc4dca1f64285ddfc9e2b10b89i0",
+    "meta": {
+      "name": "Sam Bankman",
+      "attributes": []
+    }
+  },
+  {
+    "id": "3281a20a1e762e633cf7a8e6530c6addc76d076c60159934898f3564e537dd8fi0",
+    "meta": {
+      "name": "Billy Markus",
+      "attributes": []
+    }
+  },
+  {
+    "id": "03cc5f38b5677f2207ddb018c086890676eaf5d31316fc3d8169a80fe705e095i0",
+    "meta": {
+      "name": "Brendan Blumer",
+      "attributes": []
+    }
+  },
+  {
+    "id": "67aad48947c8a8004173aa8c88ac68d223cb1d1c016afbbfa33b4ed39a899096i0",
+    "meta": {
+      "name": "Emin Gun",
+      "attributes": []
+    }
+  },
+  {
+    "id": "6d9a36486a13b7b1c0abebb232e168845c6b0702c15c3bf27f4268dc21094badi0",
+    "meta": {
+      "name": "Lion Li",
+      "attributes": []
+    }
+  },
+  {
+    "id": "928493ab1b38ba10bf19c95aa2c2b0ac75820c142bbf06aea998399380734aaei0",
+    "meta": {
+      "name": "Jack Dorsey",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2c481cd986e082931794b50e8ba25262df53c9f85570d98e6f6fbf405f47d4b9i0",
+    "meta": {
+      "name": "Charlie Lee",
+      "attributes": []
+    }
+  },
+  {
+    "id": "32aa16f9fba3c8d4749fa24f6e7ee260c460a33ceef2231a7d07c618fd8983c5i0",
+    "meta": {
+      "name": "Brad Garlinghouse",
+      "attributes": []
+    }
+  },
+  {
+    "id": "76e0ee3d79d712f3e168c3027fbbb67ac99c490125241a009b9699dec053e3c6i0",
+    "meta": {
+      "name": "Mr Vito",
+      "attributes": []
+    }
+  },
+  {
+    "id": "559aebefc95b037ae71abe995bfdd2840553008ff1b99ef52c94b9b6e0f0dbcbi0",
+    "meta": {
+      "name": "Mark Zuckerberg",
+      "attributes": []
+    }
+  },
+  {
+    "id": "6288070fc0313fe51ec7914ad09eb326ae1c59371fdb93546bffc9bcfeff5cd9i0",
+    "meta": {
+      "name": "Brian Armstrong",
+      "attributes": []
+    }
+  },
+  {
+    "id": "bf16d29c90408b7ac4bba99cd62e85eba0280cb0abf6a2abc2d139d7f1cae1dfi0",
+    "meta": {
+      "name": "Jihan Wu",
+      "attributes": []
+    }
+  },
+  {
+    "id": "9b59fe134331371037ba3c4cbea49843e54271a13e41bf4288907a8f37d7ade8i0",
+    "meta": {
+      "name": "Craig Wright",
+      "attributes": []
+    }
+  },
+  {
+    "id": "7362c843ec49ec078551df5deddca521849a343344f7767babe42adae518e303i0",
+    "meta": {
+      "name": "Nejc Kodric",
+      "attributes": []
+    }
+  },
+  {
+    "id": "767096beb0d2b7184d29ff15d1a2a8c702b7b66917b1ed9959ecf30da7928306i0",
+    "meta": {
+      "name": "Esteban Ordano",
+      "attributes": []
+    }
+  },
+  {
+    "id": "db2daf23be81178f006bbc53be4a05283cb2f7d07301c9c12b3b794833b19c09i0",
+    "meta": {
+      "name": "Ryan Selkis",
+      "attributes": []
+    }
+  },
+  {
+    "id": "f4ab1aaeb9abed22ebe4c9be039e63b271f0410aef174ce8b61472a667d9920ai0",
+    "meta": {
+      "name": "Raoul Pal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "68896510d42940b4c6a4c791901b1623909319cd6ed2f986b47009d2c18c9c0ei0",
+    "meta": {
+      "name": "Eric Larchevque",
+      "attributes": []
+    }
+  },
+  {
+    "id": "5c2a13839d8dd9389c6a0a638da475ca51813941fc9735e5728167ddb3fd630fi0",
+    "meta": {
+      "name": "Dan Schulma",
+      "attributes": []
+    }
+  },
+  {
+    "id": "c29293d5b83ef61c66dc0e29904e8ff74db192891a093745a42da1a08a4bb90fi0",
+    "meta": {
+      "name": "Gavin Andreson",
+      "attributes": []
+    }
+  },
+  {
+    "id": "acd9fc4853983e599d3cb4e549dd96fc634c7b556ab916fb19d167d1c4f3ab1di0",
+    "meta": {
+      "name": "Perianne Boring",
+      "attributes": []
+    }
+  },
+  {
+    "id": "74fadbccef16278d243214564d759ef75badda6db5ac65d20d75f93595e2141fi0",
+    "meta": {
+      "name": "Daniel Shin",
+      "attributes": []
+    }
+  },
+  {
+    "id": "d8a05f58fba844f7eea6faec0a288e7e9cb20bebae3e5b4fea540e955ee1561fi0",
+    "meta": {
+      "name": "Stani Kulechov",
+      "attributes": []
+    }
+  },
+  {
+    "id": "054e91622a26d924ee0b0a6b2aae6a4939cf64c56a76fc34a839c30d30a1961fi0",
+    "meta": {
+      "name": "Yuzo Kano",
+      "attributes": []
+    }
+  },
+  {
+    "id": "51a74556a19e8a29d22076e8bbd7d2f6966b665988ff3c50748f876e13693b22i0",
+    "meta": {
+      "name": "Mark Cuban",
+      "attributes": []
+    }
+  },
+  {
+    "id": "3b7ecd19d1a592441dcc1f3ca821425ccd35898be9ee0791c7035b97a6594122i0",
+    "meta": {
+      "name": "Peter Smith",
+      "attributes": []
+    }
+  },
+  {
+    "id": "1453afd01d98ee9bcc24bf80f6bb9b84fc794fac209220d9a47831d2f5b55424i0",
+    "meta": {
+      "name": "Michael Saylor",
+      "attributes": []
+    }
+  },
+  {
+    "id": "3fa7ed7f52d6c29a2f4a48e3f87dbe0dcf6153e1c15d0ad8508768b0fbce0b27i0",
+    "meta": {
+      "name": "Robert Leshner",
+      "attributes": []
+    }
+  },
+  {
+    "id": "c8ff7aa2685f9da776d50af9b8cb659d1ee0dcbb4e388bd6a77510b193b0a528i0",
+    "meta": {
+      "name": "Chamath Palihapitiya",
+      "attributes": []
+    }
+  },
+  {
+    "id": "f17d16aec8eade99b89b3b00d41be88568230a098bc9d61d663bbd8940e8df2bi0",
+    "meta": {
+      "name": "Erik voorhees",
+      "attributes": []
+    }
+  },
+  {
+    "id": "6e8ce852520aec418a3e9c59a9edc28b2399ea0777786fbc7922b54cf35d062ci0",
+    "meta": {
+      "name": "Pieter Wuille",
+      "attributes": []
+    }
+  },
+  {
+    "id": "89286560595fef4c20d33c24ca402e926b8683a860b9860795e491ff5b8d142ei0",
+    "meta": {
+      "name": "Joyce Kim",
+      "attributes": []
+    }
+  },
+  {
+    "id": "035994192358a44834dc49761a9af9bfb19a7674bc7c8fdd8240836d56bc1930i0",
+    "meta": {
+      "name": "Andre Cronje",
+      "attributes": []
+    }
+  },
+  {
+    "id": "f4643ce006b4e7307eaa20aa9b990580ef0485beca8f5ac6b36d79eec1b4fe30i0",
+    "meta": {
+      "name": "Jesse Powell",
+      "attributes": []
+    }
+  },
+  {
+    "id": "42969134d805d5d6409892e8f2cf5ecb89f0a96a11236ec3de47ec22b9d68a35i0",
+    "meta": {
+      "name": "Charlie Shrem",
+      "attributes": []
+    }
+  },
+  {
+    "id": "a35cf631a01678c9519c1425007b11ceda7ba8ada625088921726f27f1dd3b3ei0",
+    "meta": {
+      "name": "Stephen Pair",
+      "attributes": []
+    }
+  },
+  {
+    "id": "efdb1c68f44ee959206fe92d98667fcc2afca25d8865d5e12241583c9590c940i0",
+    "meta": {
+      "name": "Michael Novogratz",
+      "attributes": []
+    }
+  },
+  {
+    "id": "3d387a530f09c935dc232d0fa96869148fc3684fe39b35ecff93b7cbe5a54a45i0",
+    "meta": {
+      "name": "Jed Maccaleb",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2dc892205794f9ba6f38f76e4477f08ea5bf62e139790a38f4e9d15b866d9046i0",
+    "meta": {
+      "name": "Sergey Nazarov",
+      "attributes": []
+    }
+  },
+  {
+    "id": "324135f6d7c986d85d4333dc1573de0a8daff170ae6f4f072802db1074a75847i0",
+    "meta": {
+      "name": "Vinny Lingham",
+      "attributes": []
+    }
+  },
+  {
+    "id": "23d30e930eca24d382822d0fc0d16bfc003bf32fe31a8a39fc225531161d5349i0",
+    "meta": {
+      "name": "Jae Kwon",
+      "attributes": []
+    }
+  },
+  {
+    "id": "5a523655bd8b3ff08a789611dbe7b1b70d6a5acdb08ec8fef7d210682e70e249i0",
+    "meta": {
+      "name": "Vansa Chatikavanij",
+      "attributes": []
+    }
+  },
+  {
+    "id": "e959891e33fbcd2ec99ae7208918310168b2610477ee82c9c480c758867a8252i0",
+    "meta": {
+      "name": "Marc Andreesen",
+      "attributes": []
+    }
+  },
+  {
+    "id": "b18829e7ffcf2ebb85e5311ec62e2875eca4744d4e8fafe128ab1da476cb0d53i0",
+    "meta": {
+      "name": "Brendan Eich",
+      "attributes": []
+    }
+  },
+  {
+    "id": "f84e01af5dedb98bd0156eadee9f3cfeb6f08c8b9bc6810e6e3d38ae9a49df5fi0",
+    "meta": {
+      "name": "Nick Szabo",
+      "attributes": []
+    }
+  },
+  {
+    "id": "4e82e3b93f17afcaff68f015b813199d907d863d946821ee3081af4dc16a0160i0",
+    "meta": {
+      "name": "Dominic Williams",
+      "attributes": []
+    }
+  },
+  {
+    "id": "5e72fb26d5312b914c0b502ebc0d85e4c6f0ef0d4ae4069c51a36fc425e6ca67i0",
+    "meta": {
+      "name": "Sbastien Borget",
+      "attributes": []
+    }
+  },
+  {
+    "id": "d568ddb17a9ea562a04b3357bc50322e2061860e49c697efe41807b766b3f868i0",
+    "meta": {
+      "name": "Nayib Bukele",
+      "attributes": []
+    }
+  },
+  {
+    "id": "f88dbf3eb9d528ce38701f0d501d590792dece498845fde413befe1632276069i0",
+    "meta": {
+      "name": "John McAfee",
+      "attributes": []
+    }
+  },
+  {
+    "id": "d3e487270ef7c92786ef67743f198f97985f9195d650cb077dffb240f97f496ci0",
+    "meta": {
+      "name": "Zac Prince",
+      "attributes": []
+    }
+  },
+  {
+    "id": "252d9546b2419eae61112834c65405a9a5390f7a971731b7e10c5e6af3354e70i0",
+    "meta": {
+      "name": "Don Tapscott",
+      "attributes": []
+    }
+  },
+  {
+    "id": "3fa59695189ff0ae9397fc3fd65a046b93987e4166f077e9eb9418fa7041af70i0",
+    "meta": {
+      "name": "Caitlin Long",
+      "attributes": []
+    }
+  },
+  {
+    "id": "7415cdc9004c5f6a419f89af46ff9e450ee25daa0f9ba365adae0978af6b0a72i0",
+    "meta": {
+      "name": "Bobby Ong",
+      "attributes": []
+    }
+  },
+  {
+    "id": "b363dfdc5a1e9a1c77fd7312cde2bec3561d414a0401be967fd4998aea57d772i0",
+    "meta": {
+      "name": "Ross Ulbricht",
+      "attributes": []
+    }
+  },
+  {
+    "id": "c6df2ba035313ecc12a96dd44d980097b2b4d19528ab73080e0a8f33c28b9d76i0",
+    "meta": {
+      "name": "Devin Finzer",
+      "attributes": []
+    }
+  },
+  {
+    "id": "7d81b760a750bddf8f081e50418a3c4de161d3a8aca10f99299cd537c4c53777i0",
+    "meta": {
+      "name": "Leemon Baird",
+      "attributes": []
+    }
+  },
+  {
+    "id": "b78aea2f95e135e06c21aa9c7c1e3884b16f30c6c9c022e563bcf7aa0af6c579i0",
+    "meta": {
+      "name": "Dan Morehead",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2f8826d12ba5f0c433c19a19331926cbaa0debbdd8ef726d752b3d69a46fdf7ai0",
+    "meta": {
+      "name": "Mike Belshe",
+      "attributes": []
+    }
+  },
+  {
+    "id": "7a621a0d72abf5666207a1d65ad09185f494c557f2d2eb95fb791c8a10946c7ci0",
+    "meta": {
+      "name": "Arthur Breitman",
+      "attributes": []
+    }
+  },
+  {
+    "id": "2c2e43fec6d39048e263a02e82b3fcabcc252c63a128ccc3346f157bb42fb67fi0",
+    "meta": {
+      "name": "Joseph Lubin",
+      "attributes": []
+    }
+  },
+  {
+    "id": "ebe898f448e3b93f93a6739bebdec0621aaf5460ce2ca2d77d0d9e6750e52390i0",
+    "meta": {
+      "name": "Edward Moncada",
+      "attributes": []
+    }
+  },
+  {
+    "id": "81859bdf32cc3b80f5c2c1c577b16e633a0082b0b186267a25855b298080e894i0",
+    "meta": {
+      "name": "He Yi",
+      "attributes": []
+    }
+  },
+  {
+    "id": "8f51301e80d25e43c8074d2a133ad106a76d64dc3d0d0e010c5dedfc02e70e98i0",
+    "meta": {
+      "name": "Anthony Pompliano",
+      "attributes": []
+    }
+  },
+  {
+    "id": "c3fd2b8cf2a19af18e168dabe1dd11783b3ccbc9eaef80e2bd34ab764f34de9ei0",
+    "meta": {
+      "name": "Dominik Schiener",
+      "attributes": []
+    }
+  },
+  {
+    "id": "a9f87028dd3be028f6f0c46fc26f70320243fbd92b8cb0d2f12a519bb3f5d2a1i0",
+    "meta": {
+      "name": "Meltem Demirors",
+      "attributes": []
+    }
+  },
+  {
+    "id": "a5a52edf91439a75706f982cdfa1a908938a5e2650f9f2af2720ba5aeeb354a8i0",
+    "meta": {
+      "name": "Akon",
+      "attributes": []
+    }
+  },
+  {
+    "id": "27998de31278ae07ebdc954f20b11c1f0ca3d48cd13ac526570618c34b2406b1i0",
+    "meta": {
+      "name": "Kris Marszalek",
+      "attributes": []
+    }
+  },
+  {
+    "id": "56105070b41086ae76aeda5c3526f18bf56c89eadea50787bdd6741ee39f8ab5i0",
+    "meta": {
+      "name": "Andreas Antonopoulos",
+      "attributes": []
+    }
+  },
+  {
+    "id": "aa131c17c6d8c57cebc9ef4b9bb49a1d218607ba0560bda4cae42bc7e9cc9fb7i0",
+    "meta": {
+      "name": "Sandeep Nailwal",
+      "attributes": []
+    }
+  },
+  {
+    "id": "5c6cf00a0743a38e6145ed129bea9700f91e3265344b3e2e0f176ffb75c51bbai0",
+    "meta": {
+      "name": "Star Xu",
+      "attributes": []
+    }
+  },
+  {
+    "id": "e4a203448db0dee139d104512bbc751a5a89cfbe26243a32cc2022e75767bfbci0",
+    "meta": {
+      "name": "Alex Machinsky",
+      "attributes": []
+    }
+  },
+  {
+    "id": "f84d6c2a6758a9cec7b6d9e9354113f7616685bf2a25984b698ce0c350a710c1i0",
+    "meta": {
+      "name": "Bobby Lee",
+      "attributes": []
+    }
+  },
+  {
+    "id": "e60963647b18e9d759e38fb942efd11f0d589599eed23d2871a3f2a3144f9dc3i0",
+    "meta": {
+      "name": "Brandon Chez",
+      "attributes": []
+    }
+  },
+  {
+    "id": "26864a8564b5785c7545b1e7dfe6376573503c69ed9cd24b0808fbfb28aca0c6i0",
+    "meta": {
+      "name": "Anatoly Yakovenko",
+      "attributes": []
+    }
+  },
+  {
+    "id": "14faf71ffccd9a7a5544d7a2b6c0c657571f3a7842c028a0a3febc2a8a5131c9i0",
+    "meta": {
+      "name": "David Marcus",
+      "attributes": []
+    }
+  },
+  {
+    "id": "5543c13dc2c645e32d01e127e06f4c48e3287d35f2a982112f6b28cecddb43cbi0",
+    "meta": {
+      "name": "Tyler Winklevoss",
+      "attributes": []
+    }
+  },
+  {
+    "id": "350434d794875f071c054a96feb8f18eafb2471befbb010c74d82bb19ebbfecci0",
+    "meta": {
+      "name": "Valery Vavilov",
+      "attributes": []
+    }
+  },
+  {
+    "id": "d9e27207db44a5b0c6f31cd5927c2f80b1a8829123b6a6051e6f6a29d7553ccdi0",
+    "meta": {
+      "name": "llia Polosukhin",
+      "attributes": []
+    }
+  },
+  {
+    "id": "01f3873bbf98d3487bd8f6625d1c9c28400a6ce8ab2840cb1816634f91f9f3d1i0",
+    "meta": {
+      "name": "Adam Back",
+      "attributes": []
+    }
+  },
+  {
+    "id": "76e966facc3ac334f94efee1bcf23e878de711536502ea15144a34382e5ecde1i0",
+    "meta": {
+      "name": "Rune Christensen",
+      "attributes": []
+    }
+  },
+  {
+    "id": "81752601da8002ec8e44b350b8df7ef8565bcb084a338cc052643a73eb1696e5i0",
+    "meta": {
+      "name": "Peter Brandt",
+      "attributes": []
+    }
+  },
+  {
+    "id": "9b86f21c37f1bad6da938ce04ef9411f32b6fce0b036e8e93a6c1329b65119e8i0",
+    "meta": {
+      "name": "Olaf Carlson-Wee",
+      "attributes": []
+    }
+  },
+  {
+    "id": "effa5aea08eb6d99d1a3e101fcbf618b4aa919485b4eafbc078170d74218b1e8i0",
+    "meta": {
+      "name": "Jeremy Allaire",
+      "attributes": []
+    }
+  },
+  {
+    "id": "23d42546e0bb9e6b48093ecfbc7131861f00b93f1652476c2447fb699b79e3e8i0",
+    "meta": {
+      "name": "Yuzo Kano",
+      "attributes": []
+    }
+  },
+  {
+    "id": "5d6af709532ad4f77dbe7b6eb07322a2960e9a479bc1037e92d765f0901e78ebi0",
+    "meta": {
+      "name": "Tone Vays",
+      "attributes": []
+    }
+  },
+  {
+    "id": "5c797e260c75ce501e8cbd78be75ed6df4847d9cfde46ad074712cf4a257e5ebi0",
+    "meta": {
+      "name": "Brock Pierce",
+      "attributes": []
+    }
+  },
+  {
+    "id": "60c0de396463941d40740f2acf0deae73ca9b1baa01324dbd33e6acfef6876f0i0",
+    "meta": {
+      "name": "Silvio Micali",
+      "attributes": []
+    }
+  },
+  {
+    "id": "d6faac453f99c21f3421e023ad3ab1da7a5147ec4c06ebd1ef877451f5960bfci0",
+    "meta": {
+      "name": "Marwan Alzarouni",
+      "attributes": []
+    }
+  },
+  {
+    "id": "",
+    "meta": {
+      "name": "",
+      "attributes": []
+    }
+  }
+]
