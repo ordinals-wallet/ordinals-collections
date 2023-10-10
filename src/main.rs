@@ -9,6 +9,9 @@ pub use inscription_id::*;
 pub mod outpoint;
 pub use outpoint::*;
 
+pub mod markets;
+pub use markets::*;
+
 #[tokio::main]
 async fn main() -> Result<()> {
     collection::reformat()?;

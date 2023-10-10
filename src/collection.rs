@@ -72,6 +72,24 @@ pub fn list_slugs() -> Result<Vec<String>> {
         .collect())
 }
 
+pub fn write(collection: &Collection, inscriptions: &Vec<Inscription>) -> Result<()> {
+    let new_collection = to_string_pretty(&to_value(collection)?).unwrap();
+    let new_inscriptions = to_string_pretty(&to_value(inscriptions)?).unwrap();
+
+    std::fs::write(
+        format!("collections/{}/meta.json", collection.slug),
+        new_collection,
+    )
+    .unwrap();
+    std::fs::write(
+        format!("collections/{}/inscriptions.json", collection.slug),
+        new_inscriptions,
+    )
+    .unwrap();
+
+    Ok(())
+}
+
 pub fn read(slug: &String) -> Result<Collection> {
     let path = format!("collections/{}/meta.json", slug);
     let data = match std::fs::read_to_string(&path) {
@@ -197,19 +215,7 @@ pub fn reformat() -> Result<()> {
     collections
         .par_iter()
         .for_each(|(collection, inscriptions)| {
-            let new_collection = to_string_pretty(&collection).unwrap();
-            let new_inscriptions = to_string_pretty(&inscriptions).unwrap();
-
-            std::fs::write(
-                format!("collections/{}/meta.json", collection.slug),
-                new_collection,
-            )
-            .unwrap();
-            std::fs::write(
-                format!("collections/{}/inscriptions.json", collection.slug),
-                new_inscriptions,
-            )
-            .unwrap();
+            self::write(collection, inscriptions).unwrap();
         });
 
     Ok(())

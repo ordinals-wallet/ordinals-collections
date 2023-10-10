@@ -1,9 +1,10 @@
 {
-  "name": "PortalPunks",
-  "inscription_icon": "1d12d087cdce5729d92f50c964409d005832a8847b3cd6963ea6313ceff41f46i0",
-  "slug": "portal-punks",
   "description": "PortalPunks are CryptoPunks that have been inscribed to Bitcoin through a token-gated inscription process developed by Layerr with on-chain provenance records showing they are legit.",
-  "twitter_link": "https://twitter.com/Layerrxyz",
   "discord_link": "https://discord.gg/RGe5w5EzjC",
+  "icon": "https://turbo.ordinalswallet.com/inscription/preview/1d12d087cdce5729d92f50c964409d005832a8847b3cd6963ea6313ceff41f46i0",
+  "inscription_icon": "1d12d087cdce5729d92f50c964409d005832a8847b3cd6963ea6313ceff41f46i0",
+  "name": "PortalPunks",
+  "slug": "portal-punks",
+  "twitter_link": "https://twitter.com/Layerrxyz",
   "website_link": "https://portalpunks.io"
 }

@@ -1,9 +1,10 @@
 {
-  "name": "BTCDomain",
-  "inscription_icon": "f3e033071c2b0ef13361c9f08de069cf96f61a8b5b700e2e2d864fc48f28f9adi0",
-  "slug": "btcdomain",
   "description": "BTCDomain is a bitcoin native domain system empowered by ordinals tech and zk tech, working on both your btc address and your bitcoin website. All data storage and resolution are based on bitcoin mainnet.",
-  "twitter_link": "https://twitter.com/btcdomain_btc",
   "discord_link": "https://discord.gg/btcdomain",
-  "website_link": "https://btcdomains.io/?utm_source=binance&utm_medium=marketplace"
+  "icon": "https://turbo.ordinalswallet.com/inscription/preview/f3e033071c2b0ef13361c9f08de069cf96f61a8b5b700e2e2d864fc48f28f9adi0",
+  "inscription_icon": "f3e033071c2b0ef13361c9f08de069cf96f61a8b5b700e2e2d864fc48f28f9adi0",
+  "name": "BTCDomain",
+  "slug": "btcdomain",
+  "twitter_link": "https://twitter.com/btcdomain_btc",
+  "website_link": "https://btcdomains.io/"
 }
