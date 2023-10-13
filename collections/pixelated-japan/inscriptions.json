@@ -1,122 +1,122 @@
 [
-    {
-        "id": "763d842ae23e3232bc6bc7c7c87e36206fc39fd461622709bf1eb260c4301c5ai0",
-        "meta": {
-            "name": "Torri 1 鳥居",
-            "attributes": [
-                {
-                    "trait_type": "Background",
-                    "value": "2 clouds"
-                },
-                {
-                    "trait_type": "Pink Sphere",
-                    "value": "Low Center"
-                },
-                {
-                    "trait_type": "Object",
-                    "value": "Torri"
-                }
-            ]
+  {
+    "id": "763d842ae23e3232bc6bc7c7c87e36206fc39fd461622709bf1eb260c4301c5ai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "2 clouds"
+        },
+        {
+          "trait_type": "Pink Sphere",
+          "value": "Low Center"
+        },
+        {
+          "trait_type": "Object",
+          "value": "Torri"
         }
-    },
-    {
-        "id": "1fc2ac2cc36cfb936570c5ceef6fa81234ce18a32e2117df1a917059d9d60e6ci0",
-        "meta": {
-            "name": "Tower タワー",
-            "attributes": [
-                {
-                    "trait_type": "Background",
-                    "value": "2 clouds"
-                },
-                {
-                    "trait_type": "Pink Sphere",
-                    "value": "High Left"
-                },
-                {
-                    "trait_type": "Object",
-                    "value": "Tower"
-                }
-            ]
-        }
-    },
-    {
-        "id": "594c5686334d525697a5ae4c448b78f45a89e42a70ee3c2de17c129be04ac599i0",
-        "meta": {
-            "name": "Shrine 神社",
-            "attributes": [
-                {
-                    "trait_type": "Background",
-                    "value": "4 clouds"
-                },
-                {
-                    "trait_type": "Pink Sphere",
-                    "value": "Low Right"
-                },
-                {
-                    "trait_type": "Object",
-                    "value": "Building"
-                }
-            ]
-        }
-    },
-    {
-        "id": "68c2e8002da336706e1dd3ea7b651375a06a342fbe5ff399077eb361afd9b4f6i0",
-        "meta": {
-            "name": "Kei truck 軽トラック",
-            "attributes": [
-                {
-                    "trait_type": "Background",
-                    "value": "4 clouds"
-                },
-                {
-                    "trait_type": "Pink Sphere",
-                    "value": "Low Right"
-                },
-                {
-                    "trait_type": "Object",
-                    "value": "Vehicle"
-                }
-            ]
-        }
-    },
-    {
-        "id": "f47596371ad4f597a9f44c51b0cf264470fb91f725ee6defb66ee9d7f1bf063bi0",
-        "meta": {
-            "name": "Torri 2 鳥居",
-            "attributes": [
-                {
-                    "trait_type": "Background",
-                    "value": "2 clouds"
-                },
-                {
-                    "trait_type": "Pink Sphere",
-                    "value": "High Center"
-                },
-                {
-                    "trait_type": "Object",
-                    "value": "Torri"
-                }
-            ]
-        }
-    },
-    {
-        "id": "db4932304378318878cbf841115b173c128f041e7d43fa4463fc13844a23fd91i0",
-        "meta": {
-            "name": "Booth ブース席",
-            "attributes": [
-                {
-                    "trait_type": "Background",
-                    "value": "2 clouds"
-                },
-                {
-                    "trait_type": "Pink Sphere",
-                    "value": "Low Center"
-                },
-                {
-                    "trait_type": "Object",
-                    "value": "Food"
-                }
-            ]
-        }
+      ],
+      "name": "Torri 1 鳥居"
     }
+  },
+  {
+    "id": "1fc2ac2cc36cfb936570c5ceef6fa81234ce18a32e2117df1a917059d9d60e6ci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "2 clouds"
+        },
+        {
+          "trait_type": "Pink Sphere",
+          "value": "High Left"
+        },
+        {
+          "trait_type": "Object",
+          "value": "Tower"
+        }
+      ],
+      "name": "Tower タワー"
+    }
+  },
+  {
+    "id": "594c5686334d525697a5ae4c448b78f45a89e42a70ee3c2de17c129be04ac599i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "4 clouds"
+        },
+        {
+          "trait_type": "Pink Sphere",
+          "value": "Low Right"
+        },
+        {
+          "trait_type": "Object",
+          "value": "Building"
+        }
+      ],
+      "name": "Shrine 神社"
+    }
+  },
+  {
+    "id": "68c2e8002da336706e1dd3ea7b651375a06a342fbe5ff399077eb361afd9b4f6i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "4 clouds"
+        },
+        {
+          "trait_type": "Pink Sphere",
+          "value": "Low Right"
+        },
+        {
+          "trait_type": "Object",
+          "value": "Vehicle"
+        }
+      ],
+      "name": "Kei truck 軽トラック"
+    }
+  },
+  {
+    "id": "f47596371ad4f597a9f44c51b0cf264470fb91f725ee6defb66ee9d7f1bf063bi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "2 clouds"
+        },
+        {
+          "trait_type": "Pink Sphere",
+          "value": "High Center"
+        },
+        {
+          "trait_type": "Object",
+          "value": "Torri"
+        }
+      ],
+      "name": "Torri 2 鳥居"
+    }
+  },
+  {
+    "id": "db4932304378318878cbf841115b173c128f041e7d43fa4463fc13844a23fd91i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "2 clouds"
+        },
+        {
+          "trait_type": "Pink Sphere",
+          "value": "Low Center"
+        },
+        {
+          "trait_type": "Object",
+          "value": "Food"
+        }
+      ],
+      "name": "Booth ブース席"
+    }
+  }
 ]

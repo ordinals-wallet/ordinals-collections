@@ -1,171 +1,158 @@
 [
-    {
-        "id": "913d65ca95afd862a71fea8d48cf95434efd3581b8d08d3f0402db526d975efai0",
-        "meta": {
-            "name": "Blame Bitcoin",
-            "status": "Dank",
-            "attributes": [
-                {
-                    "trait_type": "Author",
-                    "value": "Unknown"
-                }
-            ]
+  {
+    "id": "913d65ca95afd862a71fea8d48cf95434efd3581b8d08d3f0402db526d975efai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Author",
+          "value": "Unknown"
         }
-    },
-    {
-        "id": "e2b924bb95af7598bef13a3e5c3540c32564460e2db1312f895ca0a96edda81ci0",
-        "meta": {
-            "name": "Trojan horse",
-            "status": "Dank",
-            "attributes": [
-                {
-                    "trait_type": "Author",
-                    "value": "Unknown"
-                }
-            ]
-        }
-    },
-    {
-        "id": "72907215a4e32cdbd26dcc5707daaddcf4f6b98a9971fdb6129a46065559226ei0",
-        "meta": {
-            "name": "Funeral Bro",
-            "status": "Dank",
-            "attributes": [
-                {
-                    "trait_type": "Author",
-                    "value": "Anonymous"
-                }
-            ]
-        }
-    },
-    {
-        "id": "06bd51a95c9e5b5c8d36385e7d7f3ef925338574f041e57a311cd87fa40366a3i0",
-        "meta": {
-            "name": "my pfp is on ur full node",
-            "status": "Dank",
-            "attributes": [
-                {
-                    "trait_type": "Author",
-                    "value": "Unknown"
-                }
-            ]
-        }
-    },
-    {
-        "id": "b280c3952507a58b5ffcf76f56e144d4e7194f1c5b270f92a4c7ecabc0c0f566i0",
-        "meta": {
-            "name": "Homer eats empty block space",
-            "status": "Dank",
-            "attributes": [
-                {
-                    "trait_type": "Author",
-                    "value": "Anonymous"
-                }
-            ]
-        }
-    },
-    {
-        "id": "f4b2f56005b37e756819231fa52f07f19a1d984edaffd5b0ca2dd5b467bd1c37i0",
-        "meta": {
-            "name": "Block are full of dickbutts",
-            "status": "Dank",
-            "attributes": [
-                {
-                    "trait_type": "Author",
-                    "value": "Anonymous"
-                }
-            ]
-        }
-    },
-    {
-        "id": "146006824a58b8d4a6bd3e1cc56f2d07ff463cda32636fe04d4ecff624f4f1a4i0",
-        "meta": {
-            "name": "Yellow suit guy",
-            "status": "Dank",
-            "attributes": [
-                {
-                    "trait_type": "Author",
-                    "value": "Anonymous"
-                }
-            ]
-        }
-    },
-    {
-        "id": "3bc36c3851206455dae0146132a03f456263aac1f65bf3e120a413b4dc1eba22i0",
-        "meta": {
-            "name": "OP_FALSE",
-            "status": "Dank",
-            "attributes": [
-                {
-                    "trait_type": "Author",
-                    "value": "Unknown"
-                }
-            ]
-        }
-    },
-    {
-        "id": "c8f8b5a40624b98b1d43068d7c42f318bb6273031049b3b17dad29b7689edd26i0",
-        "meta": {
-            "name": "4megger bus",
-            "status": "Dank",
-            "attributes": [
-                {
-                    "trait_type": "Author",
-                    "value": "@pourteaux"
-                }
-            ]
-        }
-    },
-    {
-        "id": "4ba3324a9f0d690b192731f3ec6acf3657c0babb5b7849669b849ab78e8b93f5i0",
-        "meta": {
-            "name": "4megger baiting",
-            "status": "Dank",
-            "attributes": [
-                {
-                    "trait_type": "Author",
-                    "value": "@pourteaux"
-                }
-            ]
-        }
-    },
-    {
-        "id": "552757463ca7b1bdf8648c3a20fc510af92f5af5a4d7a6e6869ef3a61c75da10i0",
-        "meta": {
-            "name": "",
-            "status": "Dank",
-            "attributes": [
-                {
-                    "trait_type": "Author",
-                    "value": "Unknown"
-                }
-            ]
-        }
-    },
-    {
-        "id": "e53049cc197ac7729895d9932bd6d91b005eee75c78bbe10cb4cab2da0c51fc0i0",
-        "meta": {
-            "name": "inscriboooooooor",
-            "status": "Dank",
-            "attributes": [
-                {
-                    "trait_type": "Author",
-                    "value": "Unknown"
-                }
-            ]
-        }
-    },
-    {
-        "id": "74e497271638cfc72a945f956ce2758e8f90621aa79ef99f3f8d965b461dfcf3i0",
-        "meta": {
-            "name": "buying pizza",
-            "status": "Dank",
-            "attributes": [
-                {
-                    "trait_type": "Author",
-                    "value": "Unknown"
-                }
-            ]
-        }
+      ],
+      "name": "Blame Bitcoin"
     }
+  },
+  {
+    "id": "e2b924bb95af7598bef13a3e5c3540c32564460e2db1312f895ca0a96edda81ci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Author",
+          "value": "Unknown"
+        }
+      ],
+      "name": "Trojan horse"
+    }
+  },
+  {
+    "id": "72907215a4e32cdbd26dcc5707daaddcf4f6b98a9971fdb6129a46065559226ei0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Author",
+          "value": "Anonymous"
+        }
+      ],
+      "name": "Funeral Bro"
+    }
+  },
+  {
+    "id": "06bd51a95c9e5b5c8d36385e7d7f3ef925338574f041e57a311cd87fa40366a3i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Author",
+          "value": "Unknown"
+        }
+      ],
+      "name": "my pfp is on ur full node"
+    }
+  },
+  {
+    "id": "b280c3952507a58b5ffcf76f56e144d4e7194f1c5b270f92a4c7ecabc0c0f566i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Author",
+          "value": "Anonymous"
+        }
+      ],
+      "name": "Homer eats empty block space"
+    }
+  },
+  {
+    "id": "f4b2f56005b37e756819231fa52f07f19a1d984edaffd5b0ca2dd5b467bd1c37i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Author",
+          "value": "Anonymous"
+        }
+      ],
+      "name": "Block are full of dickbutts"
+    }
+  },
+  {
+    "id": "146006824a58b8d4a6bd3e1cc56f2d07ff463cda32636fe04d4ecff624f4f1a4i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Author",
+          "value": "Anonymous"
+        }
+      ],
+      "name": "Yellow suit guy"
+    }
+  },
+  {
+    "id": "3bc36c3851206455dae0146132a03f456263aac1f65bf3e120a413b4dc1eba22i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Author",
+          "value": "Unknown"
+        }
+      ],
+      "name": "OP_FALSE"
+    }
+  },
+  {
+    "id": "c8f8b5a40624b98b1d43068d7c42f318bb6273031049b3b17dad29b7689edd26i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Author",
+          "value": "@pourteaux"
+        }
+      ],
+      "name": "4megger bus"
+    }
+  },
+  {
+    "id": "4ba3324a9f0d690b192731f3ec6acf3657c0babb5b7849669b849ab78e8b93f5i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Author",
+          "value": "@pourteaux"
+        }
+      ],
+      "name": "4megger baiting"
+    }
+  },
+  {
+    "id": "552757463ca7b1bdf8648c3a20fc510af92f5af5a4d7a6e6869ef3a61c75da10i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Author",
+          "value": "Unknown"
+        }
+      ],
+      "name": ""
+    }
+  },
+  {
+    "id": "e53049cc197ac7729895d9932bd6d91b005eee75c78bbe10cb4cab2da0c51fc0i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Author",
+          "value": "Unknown"
+        }
+      ],
+      "name": "inscriboooooooor"
+    }
+  },
+  {
+    "id": "74e497271638cfc72a945f956ce2758e8f90621aa79ef99f3f8d965b461dfcf3i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Author",
+          "value": "Unknown"
+        }
+      ],
+      "name": "buying pizza"
+    }
+  }
 ]

@@ -2,8 +2,6 @@
   {
     "id": "a9dfe26fb3f12094d23f9c2d437f9095504a77a79dfd5327d00b911d690b6498i0",
     "meta": {
-      "name": "Snap",
-      "rank": "1",
       "attributes": [
         {
           "trait_type": "number",
@@ -21,14 +19,13 @@
           "trait_type": "bio",
           "value": "Snap once saved the gang by outwitting a rival with a single pun. His secret weapon: a trusty thesaurus."
         }
-      ]
+      ],
+      "name": "Snap"
     }
   },
   {
     "id": "ce571812a2b14b9a7001219debe4fa83baddeed66e0fb5ad58cef4861cba22b6i0",
     "meta": {
-      "name": "Snuggle",
-      "rank": "3",
       "attributes": [
         {
           "trait_type": "number",
@@ -46,14 +43,13 @@
           "trait_type": "bio",
           "value": "Can often be found knitting cozy brass knuckles for friends and family."
         }
-      ]
+      ],
+      "name": "Snuggle"
     }
   },
   {
     "id": "36f0272e28bf6595199d02cb29013b91d9b9b9e250d270f32270506dcd1262bai0",
     "meta": {
-      "name": "Chillwave",
-      "rank": "7",
       "attributes": [
         {
           "trait_type": "number",
@@ -71,14 +67,13 @@
           "trait_type": "bio",
           "value": "Once meditated for three days straight during a high-speed boat chase."
         }
-      ]
+      ],
+      "name": "Chillwave"
     }
   },
   {
     "id": "fcf4b558d1edabf568a2dcbbb2d17b2628aafc944e4a14338cdfc6075ed949a9i0",
     "meta": {
-      "name": "Pop",
-      "rank": "8",
       "attributes": [
         {
           "trait_type": "number",
@@ -96,14 +91,13 @@
           "trait_type": "bio",
           "value": "Holds the world record for most hours slept in a bounce house."
         }
-      ]
+      ],
+      "name": "Pop"
     }
   },
   {
     "id": "067e499b7add5c9218f8baf819747401d3c7bdf2c3bfde622f19d9f1646b8759i0",
     "meta": {
-      "name": "Thrill",
-      "rank": "9",
       "attributes": [
         {
           "trait_type": "number",
@@ -121,14 +115,13 @@
           "trait_type": "bio",
           "value": "Became an X-Games gold medalist while simultaneously having a panic attack."
         }
-      ]
+      ],
+      "name": "Thrill"
     }
   },
   {
     "id": "871686740b43aa97caa221d0e930b24f05d513a481104bf44a14278071f06e4bi0",
     "meta": {
-      "name": "Zoom",
-      "rank": "10",
       "attributes": [
         {
           "trait_type": "number",
@@ -146,14 +139,13 @@
           "trait_type": "bio",
           "value": "Favorite pastime: calculating the exact odds of successfully pulling off a heist."
         }
-      ]
+      ],
+      "name": "Zoom"
     }
   },
   {
     "id": "86d7c323ae7d1512fe3befc2ae1a765465f6bcd82144eb479dd47980a070eb08i0",
     "meta": {
-      "name": "Whisker",
-      "rank": "4",
       "attributes": [
         {
           "trait_type": "number",
@@ -171,14 +163,13 @@
           "trait_type": "bio",
           "value": "Discovered the meaning of life while riding a gnarly wave in Tahiti."
         }
-      ]
+      ],
+      "name": "Whisker"
     }
   },
   {
     "id": "69f857e4bf91da5175d1a3b69c6fdd31c968312c22395cc92e53636de73d876di0",
     "meta": {
-      "name": "Jolt",
-      "rank": "11",
       "attributes": [
         {
           "trait_type": "number",
@@ -196,14 +187,13 @@
           "trait_type": "bio",
           "value": "Jolt, a human espresso shot, is never seen without a twinkle in their eye. Their contagious energy keeps the team on their toes and their love for chamomile tea grounds them in moments of tranquility. In their free time, Jolt enjoys finger painting with static electricity."
         }
-      ]
+      ],
+      "name": "Jolt"
     }
   },
   {
     "id": "8a0fd57b34bd2278f8d1fedb7375945cdcf10b858d65bf580cddebb0e3064f80i0",
     "meta": {
-      "name": "Byte",
-      "rank": "5",
       "attributes": [
         {
           "trait_type": "number",
@@ -221,14 +211,13 @@
           "trait_type": "bio",
           "value": "Byte is the group's digital guru, never far from the latest gadgets and gizmos. They love reminiscing about the golden days of COBOL while staying ahead of the latest tech trends. Byte spends their downtime restoring vintage computers and contemplating how floppy disks changed the world."
         }
-      ]
+      ],
+      "name": "Byte"
     }
   },
   {
     "id": "424d50344b551e9533c074d9dad1b529a8e6e8cce20c9f13ba2f110e19f67e1bi0",
     "meta": {
-      "name": "Eco",
-      "rank": "12",
       "attributes": [
         {
           "trait_type": "number",
@@ -246,14 +235,13 @@
           "trait_type": "bio",
           "value": "Eco is the group's green warrior, determined to save the planet one biodegradable straw at a time. Despite their love for all things Earth, they can't resist the allure of a rare steak Eco's hobbies include hugging trees and pondering the impact of cow flatulence on climate change."
         }
-      ]
+      ],
+      "name": "Eco"
     }
   },
   {
     "id": "fa4759eebcb255b18cae7b06d69f1edaaec8e83ddaeab158cd8d8c11cc335f18i0",
     "meta": {
-      "name": "Zipper",
-      "rank": "13",
       "attributes": [
         {
           "trait_type": "number",
@@ -271,14 +259,13 @@
           "trait_type": "bio",
           "value": "Zipper is the group's resident Marie Kondo, ensuring everything is in its proper place. They have a knack for transforming chaos into harmony but also have a guilty pleasure for entropy. When not organizing, Zipper can be found reading about the disorderly demise of the universe."
         }
-      ]
+      ],
+      "name": "Zipper"
     }
   },
   {
     "id": "5be51507bc9b06ea00dfee2b9b992c2ec17f2efbb56cc4b61850fe5c88c38e61i0",
     "meta": {
-      "name": "Scribe",
-      "rank": "14",
       "attributes": [
         {
           "trait_type": "number",
@@ -296,14 +283,13 @@
           "trait_type": "bio",
           "value": "Scribe is the group's living, breathing encyclopedia, meticulously documenting every detail. They are steadfast in their note-taking but can't help being intrigued by the concept of amnesia. In their downtime, Scribe enjoys dabbling in memory-enhancing techniques and learning to juggle – both pens and responsibilities."
         }
-      ]
+      ],
+      "name": "Scribe"
     }
   },
   {
     "id": "184d13b4a75366624b128960d5059445a22fb22933a9e9260b5787ba0e645547i0",
     "meta": {
-      "name": "Flashback",
-      "rank": "15",
       "attributes": [
         {
           "trait_type": "number",
@@ -321,14 +307,13 @@
           "trait_type": "bio",
           "value": "Once built a time machine out of an old DeLorean, but lost the keys."
         }
-      ]
+      ],
+      "name": "Flashback"
     }
   },
   {
     "id": "7c6e78812eb126379c15ba3b21340a75264dfc0a82f64f16f5916d3583182ee9i0",
     "meta": {
-      "name": "Wildcard",
-      "rank": "16",
       "attributes": [
         {
           "trait_type": "number",
@@ -346,14 +331,13 @@
           "trait_type": "bio",
           "value": "World champion in underwater basket weaving and professional chaos theorist."
         }
-      ]
+      ],
+      "name": "Wildcard"
     }
   },
   {
     "id": "3d802fb815eeab0adab8cfec5a34b17509a71b22091c6770927633350f1163eci0",
     "meta": {
-      "name": "Bounce",
-      "rank": "17",
       "attributes": [
         {
           "trait_type": "number",
@@ -371,14 +355,13 @@
           "trait_type": "bio",
           "value": "Developed a new sport called 'tragedy pong' where the ball is made from tears."
         }
-      ]
+      ],
+      "name": "Bounce"
     }
   },
   {
     "id": "aab15678a9c45607882241d831a52003890972e0885ebefb167d5c50b6800462i0",
     "meta": {
-      "name": "Zap",
-      "rank": "6",
       "attributes": [
         {
           "trait_type": "number",
@@ -396,14 +379,13 @@
           "trait_type": "bio",
           "value": "Holds the world record for the longest staring contest with a sloth... and lost."
         }
-      ]
+      ],
+      "name": "Zap"
     }
   },
   {
     "id": "4e77ae2458b30213215e33178e6ba1fd438d1313b14decd1b5091a14c2c78c10i0",
     "meta": {
-      "name": "Beatbox",
-      "rank": "18",
       "attributes": [
         {
           "trait_type": "number",
@@ -421,14 +403,13 @@
           "trait_type": "bio",
           "value": "Became a celebrity when their viral meditation rap video broke the internet."
         }
-      ]
+      ],
+      "name": "Beatbox"
     }
   },
   {
     "id": "7c63918f80282124901fd3f97e76506498b598e21583861e30e970909a0d2535i0",
     "meta": {
-      "name": "Serene",
-      "rank": "19",
       "attributes": [
         {
           "trait_type": "number",
@@ -446,14 +427,13 @@
           "trait_type": "bio",
           "value": "Founder of 'Zen Shooting Range,' where participants practice mindfulness while firing off rounds."
         }
-      ]
+      ],
+      "name": "Serene"
     }
   },
   {
     "id": "4c12cdd434c289ad3df63c5ac0236d7b1742c47142e307e403a1e5aebc081283i0",
     "meta": {
-      "name": "Sketch",
-      "rank": "20",
       "attributes": [
         {
           "trait_type": "number",
@@ -471,14 +451,13 @@
           "trait_type": "bio",
           "value": "Created a series of tax-themed coloring books that became an unexpected bestseller."
         }
-      ]
+      ],
+      "name": "Sketch"
     }
   },
   {
     "id": "e622f4b54fe5dfd6a2d0394df38aa46d6bf2a024a50bb6d034562cc02832d829i0",
     "meta": {
-      "name": "Swag",
-      "rank": "2",
       "attributes": [
         {
           "trait_type": "number",
@@ -496,14 +475,13 @@
           "trait_type": "bio",
           "value": "Swag is the group's undercover fashionista, making waves with their sartorial choices. Always dressed to impress, they have a knack for starting clothing trends. Despite their shy demeanor, Swag dreams of leading a mutiny and taking over the fashion world one runway at a time."
         }
-      ]
+      ],
+      "name": "Swag"
     }
-  }, 
+  },
   {
     "id": "a212a3dead8051374536124220c50e1ea7f102752f140a003f7c5e1d366eb8a0i0",
     "meta": {
-      "name": "Glitch",
-      "rank": "21",
       "attributes": [
         {
           "trait_type": "number",
@@ -521,7 +499,8 @@
           "trait_type": "bio",
           "value": "A master of financial wizardry, Glitch zigzags through life on a quest for the best deals and obscure income sources. With an uncanny ability to sniff out bargains, Glitch's frugality has saved the group from bankruptcy more than once. In their free time, they enjoy collecting vintage coin purses and researching long-lost satoshis."
         }
-      ]
+      ],
+      "name": "Glitch"
     }
   }
 ]
