@@ -2,37 +2,181 @@
   {
     "id": "7dff9857fa5e8ba28eea386848b8a3ce8ac5b0f9c886c67c37a9c0afcf2348f6i0",
     "meta": {
-      "name": "Crypto Eggmen Covered #0001 Apple"
+      "attributes": [
+        {
+          "trait_type": "headpiece",
+          "value": "fruits"
+        }
+      ],
+      "name": "Crypto Eggmen Covered #001 Apple"
     }
   },
   {
     "id": "1b5a5cd4e5d757a52c5c5aeb39a4d9629aba2c66de8eaa43a1452fd995b42a38i0",
     "meta": {
-      "name": "Crypto Eggmen Covered #0002 Strawberry"
+      "attributes": [
+        {
+          "trait_type": "headpiece",
+          "value": "fruits"
+        }
+      ],
+      "name": "Crypto Eggmen Covered #002 Strawberry"
     }
   },
   {
     "id": "ecc090cf7e9935678c1720c76c193668a3515703536feb1febb776515df0d7e6i0",
     "meta": {
-      "name": "Crypto Eggmen Covered #0003 Watermelon"
+      "attributes": [
+        {
+          "trait_type": "headpiece",
+          "value": "fruits"
+        }
+      ],
+      "name": "Crypto Eggmen Covered #003 Watermelon"
     }
   },
   {
     "id": "dc7c836da92cef29ac1819bee2ad469524b94c297b28c6929d6aae5cc4d891f3i0",
     "meta": {
-      "name": "Crypto Eggmen Covered #0004 Orange"
+      "attributes": [
+        {
+          "trait_type": "headpiece",
+          "value": "fruits"
+        }
+      ],
+      "name": "Crypto Eggmen Covered #004 Orange"
     }
   },
   {
     "id": "2da0bdf7ca0721aa7c1b31d03380f8d7cce9a7ab2e6d14db13971bef8698bc5fi0",
     "meta": {
-      "name": "Crypto Eggmen Covered #0005 Grape"
+      "attributes": [
+        {
+          "trait_type": "headpiece",
+          "value": "fruits"
+        }
+      ],
+      "name": "Crypto Eggmen Covered #005 Grape"
     }
   },
   {
     "id": "531611c08d96f170bfe19298f29537890875684cdb52783a83a7c884967f36e3i0",
     "meta": {
-      "name": "Crypto Eggmen Covered #0006 Banana"
+      "attributes": [
+        {
+          "trait_type": "headpiece",
+          "value": "fruits"
+        }
+      ],
+      "name": "Crypto Eggmen Covered #006 Banana"
+    }
+  },
+  {
+    "id": "56c44e69bd6a41f12dbfa3bb412763ad14a00c1fa2018e0bc12f0d189be32ef3i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "headpiece",
+          "value": "fruits"
+        }
+      ],
+      "name": "Crypto Eggmen Covered #007 Pineapple"
+    }
+  },
+  {
+    "id": "55a75e7c8d99aee0879eea5ffaf83cbca0d0f53b14c09b4f01a8b164cb852eaai0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "headpiece",
+          "value": "fruits"
+        }
+      ],
+      "name": "Crypto Eggmen Covered #008 Peach"
+    }
+  },
+  {
+    "id": "619dc12f6491d7f44878800dc721bebef9e5a02ddfb41cb11cbe82059552f783i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "headpiece",
+          "value": "fruits"
+        }
+      ],
+      "name": "Crypto Eggmen Covered #009 Cherry"
+    }
+  },
+  {
+    "id": "49b7ebdb64fc7de22f312632bb6ca4774bbb32183c86b85ed6e3cb9f0d5339c6i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "headpiece",
+          "value": "fruits"
+        }
+      ],
+      "name": "Crypto Eggmen Covered #010 Melon"
+    }
+  },
+  {
+    "id": "9ee1c01cf46a165e85ef613547f03edb26d04fb9b538d7ba853607f08c6e297bi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "headpiece",
+          "value": "fruits"
+        }
+      ],
+      "name": "Crypto Eggmen Covered #011 Lemon"
+    }
+  },
+  {
+    "id": "59fdd4a7aafe244d66d94b1718e04d75e9f34f57806e69bafd4543bcec10536bi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "headpiece",
+          "value": "fruits"
+        }
+      ],
+      "name": "Crypto Eggmen Covered #012 Persimmon"
+    }
+  },
+  {
+    "id": "037dd83057036760b0861575ca0b1cf636530cdcf2d60dcd37e1105c1103a386i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "headpiece",
+          "value": "fruits"
+        }
+      ],
+      "name": "Crypto Eggmen Covered #013 Greenapple"
+    }
+  },
+  {
+    "id": "0028293a452faa521b041c59da97bdd5f6b62d843465bca6be565ac396e7461ci0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "headpiece",
+          "value": "fruits"
+        }
+      ],
+      "name": "Crypto Eggmen Covered #014 Pear"
+    }
+  },
+  {
+    "id": "3c784907a3c1d204e9dba3e7121088d5bc4f073ccc9f4b4f9848ab1de8b4f5c7i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "headpiece",
+          "value": "fruits"
+        }
+      ],
+      "name": "Crypto Eggmen Covered #015 Muscat"
     }
   }
 ]
