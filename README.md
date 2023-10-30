@@ -12,11 +12,14 @@ Collection creators can format their collection data using the `inscriptions.jso
 
 1. Create your `inscriptions.json` and `meta.json` files in the format provided below
 2. Add to the registry by creating a pull request including new collections that follow the standard
-3. After successfully opening a pull request, your files will be tested for compatibility with the main repo. If the test fails, click on "Details" to look into the test log for error messages. You might get a hint on what needs to be corrected within your pull request. 
+3. After successfully opening a pull request, your files will be tested for compatibility with the main repo. If the test fails, click on "Details" to look into the test log for error messages. You might get a hint on what needs to be corrected within your pull request.
 
 **_Tips_**
 - Check out [this](https://ordinals-metadata-composer.vercel.app/) file formatting tool
 - Formatting can also easily be done in Visual Studio Code Editor. Open your .json with Visual Studio Code and press Shift+Alt+F.
+- You can also use Visual Studio Code Editor in the browser using a Github Codespaces
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ordinals-wallet/ordinals-collections) 
 
 ## File Structure
 
