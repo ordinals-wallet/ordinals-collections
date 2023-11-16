@@ -58,7 +58,7 @@ Collection creators can format their collection data using the `inscriptions.jso
 ]
 ```
 
-Artists can assign unqiue traits to ordinals with `attributes`
+Artists can assign unique traits to ordinals with `attributes`
 
 ```
 [
