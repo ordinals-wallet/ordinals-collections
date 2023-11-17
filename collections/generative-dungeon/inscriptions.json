@@ -258,6 +258,34 @@
       "attributes": [
         {
           "trait_type": "Tileset",
+          "value": "random"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "random"
+        },
+        {
+          "trait_type": "Start",
+          "value": "random"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "random"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "random"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0124b678efef3508fd740d3d203a29da520ce4239cea04bc9c38bf1dc3e9c1b2i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #11",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
           "value": "32x32"
         },
         {
@@ -275,34 +303,6 @@
         {
           "trait_type": "Scroll",
           "value": "none"
-        }
-      ]
-    }
-  },
-  {
-    "id": "0124b678efef3508fd740d3d203a29da520ce4239cea04bc9c38bf1dc3e9c1b2i0",
-    "meta": {
-      "name": "Generative Dungeon Ordinal #11",
-      "attributes": [
-        {
-          "trait_type": "Tileset",
-          "value": "random"
-        },
-        {
-          "trait_type": "Avatar",
-          "value": "random"
-        },
-        {
-          "trait_type": "Start",
-          "value": "random"
-        },
-        {
-          "trait_type": "Levels",
-          "value": "random"
-        },
-        {
-          "trait_type": "Scroll",
-          "value": "random"
         }
       ]
     }
@@ -2319,6 +2319,118 @@
         {
           "trait_type": "Scroll",
           "value": "toughen skin"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f70ba1ec33d327d67eea6dd796753bb025920b89db3565fbf90b7b851e9a1a45i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #84",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "dwarf"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "94e7c754886129fae51983ab6901b4823fa5d7f7f6a59c45d0babc2c09b03e87i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #85",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32  orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "rabbit"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "lesser heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "563d00ae8bf6dc6aebbca393f9bfe8a24839bb22f07afc31e144e20e2eb46b04i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #86",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32  orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "assassin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "lava cavern"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "44507304abc5938a1723c5beb477355fce82d1ba370073f18cb5fdb520739681i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #87",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "monochrome"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "vampire"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "see stairs"
         }
       ]
     }
