@@ -91,7 +91,7 @@ impl FromStr for InscriptionId {
         let separator = s.chars().nth(TXID_LEN).unwrap();
 
         if separator != 'i' {
-            anyhow::bail!("{} invalid seperator: {}", s, separator);
+            anyhow::bail!("{} invalid separator: {}", s, separator);
         }
 
         let vout = &s[TXID_LEN + 1..];

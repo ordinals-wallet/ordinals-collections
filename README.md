@@ -120,7 +120,7 @@ Your inscriptions.json file will look like this:
 
 ## Error hunting 
 
-After succesfully opening a pull request, your metadata files will be auto-tested for compatibility with the main repo. 
+After successfully opening a pull request, your metadata files will be auto-tested for compatibility with the main repo.
 
 ✅ Green check mark means there were no problems found and your files should be ready to be merged into the repo by the maintainer. 
 
