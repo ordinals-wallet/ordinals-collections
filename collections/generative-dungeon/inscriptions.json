@@ -1,0 +1,2438 @@
+[
+  {
+    "id": "9ab959c926e2bc01e79760c642b67bb6d90f75467ad3011f31745560c964b226i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #1",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "assassin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dragon's den"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cea82948f5bb54912c88a4eab1699e28387ee36ef5b1774013c5c1fe7df84787i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #2",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "elf"
+        },
+        {
+          "trait_type": "Start",
+          "value": "sand cavern"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "lesser heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "979a2cd70fc8efb961ab8bc15f79ca257026c4755513d70c757490ca9d22d021i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #3",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "wizard"
+        },
+        {
+          "trait_type": "Start",
+          "value": "haunted ruins"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "100-255"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f04c0e94023e51fb995e48235773c77a471289baf44c1a3248d800a0a550c520i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #4",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "ascii"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "hobbit"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dark dungeon"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "100-255"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5e35475dc28ee3740880d3ec8e9ef7e90d302e3c3bb781f360460bcc1588ee35i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #5",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "monochrome"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "adventurer"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dire maze"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "toughen skin"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fbce79bcc8d179138d10f4611eb4d8f64caa9931754ab9013a71c85c48989f62i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #6",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "cga"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "goblin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "wilderness"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9c3edda13bc543199162f8ed81272a90a2790debc4967685350439858299729ai0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #7",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "gnome"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dark dungeon"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "49e8f644030acc491c0a5b40fb224f49cc97e6bd8743152b220acfa733ee6f22i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #8",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "slime"
+        },
+        {
+          "trait_type": "Start",
+          "value": "water cavern"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "see stairs"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d8ba2317574fc77f9d82cf8482ef07d31bfd7135543f1b5b9422868b050203c7i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #9",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "ega"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "gargoyle"
+        },
+        {
+          "trait_type": "Start",
+          "value": "hot springs"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "greater heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "980bd9595d561d81f6b24f7c4171aedc58db7d38a7d0cf45860beb4656307e00i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #10",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "random"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "random"
+        },
+        {
+          "trait_type": "Start",
+          "value": "random"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "random"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "random"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0124b678efef3508fd740d3d203a29da520ce4239cea04bc9c38bf1dc3e9c1b2i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #11",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "bone dragon"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dragon's den"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "infinite"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6dbb2e8b0c7830b6bfbf78ab6094994cf0876006013c742667e21e076d62175fi0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #12",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "elf"
+        },
+        {
+          "trait_type": "Start",
+          "value": "wilderness"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "100-255"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "97adb811634b6a2065f537e2cc78f2ce269da59ad9e5e1f0e175d1367a26184bi0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #13",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "spider"
+        },
+        {
+          "trait_type": "Start",
+          "value": "island"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "100-255"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "lesser heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "03056ce16ded266691bf2c759d9f2454d017b42bb64ef4cc69ff7df7d2573efai0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #14",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "dwarf"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0706365bdfc475bd27d33ae047ac00e9c2a026020600f921f200232aa05b1feai0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #15",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "ega"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "leprechaun"
+        },
+        {
+          "trait_type": "Start",
+          "value": "orc encampment"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "toughen skin"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d249d236e277477ff5d4513e94c533bfc48b28f9c34d15064895d5a50a011ddei0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #16",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "monk"
+        },
+        {
+          "trait_type": "Start",
+          "value": "wilderness"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "026bb8371e640d698c5b9d90c8da3235be7c159781671a935c6124a6d0d3434ci0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #17",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16 cartoon"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "hobbit"
+        },
+        {
+          "trait_type": "Start",
+          "value": "water maze"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "26c21ddf90998f09cee03ed0f39916314503a9edcec85a8db2afe01b96249dbdi0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #18",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "ascii"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "monk"
+        },
+        {
+          "trait_type": "Start",
+          "value": "sewers"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "98e24fb831db3da7f1bbf40e3a774edcad170b45f94480c1603dd020ee9c5d5bi0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #19",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "paladin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "ice cavern"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "100-255"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "lesser heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "53ec8b70c3246a078550442c7dd4b8efca150b8e610a144f74a5c2ba8367c242i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #20",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16 cartoon"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "spider"
+        },
+        {
+          "trait_type": "Start",
+          "value": "wilderness"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e70bbe8bfbf6e4a9691839a96c5593ae5732989a5069df1c2648446a84e87e4di0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #21",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 space"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "elf"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "greater heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0b51a3eeb0ea1832645d85c43fe36368480bea8093c8f001e0a082985252d562i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #22",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "skeleton"
+        },
+        {
+          "trait_type": "Start",
+          "value": "earth maze"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bcdabee1b558b9e7d133a87222d0185648f3095549017b15229a116ca8c4ffdci0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #23",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "ega"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "paladin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "sewers"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c74597ad4a8f4781da04c5a7eb06a3420a97c6b4a5fee61c742a7cc5d24cad69i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #24",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "shitcoin"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "adventurer"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d4411048afc51c7d0b75549eb3d0857cc46b5e9902faac92132644cfc3a1fc7ci0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #25",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "ega"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "wizard"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dark cavern"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "infinite"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fad26df2cdc2aa86cae96feda95a95deff9a76f658eb31ff3859b191f2d4ac8ci0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #26",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "paladin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "island"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "see monsters"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a6626b0c151efde94f424ebc6b4b795148d75d2e24c7f3ad349890999d63fd1ci0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #27",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "elf"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dark cavern"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "toughen skin"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a87214bbd4a249b2849d0700147cbec6dde480c4be27b1a547d0f50d799e5547i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #28",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "cga"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "hobbit"
+        },
+        {
+          "trait_type": "Start",
+          "value": "earth maze"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "100-255"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d42ff688c05c6fad16c8e7f85bff4c34a34c4aea6066ba5ab4577b9c6ebc4aa4i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #29",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "rabbit"
+        },
+        {
+          "trait_type": "Start",
+          "value": "lava maze"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "see stairs"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c4f56cd197d6961affe935a972b48ea899bd2f3750446a8d1572b50faac3a0c5i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #30",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "goblin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dark dungeon"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "see monsters"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8a1ce304a76a7c47e5ad8652cdaa4ef046a97bceabae506c57a493b921f72eb6i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #31",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "paladin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "sand cavern"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "lesser heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a27ac91e609c25116429f618cd7ef9d203577c3f9861b1d973e8014e8eaa235bi0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #32",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "orc"
+        },
+        {
+          "trait_type": "Start",
+          "value": "island"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "see monsters"
+        }
+      ]
+    }
+  },
+  {
+    "id": "70f31be1feeb23205a36778b2825984fdb6bbd3c06c991328e96b0b0f8a15d04i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #33",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "leprechaun"
+        },
+        {
+          "trait_type": "Start",
+          "value": "island"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0d2fae7955f625f3c8d525a1d3e277290b12d50ee4bbdf0b55c7105ca8c43e1di0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #34",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "dwarf"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dark dungeon"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "lesser heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "17af8489cf517f48d4b3e0b02f13b48d6f517c4b6301c022d68f5ae349bb7288i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #35",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "shitcoin"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "leprechaun"
+        },
+        {
+          "trait_type": "Start",
+          "value": "island"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "065800bdbf7bb01c16d758cdbfdd74cde8d951801b9f8d16f3f639bd3b1d4d8fi0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #36",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "ega space"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "spider"
+        },
+        {
+          "trait_type": "Start",
+          "value": "island"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "100-255"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "see stairs"
+        }
+      ]
+    }
+  },
+  {
+    "id": "84650ddf4f1cc46968066c1ea857c1098c613c13e680282bd7a96402f98f5543i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #37",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "monochrome"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "adventurer"
+        },
+        {
+          "trait_type": "Start",
+          "value": "sand cavern"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3b2e54fe3fda5d9d5c6efe731b4561323ec3bd8dd92f6aaea266c82d197c98c0i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #38",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "orc"
+        },
+        {
+          "trait_type": "Start",
+          "value": "sand cavern"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "invisibility"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3270a5daaff9c811575c7f93cbe269d852ab8ccea7253ecb45f6dc2ac65dde44i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #39",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "monochrome"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "wizard"
+        },
+        {
+          "trait_type": "Start",
+          "value": "wilderness"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "greater heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d62b46495c5040d83592339957bf36e1187942a4868c084d3e16be3c91de215ci0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #40",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "gargoyle"
+        },
+        {
+          "trait_type": "Start",
+          "value": "prison"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "63182f03815d046710ac6d2c94099bd2344596d0158889d5b78a57960d021f13i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #41",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "spider"
+        },
+        {
+          "trait_type": "Start",
+          "value": "prison"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "100-255"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1a741f23a4c40dd8132a193b539e5d03597f74b49c79586fb1e59a8a3709af0ai0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #42",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "leprechaun"
+        },
+        {
+          "trait_type": "Start",
+          "value": "water cavern"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7e48971ed86044924e5cfb0c218092440b2e121c84cafe1a29bb4932f46bdc4ei0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #43",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "cga"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "elf"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dark dungeon"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "34637d69cd780a290a98495d483cca90d7690a7e0008a1f0b2fa9c3dab2089bfi0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #44",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "adventurer"
+        },
+        {
+          "trait_type": "Start",
+          "value": "island"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "see monsters"
+        }
+      ]
+    }
+  },
+  {
+    "id": "30b8304f45b36db2130150fac13692b213cec34f18b6e8fb92da43a4fe85cd7bi0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #45",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "monochrome"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "gnome"
+        },
+        {
+          "trait_type": "Start",
+          "value": "wilderness"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "infinite"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9edbb106308a725a0aef19a8645bf0b1c0d0ca88afd7c058a86f682c42324d2ai0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #46",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "vampire"
+        },
+        {
+          "trait_type": "Start",
+          "value": "crypt"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "25251ca7b4bc2ef167a355b51407ab0f01b224e2b6105f5173a0b6cd0d86a460i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #47",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "wizard"
+        },
+        {
+          "trait_type": "Start",
+          "value": "crypt"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "100-255"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "lesser heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3813dabfdff80ee719be90c515b358e7dffdf63fa0dc9d134b14e9606ba02d14i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #48",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "paladin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dark dungeon"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "100-255"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "see monsters"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a9bc9dcbbb358d8056deba4ec50588c83d9368f9718b4d5d2e999d7ade0f9861i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #49",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "wizard"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dragon's den"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "71e9baa54bf027a6c81462b06f6e6defa78637cbc446593381fea775d8bed486i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #50",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "gnome"
+        },
+        {
+          "trait_type": "Start",
+          "value": "goblin city"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "47ac8714d240787283d000b36d93ed45cffa90478d77effb72a3d4282125f3e6i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #51",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 space"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "gargoyle"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dark dungeon"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "52fb72d51254135ccc2bb71ccc4bf261f92d8d1b3c1699bab77a34b24e6d5a6ci0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #52",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "dwarf"
+        },
+        {
+          "trait_type": "Start",
+          "value": "hot springs"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2acb5902d3699d8bf7628754685ac730ac7bf16b0311caaa27f9a462b639c793i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #53",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "ega"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "wizard"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9198f6b52d0b2fa3ea885c6f52a6dd9e7a725188615bae018acb35ebc8a15b07i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #54",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "assassin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "open sewers"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "100-255"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "70627112595a3790989d463c654a60fc4afcd5b47d68e392677ba3e359817150i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #55",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "slime"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a026291bd28e0a8fd3e2dcec962f57625f792a6c91be6535da62eba06d8040f3i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #56",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "rabbit"
+        },
+        {
+          "trait_type": "Start",
+          "value": "wilderness"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "greater heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "32ba090b67f22907c1ddf27e5e2f225dc8be6fcfad41ee7694854f94a17f3f5ci0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #57",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "assassin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dark dungeon"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "greater heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "23bdfdf000960fa2e14b45ae8944b78ce23bf36110bfd417ee70a8c15d364366i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #58",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16 cartoon"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "paladin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "sewers"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "see monsters"
+        }
+      ]
+    }
+  },
+  {
+    "id": "46360426268522daa4c0bf6bde99d184bf99ec00046cc9a8bc57aacbe7bbbb77i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #59",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "adventurer"
+        },
+        {
+          "trait_type": "Start",
+          "value": "wilderness"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "100-255"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d2b5b709202390a6e17c7207d061bdcf101a9dc91c7f99388c67a283d5699ef8i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #60",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 space"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "gargoyle"
+        },
+        {
+          "trait_type": "Start",
+          "value": "sewers"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "783426805ab257009798c65c42b4db47dfd804fefb0b95fd2c316811508241cbi0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #61",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16 cartoon"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "monk"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dark dungeon"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "100-255"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "see stairs"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c6c637e0482d29f6915e28125285bfb83b042fa0f2237a189c85a9d489d1e218i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #62",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "dwarf"
+        },
+        {
+          "trait_type": "Start",
+          "value": "sand cavern"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "see stairs"
+        }
+      ]
+    }
+  },
+  {
+    "id": "788043078f9354044cf98683879c42c79fa18adad94505b863f37e6e3fc5222di0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #63",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "gnome"
+        },
+        {
+          "trait_type": "Start",
+          "value": "orc encampment"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9b262880c6f98af73aea5f22c27586a24829cb1e9e717ff1fca3612f60995bafi0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #64",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "ega"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "assassin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "barrow dwarf city"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "100-255"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aefcc2a167142300fb4442f142c867fdea035caf0a8d34e890fecdf4dc51622bi0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #65",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "monochrome"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "leprechaun"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "infinite"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "lesser heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a4e1204da12d8bf1be76a5c3fc6b854798d63757949304a46ff2a661333d0150i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #66",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "cga"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "gnome"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8bd592aa7bbef45f56e02d89123d56b008fa5fb372b8d7bda83a464556ca62e3i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #67",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "ega"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "elf"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dark dungeon"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "toughen skin"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2a90178f32396ac4c3c0f719c0bae42dff3e1ddd5ee0a4f1809e0dccb69f1e4di0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #68",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "spider"
+        },
+        {
+          "trait_type": "Start",
+          "value": "sewers"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e9bcdfa03df73867585d108a59a9bcf05b4e87ed00c0c9fe174ad2c600dc203fi0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #69",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "elf"
+        },
+        {
+          "trait_type": "Start",
+          "value": "orc encampment"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "52db6a471601286f9c1dc42e6681ea87050a600861f4bf9cae4011c67bd11d61i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #70",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "slime"
+        },
+        {
+          "trait_type": "Start",
+          "value": "wilderness"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a6cd3643d81bcbbd209fd6a1fb5adac040d5fafcd4fe8bdd829129329d165555i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #71",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "ega"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "goblin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "island"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "28085bd8e96a422a19f5e0da65ca869e6ee37e26bfe2634db6ea03c1caad2c42i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #72",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "cga"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "monk"
+        },
+        {
+          "trait_type": "Start",
+          "value": "island"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "100-255"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "01d7fd2a89a3e4a64bb5b7940f804ab4af339b1a8da2a5e23b36b556e11ad817i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #73",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "paladin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d19341fbf06d7a09ac2101364e06d11cc2034675c35cefb230ced9170ce10a26i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #74",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "wizard"
+        },
+        {
+          "trait_type": "Start",
+          "value": "hot springs"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "greater heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0daa2a319099b12f739e8201ebd1c7f0a9afd1034653bfd7a01ce9c49643e657i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #75",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "spider"
+        },
+        {
+          "trait_type": "Start",
+          "value": "sand cavern"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "see stairs"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb41b364117ef2c9b5b32216773b5a4e1d5c43139db33a0aefcc13b8ec4e41fci0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #76",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "hobbit"
+        },
+        {
+          "trait_type": "Start",
+          "value": "earth maze"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a721acdeef50b000a33b31ce523f0ea7871c12ea588d31d5c90efa44c81c1179i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #77",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "wizard"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dark cavern"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "100-255"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ba81dcee0c91039d5a23d4ab8fa0ae88954a311c329426ee1e9d8b8d00a2b79fi0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #78",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "paladin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7b002ce5c6fbfc93c45cb7aa68b5e6bd0eb8b8385be24672aa3d2be2bca80556i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #79",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32 orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "spider"
+        },
+        {
+          "trait_type": "Start",
+          "value": "crypt"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7bc1649d3e16c82dd30882d834352a77eb9f2b18887b655dd1cc788b38b8a3e0i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #80",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "vampire"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d957346341f72f9e655e81ab9487a8be9f4de44ede7aae8626315d99ef5229bdi0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #81",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "ega"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "gargoyle"
+        },
+        {
+          "trait_type": "Start",
+          "value": "dark dungeon"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "greater heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "64fdee62fbd7c3f91da06a8a725848ec29fd4b934599533a3efa50125aaf9f83i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #82",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "cga"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "adventurer"
+        },
+        {
+          "trait_type": "Start",
+          "value": "wilderness"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "greater heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "79951b86f0d6b985f8bf591b276b9e7d258b14c254558f9f0af9c1ebe732f2b9i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #83",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "16x16"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "assassin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "below 20"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "toughen skin"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f70ba1ec33d327d67eea6dd796753bb025920b89db3565fbf90b7b851e9a1a45i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #84",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "dwarf"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "94e7c754886129fae51983ab6901b4823fa5d7f7f6a59c45d0babc2c09b03e87i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #85",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32  orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "rabbit"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "20-49"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "lesser heal"
+        }
+      ]
+    }
+  },
+  {
+    "id": "563d00ae8bf6dc6aebbca393f9bfe8a24839bb22f07afc31e144e20e2eb46b04i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #86",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "32x32  orthogonal"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "assassin"
+        },
+        {
+          "trait_type": "Start",
+          "value": "lava cavern"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "none"
+        }
+      ]
+    }
+  },
+  {
+    "id": "44507304abc5938a1723c5beb477355fce82d1ba370073f18cb5fdb520739681i0",
+    "meta": {
+      "name": "Generative Dungeon Ordinal #87",
+      "attributes": [
+        {
+          "trait_type": "Tileset",
+          "value": "monochrome"
+        },
+        {
+          "trait_type": "Avatar",
+          "value": "vampire"
+        },
+        {
+          "trait_type": "Start",
+          "value": "custom"
+        },
+        {
+          "trait_type": "Levels",
+          "value": "50-99"
+        },
+        {
+          "trait_type": "Scroll",
+          "value": "see stairs"
+        }
+      ]
+    }
+  }
+]
