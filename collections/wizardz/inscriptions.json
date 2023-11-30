@@ -2985,38 +2985,22 @@
  {"id":"f97fe59dbfa1b38f6310051fd8b518a859e914fdf2effd3257ac23a4f16f3c76i0",
   "meta":{"name":"wizardz #328",
           "attributes":[
-              {"trait_type":"background","value":"graveyard"},
-              {"trait_type":"robe","value":"black"},
-              {"trait_type":"face","value":"light"},
-              {"trait_type":"two hands","value":"fire orb"}
+              {"trait_type":"background","value":"black galaxy"},
+              {"trait_type":"robe","value":"pink"},
+              {"trait_type":"face","value":"dark fire"},
+              {"trait_type":"left hand","value":"shadow surge"},
+              {"trait_type":"right hand","value":"conjure wind"}
           ]}},
  {"id":"a707c76ec31ed4be6ea194aa3bca3809ec415e0cf514efb98cb8f58ce1674330i0",
   "meta":{"name":"wizardz #329",
-          "attributes":[
-              {"trait_type":"background","value":"pink spaceship"},
-              {"trait_type":"robe","value":"blue"},
-              {"trait_type":"face","value":"dark earth"},
-              {"trait_type":"right hand","value":"doge"}
-          ]}},
- {"id":"46eea1c765503f4f19e96d4f7e8edee49636761554a6f487a0cca6295257867ai0",
-  "meta":{"name":"wizardz #330",
-          "attributes":[
-              {"trait_type":"background","value":"moon"},
-              {"trait_type":"robe","value":"red"},
-              {"trait_type":"face","value":"ski mask"},
-              {"trait_type":"left hand","value":"fire staff"},
-              {"trait_type":"right hand","value":"conjure shadow"}
-          ]}},
- {"id":"8fedaedb526993b23de377fdb953fd1310d0141b5fc8d23cfc3c3c43a45d5202i0",
-  "meta":{"name":"wizardz #331",
           "attributes":[
               {"trait_type":"background","value":"blue galaxy"},
               {"trait_type":"robe","value":"fastfood"},
               {"trait_type":"face","value":"light"},
               {"trait_type":"two hands","value":"fastfood"}
           ]}},
- {"id":"e3d5995196f0012de7ae40ae1c5af41666e93ada8bc7e3e72b31a6413b264e88i0",
-  "meta":{"name":"wizardz #332",
+ {"id":"46eea1c765503f4f19e96d4f7e8edee49636761554a6f487a0cca6295257867ai0",
+  "meta":{"name":"wizardz #330",
           "attributes":[
               {"trait_type":"background","value":"up only"},
               {"trait_type":"aura","value":"fire"},
@@ -3025,13 +3009,29 @@
               {"trait_type":"left hand","value":"water staff"},
               {"trait_type":"right hand","value":"spell book"}
           ]}},
+ {"id":"8fedaedb526993b23de377fdb953fd1310d0141b5fc8d23cfc3c3c43a45d5202i0",
+  "meta":{"name":"wizardz #331",
+          "attributes":[
+              {"trait_type":"background","value":"moon"},
+              {"trait_type":"robe","value":"red"},
+              {"trait_type":"face","value":"ski mask"},
+              {"trait_type":"left hand","value":"fire staff"},
+              {"trait_type":"right hand","value":"conjure shadow"}
+          ]}},
+ {"id":"e3d5995196f0012de7ae40ae1c5af41666e93ada8bc7e3e72b31a6413b264e88i0",
+  "meta":{"name":"wizardz #332",
+          "attributes":[
+              {"trait_type":"background","value":"pink spaceship"},
+              {"trait_type":"robe","value":"blue"},
+              {"trait_type":"face","value":"dark earth"},
+              {"trait_type":"right hand","value":"doge"}
+          ]}},
  {"id":"78564c50b9c2afb1fe1b665b16f16b6caa5ae2e52f8a204089c7c23592d8b1c6i0",
   "meta":{"name":"wizardz #333",
           "attributes":[
-              {"trait_type":"background","value":"black galaxy"},
-              {"trait_type":"robe","value":"pink"},
-              {"trait_type":"face","value":"dark fire"},
-              {"trait_type":"left hand","value":"shadow surge"},
-              {"trait_type":"right hand","value":"conjure wind"}
+              {"trait_type":"background","value":"graveyard"},
+              {"trait_type":"robe","value":"black"},
+              {"trait_type":"face","value":"light"},
+              {"trait_type":"two hands","value":"fire orb"}
           ]}}
 ]
