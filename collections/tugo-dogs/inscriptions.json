@@ -2622,5 +2622,37 @@
                 }
             ]
         }
+    },
+    {
+        "id":"4fba767e03281514c97c051b23d82d64a483ee3f355d4cda39d7afc5e708e583i0",
+        "meta":{
+            "name":"Tugo Dogs #84",
+            "attributes":[
+                {
+                    "trait_type":"Background",
+                    "value":"red background"
+                },
+                {
+                    "trait_type":"Fur",
+                    "value":"pink fur"
+                },
+                {
+                    "trait_type":"Clothes",
+                    "value":"hockey player clothing"
+                },
+                {
+                    "trait_type":"Headwear",
+                    "value":"rats headwear"
+                },
+                {
+                    "trait_type":"Eyes",
+                    "value":"red laser eyes"
+                },
+                {
+                    "trait_type":"Mouth",
+                    "value":"ninja mouth"
+                }
+            ]
+        }
     }
 ]
