@@ -85,13 +85,13 @@ Your meta.json file will look like this:
 
 ```
 {
-  "name": "Planetary Ordinals",
-  "inscription_icon": "98da33abe2045ec1421fcf1bc376dea5beb17ded15aa70ca5da490f50d95a6d9i0",
-  "slug": "planetary-ordinals",
-  "description": "",
-  "twitter_link": "https://twitter.com/ordinalswallet",
-  "discord_link": "https://discord.com/invite/ordinalswallet",
-  "website_link": ""
+  "name": "Bitcoin Frog #2989",
+  "inscription_icon": "c387a2656ef973a55df57edd3ac4b26b09865cc3fcb21cfaa4921ead1363f53ai0",
+  "slug": "bitcoin-frogs",
+  "description": "Bitcoin Frogs are 10,000 pure digital collectibles that will remain on Bitcoin forever. No more will ever be created. Rarities of all traits within each layer are equal, allowing subjective appreciation of aesthetics and Satoshi-based rarities to emerge.",
+  "twitter_link": "https://twitter.com/BitcoinFrogs",
+  "discord_link": "https://discord.com/invite/bitcoinfrogs",
+  "website_link": "https://bitcoinfrogs.com"
 }
 ```
 
@@ -100,18 +100,31 @@ Your inscriptions.json file will look like this:
 ```
 [
   {
-    "id": "af0b19432a676551223e300e7197348b7c225cb7b31d0d7c6e246e382cbf6f81i0",
+    "id": "c387a2656ef973a55df57edd3ac4b26b09865cc3fcb21cfaa4921ead1363f53ai0",
     "meta": {
-      "name": "Planetary Ordinal #11",
+      "name": "Bitcoin Frog #2989",
       "attributes": [
         {
           "trait_type": "Background",
-          "value": "Sun sun",
+          "value": "Black",
         },
         {
-          "trait_type": "Holes",
-          "value": "rose blossom",
+          "trait_type": "Body",
+          "value": "Tron",
+        },
+        {
+          "trait_type": "Clothing",
+          "value": "Green Hoodie",
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Cigar",
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Visor",
         }
+
       ]
     }
   }
