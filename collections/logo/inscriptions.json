@@ -35,7 +35,7 @@
       "name": "Logo BTC"
     }
   },
- {
+  {
     "id": "e7932d6ba42202695c8aac1a5c6310cc409566df78163da06493139ec7458b43i0",
     "meta": {
       "attributes": [
@@ -83,7 +83,7 @@
       "name": "Logo Litecoin"
     }
   },
- {
+  {
     "id": "4354f44b3699532c6838ec2409274e46ac9208e35a39cda7568a526988cc3ab2i0",
     "meta": {
       "attributes": [
@@ -95,7 +95,7 @@
       "name": "Logo Apple"
     }
   },
- {
+  {
     "id": "d26686c4ac52eae6631124af77023f73cdcf104454162b288773b353d97cd3cbi0",
     "meta": {
       "attributes": [
@@ -189,6 +189,114 @@
         }
       ],
       "name": "Logo МИР"
+    }
+  },
+  {
+    "id": "035a99dfb0b701ba1e8a9984c62263d6bab1067c07d0ac45fb0981b69aa54901i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Logo",
+          "value": "1"
+        }
+      ],
+      "name": "Logo Telegram"
+    }
+  },
+  {
+    "id": "0e0f046f6752c82914ce7c1c9b08c3c817d5c367f0970dbc3f20142f93b8b901i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Logo",
+          "value": "1"
+        }
+      ],
+      "name": "Logo Spotify"
+    }
+  },
+  {
+    "id": "ee5a9d0d6fbfd6cf9a94da8a86b4213ae1235629dd596f48602fd90f11b48a1di0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Logo",
+          "value": "1"
+        }
+      ],
+      "name": "Logo Dropbox"
+    }
+  },
+  {
+    "id": "8c58d404f92e7d246c0850b866951f2dc56da6e9c09798ef56bbff1eb437e7afi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Logo",
+          "value": "1"
+        }
+      ],
+      "name": "Logo VK"
+    }
+  },
+  {
+    "id": "1f89d45abbefd0c39c65a24647acbb9e5319953b8d9a894449ee3718bcab80c3i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Logo",
+          "value": "1"
+        }
+      ],
+      "name": "Logo Whatsapp"
+    }
+  },
+  {
+    "id": "78cbb53a430fa53619d92710ae0dfea94ec1d371196071f4807f058cc2cae7c5i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Logo",
+          "value": "1"
+        }
+      ],
+      "name": "Logo Facebook"
+    }
+  },
+  {
+    "id": "493869313e37f5bcf7ee381d1053bfad72c4d8d746e4beb2bd4933f19226f4c7i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Logo",
+          "value": "1"
+        }
+      ],
+      "name": "Logo Instagram"
+    }
+  },
+  {
+    "id": "e1f19ea125e128e8272de0468a267aff34f7a9d6f8c95ad826c3da2869f315edi0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Logo",
+          "value": "1"
+        }
+      ],
+      "name": "Logo Github"
+    }
+  },
+  {
+    "id": "4da01b48c6b7c229ee8698c920c2afe51ae4c252be8589ccef10c016dd849cd9i0",
+    "meta": {
+      "attributes": [
+        {
+          "trait_type": "Logo",
+          "value": "1"
+        }
+      ],
+      "name": "Logo Linkedin"
     }
   }
 ]
