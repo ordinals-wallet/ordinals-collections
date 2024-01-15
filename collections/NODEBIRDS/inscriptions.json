@@ -1,4 +1,3 @@
-
 [
     {
       "id": "b9a3f99b171649c66de270f73d44994591e4a3a8e15059a2bf53eede25c34bc8i0",
@@ -320,7 +319,7 @@
     ]
     }
   },
-  {
+    {
     "id": "ca3b6bf1e4e248e270357d2d4af0790aa9b97f5b0356c240441252f5d6d55d1ei0",
     "meta": {
       "name": "N O D E B I R D S #17",
@@ -337,8 +336,8 @@
       "trait_type": "Gear",
       "value": "fire"
     }
-  ]
-  }
+    ]
+    }
   },    
   {
       "id": "72b381954a32ed353b33621b4956914696b2e82933a24e836035ec890e8febdfi0",
@@ -1100,7 +1099,7 @@
 ]
 }
 },
-    {
+  {
       "id": "4709fb1c3cff58dd0a181675790418fac256cee2182b268aac8f921d93ee7febi0",
       "meta": {
         "name": "N O D E B I R D S #56",
@@ -1344,6 +1343,46 @@
   "id": "9b72e7ef55a754270147f44e09769cdd09c30287428542602d976e58ee655ba1i0",
   "meta": {
     "name": "N O D E B I R D S #68",
+    "attributes": [
+    {
+    "trait_type": "Head",
+    "value": "mouse"
+    },
+    {
+    "trait_type": "Eyes",
+    "value": "none"
+  },
+  {
+    "trait_type": "Gear",
+    "value": "none"
+  }
+]
+}
+},
+{
+  "id": "d0af0a56fc62f99c549f6286abfc369580b3ae1b601c98551241138940229b2ei0",
+  "meta": {
+    "name": "N O D E B I R D S #69",
+    "attributes": [
+    {
+    "trait_type": "Head",
+    "value": "mouse"
+    },
+    {
+    "trait_type": "Eyes",
+    "value": "none"
+  },
+  {
+    "trait_type": "Gear",
+    "value": "none"
+  }
+]
+}
+},
+{
+  "id": "36887bc87e788870fa9c6192a78765198720e37f81e323c14494068c685b90b4i0",
+  "meta": {
+    "name": "N O D E B I R D S #70",
     "attributes": [
     {
     "trait_type": "Head",
