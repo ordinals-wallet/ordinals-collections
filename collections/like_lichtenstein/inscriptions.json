@@ -898,5 +898,41 @@
       ],
       "name": "Like Lichtenstein ROY #25"
     }
+  },
+  {
+    "id": "d2ab6514c97ebbb1a09d55f60fc47a143b498b1c03e192c68fe3a00c2f4b87f9i0",
+    "meta": {
+      "name": "Like Lichtenstein ROY #26",
+      "attributes": [
+        {
+          "trait_type": "Hair",
+          "value": "Black"
+        },
+        {
+          "trait_type": "Grass",
+          "value": "Gold"
+        },
+        {
+          "trait_type": "Skin",
+          "value": "Black"
+        },
+        {
+          "trait_type": "Lip",
+          "value": "Black"
+        },
+        {
+          "trait_type": "Quote",
+          "value": "Grizzly bear"
+        },
+        {
+          "trait_type": "Animate",
+          "value": "Neon"
+        },
+        {
+          "trait_type": "Other",
+          "value": "None"
+        }
+      ]
+    }
   }
 ]
