@@ -1,0 +1,362 @@
+[
+    {
+      "id": "68c301f68433907f2aaad41434f95e78214f3440ebd6a790eabd0beb18f51c9bi0",
+      "meta": {
+        "name": "Cyber Drinks #1",
+        "attributes": [
+          {
+            "trait_type": "Type",
+            "value": "Coffee"
+          },
+          {
+            "trait_type": "Ice",
+            "value": "No"
+          },
+          {
+            "trait_type": "Base",
+            "value": "Coffee"
+          },
+          {
+            "trait_type": "Complemented",
+            "value": "Milk"
+          },
+          {
+            "trait_type": "Add-ins",
+            "value": "None"
+          },
+          {
+            "trait_type": "Garnish",
+            "value": "None"
+          },
+          {
+            "trait_type": "Toping",
+            "value": "None"
+          }
+        ]
+      }
+    },
+    {
+      "id": "48fe98dea84a493c6f2cc1ea3cd740f366ec3a232cedc584275a479e28acbfd4i0",
+      "meta": {
+        "name": "Cyber Drinks #2",
+        "attributes": [
+          {
+            "trait_type": "Type",
+            "value": "Tea"
+          },
+          {
+            "trait_type": "Ice",
+            "value": "Yes"
+          },
+          {
+            "trait_type": "Base",
+            "value": "Lemon Juice"
+          },
+          {
+            "trait_type": "Complemented",
+            "value": "Water"
+          },
+          {
+            "trait_type": "Add-ins",
+            "value": "Lemon Slice"
+          },
+          {
+            "trait_type": "Garnish",
+            "value": "Lemon Slice"
+          },
+          {
+            "trait_type": "Toping",
+            "value": "None"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1059f9bca10665d7a5ef0d60424bcc6fa103c4fe948c7187ea52a35b42c604a9i0",
+      "meta": {
+        "name": "Cyber Drinks #3",
+        "attributes": [
+          {
+            "trait_type": "Type",
+            "value": "Tea"
+          },
+          {
+            "trait_type": "Ice",
+            "value": "Yes"
+          },
+          {
+            "trait_type": "Base",
+            "value": "Lemon Juice"
+          },
+          {
+            "trait_type": "Complemented",
+            "value": "Water"
+          },
+          {
+            "trait_type": "Add-ins",
+            "value": "Tea"
+          },
+          {
+            "trait_type": "Garnish",
+            "value": "Lemon Slice"
+          },
+          {
+            "trait_type": "Toping",
+            "value": "Lemon Slice"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3731b79bf4cc9aca99e0033e5e93764002c6bac0523b61a60d56fd454c65ab4ci0",
+      "meta": {
+        "name": "Cyber Drinks #4",
+        "attributes": [
+          {
+            "trait_type": "Type",
+            "value": "Soda"
+          },
+          {
+            "trait_type": "Ice",
+            "value": "Yes"
+          },
+          {
+            "trait_type": "Base",
+            "value": "Cola"
+          },
+          {
+            "trait_type": "Complemented",
+            "value": "None"
+          },
+          {
+            "trait_type": "Add-ins",
+            "value": "None"
+          },
+          {
+            "trait_type": "Garnish",
+            "value": "None"
+          },
+          {
+            "trait_type": "Toping",
+            "value": "None"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ddcdd0aa3a6557b6b07cb6698fe8bececdbbe396e89edbe14f72712f287cc455i0",
+      "meta": {
+        "name": "Cyber Drinks #5",
+        "attributes": [
+          {
+            "trait_type": "Type",
+            "value": "Soda"
+          },
+          {
+            "trait_type": "Ice",
+            "value": "Yes"
+          },
+          {
+            "trait_type": "Base",
+            "value": "Cola"
+          },
+          {
+            "trait_type": "Complemented",
+            "value": "None"
+          },
+          {
+            "trait_type": "Add-ins",
+            "value": "None"
+          },
+          {
+            "trait_type": "Garnish",
+            "value": "None"
+          },
+          {
+            "trait_type": "Toping",
+            "value": "None"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7d09b0cc1c579d7e2a96c3ab043507a8596a93a86e9dc2ebd184800c228e693di0",
+      "meta": {
+        "name": "Cyber Drinks #6",
+        "attributes": [
+          {
+            "trait_type": "Type",
+            "value": "Coffee"
+          },
+          {
+            "trait_type": "Ice",
+            "value": "No"
+          },
+          {
+            "trait_type": "Base",
+            "value": "Coffee"
+          },
+          {
+            "trait_type": "Complemented",
+            "value": "Milk"
+          },
+          {
+            "trait_type": "Add-ins",
+            "value": "None"
+          },
+          {
+            "trait_type": "Garnish",
+            "value": "None"
+          },
+          {
+            "trait_type": "Toping",
+            "value": "None"
+          }
+        ]
+      }
+    },
+    {
+      "id": "0ee368bba58ef073ba8e64b99c0b101deb3009747af7db7b608351c93b38a0cfi0",
+      "meta": {
+        "name": "Cyber Drinks #7",
+        "attributes": [
+          {
+            "trait_type": "Type",
+            "value": "Soda"
+          },
+          {
+            "trait_type": "Ice",
+            "value": "No"
+          },
+          {
+            "trait_type": "Base",
+            "value": "Cola"
+          },
+          {
+            "trait_type": "Complemented",
+            "value": "None"
+          },
+          {
+            "trait_type": "Add-ins",
+            "value": "None"
+          },
+          {
+            "trait_type": "Garnish",
+            "value": "None"
+          },
+          {
+            "trait_type": "Toping",
+            "value": "None"
+          }
+        ]
+      }
+    },
+    {
+      "id": "96f27a2369afafe1f163d5e0810474f24417cc46dfa3f409c1134499c2f6d419i0",
+      "meta": {
+        "name": "Cyber Drinks #8",
+        "attributes": [
+          {
+            "trait_type": "Type",
+            "value": "Coffee"
+          },
+          {
+            "trait_type": "Ice",
+            "value": "Yes"
+          },
+          {
+            "trait_type": "Base",
+            "value": "Espresso"
+          },
+          {
+            "trait_type": "Complemented",
+            "value": "Water"
+          },
+          {
+            "trait_type": "Add-ins",
+            "value": "None"
+          },
+          {
+            "trait_type": "Garnish",
+            "value": "None"
+          },
+          {
+            "trait_type": "Toping",
+            "value": "None"
+          }
+        ]
+      }
+    },
+    {
+      "id": "7365a0d30fafc75c8f430b1c8c174a3ea9729c2da46093c7aa5710118eca74e0i0",
+      "meta": {
+        "name": "Cyber Drinks #9",
+        "attributes": [
+          {
+            "trait_type": "Type",
+            "value": "Coffee"
+          },
+          {
+            "trait_type": "Ice",
+            "value": "No"
+          },
+          {
+            "trait_type": "Base",
+            "value": "Espresso"
+          },
+          {
+            "trait_type": "Complemented",
+            "value": "Milk"
+          },
+          {
+            "trait_type": "Add-ins",
+            "value": "None"
+          },
+          {
+            "trait_type": "Garnish",
+            "value": "Chocolate"
+          },
+          {
+            "trait_type": "Toping",
+            "value": "Cream"
+          }
+        ]
+      }
+    },
+    {
+      "id": "01455996ae5977e0bed1ea6f1311506dc2622d422a0e951c05d114c9d209dbefi0",
+      "meta": {
+        "name": "Cyber Drinks #10",
+        "attributes": [
+          {
+            "trait_type": "Type",
+            "value": "Coffee"
+          },
+          {
+            "trait_type": "Ice",
+            "value": "No"
+          },
+          {
+            "trait_type": "Base",
+            "value": "Espresso"
+          },
+          {
+            "trait_type": "Complemented",
+            "value": "Milk"
+          },
+          {
+            "trait_type": "Add-ins",
+            "value": "Chocolate"
+          },
+          {
+            "trait_type": "Garnish",
+            "value": "None"
+          },
+          {
+            "trait_type": "Toping",
+            "value": "Cream"
+          }
+        ]
+      }
+    }
+  ]
