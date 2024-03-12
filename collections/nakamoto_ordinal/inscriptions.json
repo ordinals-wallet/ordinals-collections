@@ -1,0 +1,4786 @@
+[
+  {
+    "id": "6b76932bb8f2478fe58d27b9f80c1c6d02ac0083ba34f9f46a2a171e9a385851i0",
+    "meta": {
+      "name": "NAKAMOTO #0",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "0" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "6b76932bb8f2478fe58d27b9f80c1c6d02ac0083ba34f9f46a2a171e9a385851i0",
+    "meta": {
+      "name": "NAKAMOTO #1",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "1" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "82d5e61efa9af3e8a7a71da8312c989e414a03605b8a8d65929fd635118875c6i0",
+    "meta": {
+      "name": "NAKAMOTO #2",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "2" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "ec41d45a43045fa4108ac12c48eff16ac32df6d75a7fc07ef4bd64a963f4218ai0",
+    "meta": {
+      "name": "NAKAMOTO #3",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "3" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  }, 		
+  {
+    "id": "24c063c15d9cef1e9c5b73421993166715ffb3f5e1d409c1fd37bea1f1a1c407i0",
+    "meta": {
+      "name": "NAKAMOTO #4",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "4" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "cc9557f19823a13ad59baf5c1f9f9dc1e2964282dcfdd4b64e68b9a269b2ecbfi0",
+    "meta": {
+      "name": "NAKAMOTO #5",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "6" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "b93c3b7f4b2ac36a54a03e4a636b39f2f3e8d8258674ff426cdad634a014dcc6i0",
+    "meta": {
+      "name": "NAKAMOTO #6",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "7" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "2a5a78f8da816329410ae160522de632d8886c564348aa3b0ea103c2e61dc766i0",
+    "meta": {
+      "name": "NAKAMOTO #7",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "8" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "e20aa0823cd05ca3676ea1441b7d549b4cec24a6e8ede7c24933dae56bf3c545i0",
+    "meta": {
+      "name": "NAKAMOTO #8",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "9" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "eed4597947f22a7093ed4a8dde5b7de9f901434323989340c3590d8690559e6bi0",
+    "meta": {
+      "name": "NAKAMOTO #9",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "10" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "9c88f9d597062aad05434cf25b4cf8512937ea42db80680d462d1764fd566f24i0",
+    "meta": {
+      "name": "NAKAMOTO #10",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "11" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "e2ddc38436ad25ff33dd4a7a3c39b90e35d738ade8b5ad7e3785789c03051a85i0",
+    "meta": {
+      "name": "NAKAMOTO #11",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "12" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "bb67189329de1a337952665b61559f3554a1da421a98bbae99f04c20493d0274i0",
+    "meta": {
+      "name": "NAKAMOTO #12",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "13" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "2d2a9f03b9c1a560fffa0946c529a19aeb1a6e0905beb82930ffef16d89b7b8ai0",
+    "meta": {
+      "name": "NAKAMOTO #13",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "14" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "6744a5f5c29d580b3c3ca346c130d9fcb5ad1722b4866923a9aa77dc00e01e8bi0",
+    "meta": {
+      "name": "NAKAMOTO #14",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "15" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "2b59f91ee11b8a3a8c80d9e175a81722cc3bdfe6d49d3583b8e80d4be5fcceb7i0",
+    "meta": {
+      "name": "NAKAMOTO #15",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "16" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "e21909601a67de414b54f8f3f053d9c1802bd1a0feeaad7662344846273791bbi0",
+    "meta": {
+      "name": "NAKAMOTO #16",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "17" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "7316a8bee72b9f4186a090a2d5ccf3c29ad46e139d48bdc242ffc54ff9ec17e0i0",
+    "meta": {
+      "name": "NAKAMOTO #17",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "18" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "a5f42e7923c8e8338289698b43623c301c119367e9e569d340a52dedec68ad81i0",
+    "meta": {
+      "name": "NAKAMOTO #18",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "19" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "644b2ab4a049791fe81ca03e7f188df24c514ffbb3ca723639303e376a5b56cei0",
+    "meta": {
+      "name": "NAKAMOTO #19",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "20" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "6911e14c602e2990ce92e4322fe0440931dd06dec6a26b722bf7e5e3c01b37cfi0",
+    "meta": {
+      "name": "NAKAMOTO #20",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "21" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "4da6c8dbf293760f563d7589b21dea5d3ad7ed8afa7a5bb233358c07fc39c943i0",
+    "meta": {
+      "name": "NAKAMOTO #21",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "22" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "1f8df1bb99bc593584bc670eb2c045b40ccccb9a6c7b183289a0e6bf7b865885i0",
+    "meta": {
+      "name": "NAKAMOTO #22",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "23" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "c26771220884c02d4704842ab90b7a917e69bd24a6f5d451affab3ac9f0169f6i0",
+    "meta": {
+      "name": "NAKAMOTO #23",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "24" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "2b1a3fd46460f21f578ebc5a82576ad9cd174272318def50df3c541649c522b4i0",
+    "meta": {
+      "name": "NAKAMOTO #24",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "25" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "fcee33f044a366e27c83b1f7edf6ca7739da73116fe3d9af3d4cf77d5e78c5d9i0",
+    "meta": {
+      "name": "NAKAMOTO #25",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "26" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "5ac1131c35ae20fa83eecff282e2e7b5b43f4daba1903cc9d55dad366a0ad488i0",
+    "meta": {
+      "name": "NAKAMOTO #26",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "27" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "7a0b3610eb05b36b45fdd2584e6b60077cae9aeaa274745bf2e9eadcba7064fei0",
+    "meta": {
+      "name": "NAKAMOTO #27",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "28" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "cb1919a0a5bff93068ba0b033bb353428bc7d910fee42dfacbc1f299b98bdd0bi0",
+    "meta": {
+      "name": "NAKAMOTO #28",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "29" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "be5a0b4d10c2f941e76ac92739bc7c6b68e16cfd6fbc25f1f697ed8dc0f50220i0",
+    "meta": {
+      "name": "NAKAMOTO #29",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "30" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "59c96707f902c43de87c57964ef75654c5d99cbbb8ec235ed747c25c0ef9a5fbi0",
+    "meta": {
+      "name": "NAKAMOTO #30",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "31" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "9aa4e86b1a5b8633cc8793dc733e8e6b8ba1909250bb23b76c82823d2e2a687di0",
+    "meta": {
+      "name": "NAKAMOTO #31",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "32" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "8df7ee6951844410f8cacc7ea32bc43ceb280853145598e40b85d2ea5b74a378i0",
+    "meta": {
+      "name": "NAKAMOTO #32",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "33" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "62bc350a2b08f951350315f88b2ccea07aee57e4bb9a1617d1d84b589e4b0e50i0",
+    "meta": {
+      "name": "NAKAMOTO #33",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "34" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "b9f0e114d8d80d4dbd01689692adda139668ecda0f644f5e7cf735a027e4c390i0",
+    "meta": {
+      "name": "NAKAMOTO #34",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "35" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "440c44dd109d4dadb6ffcd72698edffee317331459e60bcd3735e5351dcaa283i0",
+    "meta": {
+      "name": "NAKAMOTO #35",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "36" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "b1a7fec400a18c0ebeab0740c5ba38cfb236775f35b63a5f400f91b97328afa0i0",
+    "meta": {
+      "name": "NAKAMOTO #36",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "37" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "12fffa1b4c2d4ffc7752add23722331f48723c20d31b1e11ee1f24b253f721abi0",
+    "meta": {
+      "name": "NAKAMOTO #37",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "38" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "cb7c028b2c3e0a4c3c7987d20e4ed0df7154c90b26df1f1612ec73af0291e5bdi0",
+    "meta": {
+      "name": "NAKAMOTO #38",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "39" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "ba0875aa11917c7d57480d637c398c6b07b3d9f77cb4297f3b9b23df661c3b84i0",
+    "meta": {
+      "name": "NAKAMOTO #39",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "40" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "0a5f2a5be39bced9c7dab138062b77568f79be920bd7797547966478e58bb9a7i0",
+    "meta": {
+      "name": "NAKAMOTO #40",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "41" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "44944792b4ac03b87d13fd5bc80afeab946a46987f86040bfe238f947e10efc9i0",
+    "meta": {
+      "name": "NAKAMOTO #41",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "42" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "0ce6c34264399712b80ec2988eea95a9a83b748eb248f96fd2893024464d3d9fi0",
+    "meta": {
+      "name": "NAKAMOTO #42",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "43" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "75abbdbf023390453d5af2fb13915683ad970e18a7614382fe46fbf6f11258b1i0",
+    "meta": {
+      "name": "NAKAMOTO #43",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "44" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "70e91ea440ed42b28fcca19cc5e5811d4b7da26eb06bcb87bd017b1103ea24f8i0",
+    "meta": {
+      "name": "NAKAMOTO #44",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "45" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "c75f4fab5af73be039fa0bd6670db65ba5daf875210638b3818e9a3ad361a413i0",
+    "meta": {
+      "name": "NAKAMOTO #45",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "46" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "3016aceaf515deb19844831102ba5e14adbb79dce5cd83125ca759fb918dbf28i0",
+    "meta": {
+      "name": "NAKAMOTO #46",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "47" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "ef81b8cc946ce101d534f5f152985a3022f0407ab86e566f86273c83cc96013bi0",
+    "meta": {
+      "name": "NAKAMOTO #47",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "48" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "38689b1351ae427945f61e6e510ac161c05e6179353279e7c91a14b035425381i0",
+    "meta": {
+      "name": "NAKAMOTO #48",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "49" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "2e3071a5d506dd733c41a14f967498292ea49fc1010d84e579eae7ae31713192i0",
+    "meta": {
+      "name": "NAKAMOTO #49",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "50" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "8293b4b8172a4d3d8de132d741b9ccd04fba96aaba85eb12a5a153cd2db21394i0",
+    "meta": {
+      "name": "NAKAMOTO #50",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "51" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "60749023e4442755a1abc1ed531b3f5847e5f2dea8baf54fec5025cae7a0e5b7i0",
+    "meta": {
+      "name": "NAKAMOTO #51",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "52" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "52626aebd91d2f7b5ecc506f712f9326d51a42c418e7ba7bfb1a1b69c0c5fb30i0",
+    "meta": {
+      "name": "NAKAMOTO #52",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "53" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "5f3c08dc9043790289b92359a2a58c1225efb0d48d6620d59198efc0db08856ai0",
+    "meta": {
+      "name": "NAKAMOTO #53",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "54" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "b079f124c2d0480ece34e2c276dc6017faccfb5024e7564deb68d05699206fd4i0",
+    "meta": {
+      "name": "NAKAMOTO #54",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "55" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "2f935e858abafd76503b58e8b29bc66dab0f426f162c9e8e2d6b1d107f1db0dfi0",
+    "meta": {
+      "name": "NAKAMOTO #55",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "56" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "776d059697755bcf956b8d7e0662a63aecfff896f3c31cb49245a2ce434836e4i0",
+    "meta": {
+      "name": "NAKAMOTO #56",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "57" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "9525909a85da67deddb072cb997b713b46fc2b5e3e85ce06d4fb62a781176c1ei0",
+    "meta": {
+      "name": "NAKAMOTO #57",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "58" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "8dd3c1256219740eb8f6728ca267b7b4211617afba29ba4df87efb99f544d4c2i0",
+    "meta": {
+      "name": "NAKAMOTO #58",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "59" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "47513dda38ab12d89ab26fa1dd6705a28b1c37c1542d237e592fc129582b7a01i0",
+    "meta": {
+      "name": "NAKAMOTO #59",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "60" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "89afe9eb04143f417e6b6ba4bad694d3b12ae0728d4730cb732237f88c31e1a3i0",
+    "meta": {
+      "name": "NAKAMOTO #60",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "61" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "0342f1b7070bd4b60a91af3cf3984aaccb35d5c33fd4a11d427c1fe0f7381545i0",
+    "meta": {
+      "name": "NAKAMOTO #61",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "62" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "572ff27a5adeb5bd07aaf2ec409454b4a5777ab9c946b3a1f07682bcd408e980i0",
+    "meta": {
+      "name": "NAKAMOTO #62",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "63" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "817f9f84163380bded509b336bfa7082fe002b60fea16653dc844bc655181bd3i0",
+    "meta": {
+      "name": "NAKAMOTO #63",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "64" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  }, 		
+  {
+    "id": "4f6ee00d3686f9d3aba21a98daf1dccd1064aefea1f50f6d2a5cc09ed2c42fc9i0",
+    "meta": {
+      "name": "NAKAMOTO #64",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "65" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "2527e37ffabcf29472ec4a355c1c41eb176b59e8854c75da97c0269ae23c3c2ci0",
+    "meta": {
+      "name": "NAKAMOTO #65",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "66" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "83d3dd3603c2b16d2e198a6527326f3bf7d23b9e769d988b68c7464ac394683ai0",
+    "meta": {
+      "name": "NAKAMOTO #66",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "67" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "bacc4a065835640f2332a32dfa01b3bee7e229e27f916928fbcb48baaddd4b48i0",
+    "meta": {
+      "name": "NAKAMOTO #67",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "68" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "2c0c1b4d1307863b8e02eddce547acfe76bad93f160ada80731487dc8336d666i0",
+    "meta": {
+      "name": "NAKAMOTO #68",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "69" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "3f469f4c2904cfa3c7d9003232ad130728c6a9d084fcd39056be5cc1ef707f6fi0",
+    "meta": {
+      "name": "NAKAMOTO #69",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "70" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "ca963c16a3126649cda8a03298e5ab62747737818d83116adea57de1095a1d8bi0",
+    "meta": {
+      "name": "NAKAMOTO #70",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "71" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "bd58f5dc9697b9c4f574362485fb33df1e53275b4f1fef3d97f0ff0d9e01de9di0",
+    "meta": {
+      "name": "NAKAMOTO #71",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "72" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "9d664d8e0c0e144f544ddaff892113f7d9a94cfcbb0b82dc543fb958e9de52dai0",
+    "meta": {
+      "name": "NAKAMOTO #72",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "73" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "9ae770576ddddd3ee6b852222067384a9ddbe3b1726d64a0374f2ad7974a5f6ai0",
+    "meta": {
+      "name": "NAKAMOTO #73",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "74" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "6b4a5fb7498e7ebfe469943988fdf1b39b145b88cbf8d93b3e29df0c034198f5i0",
+    "meta": {
+      "name": "NAKAMOTO #74",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "75" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "259617b7a9557c38969a78b9f5f94d11474983d4ac30b93bf4cae28d3dd96737i0",
+    "meta": {
+      "name": "NAKAMOTO #75",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "76" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "40be7eb0497c06141498f8c607240f3be1c19417cbb022230ab8fdf013cf7221i0",
+    "meta": {
+      "name": "NAKAMOTO #76",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "77" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "1ad8e647d56debf4ca65638ec487f655f085c37a662500c2c6c945d5d9938597i0",
+    "meta": {
+      "name": "NAKAMOTO #77",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "78" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "ce6729a9960632bcc7edb28c086aab2836363627a67c6d974fe40a87df18cd72i0",
+    "meta": {
+      "name": "NAKAMOTO #78",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "79" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "fe653ac433c58f269826cf244dcf6501bc10c8cbeb112c815dd57c17bfcc68dfi0",
+    "meta": {
+      "name": "NAKAMOTO #79",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "80" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "734c02ce8bea4c71ad372f7649be00ac5cd755d6d141c70d7b9b0c647aeb2c17i0",
+    "meta": {
+      "name": "NAKAMOTO #80",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "81" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "fa2258472915684a38f29645af54c5519d3e2edef553ce8f1b480cd6791d173fi0",
+    "meta": {
+      "name": "NAKAMOTO #81",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "82" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "fad85af168cbde3f82e09e196e1625dd5a735e1c10eef49dae0561316ad6badci0",
+    "meta": {
+      "name": "NAKAMOTO #82",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "83" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "20258f513cc0841ff48304ad4d6a6c297a6e670c12c21e69fe40f6971a54b09fi0",
+    "meta": {
+      "name": "NAKAMOTO #83",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "84" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "acc6b39855879dc14fa87a46b7267d1e977d27068dabc754f219030d9b2836d9i0",
+    "meta": {
+      "name": "NAKAMOTO #84",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "85" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "c65b052215195881579e0000ae8699a2b11a7141a7c777f6b519f726bd6f5921i0",
+    "meta": {
+      "name": "NAKAMOTO #85",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "86" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "870fad447584e72de473df8295388b4f70e2c9445bdde539b2f731d328fe0fadi0",
+    "meta": {
+      "name": "NAKAMOTO #86",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "87" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "2c1c526cf4a0bb120a16613cdd168e306ea0d40d933199fe5d74fae88be76fcdi0",
+    "meta": {
+      "name": "NAKAMOTO #87",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "88" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "db5486fd927647883e54aa9a72ff4ed2fde8f2c0da1d35a83f2332c348d9b5e4i0",
+    "meta": {
+      "name": "NAKAMOTO #88",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "89" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "bacac17b7c051c1897a872f4310234feaf8448987792a0a26aae3b08794693f0i0",
+    "meta": {
+      "name": "NAKAMOTO #89",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "90" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "aa97635b6bf85ab20db55a1a087f98d78b44035e74c369f8880bb4bf0d3d7235i0",
+    "meta": {
+      "name": "NAKAMOTO #90",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "91" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "0d25b44ff6c9299a4f3af6e5a815fbf94e4c83c2f4df4c8fd2914af15108bb69i0",
+    "meta": {
+      "name": "NAKAMOTO #91",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "92" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "3a3a59250c994240d478bb0e2082dc13d820cf7f8d5f4ff9bdb02315e8bf42b7i0",
+    "meta": {
+      "name": "NAKAMOTO #92",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "93" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "7675b7ee62a8447b114d3ce1ab0e36449ba2716f74dae559a7ae28e6735a4cf1i0",
+    "meta": {
+      "name": "NAKAMOTO #93",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "94" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "7526ef5be47a9e23a4233f83d2d478e3e70516f92582c5954b0c1cda67bfaef8i0",
+    "meta": {
+      "name": "NAKAMOTO #94",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "95" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "4ddae682ff7c6a10f2ecf5855f62ed6381ead35a3490ee3096a16876d499940ei0",
+    "meta": {
+      "name": "NAKAMOTO #95",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "96" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "4a55b4f8d717fd8e89bab869330e6eaff9cfa6fafad0fae8595ac4319840415ei0",
+    "meta": {
+      "name": "NAKAMOTO #96",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "97" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "2df262c982b8b327c6332c5ec1652310e3dd544b9d55b239b9452892fc2d39c7i0",
+    "meta": {
+      "name": "NAKAMOTO #97",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "98" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "a81653462a6097042c8d130c600644560550909c64927f4f58e96381575b6283i0",
+    "meta": {
+      "name": "NAKAMOTO #98",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "99" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "1b49cba4e13b4f1acb281a1e8b51c63881035ff26d3f9c176b0fedb9d5b8774ai0",
+    "meta": {
+      "name": "NAKAMOTO #99",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "100" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "670cc78af9b165fbc205769774632067dee63e5d3c1ac0f06a484b77a5e3c755i0",
+    "meta": {
+      "name": "NAKAMOTO #100",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "101" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "0f393b16c201b84522de87ede636d8dbfab93ac7d0e3b550d68e5d6d106f268fi0",
+    "meta": {
+      "name": "NAKAMOTO #101",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "102" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "c781ae22996e704f04a0ab0b1979e34e33dc74ea7f7f2c012bd1d3017ea70119i0",
+    "meta": {
+      "name": "NAKAMOTO #102",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "103" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "356b821bf5df76f97f126e96fd41b3060edb3616d70b69f543dd2816e584e8abi0",
+    "meta": {
+      "name": "NAKAMOTO #103",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "104" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "1c7ffe2176f8cc139357d8e8b489145a8f797945ae94b2eaf94677d9245d2fc4i0",
+    "meta": {
+      "name": "NAKAMOTO #104",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "105" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "d3d67a80cc5dd1a62d418c1d7fa990bc07ee1e823dc4e0af1f45bad91ea6eb04i0",
+    "meta": {
+      "name": "NAKAMOTO #105",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "106" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "7c7a634385a050094e0fdf934694a490f32d73b6f1ea270eda2a179bbbd3c93fi0",
+    "meta": {
+      "name": "NAKAMOTO #106",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "107" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "92657fee9189ecd88a2f1e998aa11589b5407f8a650a7eb28b21156b67feffd5i0",
+    "meta": {
+      "name": "NAKAMOTO #107",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "108" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "e54f2df6c5b93c4d3266e63f62d8bdb1724d9c7d7ba36a73ed6e8f2a1dca30ddi0",
+    "meta": {
+      "name": "NAKAMOTO #108",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "109" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "81d0b9ed5d0acc6629a09eabb5f9a3ea7b0fb8d8e0fc89f1a0831877c5f9d999i0",
+    "meta": {
+      "name": "NAKAMOTO #109",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "110" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "e1de7a6b424026e825d5758cfa390268a655139b3c8a20c2a2d40a54669dbcbdi0",
+    "meta": {
+      "name": "NAKAMOTO #110",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "111" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "c54278af1e5ac30956eb7b4684bf173c0f5956a0ce47fc22c140d39b04878de1i0",
+    "meta": {
+      "name": "NAKAMOTO #111",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "112" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "308c032b4bbefac4b109aefc2fc116a4f2875b6d06140c03ca3ebbdeea120cd4i0",
+    "meta": {
+      "name": "NAKAMOTO #112",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "113" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "852af10c72e10b24dbb602e3c2739c2b29b7f0dff9416d5793280a3b0dc111eai0",
+    "meta": {
+      "name": "NAKAMOTO #113",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "114" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "8bf6d1ab19158a840462a6c5518b0bdf43c1d3a67875902a7b902cdbdfebb639i0",
+    "meta": {
+      "name": "NAKAMOTO #114",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "115" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "8d8f86311a2ad428a505c68e7118033261ee91d55d179243d8fe698800be6c0ei0",
+    "meta": {
+      "name": "NAKAMOTO #115",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "116" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "1fc3282327bea2d085d11a33617452be9deb516a0d145fd740b2f54d5a89980ai0",
+    "meta": {
+      "name": "NAKAMOTO #116",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "117" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "43488ea5667b07ee8115e890a85f6c96f2493f303cba2912529096ed770f4790i0",
+    "meta": {
+      "name": "NAKAMOTO #117",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "118" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "cd11f893eb2cd2f9ac0ff7d27689b0700780fcb0324407d73550f2b470fbb1fei0",
+    "meta": {
+      "name": "NAKAMOTO #118",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "119" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "ee33b42032c3a5396549c78d8af0a9cf8f3d2159a58140da8843299700618106i0",
+    "meta": {
+      "name": "NAKAMOTO #119",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "120" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "a2534c75c3744374c5571d0735873be3b14927ae56a29767d40b0f130b90654ai0",
+    "meta": {
+      "name": "NAKAMOTO #120",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "121" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "35cd167b0019e975b076d7d997a6c6ef3878bb407a121deae34dc87cfa13c86bi0",
+    "meta": {
+      "name": "NAKAMOTO #121",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "12" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "6a9c5a3b5506e3e71b9df763459afd15288280352dd4dd3dbaa743572c445785i0",
+    "meta": {
+      "name": "NAKAMOTO #122",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "123" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "e8fd632f51cd2656e2edea969e36d82c29950081801949f340b6e9c3b349a10fi0",
+    "meta": {
+      "name": "NAKAMOTO #123",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "124" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  }, 		
+  {
+    "id": "b5be7bf9d051afd7e696a1477fea7b5917638022f0ef7b13458d219eeb937292i0",
+    "meta": {
+      "name": "NAKAMOTO #124",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "125" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "3a0b1327170bb2aaf6b004fc9b0995f80830478100250c11bb9063c31684ee28i0",
+    "meta": {
+      "name": "NAKAMOTO #125",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "126" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "264249fdf39550e02e258d41be443bd08b8870287f0b90136d1cfbeb0f690e8ei0",
+    "meta": {
+      "name": "NAKAMOTO #126",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "127" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "2924c8e6402942159236286cdc558dd170d7d7cf52ddfdabb3fd7b9308508c00i0",
+    "meta": {
+      "name": "NAKAMOTO #127",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "128" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "1fe8e1ffd4f34045dda2e4affeaf43ca0ac7baae03980559a16fadb444543585i0",
+    "meta": {
+      "name": "NAKAMOTO #128",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "129" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "ee5208f42d1e1d8e2d9cfc45140f4b141837f29c2cd7698577285e46f42153a3i0",
+    "meta": {
+      "name": "NAKAMOTO #129",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "130" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "38ebf03b5218295978a4c8506793079d88b5d91be2a0080e25e4a0bc8654da59i0",
+    "meta": {
+      "name": "NAKAMOTO #130",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "131" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "e25ff478f7c106b172c15a76ad7c2dca0c639e8786b3850b798e5d5254c6ab5di0",
+    "meta": {
+      "name": "NAKAMOTO #131",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "132" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "cb793cc11bed84dbdd1d1af568c22d192e164df2a087c0c94dc4db8a47d1438ci0",
+    "meta": {
+      "name": "NAKAMOTO #132",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "133" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "cd70093fee6e8cc18a212afbd52077ca4f4c4f4ab32a66433dd0f2f83237bf96i0",
+    "meta": {
+      "name": "NAKAMOTO #133",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "134" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "23ee2798dc16652b4101366725212ffbbb0c4dba89f33f17768dd90c236a93ddi0",
+    "meta": {
+      "name": "NAKAMOTO #134",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "135" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "d94425fb0e07608f28b6d93f1f65d3f277b8850516c5c514e392b5d2d1fcbbe5i0",
+    "meta": {
+      "name": "NAKAMOTO #135",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "136" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "ca8e96401cf0ebce34ce40c2fb50ffbdada8b5d1f26022ae3f2aaf08489a4c1fi0",
+    "meta": {
+      "name": "NAKAMOTO #136",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "137" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "244d22308de4e923bb04b82d477154c5f44793095a8d1751545dc172587a7a5ai0",
+    "meta": {
+      "name": "NAKAMOTO #137",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "138" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "f1b4eaba5250203cb2fdeeb91776e723a0093faa8a141fe57fa90edac2dc3664i0",
+    "meta": {
+      "name": "NAKAMOTO #138",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "139" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "6be0dc680acc2b3f962fe3cb086d9d6cbc8338a113b8a83b1c1d95a554c06d82i0",
+    "meta": {
+      "name": "NAKAMOTO #139",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "140" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "d124c0b1e17aa41f71bd6af0292cceb8838eeabcdeac035cc6130785261cf68di0",
+    "meta": {
+      "name": "NAKAMOTO #140",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "141" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "6debe0e2f8cd7e0de684044f967cd02a619eaf3da6cbd4167222482f8a010ce0i0",
+    "meta": {
+      "name": "NAKAMOTO #141",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "142" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "60f55173f386062154a12eb8eab94070acea30054b4406cd560bde74857a90eci0",
+    "meta": {
+      "name": "NAKAMOTO #142",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "143" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "13a10e2cc6ce1f2104c688895e45f3eda3351a0b9674e6f13e94206783bc4027i0",
+    "meta": {
+      "name": "NAKAMOTO #143",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "144" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "be98637bfeb40dde166fbc5f7846f737b3b7179e9caf12dbfaaaaec24a695736i0",
+    "meta": {
+      "name": "NAKAMOTO #144",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "145" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "74b8b3801c7d3b7b517d71eede3be5137f93aa6e7d8f71c3c915b5831c82c740i0",
+    "meta": {
+      "name": "NAKAMOTO #145",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "146" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "4fe7d1b43566e0b392ed364aaff398d62ef2f0e3c019840e2218fa094645e06fi0",
+    "meta": {
+      "name": "NAKAMOTO #146",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "147" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "6e28756d48e97374b2e6bf3d169879d7058beb1043748700b0b65f77b6fc9b8bi0",
+    "meta": {
+      "name": "NAKAMOTO #147",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "148" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "6d7b2f1d9f2f3d5fde37570fe44340fa9a15d2a8e440249da33c833cdc0386f3i0",
+    "meta": {
+      "name": "NAKAMOTO #148",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "149" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "9d5a49fe63a631003362b39d5d40755abffccb5b1f4658db449a6d3972b9015di0",
+    "meta": {
+      "name": "NAKAMOTO #149",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "150" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "2303dcc3cf175e37fa53d2750ffb16e7d36b15014bdd9b24683956947ad00f6bi0",
+    "meta": {
+      "name": "NAKAMOTO #150",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "151" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "4226083fe8ad04b3172c18993bb383bb611f37ea6fbd7ab53c1c526d847625c7i0",
+    "meta": {
+      "name": "NAKAMOTO #151",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "152" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "56196735b1676b02bcd5c04d27c63b85109bf6b993c897ba3b0294478b79ecc0i0",
+    "meta": {
+      "name": "NAKAMOTO #152",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "153" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "2a586e10add7933c17cba97eb98aa51fef1da373d5c5b775e980685d7c9abd25i0",
+    "meta": {
+      "name": "NAKAMOTO #153",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "154" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "70e89a52c3241e2b6beed0e016093c000e78b31c0d7182bff56f279772a6a526i0",
+    "meta": {
+      "name": "NAKAMOTO #154",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "155" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "6f117940ef424026a22dddaf59d84b0e307c2296dc7cf12d29a916a250c93d78i0",
+    "meta": {
+      "name": "NAKAMOTO #155",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "156" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "a83cb854161c914a0b5f34d78a184d5641647ec14b8c1b9c664d2d05f75c38dbi0",
+    "meta": {
+      "name": "NAKAMOTO #156",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "157" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "3c9a38ae7ac2dfbf39a7bbc8bbb96bc1e8bd11e09925c7e17ec2902eeb970de2i0",
+    "meta": {
+      "name": "NAKAMOTO #157",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "158" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "d3faa6924d4feb4cd428b14942a6c1977228163c051a445eacae24135f9d2cf7i0",
+    "meta": {
+      "name": "NAKAMOTO #158",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "159" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "be642fc84e65b3f25299cac31a8260dacf2ae5b7b098535bb55f18eee8f85f4ai0",
+    "meta": {
+      "name": "NAKAMOTO #159",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "160" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "f5f3a706214a8423a4cd40ef50e744359811800c599f30062fc13dcc05dad496i0",
+    "meta": {
+      "name": "NAKAMOTO #160",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "161" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "89cae233a36942e8242814521df3dd6af69cef74c3b26b6819d288a8c8dfe4cbi0",
+    "meta": {
+      "name": "NAKAMOTO #161",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "162" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "ff0d261b9f051ed4c7b4b783de04edf91a7f9d1c664d4640f18ad819d8deeccei0",
+    "meta": {
+      "name": "NAKAMOTO #162",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "163" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "e4ee1c650980e884b245873f16f7d4027d5e5a35c8d6c9731d66cda9825e96f0i0",
+    "meta": {
+      "name": "NAKAMOTO #163",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "164" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "dc788ee612404d6aaaf1f3836a299aff170876996a26772798caa227d9e28a8di0",
+    "meta": {
+      "name": "NAKAMOTO #164",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "165" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "e07cb0f36c4322f50067d78cf40fc8eb3ab523dfeb7bf07884f3d661547e3210i0",
+    "meta": {
+      "name": "NAKAMOTO #165",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "166" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "882610ea204642354af39a930786ca26c4ca1d5d316c72bf8347f61275181c02i0",
+    "meta": {
+      "name": "NAKAMOTO #166",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "167" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "63dd5997c92d2b8b3c58020f4c6a577a0b02c8b14929368c9f742aa197ce8210i0",
+    "meta": {
+      "name": "NAKAMOTO #167",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "168" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "c794be08f05346b71793439b0554a79c52c20d21b268d8160b3660aa234e921ei0",
+    "meta": {
+      "name": "NAKAMOTO #168",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "169" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "db0389d9b4137c1819139ab21ad440cf66932180cbe2ddb9df063d930489a81ei0",
+    "meta": {
+      "name": "NAKAMOTO #169",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "170" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "847d1df25b8bcc2d1ce376ae1a037ca674fdf877c6b5801d34d81167147dd7a5i0",
+    "meta": {
+      "name": "NAKAMOTO #170",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "171" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "e2a8f18d4857928acac6e0c43bdc85624cdb99b4682bb2d9e890f35c5d4d6fcei0",
+    "meta": {
+      "name": "NAKAMOTO #171",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "172" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "a3135f56f2d70d3361344551333a1ac88294dd79b9637996ca62765481a1dceei0",
+    "meta": {
+      "name": "NAKAMOTO #172",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "173" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "948d6b4ee8192d40841c1b136c25d1e547b1f79d9a1bbf2630183a4038942f04i0",
+    "meta": {
+      "name": "NAKAMOTO #173",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "174" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "e2d02cffb5ab1f2e242d69eb39913a29862c6ffa70627ad2750caed41922082ai0",
+    "meta": {
+      "name": "NAKAMOTO #174",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "175" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "0eec1a29efa2e9e76775501a6a6e853c1ecc835164f67badcfeb3731c9711e5bi0",
+    "meta": {
+      "name": "NAKAMOTO #175",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "176" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "d381d92d8be93d30e9904dd1b7fb07884feb9c062f742a6ff7825c77d93ed77di0",
+    "meta": {
+      "name": "NAKAMOTO #176",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "177" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "33d85c24e294a8754b156eb3a06cc81e5e9332e4c2be10f8ddecb72b78aa11c3i0",
+    "meta": {
+      "name": "NAKAMOTO #177",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "178" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "6224ef051d1de87942b78cc72c9384d434298d3a8621edf9d8e7ea1b6ef50de7i0",
+    "meta": {
+      "name": "NAKAMOTO #178",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "179" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "e01218b66f872ce35265855e9e75ab9f009ed054df9d0c1f05da600bf208d6fbi0",
+    "meta": {
+      "name": "NAKAMOTO #179",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "180" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "cf0fa84582ce47e9267bf8252d2f8046ac97ce98dc685117ef085b5f7a10200fi0",
+    "meta": {
+      "name": "NAKAMOTO #180",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "181" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "427d59ec58be3361b18977d0924f644399726b7df5a4d897cc4109d73b3ef85ai0",
+    "meta": {
+      "name": "NAKAMOTO #181",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "182" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "1c3dd401fac5606d41138d038f445b83f24028555a1e0de5d418defede369083i0",
+    "meta": {
+      "name": "NAKAMOTO #182",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "183" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "c6561b00bdfea8e87f57fca2e6ce75018328e58b926204c2b920951572bfcf9ai0",
+    "meta": {
+      "name": "NAKAMOTO #183",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "184" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  }, 		
+  {
+    "id": "8bca5ca485f9dc402ba925a1a79ecbd5735333156c1a8e1508af8244d14571cbi0",
+    "meta": {
+      "name": "NAKAMOTO #184",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "185" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "42e1e05baf4505688cd3fa1fd571883f9c4c9e914609b3ab06e1249af6c5aa3bi0",
+    "meta": {
+      "name": "NAKAMOTO #185",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "186" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "dfc3c04736b21d2d3bfb207330b2f0fa3d67c16888287fdc027bb7f5161e1e81i0",
+    "meta": {
+      "name": "NAKAMOTO #186",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "187" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "8beab107806b395c594694c129c18b5edf7d08e848346602eafbf867700c8c96i0",
+    "meta": {
+      "name": "NAKAMOTO #187",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "188" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "d7bfaf3700e90e904306654b6e975bd88f9ebabff015ed409f3f59806af051d4i0",
+    "meta": {
+      "name": "NAKAMOTO #188",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "189" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "148a1bd99f097d1c0979f183b1402f580756001b3f65b3d57f8b01a01a446719i0",
+    "meta": {
+      "name": "NAKAMOTO #189",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "190" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "497c255c60746517237fb84cd094e61957b4755c24c6db6e6dffe9fb246011aei0",
+    "meta": {
+      "name": "NAKAMOTO #190",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "191" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "0c2777a8f62ec2f04aa548acf84c37deffe709afb2b1b67a1700d9a39875bad3i0",
+    "meta": {
+      "name": "NAKAMOTO #191",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "192" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "0df059e401ef546614373c728cb9435b78304833a31a4b8459bd6b3a888cb8fei0",
+    "meta": {
+      "name": "NAKAMOTO #192",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "193" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "19da40e74084aef4a8392a9fa4c26696b964c71c177f703853444160ba4eb61ei0",
+    "meta": {
+      "name": "NAKAMOTO #193",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "194" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "9cc6459a6ea26f8c8940895303138ed3026759853b17364e77e4e3b25636ac22i0",
+    "meta": {
+      "name": "NAKAMOTO #194",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "195" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "61db611ea649f7156b55410cb4a7c5e58ff24bfb048c599b8d572a587d637243i0",
+    "meta": {
+      "name": "NAKAMOTO #195",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "196" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "f0cb41840e8ef76c0bc91dae20ebadc4382ad61166df8f9b6f52eb7e6418f1a9i0",
+    "meta": {
+      "name": "NAKAMOTO #196",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "197" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "9c00752cfde024b297ce761b53d34ab6dd935a160dd0cef8cec9c6856382920fi0",
+    "meta": {
+      "name": "NAKAMOTO #197",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "198" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "072273c44890cc9a1683fcd5b90e9f04ac87b13c2eb35b235a5cd04da3db5e98i0",
+    "meta": {
+      "name": "NAKAMOTO #198",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "199" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "ce5f7a00bad54a82e49770ded9d0f3691b7e036674c9cfb2f17cfde7791e45b6i0",
+    "meta": {
+      "name": "NAKAMOTO #199",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "200" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "61dec81dc5aa9cecf1ae625fdbbefb009cf8c23479f882ba8c989a237a023d9ci0",
+    "meta": {
+      "name": "NAKAMOTO #200",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "201" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "c90c8cafe690a5d0c85b728351481b4049621fbacefeb3f12cb1fec9f3e3d178i0",
+    "meta": {
+      "name": "NAKAMOTO #201",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "202" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "13cbb1d902e547582cd5005afa798002b3f09a921dad8508317e069ae20eda90i0",
+    "meta": {
+      "name": "NAKAMOTO #202",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "203" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "c671a1bc3bdcbbc42e57774f78543f0354d5b2e9bd5e67de6c862eb5aef5f203i0",
+    "meta": {
+      "name": "NAKAMOTO #203",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "204" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "cc0c57e7a442b8e5234f8b17da11e591b7a6bcb38819c7604a8ca914a614609di0",
+    "meta": {
+      "name": "NAKAMOTO #204",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "205" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "61fbb21c282b1d15281067e77a1bfe13c4747bad12b621d57958a06b67e6b4b5i0",
+    "meta": {
+      "name": "NAKAMOTO #205",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "206" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "a1e6dd3ad84139144e270854bfa1706beac63be1071f99ac7df7191f93b9cab6i0",
+    "meta": {
+      "name": "NAKAMOTO #206",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "207" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "610dc15a8a7e290ddd3e737e4d1c96cf22a26f4c02cecfb191b8316669b5d74bi0",
+    "meta": {
+      "name": "NAKAMOTO #207",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "208" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "daed1666dcd83058fa3e7c4ebc2dfc0daf1253861d3f5674ca72310bb0ce00dfi0",
+    "meta": {
+      "name": "NAKAMOTO #208",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "209" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "4f8bc626844094ba82a44f392c7bfcee7898dbd304e262fe9521c3278b7ee98ai0",
+    "meta": {
+      "name": "NAKAMOTO #209",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "210" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "467fd3530e34885194f80448dea38480f65ce8231fd4fbf8b659ca9d2939c6f6i0",
+    "meta": {
+      "name": "NAKAMOTO #210",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "211" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "8a3baa1cf488bfd46f06d1e9209e77e56c6b150e23e775db0b34905f8c9cb5f8i0",
+    "meta": {
+      "name": "NAKAMOTO #211",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "212" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "f5060b3a186e28dc26b45f265d07801f92736d7c7db5b5ecbea1664841fe2809i0",
+    "meta": {
+      "name": "NAKAMOTO #212",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "213" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "70d1f5b92f2fcfe8b23edcf6688738a630deaf45c174a1c0a7f28697387f1e1fi0",
+    "meta": {
+      "name": "NAKAMOTO #213",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "214" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "8b2bd270f1114a7e7c56ebfb297110fd3c881050788244edb8372d6193d1a877i0",
+    "meta": {
+      "name": "NAKAMOTO #214",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "215" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "cb577bdddf78fe2359cea3e9fe3ee61aaf0b3a8d44197eb1e26c147ca8544d7ei0",
+    "meta": {
+      "name": "NAKAMOTO #215",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "216" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "1ab58623d0d514bf733bb2ca39bb223411b04a646977df91d9c7ded0fd8d0087i0",
+    "meta": {
+      "name": "NAKAMOTO #216",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "217" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "4a633a52de336a0868a17b0319370fbcddeb59d15c492fdab00a6fae006b389fi0",
+    "meta": {
+      "name": "NAKAMOTO #217",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "218" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "f3a60de0b41e63222792e0daeaf7f0b5f47120ec8127b49806c1b545ccc21aaai0",
+    "meta": {
+      "name": "NAKAMOTO #218",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "219" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "c878aee0ad0333b0e9eaf0ad04b65b0f2839d42a068f5040d18938ec961f52adi0",
+    "meta": {
+      "name": "NAKAMOTO #219",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "220" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "87da78a08a1c46b2ae672a5f1638872ef6dad834383bc45c131913b7b7fccbf8i0",
+    "meta": {
+      "name": "NAKAMOTO #220",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "221" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "4dc299d1037d07492cc7f5b4933c7750c042fc69bb64ce63db265f3344838113i0",
+    "meta": {
+      "name": "NAKAMOTO #221",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "222" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "06d4f3dd36cb701fe4d04cec599f396ec98961f78c8e5508f58352ae112c8045i0",
+    "meta": {
+      "name": "NAKAMOTO #222",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "223" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "1c8fa608f26ee67686b3f858f658d5329effa9b9afa4bfe623d03d06ce57a445i0",
+    "meta": {
+      "name": "NAKAMOTO #223",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "224" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "748f101de4e110190fdb003c3f151b1515ce1cdd90707ddec84aff5437c4f245i0",
+    "meta": {
+      "name": "NAKAMOTO #224",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "225" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "fbb04d3e671edd4ca1160aa8b82703b26a8863d231521cb5f31737aa2333a64di0",
+    "meta": {
+      "name": "NAKAMOTO #225",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "226" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "71c8ddf1e777c0259e488306d6690a4a8b6815eb61814232476b7cf181c73c51i0",
+    "meta": {
+      "name": "NAKAMOTO #226",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "227" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "aa007d22a2360dffdfc625962d36ed76020bd557ba1d0a4a0b6c40b95a54c19bi0",
+    "meta": {
+      "name": "NAKAMOTO #227",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "228" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "9de90d7e762dc52cd404ab0f473b2977ff68197e6776af44eee251a22c0cc0a0i0",
+    "meta": {
+      "name": "NAKAMOTO #228",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "22" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "9c82663a27a874ae15ed6a00dcab953a992d3707b0bb756912d462010cd25afai0",
+    "meta": {
+      "name": "NAKAMOTO #229",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "230" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "40832b92523ab6eb7b70e5817b5c4164484aa6985d6d4c6d49f5122bf030bd5fi0",
+    "meta": {
+      "name": "NAKAMOTO #230",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "231" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "ff53d571dcb9c689a83e9510f56de898b21aaee1d789bbc618fa628e287efc95i0",
+    "meta": {
+      "name": "NAKAMOTO #231",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "232" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "5b7a90fae10ff5312d81fcf8cccfc1ceccd74fc4551703e344e6bdf0b13eef3di0",
+    "meta": {
+      "name": "NAKAMOTO #232",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "233" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "c7452a9f62a07763f992dcb144502f5d8b26d24d34596daaca015ceb80cbfa48i0",
+    "meta": {
+      "name": "NAKAMOTO #233",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "234" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "957e4ef9688185f565b041af6ee2a6456852066304766238f967a34691482f8di0",
+    "meta": {
+      "name": "NAKAMOTO #234",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "235" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "40221058b82f80667d7b96b4407e08db87b79c3c513d10f56fa0bacc2510c32bi0",
+    "meta": {
+      "name": "NAKAMOTO #235",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "236" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "5541a2b26f7c5cd296e3072e117705fa55e666a96ac8fa8104af0bdc4c35db49i0",
+    "meta": {
+      "name": "NAKAMOTO #236",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "237" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "2ec77e0ef06604ca34dc0ecf2d59d4e4357001a41c89e7b9770b95c9c176485fi0",
+    "meta": {
+      "name": "NAKAMOTO #237",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "238" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "cd843d350a24d5da551fefa957ca74f3f30d84ee9c2ddee75f60f142eda5c31di0",
+    "meta": {
+      "name": "NAKAMOTO #238",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "239" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "e8cba1bcb4e78f592cf69391667037802e0c35fe9fd8e6e47b6b9588b791ba68i0",
+    "meta": {
+      "name": "NAKAMOTO #239",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "240" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "a4505647473322b02d8ab2938a6634137cddf01e2a34e3951aa3efc5c31256b8i0",
+    "meta": {
+      "name": "NAKAMOTO #240",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "241" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "664388522a43c82f07b435d665d2dad4d0d25c718a14f78a10ad544168bbb580i0",
+    "meta": {
+      "name": "NAKAMOTO #241",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "242" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "db535a5291b7514faab41adac866b0f89319c70eee1613ebd29395a73d21ddd6i0",
+    "meta": {
+      "name": "NAKAMOTO #242",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "243" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "0e5cd4013ec93ee7c24ac0160f1fde8e4e4f133419d5851bce7dac1a94c91fe2i0",
+    "meta": {
+      "name": "NAKAMOTO #243",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "244" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  }, 		
+  {
+    "id": "252d207d8307f6b791308d55d8a9ee03da27539cde1e17518e81031e9a127a7di0",
+    "meta": {
+      "name": "NAKAMOTO #244",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "245" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "1c70de2a502144255247568b6a226582fea734a7c738d80b42e80099bf2eea97i0",
+    "meta": {
+      "name": "NAKAMOTO #245",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "246" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "21d3c4fbe95f8727ecf6a4dcb6b9071db1f85a563d7daed8631a5e197eb6a7c9i0",
+    "meta": {
+      "name": "NAKAMOTO #246",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "247" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "977b7e1032f590493e7892aeeeb73260df8c1064d7908290ed3cd2429e0ad79fi0",
+    "meta": {
+      "name": "NAKAMOTO #247",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "248" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "cf552d0374a23ffb7f85e1bd426d6d67172d3201dbcabd0ce228030a087a48a6i0",
+    "meta": {
+      "name": "NAKAMOTO #248",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "249" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "d2cacd7279c0d9243c64743187e5a9690d4eccad943ae8f402ed94d83a367ef7i0",
+    "meta": {
+      "name": "NAKAMOTO #249",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "250" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "6c7a873c539986cc0701a8ec50aa05e73ce9efef2f05b5828049f21583926801i0",
+    "meta": {
+      "name": "NAKAMOTO #250",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "251" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "5bd18b7a2d7e90d2aba759143d38a4724c020e7ee7cad1be79df9b42bfb8cfb4i0",
+    "meta": {
+      "name": "NAKAMOTO #251",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "252" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "a9f77405e420f0656aaf5c4c7de1bea30b402b2a1f64b432ff49416c887876e3i0",
+    "meta": {
+      "name": "NAKAMOTO #252",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "253" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "8af3e17d46e7cc0f61cd236203441dd6e512c6ac4ea44ebbf9b559d4578ebde8i0",
+    "meta": {
+      "name": "NAKAMOTO #253",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "254" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "ded93ab51398c50b5936a7f460b23c622601b6ccb014cbfb311ad645f0c0c9abi0",
+    "meta": {
+      "name": "NAKAMOTO #254",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "255" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "0367f3dd1610c2a3ad7a00df78454fa036a816611b560d7949186fcc990b7f71i0",
+    "meta": {
+      "name": "NAKAMOTO #255",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "256" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "f5a5e590f9fcf6e25930c3aebc04f78d82d1b2f5f7f5f503eea80fc496229605i0",
+    "meta": {
+      "name": "NAKAMOTO #256",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "257" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "abc98c7f8b4b90058d4837ba87d0212b8f7d662a33304e8e79df6650dffbaa16i0",
+    "meta": {
+      "name": "NAKAMOTO #257",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "258" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "59990e040a1dd4f9f08fb1ecff08ba5e3dbc5ee6d9a35e4e1f2c6ce44c2fba30i0",
+    "meta": {
+      "name": "NAKAMOTO #258",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "259" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "28c7ca11edbc8d8e8960efc53578288b1d5cc19084a331024072fae4bc2c3990i0",
+    "meta": {
+      "name": "NAKAMOTO #259",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "260" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "1084beb4d116e23d4bd01f1977045cff906b92b033fa017a75d3c226d72a07eai0",
+    "meta": {
+      "name": "NAKAMOTO #260",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "261" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "e7a23dd6014ea98592903f5260a3b83ff7906f2a4af53294415cf5dc7e904119i0",
+    "meta": {
+      "name": "NAKAMOTO #261",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "262" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "877a4816e62173f1a5a469ae6136466684eef97ab76c326a844e1805f4dc7975i0",
+    "meta": {
+      "name": "NAKAMOTO #262",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "263" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "cdca915226e36c679ed65456f68784c3a62004f2facd73e2a42c2f341eb6e99fi0",
+    "meta": {
+      "name": "NAKAMOTO #263",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "264" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "dd4cf59dc91769d7864665feec56cc256b808c9f10724e017a20fdd0df7804bfi0",
+    "meta": {
+      "name": "NAKAMOTO #264",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "265" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "6dc2f9d279ad57c568547aa0fbe4b012fe3fdc34fb2ff706fb4be702ff6ae92ai0",
+    "meta": {
+      "name": "NAKAMOTO #265",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "266" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "c93f64977eae63106e8cc5d612e15cba9811ca1f6caecff19a719d650c4a0822i0",
+    "meta": {
+      "name": "NAKAMOTO #266",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "267" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "3806b652fca2786d7e1058b5253106ef368c3670b1ffe316137b006b53150f46i0",
+    "meta": {
+      "name": "NAKAMOTO #267",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "268" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "1d870a2d56ae4704b6091c62478ceb6dcef86ca469af07f90e975bcca09a1e1di0",
+    "meta": {
+      "name": "NAKAMOTO #268",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "269" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "082a92b75890be0bd8080b4bdf1655b0a4ed8bcc701973cd15db174b3affdf3fi0",
+    "meta": {
+      "name": "NAKAMOTO #269",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "270" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "4aa337f5cc35e1234bb32d44e961e831dd02032dc5e506482525272dcee3be08i0",
+    "meta": {
+      "name": "NAKAMOTO #270",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "271" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "94daf38af0644b9ba9f27b797f31b0bf92abe7b04d3debcaf1c0bab1bcff070di0",
+    "meta": {
+      "name": "NAKAMOTO #271",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "272" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "7a90ddcc6788a6b864cd160ca1e55ec7e90b8dc0032e3ffeb74c1235d5e4f17di0",
+    "meta": {
+      "name": "NAKAMOTO #272",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "273" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "3daf2c9a970b6a9f3726b3bd24f4fce546f9974cb6c17d13799f7dfd97ae7fabi0",
+    "meta": {
+      "name": "NAKAMOTO #273",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "274" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "98a8a17e418f4a66862ceec783ebb66859e09e6d8a698dfb30abab925e245cc5i0",
+    "meta": {
+      "name": "NAKAMOTO #274",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "275" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "4bb24487d33bbc7e8bce80d69cb8c76bd1d16c860fad7df84a70924bdd2bf3cdi0",
+    "meta": {
+      "name": "NAKAMOTO #275",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "276" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "3b0bbc3711c51a85f082973d74291e6916d738b6e58b951bd566869cf19f50f0i0",
+    "meta": {
+      "name": "NAKAMOTO #276",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "277" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "ef5a38179997c64dc66c46aa5b432adf95c9ffef2f1b302cd10cfc413452bd2ci0",
+    "meta": {
+      "name": "NAKAMOTO #277",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "278" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "9904499671da635e2d798b47297ec610b200c8893dacf37f96f1990ab0907ecfi0",
+    "meta": {
+      "name": "NAKAMOTO #278",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "279" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "fc0b04b9c98216588ad36620e958898d50acbd112404a878209f48053e16d0f4i0",
+    "meta": {
+      "name": "NAKAMOTO #279",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "280" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "ec271c14d2190af0f25626aa3919e5a3e9217220ab6348b5b86160365ecf75f8i0",
+    "meta": {
+      "name": "NAKAMOTO #280",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "281" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "f52c64e79a7e9fd900fa7bd42bcb13f58c2708c7f21d418cca7f9e973ebf75d2i0",
+    "meta": {
+      "name": "NAKAMOTO #281",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "282" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "7ebf99c328e4441ebc796892a65470dfa7137fe6e11fcf37c24f4f2fabc2269fi0",
+    "meta": {
+      "name": "NAKAMOTO #282",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "283" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "c214fc9cb96b67f6b84843dfea377404fad77b0f6f75ed5e15ebee3ca4dafeefi0",
+    "meta": {
+      "name": "NAKAMOTO #283",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "284" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "9bb52aa8ec8d0486bbeff03f1a59f52954145d2e04a1c2cc95697cd6c6fa4f12i0",
+    "meta": {
+      "name": "NAKAMOTO #284",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "285" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "db65bdfa2dd5addf422d4e9f161c7be2d748c986e073e37e41ba8dd96789df32i0",
+    "meta": {
+      "name": "NAKAMOTO #285",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "286" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "d5c8da8efbd6c54c20e4c834e4e989312d90e55cb1e87ccea0f6f52b57573ec1i0",
+    "meta": {
+      "name": "NAKAMOTO #286",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "287" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "9af4a5b85a8112b682071afa9b3ba4ecf67ce244ca8877d8ce4f21c21ffe2440i0",
+    "meta": {
+      "name": "NAKAMOTO #287",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "288" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },  
+  {
+    "id": "2fe8af00f095f0fc2f0f581134f5cae04bbbf71522eea7d00745067018a17f3fi0",
+    "meta": {
+      "name": "NAKAMOTO #288",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "289" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  }, 
+  {
+    "id": "05f3a5e59e124ce0650702e36c29453098a399bd40f5ca682603abc191ead665i0",
+    "meta": {
+      "name": "NAKAMOTO #289",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "290" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "c89665688617adbb60e3f7ba8841b3d47827f1be073735c5e0e1bdfd11922059i0",
+    "meta": {
+      "name": "NAKAMOTO #290",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "291" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "2c1bb34c69da97e45d53dde513a5f277ed8153d1f36133928c64f73246312820i0",
+    "meta": {
+      "name": "NAKAMOTO #291",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "292" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "25fadb442907ae9dc9ddbac08e373d1b41c725cb29c7ceb45611c5cb21361b74i0",
+    "meta": {
+      "name": "NAKAMOTO #292",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "293" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "981364e14a896ed513d702b367f3544b6f0c97919d9c94cb3cf5b585e6fbb6b0i0",
+    "meta": {
+      "name": "NAKAMOTO #293",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "294" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "230f497f24e18c33b73773dc2bff652c499c75f3577f9aa6488e4bdf506ea5ffi0",
+    "meta": {
+      "name": "NAKAMOTO #294",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "295" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "dc21a039109aa87fe41e14061dc1b9bc1b6623c34e395050f5182b8e13e39856i0",
+    "meta": {
+      "name": "NAKAMOTO #295",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "296" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  }, 
+  {
+    "id": "04a5d935a783259db1af579a01bd14083e34abc3c54b11db0194cae8ae7efc21i0",
+    "meta": {
+      "name": "NAKAMOTO #296",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "297" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "9a9ffb48528cdb482404bf84cb3343146dfef5eb65bbcbf9e14bd337446e33fci0",
+    "meta": {
+      "name": "NAKAMOTO #297",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "298" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+  {
+    "id": "13069e6757623605950b8adb36a3aed2aee2c6f7857527f5921d09175eb36668i0",
+    "meta": {
+      "name": "NAKAMOTO #298",
+      "attributes": [
+        { "trait_type": "Health", "value": "15" },
+        { "trait_type": "Attack", "value": "3" },
+        { "trait_type": "Speed", "value": "1" },
+        { "trait_type": "Element", "value": "Fire" },
+        { "trait_type": "Rareness_Score", "value": "299" },
+        { "trait_type": "Series", "value": "1" },
+        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
+      ]
+    }
+  },
+]
