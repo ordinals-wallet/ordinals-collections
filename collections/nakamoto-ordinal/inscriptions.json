@@ -2,22 +2,6 @@
   {
     "id": "6b76932bb8f2478fe58d27b9f80c1c6d02ac0083ba34f9f46a2a171e9a385851i0",
     "meta": {
-      "name": "NAKAMOTO #0",
-      "attributes": [
-        { "trait_type": "Health", "value": "15" },
-        { "trait_type": "Attack", "value": "3" },
-        { "trait_type": "Speed", "value": "1" },
-        { "trait_type": "Element", "value": "Fire" },
-        { "trait_type": "Rareness_Score", "value": "0" },
-        { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
-        { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
-      ]
-    }
-  },
-  {
-    "id": "6b76932bb8f2478fe58d27b9f80c1c6d02ac0083ba34f9f46a2a171e9a385851i0",
-    "meta": {
       "name": "NAKAMOTO #1",
       "attributes": [
         { "trait_type": "Health", "value": "15" },
@@ -26,7 +10,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "1" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -42,7 +26,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "2" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -58,7 +42,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "3" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -74,7 +58,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "4" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -90,7 +74,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "6" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -106,7 +90,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "7" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -122,7 +106,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "8" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -138,7 +122,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "9" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -154,7 +138,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "10" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -170,7 +154,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "11" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -186,7 +170,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "12" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -202,7 +186,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "13" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -218,7 +202,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "14" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -234,7 +218,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "15" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -250,7 +234,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "16" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -266,7 +250,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "17" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -282,7 +266,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "18" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -298,7 +282,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "19" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -314,7 +298,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "20" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -330,7 +314,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "21" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -346,7 +330,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "22" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -362,7 +346,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "23" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -378,7 +362,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "24" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -394,7 +378,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "25" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -410,7 +394,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "26" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -426,7 +410,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "27" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -442,7 +426,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "28" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -458,7 +442,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "29" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -474,7 +458,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "30" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -490,7 +474,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "31" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -506,7 +490,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "32" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -522,7 +506,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "33" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -538,7 +522,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "34" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -554,7 +538,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "35" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -570,7 +554,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "36" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -586,7 +570,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "37" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -602,7 +586,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "38" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -618,7 +602,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "39" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -634,7 +618,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "40" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -650,7 +634,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "41" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -666,7 +650,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "42" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -682,7 +666,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "43" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -698,7 +682,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "44" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -714,7 +698,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "45" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -730,7 +714,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "46" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -746,7 +730,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "47" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -762,7 +746,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "48" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -778,7 +762,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "49" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -794,7 +778,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "50" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -810,7 +794,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "51" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -826,7 +810,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "52" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -842,7 +826,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "53" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -858,7 +842,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "54" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -874,7 +858,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "55" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -890,7 +874,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "56" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -906,7 +890,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "57" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -922,7 +906,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "58" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -938,7 +922,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "59" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -954,7 +938,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "60" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -970,7 +954,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "61" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -986,7 +970,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "62" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1002,7 +986,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "63" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1018,7 +1002,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "64" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1034,7 +1018,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "65" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1050,7 +1034,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "66" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1066,7 +1050,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "67" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1082,7 +1066,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "68" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1098,7 +1082,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "69" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1114,7 +1098,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "70" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1130,7 +1114,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "71" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1146,7 +1130,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "72" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1162,7 +1146,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "73" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1178,7 +1162,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "74" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1194,7 +1178,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "75" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1210,7 +1194,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "76" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1226,7 +1210,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "77" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1242,7 +1226,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "78" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1258,7 +1242,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "79" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1274,7 +1258,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "80" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1290,7 +1274,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "81" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1306,7 +1290,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "82" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1322,7 +1306,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "83" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1338,7 +1322,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "84" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1354,7 +1338,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "85" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1370,7 +1354,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "86" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1386,7 +1370,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "87" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1402,7 +1386,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "88" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1418,7 +1402,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "89" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1434,7 +1418,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "90" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1450,7 +1434,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "91" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1466,7 +1450,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "92" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1482,7 +1466,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "93" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1498,7 +1482,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "94" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1514,7 +1498,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "95" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1530,7 +1514,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "96" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1546,7 +1530,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "97" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1562,7 +1546,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "98" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1578,7 +1562,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "99" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1594,7 +1578,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "100" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1610,7 +1594,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "101" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1626,7 +1610,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "102" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1642,7 +1626,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "103" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1658,7 +1642,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "104" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1674,7 +1658,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "105" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1690,7 +1674,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "106" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1706,7 +1690,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "107" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1722,7 +1706,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "108" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1738,7 +1722,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "109" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1754,7 +1738,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "110" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1770,7 +1754,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "111" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1786,7 +1770,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "112" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1802,7 +1786,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "113" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1818,7 +1802,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "114" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1834,7 +1818,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "115" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1850,7 +1834,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "116" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1866,7 +1850,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "117" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1882,7 +1866,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "118" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1898,7 +1882,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "119" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1914,7 +1898,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "120" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1930,7 +1914,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "121" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1946,7 +1930,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "12" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1962,7 +1946,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "123" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1978,7 +1962,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "124" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -1994,7 +1978,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "125" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2010,7 +1994,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "126" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2026,7 +2010,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "127" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2042,7 +2026,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "128" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2058,7 +2042,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "129" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2074,7 +2058,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "130" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2090,7 +2074,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "131" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2106,7 +2090,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "132" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2122,7 +2106,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "133" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2138,7 +2122,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "134" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2154,7 +2138,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "135" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2170,7 +2154,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "136" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2186,7 +2170,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "137" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2202,7 +2186,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "138" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2218,7 +2202,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "139" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2234,7 +2218,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "140" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2250,7 +2234,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "141" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2266,7 +2250,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "142" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2282,7 +2266,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "143" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2298,7 +2282,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "144" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2314,7 +2298,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "145" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2330,7 +2314,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "146" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2346,7 +2330,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "147" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2362,7 +2346,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "148" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2378,7 +2362,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "149" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2394,7 +2378,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "150" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2410,7 +2394,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "151" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2426,7 +2410,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "152" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2442,7 +2426,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "153" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2458,7 +2442,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "154" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2474,7 +2458,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "155" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2490,7 +2474,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "156" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2506,7 +2490,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "157" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2522,7 +2506,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "158" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2538,7 +2522,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "159" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2554,7 +2538,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "160" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2570,7 +2554,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "161" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2586,7 +2570,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "162" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2602,7 +2586,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "163" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2618,7 +2602,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "164" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2634,7 +2618,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "165" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2650,7 +2634,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "166" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2666,7 +2650,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "167" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2682,7 +2666,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "168" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2698,7 +2682,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "169" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2714,7 +2698,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "170" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2730,7 +2714,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "171" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2746,7 +2730,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "172" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2762,7 +2746,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "173" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2778,7 +2762,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "174" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2794,7 +2778,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "175" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2810,7 +2794,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "176" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2826,7 +2810,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "177" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2842,7 +2826,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "178" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2858,7 +2842,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "179" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2874,7 +2858,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "180" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2890,7 +2874,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "181" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2906,7 +2890,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "182" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2922,7 +2906,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "183" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2938,7 +2922,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "184" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2954,7 +2938,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "185" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2970,7 +2954,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "186" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -2986,7 +2970,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "187" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3002,7 +2986,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "188" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3018,7 +3002,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "189" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3034,7 +3018,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "190" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3050,7 +3034,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "191" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3066,7 +3050,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "192" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3082,7 +3066,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "193" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3098,7 +3082,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "194" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3114,7 +3098,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "195" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3130,7 +3114,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "196" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3146,7 +3130,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "197" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3162,7 +3146,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "198" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3178,7 +3162,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "199" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3194,7 +3178,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "200" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3210,7 +3194,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "201" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3226,7 +3210,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "202" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3242,7 +3226,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "203" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3258,7 +3242,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "204" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3274,7 +3258,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "205" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3290,7 +3274,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "206" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3306,7 +3290,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "207" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3322,7 +3306,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "208" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3338,7 +3322,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "209" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3354,7 +3338,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "210" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3370,7 +3354,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "211" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3386,7 +3370,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "212" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3402,7 +3386,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "213" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3418,7 +3402,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "214" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3434,7 +3418,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "215" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3450,7 +3434,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "216" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3466,7 +3450,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "217" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3482,7 +3466,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "218" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3498,7 +3482,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "219" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3514,7 +3498,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "220" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3530,7 +3514,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "221" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3546,7 +3530,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "222" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3562,7 +3546,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "223" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3578,7 +3562,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "224" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3594,7 +3578,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "225" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3610,7 +3594,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "226" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3626,7 +3610,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "227" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3642,7 +3626,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "228" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3658,7 +3642,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "22" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3674,7 +3658,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "230" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3690,7 +3674,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "231" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3706,7 +3690,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "232" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3722,7 +3706,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "233" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3738,7 +3722,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "234" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3754,7 +3738,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "235" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3770,7 +3754,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "236" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3786,7 +3770,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "237" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3802,7 +3786,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "238" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3818,7 +3802,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "239" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3834,7 +3818,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "240" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3850,7 +3834,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "241" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3866,7 +3850,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "242" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3882,7 +3866,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "243" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3898,7 +3882,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "244" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3914,7 +3898,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "245" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3930,7 +3914,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "246" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3946,7 +3930,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "247" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3962,7 +3946,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "248" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3978,7 +3962,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "249" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -3994,7 +3978,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "250" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4010,7 +3994,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "251" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4026,7 +4010,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "252" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4042,7 +4026,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "253" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4058,7 +4042,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "254" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4074,7 +4058,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "255" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4090,7 +4074,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "256" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4106,7 +4090,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "257" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4122,7 +4106,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "258" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4138,7 +4122,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "259" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4154,7 +4138,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "260" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4170,7 +4154,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "261" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4186,7 +4170,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "262" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4202,7 +4186,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "263" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4218,7 +4202,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "264" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4234,7 +4218,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "265" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4250,7 +4234,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "266" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4266,7 +4250,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "267" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4282,7 +4266,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "268" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4298,7 +4282,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "269" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4314,7 +4298,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "270" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4330,7 +4314,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "271" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4346,7 +4330,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "272" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4362,7 +4346,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "273" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4378,7 +4362,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "274" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4394,7 +4378,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "275" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4410,7 +4394,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "276" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4426,7 +4410,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "277" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4442,7 +4426,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "278" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4458,7 +4442,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "279" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4474,7 +4458,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "280" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4490,7 +4474,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "281" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4506,7 +4490,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "282" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4522,7 +4506,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "283" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4538,7 +4522,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "284" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4554,7 +4538,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "285" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4570,7 +4554,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "286" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4586,7 +4570,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "287" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4602,7 +4586,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "288" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4618,7 +4602,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "289" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4634,7 +4618,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "290" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4650,7 +4634,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "291" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4666,7 +4650,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "292" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4682,7 +4666,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "293" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4698,7 +4682,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "294" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4714,7 +4698,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "295" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4730,7 +4714,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "296" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4746,7 +4730,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "297" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4762,7 +4746,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "298" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
@@ -4778,7 +4762,7 @@
         { "trait_type": "Element", "value": "Fire" },
         { "trait_type": "Rareness_Score", "value": "299" },
         { "trait_type": "Series", "value": "1" },
-        { "trait_type": "Nakamoto_Card", "value": "Ordinal_2021" },
+        { "trait_type": "Rare_Pepe", "value": "Nakamoto_Card" },
         { "trait_type": "Artist", "value": "'Mike', 'ÐΔΜΙΔΝ'" }
       ]
     }
