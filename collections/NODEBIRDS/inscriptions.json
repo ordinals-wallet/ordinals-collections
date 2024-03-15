@@ -1,5 +1,4206 @@
+
 [
+  {
+    "id": "b9927054c272252ec7e67da75697311ef2f1d53c1e83c227ec62f880d33816b9i0",
+    "meta": {
+      "name": "GOLD NODEBIRDS #1",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Charcoal"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Re Evil"
+    },
     {
+      "trait_type": "Head",
+      "value": "Re Evil"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "none"
+    }
+  ]
+  }
+},
+  {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i0",
+    "meta": {
+      "name": "GOLD NODEBIRDS #2",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Orange"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Bird"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Orange Eyes"
+    }
+  ]
+  }
+},
+  {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i1",
+    "meta": {
+      "name": "GOLD NODEBIRDS #3",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Charcoal"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Bird"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Orange Eyes"
+    }
+  ]
+  }
+},
+  {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i2",
+    "meta": {
+      "name": "GOLD NODEBIRDS #4",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Orange"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Bird"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cuban"
+    }
+  ]
+  }
+},
+  {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i3",
+    "meta": {
+      "name": "GOLD NODEBIRDS #5",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Charcoal"
+      },
+      {
+      "trait_type": "Character",
+      "value": "9"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "none"
+    }
+  ]
+  }
+},
+      {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i4",
+    "meta": {
+      "name": "GOLD NODEBIRDS #6",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Orange"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Cosa Nostra"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "De Niro"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "none"
+    }
+  ]
+  }
+},
+      {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i5",
+    "meta": {
+      "name": "GOLD NODEBIRDS #7",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Charcoal"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Re Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Re Evil"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cosa Nostra"
+    }
+  ]
+  }
+},
+      {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i6",
+    "meta": {
+      "name": "GOLD NODEBIRDS #8",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Orange"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Bird"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Inscription #2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "none"
+    }
+  ]
+  }
+},
+      {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i7",
+    "meta": {
+      "name": "GOLD NODEBIRDS #9",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Charcoal"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Bird"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Earing"
+    }
+  ]
+  }
+},
+      {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i7",
+    "meta": {
+      "name": "GOLD NODEBIRDS #10",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Orange"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Bird"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigar"
+    }
+  ]
+  }
+},
+      {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i9",
+    "meta": {
+      "name": "GOLD NODEBIRDS #11",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Charcoal"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Buzz Aldrin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Astronaut"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Astronaut"
+    }
+  ]
+  }
+},
+      {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i10",
+    "meta": {
+      "name": "GOLD NODEBIRDS #12",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Orange"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Electra"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "B9"
+    }
+  ]
+  }
+},
+      {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i11",
+    "meta": {
+      "name": "GOLD NODEBIRDS #13",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Charcoal"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Bird"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigar"
+    }
+  ]
+  }
+},
+      {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i12",
+    "meta": {
+      "name": "GOLD NODEBIRDS #14",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Orange"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Bird"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frames"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Key Master"
+    }
+  ]
+  }
+},
+      {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i13",
+    "meta": {
+      "name": "GOLD NODEBIRDS #15",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Charcoal"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Bird"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Inscription #2"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lashes"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "none"
+    }
+  ]
+  }
+},
+      {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i14",
+    "meta": {
+      "name": "GOLD NODEBIRDS #16",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Orange"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Bird"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "none"
+    }
+  ]
+  }
+},
+      {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i15",
+    "meta": {
+      "name": "GOLD NODEBIRDS #17",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Charcoal"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Bird"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Pyramid"
+    }
+  ]
+  }
+},
+      {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i16",
+    "meta": {
+      "name": "GOLD NODEBIRDS #18",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Orange"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Bird"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "none"
+    }
+  ]
+  }
+},
+      {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i17",
+    "meta": {
+      "name": "GOLD NODEBIRDS #19",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Charcoal"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Sid Vicious"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Yellow"
+    }
+  ]
+  }
+},
+      {
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i18",
+    "meta": {
+      "name": "GOLD NODEBIRDS #20",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Orange"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Bird"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Frames"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "none"
+    }
+  ]
+  }
+},
+{
+    "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i19",
+    "meta": {
+      "name": "GOLD NODEBIRDS #21",
+      "attributes": [
+      {
+      "trait_type": "Background",
+      "value": "Charcoal"
+      },
+      {
+      "trait_type": "Character",
+      "value": "Re Evil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Re Evil"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodshot"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "none"
+    }
+  ]
+  }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i20",
+   "meta": {
+     "name": "GOLD NODEBIRDS #22",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Miner"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Pick Axe"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i21",
+   "meta": {
+     "name": "GOLD NODEBIRDS #23",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Patch"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Crayon"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i22",
+   "meta": {
+     "name": "GOLD NODEBIRDS #24",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Cigar"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i23",
+   "meta": {
+     "name": "GOLD NODEBIRDS #25",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Electra"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i24",
+   "meta": {
+     "name": "GOLD NODEBIRDS #26",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Hannibal"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i25",
+   "meta": {
+     "name": "GOLD NODEBIRDS #27",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "De Niro"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i26",
+   "meta": {
+     "name": "GOLD NODEBIRDS #28",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "B9"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i27",
+   "meta": {
+     "name": "GOLD NODEBIRDS #29",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Rose"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i28",
+   "meta": {
+     "name": "GOLD NODEBIRDS #30",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Magic Wand"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i29",
+   "meta": {
+     "name": "GOLD NODEBIRDS #31",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Anon"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Anon"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Anon"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i30",
+   "meta": {
+     "name": "GOLD NODEBIRDS #32",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "B9"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i31",
+   "meta": {
+     "name": "GOLD NODEBIRDS #33",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Re Evil"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Re Evil"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Bloodshot"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Cosa Nostra"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i32",
+   "meta": {
+     "name": "GOLD NODEBIRDS #34",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Thing"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Skull"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Skull"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Skull"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i33",
+   "meta": {
+     "name": "GOLD NODEBIRDS #35",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Sid Vicious"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Punk"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Vicious"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i34",
+   "meta": {
+     "name": "GOLD NODEBIRDS #36",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Billy The Kid"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Dented Crown"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Cigar"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i35",
+   "meta": {
+     "name": "GOLD NODEBIRDS #37",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Crayon"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i36",
+   "meta": {
+     "name": "GOLD NODEBIRDS #38",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Halo"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i37",
+   "meta": {
+     "name": "GOLD NODEBIRDS #39",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Frames"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Key Master"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i38",
+   "meta": {
+     "name": "GOLD NODEBIRDS #40",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Inscription #2"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i39",
+   "meta": {
+     "name": "GOLD NODEBIRDS #41",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Sid Vicious"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Punk"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Orange"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i40",
+   "meta": {
+     "name": "GOLD NODEBIRDS #42",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Rune"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i41",
+   "meta": {
+     "name": "GOLD NODEBIRDS #43",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Frames"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i42",
+   "meta": {
+     "name": "GOLD NODEBIRDS #44",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Halo"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Patch"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i43",
+   "meta": {
+     "name": "GOLD NODEBIRDS #45",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Lashes"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Costa Rica"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i44",
+   "meta": {
+     "name": "GOLD NODEBIRDS #46",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "De Niro"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Magic Wand"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i45",
+   "meta": {
+     "name": "GOLD NODEBIRDS #47",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Lashes"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gold Earing, B9"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i46",
+   "meta": {
+     "name": "GOLD NODEBIRDS #48",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "9"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Bloodshot"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Costa Rica"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i47",
+   "meta": {
+     "name": "GOLD NODEBIRDS #49",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Bloodshot"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gold Pyramid"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i48",
+   "meta": {
+     "name": "GOLD NODEBIRDS #50",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "De Niro"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i49",
+   "meta": {
+     "name": "GOLD NODEBIRDS #51",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Electra"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Laser"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i50",
+   "meta": {
+     "name": "GOLD NODEBIRDS #52",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Mempool"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i51",
+   "meta": {
+     "name": "GOLD NODEBIRDS #53",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Crayon"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i52",
+   "meta": {
+     "name": "GOLD NODEBIRDS #54",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "De Niro"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Costa Rica"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i53",
+   "meta": {
+     "name": "GOLD NODEBIRDS #55",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Thug"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Beanie"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "B9"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i54",
+   "meta": {
+     "name": "GOLD NODEBIRDS #56",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Billy The Kid"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Dented Crown"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gun"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i55",
+   "meta": {
+     "name": "GOLD NODEBIRDS #57",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Anon"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Anon"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Anon"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i56",
+   "meta": {
+     "name": "GOLD NODEBIRDS #58",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Pacino"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i57",
+   "meta": {
+     "name": "GOLD NODEBIRDS #59",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "B9"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i58",
+   "meta": {
+     "name": "GOLD NODEBIRDS #60",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Patch"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Cuban"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i59",
+   "meta": {
+     "name": "GOLD NODEBIRDS #61",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "9"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Bloodshot"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Costa Rica"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i60",
+   "meta": {
+     "name": "GOLD NODEBIRDS #62",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Hannibal"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Hannibal"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i61",
+   "meta": {
+     "name": "GOLD NODEBIRDS #63",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Lashes"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "B9"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i62",
+   "meta": {
+     "name": "GOLD NODEBIRDS #64",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Cosa Nostra"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i63",
+   "meta": {
+     "name": "GOLD NODEBIRDS #65",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Inscription #2"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i64",
+   "meta": {
+     "name": "GOLD NODEBIRDS #66",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "9"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Bloodshot"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i65",
+   "meta": {
+     "name": "GOLD NODEBIRDS #67",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Crayon"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i66",
+   "meta": {
+     "name": "GOLD NODEBIRDS #68",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Inmate"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Ball and Chain"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i67",
+   "meta": {
+     "name": "GOLD NODEBIRDS #69",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Electra"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Laser"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i68",
+   "meta": {
+     "name": "GOLD NODEBIRDS #70",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Alex"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Top Hat"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "One Eye Lashes"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Baseball Bat"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i69",
+   "meta": {
+     "name": "GOLD NODEBIRDS #71",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Thing"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Skull"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Skull"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Skull"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i70",
+   "meta": {
+     "name": "GOLD NODEBIRDS #72",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Inscription #2"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Cigar"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i71",
+   "meta": {
+     "name": "GOLD NODEBIRDS #73",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gold Pyramid"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i72",
+   "meta": {
+     "name": "GOLD NODEBIRDS #74",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Frames"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i73",
+   "meta": {
+     "name": "GOLD NODEBIRDS #75",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Laser"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gold Pyramid"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i74",
+   "meta": {
+     "name": "GOLD NODEBIRDS #76",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Thug"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Beanie"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Cigarette"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i75",
+   "meta": {
+     "name": "GOLD NODEBIRDS #77",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Lashes"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Diamond Earing, Cigar"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i76",
+   "meta": {
+     "name": "GOLD NODEBIRDS #78",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Rune"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i77",
+   "meta": {
+     "name": "GOLD NODEBIRDS #79",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Frames"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Key Master"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i78",
+   "meta": {
+     "name": "GOLD NODEBIRDS #80",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "VR"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i79",
+   "meta": {
+     "name": "GOLD NODEBIRDS #81",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Rose"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i80",
+   "meta": {
+     "name": "GOLD NODEBIRDS #82",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Ourlaw"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Ball and Chain"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i81",
+   "meta": {
+     "name": "GOLD NODEBIRDS #83",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Frames"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i82",
+   "meta": {
+     "name": "GOLD NODEBIRDS #84",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Patch"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i83",
+   "meta": {
+     "name": "GOLD NODEBIRDS #85",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Re Evil"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Re Evil"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i84",
+   "meta": {
+     "name": "GOLD NODEBIRDS #86",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gold Pyramid, Cigar"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i85",
+   "meta": {
+     "name": "GOLD NODEBIRDS #87",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Patch"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Rose"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i86",
+   "meta": {
+     "name": "GOLD NODEBIRDS #88",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Billy The Kid"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Dented Crown"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gun"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i87",
+   "meta": {
+     "name": "GOLD NODEBIRDS #89",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Cuban"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i88",
+   "meta": {
+     "name": "GOLD NODEBIRDS #90",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Inscription #2"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i89",
+   "meta": {
+     "name": "GOLD NODEBIRDS #91",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Bloodshot"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gold Pyramid"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i90",
+   "meta": {
+     "name": "GOLD NODEBIRDS #92",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "VR"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i91",
+   "meta": {
+     "name": "GOLD NODEBIRDS #93",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Thing"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Skull"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Skull"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Skull"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i92",
+   "meta": {
+     "name": "GOLD NODEBIRDS #94",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Halo"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Cigar"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i93",
+   "meta": {
+     "name": "GOLD NODEBIRDS #95",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Inscription #2"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i94",
+   "meta": {
+     "name": "GOLD NODEBIRDS 96",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Frames"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i95",
+   "meta": {
+     "name": "GOLD NODEBIRDS #97",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Electra"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i96",
+   "meta": {
+     "name": "GOLD NODEBIRDS #98",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Sid Vicious"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Punk"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i97",
+   "meta": {
+     "name": "GOLD NODEBIRDS #99",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "9"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Bloodshot"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i98",
+   "meta": {
+     "name": "GOLD NODEBIRDS #100",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Matrix"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i99",
+   "meta": {
+     "name": "GOLD NODEBIRDS #101",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Halo"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i100",
+   "meta": {
+     "name": "GOLD NODEBIRDS #102",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Patch"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gold Pyramid"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i101",
+   "meta": {
+     "name": "GOLD NODEBIRDS #103",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "B9"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i102",
+   "meta": {
+     "name": "GOLD NODEBIRDS #104",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Laser"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i103",
+   "meta": {
+     "name": "GOLD NODEBIRDS #105",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Inscription #2"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Patch"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gold Earing"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i104",
+   "meta": {
+     "name": "GOLD NODEBIRDS #106",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "3D"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gold Pyramid"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i105",
+   "meta": {
+     "name": "GOLD NODEBIRDS #107",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Billy The Kid"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Dented Crown"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Cuban"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i106",
+   "meta": {
+     "name": "GOLD NODEBIRDS #108",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Rune"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i107",
+   "meta": {
+     "name": "GOLD NODEBIRDS #109",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "VR"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i108",
+   "meta": {
+     "name": "GOLD NODEBIRDS #110",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Bandana"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i109",
+   "meta": {
+     "name": "GOLD NODEBIRDS #111",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Laser"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i110",
+   "meta": {
+     "name": "GOLD NODEBIRDS #112",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Pacino"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i111",
+   "meta": {
+     "name": "GOLD NODEBIRDS #113",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i112",
+   "meta": {
+     "name": "GOLD NODEBIRDS #114",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Electra"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Bloodshot"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gold Pyramid"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i113",
+   "meta": {
+     "name": "GOLD NODEBIRDS #115",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Crayon"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i114",
+   "meta": {
+     "name": "GOLD NODEBIRDS #116",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Cuban"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i115",
+   "meta": {
+     "name": "GOLD NODEBIRDS #117",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Anon"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Anon"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Anon"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i116",
+   "meta": {
+     "name": "GOLD NODEBIRDS #118",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Electra"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Laser"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i117",
+   "meta": {
+     "name": "GOLD NODEBIRDS #119",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Patch"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Crayon"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i118",
+   "meta": {
+     "name": "GOLD NODEBIRDS #120",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Frames"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i119",
+   "meta": {
+     "name": "GOLD NODEBIRDS #121",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Bomb, B9"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i120",
+   "meta": {
+     "name": "GOLD NODEBIRDS #122",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Electra"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Bloodshot"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gold Pyramid"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i121",
+   "meta": {
+     "name": "GOLD NODEBIRDS #123",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Billy The Kid"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Dented Crown"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gun"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i122",
+   "meta": {
+     "name": "GOLD NODEBIRDS #124",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gold Pyramid, Cigar"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i123",
+   "meta": {
+     "name": "GOLD NODEBIRDS #125",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Electra"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Patch"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i124",
+   "meta": {
+     "name": "GOLD NODEBIRDS #126",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Sid Vicious"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Punk"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i125",
+   "meta": {
+     "name": "GOLD NODEBIRDS #127",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Bloodshot"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i126",
+   "meta": {
+     "name": "GOLD NODEBIRDS #128",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Pacino"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i127",
+   "meta": {
+     "name": "GOLD NODEBIRDS #129",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Rose"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i128",
+   "meta": {
+     "name": "GOLD NODEBIRDS #130",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Electra"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gold Pyramid"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i129",
+   "meta": {
+     "name": "GOLD NODEBIRDS #131",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Anon"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Anon"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Anon"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i130",
+   "meta": {
+     "name": "GOLD NODEBIRDS #132",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Mempool"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i131",
+   "meta": {
+     "name": "GOLD NODEBIRDS #133",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Bloodshot"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i132",
+   "meta": {
+     "name": "GOLD NODEBIRDS #134",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Frames"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i133",
+   "meta": {
+     "name": "GOLD NODEBIRDS #135",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Cigar"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i134",
+   "meta": {
+     "name": "GOLD NODEBIRDS #136",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Lashes"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Costa Rica"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i135",
+   "meta": {
+     "name": "GOLD NODEBIRDS #137",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Crayon"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i136",
+   "meta": {
+     "name": "GOLD NODEBIRDS #138",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Laser"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i137",
+   "meta": {
+     "name": "GOLD NODEBIRDS #139",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Mempool"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i138",
+   "meta": {
+     "name": "GOLD NODEBIRDS #140",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Crayon"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i139",
+   "meta": {
+     "name": "GOLD NODEBIRDS #141",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Magic Wand"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i140",
+   "meta": {
+     "name": "GOLD NODEBIRDS #142",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Gold Pyramid"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i141",
+   "meta": {
+     "name": "GOLD NODEBIRDS #143",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Bomb"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i142",
+   "meta": {
+     "name": "GOLD NODEBIRDS #144",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Inscription #2"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i143",
+   "meta": {
+     "name": "GOLD NODEBIRDS #145",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Electra"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Cigar"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i144",
+   "meta": {
+     "name": "GOLD NODEBIRDS #146",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "B9"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i145",
+   "meta": {
+     "name": "GOLD NODEBIRDS #147",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Charcoal"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Rune"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i146",
+   "meta": {
+     "name": "GOLD NODEBIRDS #148",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "3D"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i147",
+   "meta": {
+     "name": "GOLD NODEBIRDS #149",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Common"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Patch"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "Cigar"
+   }
+ ]
+ }
+},
+{
+   "id": "b9895c95224043d7cc11d41bb9e8183e7197a5f94b174a800258f73afd81f4b9i148",
+   "meta": {
+     "name": "GOLD NODEBIRDS #150",
+     "attributes": [
+     {
+     "trait_type": "Background",
+     "value": "Orange"  
+     },
+     {
+     "trait_type": "Character",
+     "value": "Bird"
+   },
+   {
+     "trait_type": "Head",
+     "value": "Inscription #2"
+   },
+   {
+     "trait_type": "Eyes",
+     "value": "Patch"
+   },
+   {
+     "trait_type": "Accessory",
+     "value": "none"
+   }
+ ]
+ }
+},
+ {
       "id": "b9a3f99b171649c66de270f73d44994591e4a3a8e15059a2bf53eede25c34bc8i0",
       "meta": {
         "name": "N O D E B I R D S #1",
@@ -2191,6 +6392,26 @@
     {
     "trait_type": "Eyes",
     "value": "lashes"
+  },
+  {
+    "trait_type": "Gear",
+    "value": "bitcoin"
+  }
+]
+}
+},
+{
+  "id": "bba830e42e6fd83f231c1ce05eecff6e17b9bfaa6a77c463557aa7f92a9cd396i0",
+  "meta": {
+    "name": "N O D E B I R D S #111",
+    "attributes": [
+    {
+    "trait_type": "Head",
+    "value": "common"
+    },
+    {
+    "trait_type": "Eyes",
+    "value": "common"
   },
   {
     "trait_type": "Gear",
