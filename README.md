@@ -1,13 +1,18 @@
 # Ordinals Collections Standards
 
-#### A place for creators &amp; builders to organize ordinal collections
+## Meta Data `meta.json`
 
-⚠️ This repository is now deprecated, please submit your collections to the creator dashboard for prompt listing
-
-- [Bitcoin Creator Dashboard](https://ordinalswallet.com/creator-dashboard)
-- [Doge Creator Dashboard](https://dpge.ordinalswallet.com/creator-dashboard)
-- [Bells Creator Dashboard](https://bells.ordinalswallet.com/creator-dashboard)
-
+```
+{
+  "description": "",
+  "discord_link": "",
+  "icon": "https://",
+  "name": "",
+  "slug": "", # all lowercase or underscore hyphen, consistent with the directory name
+  "twitter_link": "https://",
+  "website_link": "https://"
+}
+```
 
 ## Inscription Data `inscriptions.json`
 

@@ -2,13 +2,17 @@
   {
     "id": "6c5baf71167da6d20058c03312de4c8ea85849586ea6ebe3f80bfcbf15971408i0",
     "meta": {
+      "name": "Inscribed Satoshis #1",
       "attributes": [
-        {
-          "trait_type": "",
-          "value": ""
-        }
-      ],
-      "name": "Inscribed Satoshis #1"
+        { "trait_type": "Artist", "value": "Jamex" },
+        { "trait_type": "Subs", "value": "500k>" },
+        { "trait_type": "Inscription", "value": "#175354" },
+        { "trait_type": "Background", "value": "Green" },
+        { "trait_type": "Rareness", "value": "Rare Sats 1" },
+        { "trait_type": "Hair", "value": "Purple Mawhawk" },
+        { "trait_type": "Nakamoto_Sats", "value": "Rare_Nakamoto" },
+        { "trait_type": "Clothes", "value": "Formal Brown" }
+      ]
     }
   },
   {

@@ -66,7 +66,11 @@ pub fn list_slugs() -> Result<Vec<String>> {
 
             let dir_name = entry.path().to_str().unwrap().to_string();
 
-            let split: Vec<_> = dir_name.split("/").collect();
+            let mut split_char = "/";
+            if std::env::consts::OS == "windows" {
+                split_char = "\\";
+            }
+            let split: Vec<_> = dir_name.split(split_char).collect();
             Some(split[split.len() - 1].to_string())
         })
         .collect())
@@ -75,23 +79,40 @@ pub fn list_slugs() -> Result<Vec<String>> {
 pub fn write(collection: &Collection, inscriptions: &Vec<Inscription>) -> Result<()> {
     let new_collection = to_string_pretty(&to_value(collection)?).unwrap();
     let new_inscriptions = to_string_pretty(&to_value(inscriptions)?).unwrap();
-
-    std::fs::write(
-        format!("collections/{}/meta.json", collection.slug),
-        new_collection,
-    )
-    .unwrap();
-    std::fs::write(
-        format!("collections/{}/inscriptions.json", collection.slug),
-        new_inscriptions,
-    )
-    .unwrap();
+    if std::env::consts::OS == "windows" {
+        std::fs::write(
+            format!("collections\\{}\\meta.json", collection.slug),
+            new_collection,
+        )
+        .unwrap();
+        std::fs::write(
+            format!("collections\\{}\\inscriptions.json", collection.slug),
+            new_inscriptions,
+        )
+        .unwrap();
+    }else {
+        std::fs::write(
+            format!("collections/{}/meta.json", collection.slug),
+            new_collection,
+        )
+        .unwrap();
+        std::fs::write(
+            format!("collections/{}/inscriptions.json", collection.slug),
+            new_inscriptions,
+        )
+        .unwrap();
+    }
+   
+  
 
     Ok(())
 }
 
 pub fn read(slug: &String) -> Result<Collection> {
-    let path = format!("collections/{}/meta.json", slug);
+    let mut path = format!("collections/{}/meta.json", slug);
+    if std::env::consts::OS == "windows" {
+        path = format!("collections\\{}\\meta.json", slug);
+    }
     let data = match std::fs::read_to_string(&path) {
         Ok(v) => v,
         Err(e) => anyhow::bail!("[{}] {} {}", slug, e, path),
@@ -115,7 +136,10 @@ pub fn read(slug: &String) -> Result<Collection> {
 }
 
 pub fn read_inscriptions(slug: &String) -> Result<Vec<Inscription>> {
-    let path = format!("collections/{}/inscriptions.json", slug);
+    let mut path = format!("collections/{}/inscriptions.json", slug);
+    if std::env::consts::OS == "windows" {
+        path = format!("collections\\{}\\inscriptions.json", slug);
+    }
     let data = match std::fs::read_to_string(&path) {
         Ok(v) => v,
         Err(e) => anyhow::bail!("[{}] {} {}", slug, e, path),
