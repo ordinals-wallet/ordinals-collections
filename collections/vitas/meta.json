@@ -1,0 +1,9 @@
+{
+  "name": "VITAS",
+  "description": "VITAS is a BRC-20 token deployed with self-mint capability. Deployment JSON: {\"p\":\"brc-20\",\"op\":\"deploy\",\"tick\":\"vitas\",\"lim\":\"10000000000000000\",\"max\":\"0\",\"self_mint\":\"true\"}",
+  "inscription_icon": "8e5e4a784f25169f5eab3867670bf619bb7d44e3e28609b99a8d6f1192e17e1fi0",
+  "supply": "unlimited",
+  "slug": "vitas",
+  "twitter_link": "https://twitter.com/vitas_brc20",
+  "website_link": "https://unisat.io/brc20/vitas"
+}
